@@ -1,0 +1,3650 @@
+[
+  {
+    "index": 0,
+    "source": "President of the People's Republic of China: Jiang Zemin",
+    "reference": "中华人民共和国主席：江泽民",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国主席：江泽民"
+  },
+  {
+    "index": 1,
+    "source": "March 31, 1993",
+    "reference": "1993年3月31日",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1993年3月31日"
+  },
+  {
+    "index": 2,
+    "source": "Basic Law of the Macao Special Administrative Region of the People's Republic of China",
+    "reference": "中华人民共和国澳门特别行政区基本法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国澳门特别行政区基本法"
+  },
+  {
+    "index": 3,
+    "source": "Contents",
+    "reference": "目录",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目录"
+  },
+  {
+    "index": 4,
+    "source": "Preamble",
+    "reference": "前言",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "序言"
+  },
+  {
+    "index": 5,
+    "source": "Chapter I General Principles",
+    "reference": "第一章 总则",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一章 总则"
+  },
+  {
+    "index": 6,
+    "source": "Chapter II Relationship Between the Central Authorities and the Macao Special Administrative Region",
+    "reference": "第二章 中央和澳门特别行政区的关系",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二章 中央和澳门特别行政区的关系"
+  },
+  {
+    "index": 7,
+    "source": "Chapter III Fundamental Rights and Duties of the Residents",
+    "reference": "第三章 居民的基本权利和义务",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三章 居民的基本权利和义务"
+  },
+  {
+    "index": 8,
+    "source": "Chapter IV Political Structure",
+    "reference": "第四章 政治体制",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四章 政治结构"
+  },
+  {
+    "index": 9,
+    "source": "Section 1 The Chief Executive",
+    "reference": "第一节 行政长官",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一节 行政长官"
+  },
+  {
+    "index": 10,
+    "source": "Section 2 The Executive Authorities",
+    "reference": "第二节 行政机关",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二条 行政机关"
+  },
+  {
+    "index": 11,
+    "source": "Section 3 The Legislature",
+    "reference": "第三节 立法机关",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三条 立法机关"
+  },
+  {
+    "index": 12,
+    "source": "Section 4 The Judiciary",
+    "reference": "第四节 司法机关",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四节 司法部门"
+  },
+  {
+    "index": 13,
+    "source": "Section 5 Municipal Organs",
+    "reference": "第五节 市政机构",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五条 市政机关"
+  },
+  {
+    "index": 14,
+    "source": "Section 6 Public Servants",
+    "reference": "第六节 公务人员",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第6条 公职人员"
+  },
+  {
+    "index": 15,
+    "source": "Section 7 Swearing Allegiance",
+    "reference": "第七节 宣誓效忠",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第7节 宣誓效忠"
+  },
+  {
+    "index": 16,
+    "source": "Chapter V Economy",
+    "reference": "第五章 经济",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五章 经济"
+  },
+  {
+    "index": 17,
+    "source": "Chapter VI Cultural and Social Affairs",
+    "reference": "第六章 文化和社会事务",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六章 文化与社会事务"
+  },
+  {
+    "index": 18,
+    "source": "Chapter VII External Affairs",
+    "reference": "第七章 对外事务",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七章 对外事务"
+  },
+  {
+    "index": 19,
+    "source": "Chapter VIII Interpretation and Amendment of the Basic Law",
+    "reference": "第八章 本法的解释和修改",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基本法第八章：解释与修改"
+  },
+  {
+    "index": 20,
+    "source": "Chapter IX Supplementary Provisions",
+    "reference": "第九章 附则",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九章 附则"
+  },
+  {
+    "index": 21,
+    "source": "Annex I Method for the Selection of the Chief Executive of the Macao Special Administrative Region",
+    "reference": "一：澳门特别行政区行政长官的产生办法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区行政长官产生办法附件一"
+  },
+  {
+    "index": 22,
+    "source": "Annex II Method for the Formation of the Legislative Council of the Macao Special Administrative Region",
+    "reference": "二：澳门特别行政区立法会的产生办法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区立法会产生办法附件二"
+  },
+  {
+    "index": 23,
+    "source": "Annex III National Laws Be Applied in the Macao Special Administrative Region",
+    "reference": "三：在澳门特别行政区实施的全国性法律",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "附件三在澳门特别行政区适用的全国性法律"
+  },
+  {
+    "index": 24,
+    "source": "Preamble",
+    "reference": "序言",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "序言"
+  },
+  {
+    "index": 25,
+    "source": "Macao, including the Macao Peninsula, Taipa Island and Coloane Island, has been part of the territory of China since ancient times; it was gradually occupied by Portugal after the mid-16th century.",
+    "reference": "澳门，包括澳门半岛、凼仔岛和路环岛，自古以来就是中国的领土，十六世纪中叶以后被葡萄牙逐步占领。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门，包括澳门半岛、氹仔岛和路环岛，自古以来就是中国领土的一部分；它在16世纪中叶以后逐渐被葡萄牙占据。"
+  },
+  {
+    "index": 26,
+    "source": "On April 13, 1987, the Chinese and Portuguese Governments signed the Joint Declaration on the Question of Macao, affirming that the Government of the People's Republic of China will resume the exercise of sovereignty over Macao with effect from December 20, 1999, thus fulfilling the long-cherished common aspiration of the Chinese people for the recovery of Macao.",
+    "reference": "一九八七年四月十三日，中葡两国政府签署了关于澳门问题的联合声明，确认中华人民共和国政府于一九九九年十二月二十日恢复对澳门行使主权，从而实现了长期以来中国人民收回澳门的共同愿望。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1987年4月13日，中国和葡萄牙两国政府签署了关于澳门问题的联合声明，确认中华人民共和国政府将于1999年12月20日起恢复对澳门行使主权，从而实现了中国人民收复澳门的长期共同愿望。"
+  },
+  {
+    "index": 27,
+    "source": "Upholding national unity and territorial integrity, contributing to social stability and economic development, and taking account of its history and realities, the People's Republic of China has decided that, upon China's resumption of the exercise of sovereignty over Macao, a Macao Special Administrative Region will be established in accordance with the provisions of Article 31 of the Constitution of the People's Republic of China, and that under the principle of \"one country, two systems,\" the socialist system and policies will not be practiced in Macao.",
+    "reference": "为了维护国家的统一和领土完整，有利于澳门的社会稳定和经济发展，考虑到澳门的历史和现实情况，国家决定，在对澳门恢复行使主权时，根据中华人民共和国宪法第三十一条的规定，设立澳门特别行政区，并按照“一个国家，两种制度”的方针，不在澳门实行社会主义的制度和政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国，为维护国家统一和领土完整，有利于社会稳定和经济发展，并考虑到澳门的历史和现实情况，决定在中华人民共和国恢复对澳门行使主权时，根据中华人民共和国宪法第三十一条的规定，设立澳门特别行政区。在“一个国家，两种制度”的原则下，澳门不实行社会主义的制度和政策。"
+  },
+  {
+    "index": 28,
+    "source": "The basic policies of the People's Republic of China regarding Macao have been elaborated by the Chinese Government in the Sino-Portuguese Joint Declaration.",
+    "reference": "国家对澳门的基本方针政策，已由中国政府在中葡联合声明中予以阐明。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国政府在中葡联合声明中阐述了中华人民共和国对澳门的基本政策。"
+  },
+  {
+    "index": 29,
+    "source": "In accordance with the Constitution of the People's Republic of China, the National People's Congress hereby enacts the Basic Law of the Macao Special Administrative Region of the People's Republic of China, prescribing the systems to be practiced in the Macao Special Administrative Region, in order to ensure the implementation of the basic policies of the People's Republic of China regarding Macao.",
+    "reference": "根据中华人民共和国宪法，全国人民代表大会特制定中华人民共和国澳门特别行政区基本法，规定澳门特别行政区实行的制度，以保障国家对澳门的基本方针政策的实施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "根据中华人民共和国宪法，全国人民代表大会特制定中华人民共和国澳门特别行政区基本法，规定在澳门特别行政区实行的制度，以保障中华人民共和国对澳门的基本方针政策的实施。"
+  },
+  {
+    "index": 30,
+    "source": "Chapter I General Principles",
+    "reference": "第一章 总则",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一章 总则"
+  },
+  {
+    "index": 31,
+    "source": "Article 1 The Macao Special Administrative Region is an inalienable part of the People's Republic of China.",
+    "reference": "第一条 澳门特别行政区是中华人民共和国不可分离的部分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一条 澳门特别行政区是中华人民共和国不可分离的部分。"
+  },
+  {
+    "index": 32,
+    "source": "Article 2 The National People's Congress authorizes the Macao Special Administrative Region to exercise a high degree of autonomy and enjoy executive, legislative and independent judicial power, including that of final adjudication, in accordance with the provisions of this Law.",
+    "reference": "第二条 中华人民共和国全国人民代表大会授权澳门特别行政区依照本法的规定实行高度自治，享有行政管理权、立法权、独立的司法权和终审权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二条 全国人民代表大会授权澳门特别行政区依照本法的规定实行高度自治，享有行政管理权、立法权、独立的司法权和终审权。"
+  },
+  {
+    "index": 33,
+    "source": "Article 3 The executive authorities and legislature of the Macao Special Administrative Region shall be composed of permanent residents of Macao in accordance with the relevant provisions of this Law.",
+    "reference": "第三条 澳门特别行政区的行政机关和立法机关由澳门特别行政区永久性居民依照本法有关规定组成。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的行政机关和立法机关由澳门永久性居民依照本法有关规定组成。"
+  },
+  {
+    "index": 34,
+    "source": "Article 4 The Macao Special Administrative Region shall safeguard the rights and freedoms of the residents of the Macao Special Administrative Region and of other persons in the Region in accordance with law.",
+    "reference": "第四条 澳门特别行政区依法保障澳门特别行政区居民和其他人的权利和自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四条 澳门特别行政区依法保障澳门特别行政区居民和其他人在澳门特别行政区的权利和自由。"
+  },
+  {
+    "index": 35,
+    "source": "Article 5 The socialist system and policies shall not be practiced in the Macao Special Administrative Region, and the previous capitalist system and way of life shall remain unchanged for 50 years.",
+    "reference": "第五条 澳门特别行政区不实行社会主义的制度和政策，保持原有的资本主义制度和生活方式，五十年不变。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五条 澳门特别行政区不实行社会主义的制度和政策，原有的资本主义制度和生活方式，五十年不变。"
+  },
+  {
+    "index": 36,
+    "source": "Article 6 The Macao Special Administrative Region shall protect the right of private ownership of property in accordance with law.",
+    "reference": "第六条 澳门特别行政区以法律保护私有财产权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六条 澳门特别行政区依法保护私有财产权。"
+  },
+  {
+    "index": 37,
+    "source": "Article 7 The land and natural resources within the Macao Special Administrative Region shall be State property, except for the private land recognized as such according to the laws in force before the establishment of the Macao Special Administrative Region. The Government of the Macao Special Administrative Region shall be responsible for their management, use and development and for their lease or grant to individuals or legal persons for use or development. The revenues derived therefrom shall be exclusively at the disposal of the government of the Region.",
+    "reference": "第七条 澳门特别行政区境内的土地和自然资源，除在澳门特别行政区成立前已依法确认的私有土地外，属于国家所有，由澳门特别行政区政府负责管理、使用、开发、出租或批给个人、法人使用或开发，其收入全部归澳门特别行政区政府支配。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七条 澳门特别行政区境内的土地和自然资源属于国家所有，但1999年12月19日以前已依法确认的私人土地除外。澳门特别行政区政府负责管理、使用、开发、出租或批出土地和自然资源，用于使用或开发。由此取得的收入全部归澳门特别行政区政府支配。"
+  },
+  {
+    "index": 38,
+    "source": "Article 8 The laws, decrees, administrative regulations and other normative acts previously in force in Macao shall be maintained, except for any that contravenes this Law, or subject to any amendment by the legislature or other relevant organs of the Macao Special Administrative Region in accordance with legal procedures.",
+    "reference": "第八条 澳门原有的法律、法令、行政法规和其他规范性文件，除同本法相抵触或经澳门特别行政区的立法机关或其他有关机关依照法定程序作出修改者外，予以保留。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八条 澳门原有法律、法令、行政法规和其他规范性文件，除同本法相抵触或者经澳门特别行政区立法机关或其他有关机关依照法定程序作出修改者外，予以保留。"
+  },
+  {
+    "index": 39,
+    "source": "Article 9 In addition to the Chinese language, Portuguese may also be used as an official language by the executive authorities, legislature and judiciary of the Macao Special Administrative Region.",
+    "reference": "第九条 澳门特别行政区的行政机关、立法机关和司法机关，除使用中文外，还可使用葡文，葡文也是正式语文。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九条 除中文外，葡萄牙语也可作为澳门特别行政区行政机关、立法机关和司法机关的正式语文。"
+  },
+  {
+    "index": 40,
+    "source": "Article 10 Apart from displaying the national flag and national emblem of the People's Republic of China, the Macao Special Administrative Region may also use a regional flag and regional emblem.",
+    "reference": "第十条 澳门特别行政区除悬挂和使用中华人民共和国国旗和国徽外，还可悬挂和使用澳门特别行政区区旗和区徽。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十条 除悬挂中华人民共和国国旗和国徽外，澳门特别行政区也可使用区旗和区徽。"
+  },
+  {
+    "index": 41,
+    "source": "The regional flag of the Macao Special Administrative Region is a green flag with five stars, lotus flower, bridge and sea water.",
+    "reference": "澳门特别行政区的区旗是绘有五星、莲花、大桥、海水图案的绿色旗帜。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的区旗是一面绿色的旗帜，上面有五颗星星、莲花、桥梁和海水。"
+  },
+  {
+    "index": 42,
+    "source": "The regional emblem of the Macao Special Administrative Region is composed of five stars, lotus flower, bridge and sea water encircled by the words \"Macao Special Administrative Region of the People's Republic of China\" in Chinese and \"MACAO\" in Portuguese.",
+    "reference": "澳门特别行政区的区徽，中间是五星、莲花、大桥、海水，周围写有“中华人民共和国澳门特别行政区”和葡文“澳门”。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區區徽，由五星、蓮花、大橋和海水組成，周圍環繞著中文的「中華人民共和國澳門特別行政區」和葡萄牙文的「MACAO」字樣。"
+  },
+  {
+    "index": 43,
+    "source": "Article 11 In accordance with Article 31 of the Constitution of the People's Republic of China, the systems and policies practiced in the Macao Special Administrative Region, including the social and economic systems, the system for safeguarding the fundamental rights and freedoms of its residents, the executive, legislative and judicial systems, and the relevant policies, shall be based on the provisions of this Law.",
+    "reference": "第十一条 根据中华人民共和国宪法第三十一条，澳门特别行政区的制度和政策，包括社会、经济制度，有关保障居民的基本权利和自由的制度，行政管理、立法和司法方面的制度，以及有关政策，均以本法的规定为依据。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十一条 澳门特别行政区实行的制度和政策，包括社会、经济制度，保障居民的基本权利和自由的制度，行政、立法、司法制度，以及有关政策，均以本法为依据。根据中华人民共和国宪法第三十一条的规定。"
+  },
+  {
+    "index": 44,
+    "source": "No law, decree, administrative regulations and normative acts of the Macao Special Administrative Region may contravene this Law.",
+    "reference": "澳门特别行政区的任何法律、法令、行政法规和其他规范性文件均不得同本法相抵触。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的任何法律、法令、行政法规和规范性文件均不得与本法相抵触。"
+  },
+  {
+    "index": 45,
+    "source": "Chapter II Relationship Between the Central Authorities and the Macao Special Administrative Region",
+    "reference": "第二章 中央和澳门特别行政区的关系",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二章 中央与澳门特别行政区的关系"
+  },
+  {
+    "index": 46,
+    "source": "Article 12 The Macao Special Administrative Region shall be a local administrative region of the People's Republic of China, which shall enjoy a high degree of autonomy and come directly under the Central People's Government.",
+    "reference": "第十二条 澳门特别行政区是中华人民共和国的一个享有高度自治权的地方行政区域，直辖于中央人民政府。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十二条 澳门特别行政区是中华人民共和国的一个享有高度自治权的地方行政区域，直辖于中央人民政府。"
+  },
+  {
+    "index": 47,
+    "source": "Article 13 The Central People's Government shall be responsible for the foreign affairs relating to the Macao Special Administrative Region.",
+    "reference": "第十三条 中央人民政府负责管理与澳门特别行政区有关的外交事务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十三条 中央人民政府负责管理与澳门特别行政区有关的外交事务。"
+  },
+  {
+    "index": 48,
+    "source": "The Ministry of Foreign Affairs of the People's Republic of China shall establish an office in Macao to deal with foreign affairs.",
+    "reference": "中华人民共和国外交部在澳门设立机构处理外交事务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国外交部将在澳门设立机构，处理涉外事务。"
+  },
+  {
+    "index": 49,
+    "source": "The Central People's Government authorizes the Macao Special Administrative Region to conduct relevant external affairs on its own in accordance with this Law.",
+    "reference": "中央人民政府授权澳门特别行政区依照本法自行处理有关的对外事务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中央人民政府授权澳门特别行政区依照本法自行处理有关的对外事务。"
+  },
+  {
+    "index": 50,
+    "source": "Article 14 The Central People's Government shall be responsible for the defense of the Macao Special Administrative Region.",
+    "reference": "第十四条 中央人民政府负责管理澳门特别行政区的防务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十四条 中央人民政府负责管理澳门特别行政区的防务。"
+  },
+  {
+    "index": 51,
+    "source": "The Government of the Macao Special Administrative Region shall be responsible for the maintenance of public order in the Region.",
+    "reference": "澳门特别行政区政府负责维持澳门特别行政区的社会治安。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府負責維持本地區的公共秩序。"
+  },
+  {
+    "index": 52,
+    "source": "Article 15 The Central People's Government shall appoint or remove the Chief Executive, the principal officials of the government and the Procurator-General of the Macao Special Administrative Region in accordance with the relevant provisions of this Law.",
+    "reference": "第十五条 中央人民政府依照本法有关规定任免澳门特别行政区行政长官、政府主要官员和检察长。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十五条 中央人民政府依照本法有关规定任免澳门特别行政区行政长官、政府主要官员和检察长。"
+  },
+  {
+    "index": 53,
+    "source": "Article 16 The Macao Special Administrative Region shall be vested with executive power. It shall, on its own, conduct the administrative affairs of the Region in accordance with the relevant provisions of this Law.",
+    "reference": "第十六条 澳门特别行政区享有行政管理权，依照本法有关规定自行处理澳门特别行政区的行政事务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十六条 澳门特别行政区享有行政管理权。依照本法有关规定自行处理澳门特别行政区的行政事务。"
+  },
+  {
+    "index": 54,
+    "source": "Article 17 The Macao Special Administrative Region shall be vested with legislative power.",
+    "reference": "第十七条 澳门特别行政区享有立法权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十七条 澳门特别行政区享有立法权。"
+  },
+  {
+    "index": 55,
+    "source": "Laws enacted by the legislature of the Macao Special Administrative Region must be reported to the Standing Committee of the National People's Congress for the record. The reporting for record shall not affect the entry into force of such laws.",
+    "reference": "澳门特别行政区的立法机关制定的法律须报全国人民代表大会常务委员会备案。备案不影响该法律的生效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区立法机关制定的法律须报全国人民代表大会常务委员会备案。备案不影响该法律的生效。"
+  },
+  {
+    "index": 56,
+    "source": "If the Standing Committee of the National People's Congress, after consulting the Committee for the Basic Law of the Macao Special Administrative Region under it, considers that any law enacted by the legislature of the Region is not in conformity with the provisions of this Law regarding affairs within the responsibility of the Central Authorities or regarding the relationship between the Central Authorities and the Region, the Standing Committee may return the law in question but shall not amend it. Any law returned by the Standing Committee of the National People's Congress shall immediately be invalidated. This invalidation shall not have retroactive effect, unless otherwise provided for in the laws of the Region.",
+    "reference": "全国人民代表大会常务委员会在征询其所属的澳门特别行政区基本法委员会的意见后，如认为澳门特别行政区立法机关制定的任何法律不符合本法关于中央管理的事务及中央和澳门特别行政区关系的条款，可将有关法律发回，但不作修改。经全国人民代表大会常务委员会发回的法律立即失效。该法律的失效，除澳门特别行政区的法律另有规定外，无溯及力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果全国人民代表大会常务委员会在征询其所属的澳门特别行政区基本法委员会的意见后，认为澳门特别行政区立法机关制定的任何法律不符合本法关于中央管理的事务或中央与澳门特别行政区关系的规定，全国人民代表大会常务委员会可以发回该法律，但不作修改。全国人民代表大会常务委员会发回的任何法律应立即失效。除非澳门特别行政区法律另有规定，否则该失效不具有追溯力。"
+  },
+  {
+    "index": 57,
+    "source": "Article 18 The laws in force in the Macao Special Administrative Region shall be this Law, the laws previously in force in Macao as provided for in Article 8 of this Law, and the laws enacted by the legislature of the Region.",
+    "reference": "第十八条 在澳门特别行政区实行的法律为本法以及本法第八条规定的澳门原有法律和澳门特别行政区立法机关制定的法律。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十八条 在澳门特别行政区实行的法律为本法、第八条规定的澳门原有法律以及澳门特别行政区立法机关制定的法律。"
+  },
+  {
+    "index": 58,
+    "source": "National laws shall not be applied in the Macao Special Administrative Region except for those listed in Annex III to this Law. The laws listed therein shall be applied locally by way of promulgation or legislation by the Region.",
+    "reference": "全国性法律除列于本法附件三者外，不在澳门特别行政区实施。凡列于本法附件三的法律，由澳门特别行政区在当地公布或立法实施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "除列于本法附件三的法律外，全国性法律不在澳门特别行政区实施。附件三所列法律由澳门特别行政区在当地通过公布或立法的方式实施。"
+  },
+  {
+    "index": 59,
+    "source": "The Standing Committee of the National People's Congress may add to or delete from the list of laws in Annex III after consulting its Committee for the Basic Law of the Macao Special Administrative Region and the government of the Region. Laws listed in Annex III to this Law shall be confined to those relating to defense and foreign affairs as well as other matters outside the limits of the autonomy of the Region as specified by this Law.",
+    "reference": "全国人民代表大会常务委员会在征询其所属的澳门特别行政区基本法委员会和澳门特别行政区政府的意见后，可对列于本法附件三的法律作出增减。列入附件三的法律应限于有关国防、外交和其他依照本法规定不属于澳门特别行政区自治范围的法律。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "全国人民代表大会常务委员会在征询其澳门特别行政区基本法委员会和澳门特别行政区政府的意见后，可增加或删减附件三的法律。列于本法附件三的法律限于有关国防、外交和其他按本法规定不属于澳门特别行政区自治范围的事项的法律。"
+  },
+  {
+    "index": 60,
+    "source": "In the event that the Standing Committee of the National People's Congress decides to declare a state of war or, by reason of turmoil within the Macao Special Administrative Region which endangers national unity or security and is beyond the control of the government of the Region, decides that the Region is in a state of emergency, the Central People's Government may issue an order applying the relevant national laws in the Region.",
+    "reference": "在全国人民代表大会常务委员会决定宣布战争状态或因澳门特别行政区内发生澳门特别行政区政府不能控制的危及国家统一或安全的动乱而决定澳门特别行政区进入紧急状态时，中央人民政府可发布命令将有关全国性法律在澳门特别行政区实施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果全国人民代表大会常务委员会决定宣布战争状态，或者因澳门特别行政区发生危及国家统一或者安全的动乱而特别行政区政府不能控制的，决定澳门特别行政区进入紧急状态，中央人民政府可以发布命令，在澳门特别行政区实施全国性法律。"
+  },
+  {
+    "index": 61,
+    "source": "Article 19 The Macao Special Administrative Region shall he vested with independent judicial power, including that of final adjudication.",
+    "reference": "第十九条 澳门特别行政区享有独立的司法权和终审权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十九条 澳门特别行政区享有独立的司法权，包括终审权。"
+  },
+  {
+    "index": 62,
+    "source": "The courts of the Macao Special Administrative Region shall have jurisdiction over all cases in the Region, except that the restrictions on their jurisdiction imposed by the legal system and principles previously in force in Macao shall be maintained.",
+    "reference": "澳门特别行政区法院除继续保持澳门原有法律制度和原则对法院审判权所作的限制外，对澳门特别行政区所有的案件均有审判权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區的法院對澳門特別行政區內的所有案件均有管轄權，但原澳門法律制度和原則對其管轄權的限制應予保留。"
+  },
+  {
+    "index": 63,
+    "source": "The courts of the Macao Special Administrative Region shall have no jurisdiction over acts of state such as defense and foreign affairs. The courts of the Region shall obtain a certificate from the Chief Executive on questions of fact concerning acts of state such as defense and foreign affairs whenever such questions arise in the adjudication of cases. This certificate shall be binding on the courts. Before issuing such a certificate, the Chief Executive shall obtain a certifying document from the Central People's Government.",
+    "reference": "澳门特别行政区法院对国防、外交等国家行为无管辖权。澳门特别行政区法院在审理案件中遇有涉及国防、外交等国家行为的事实问题，应取得行政长官就该等问题发出的证明文件，上述文件对法院有约束力。行政长官在发出证明文件前，须取得中央人民政府的证明书。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區的法院對國防、外交等國家行為無管轄權。 澳門特別行政區法院在審理案件中遇有涉及國防、外交等國家行為的事實問題，應向行政長官取得證明書，該證明書對法院有約束力。 行政長官在發出證明書前，須取得中央人民政府的證明文件。"
+  },
+  {
+    "index": 64,
+    "source": "Article 20 The Macao Special Administrative Region may enjoy other powers granted to it by the National People's Congress, the Standing Committee of the National People's Congress or the Central People's Government.",
+    "reference": "第二十条 澳门特别行政区可享有全国人民代表大会、全国人民代表大会常务委员会或中央人民政府授予的其他权力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十条 澳门特别行政区可享有全国人民代表大会、全国人民代表大会常务委员会或中央人民政府授予的其他权力。"
+  },
+  {
+    "index": 65,
+    "source": "Article 21 Chinese citizens who are residents of the Macao Special Administrative Region shall be entitled to participate in the management of state affairs according to law.",
+    "reference": "第二十一条 澳门特别行政区居民中的中国公民依法参与国家事务的管理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十一条 居住于澳门特别行政区的中国公民依照法律有权参与国家事务的管理。"
+  },
+  {
+    "index": 66,
+    "source": "In accordance with the assigned number of seats and the selection method specified by the National People's Congress, the Chinese citizens among the residents of the Macao Special Administrative Region shall locally elect deputies of the Region to the National People's Congress to participate in the work of the highest organ of state power.",
+    "reference": "根据全国人民代表大会确定的代表名额和代表产生办法，由澳门特别行政区居民中的中国公民在澳门选出澳门特别行政区的全国人民代表大会代表，参加最高国家权力机关的工作。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的居民中的中国公民，依照全国人民代表大会确定的名额和选举办法，选举产生澳门特别行政区出席全国人民代表大会的代表，参加最高国家权力机关的工作。"
+  },
+  {
+    "index": 67,
+    "source": "Article 22 No department of the Central People's Government and no province, autonomous region, or municipality directly under the Central Government may interfere in the affairs which the Macao Special Administrative Region administers on its own in accordance with this Law.",
+    "reference": "第二十二条 中央人民政府所属各部门、各省、自治区、直辖市均不得干预澳门特别行政区依照本法自行管理的事务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十二条 中央人民政府所属各部门、各省、自治区、直辖市均不得干预澳门特别行政区依照本法自行管理的事务。"
+  },
+  {
+    "index": 68,
+    "source": "If there is a need for departments of the Central Government, or for provinces, autonomous regions, or municipalities directly under the Central Government, to set up offices in the Macao Special Administrative Region, they must obtain the consent of the government of the Region and the approval of the Central People's Government.",
+    "reference": "中央各部门、各省、自治区、直辖市如需在澳门特别行政区设立机构，须征得澳门特别行政区政府同意并经中央人民政府批准。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中央人民政府各部门、各省、自治区、直辖市如需在澳门特别行政区设立机构，须经澳门特别行政区政府同意，并报中央人民政府批准。"
+  },
+  {
+    "index": 69,
+    "source": "All offices set up in the Macao Special Administrative Region by departments of the Central Government, or by provinces, autonomous regions, or municipalities directly under the Central Government, and the personnel of these offices shall abide by the laws of the Region.",
+    "reference": "中央各部门、各省、自治区、直辖市在澳门特别行政区设立的一切机构及其人员均须遵守澳门特别行政区的法律。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中央人民政府各部门、各省、自治区、直辖市在澳门特别行政区设立的机构及其人员均须遵守澳门特别行政区的法律。"
+  },
+  {
+    "index": 70,
+    "source": "For entry into the Macao Special Administrative Region, people from other provinces, autonomous regions or municipalities directly under the Central Government must apply for approval. Among them, the number of persons who enter the Region for the purpose of settlement shall be determined by the competent authorities of the Central People's Government after consulting the government of the Region.",
+    "reference": "各省、自治区、直辖市的人进入澳门特别行政区须办理批准手续，其中进入澳门特别行政区定居的人数由中央人民政府主管部门征求澳门特别行政区政府的意见后确定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "进入澳门特别行政区，其他省、自治区或直辖市的人员必须申请批准。其中，以定居为目的进入该区域的人数，应由中央人民政府主管机关在征询该区域政府的意见后决定。"
+  },
+  {
+    "index": 71,
+    "source": "The Macao Special Administrative Region may establish an office in Beijing.",
+    "reference": "澳门特别行政区可在北京设立办事机构。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区可以在北京设立办事处。"
+  },
+  {
+    "index": 72,
+    "source": "Article 23 The Macao Special Administrative Region shall enact laws on its own to prohibit any act of treason, secession, sedition, subversion against the Central People's Government, or theft of state secrets, to prohibit foreign political organizations or bodies from conducting political activities in the Region, and to prohibit political organizations or bodies of the Region from establishing ties with foreign political organizations or bodies.",
+    "reference": "第二十三条 澳门特别行政区应自行立法禁止任何叛国、分裂国家、煽动叛乱、颠覆中央人民政府及窃取国家机密的行为，禁止外国的政治性组织或团体在澳门特别行政区进行政治活动，禁止澳门特别行政区的政治性组织或团体与外国的政治性组织或团体建立联系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十三条 澳门特别行政区应自行立法禁止任何叛国、分裂国家、煽动叛乱、颠覆中央人民政府的行为；禁止窃取国家机密的行为；禁止外国的政治性组织或团体在澳门特别行政区进行政治活动；禁止澳门特别行政区的政治性组织或团体与外国的政治性组织或团体建立联系。"
+  },
+  {
+    "index": 73,
+    "source": "Chapter III Fundamental Rights and Duties of the Residents",
+    "reference": "第三章 居民的基本权利和义务",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三章 居民的基本权利和义务"
+  },
+  {
+    "index": 74,
+    "source": "Article 24 Residents of the Macao Special Administrative Region (\"Macao residents\") shall include permanent residents and non-permanent residents.",
+    "reference": "第二十四条 澳门特别行政区居民，简称澳门居民，包括永久性居民和非永久性居民。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十四条 澳门特别行政区居民（“澳门居民”）包括永久性居民和非永久性居民。"
+  },
+  {
+    "index": 75,
+    "source": "The permanent residents of the Macao Special Administrative Region shall be:",
+    "reference": "澳门特别行政区永久性居民为：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区永久性居民为："
+  },
+  {
+    "index": 76,
+    "source": "(1) Chinese citizens born in Macao before or after the establishment of the Macao Special Administrative Region and their children of Chinese nationality born outside Macao;",
+    "reference": "（一）在澳门特别行政区成立以前或以后在澳门出生的中国公民及其在澳门以外所生的中国籍子女；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（一）在澳門特別行政區成立前後在澳門出生的中國籍居民及其具有中國國籍的在澳門以外所生的子女；"
+  },
+  {
+    "index": 77,
+    "source": "(2) Chinese citizens who have habitually resided in Macao for a continuous period of not less than seven years before or after the establishment of the Macao Special Administrative Region and their children of Chinese nationality born outside Macao after they have become permanent residents;",
+    "reference": "（二）在澳门特别行政区成立以前或以后在澳门通常居住连续七年以上的中国公民及在其成为永久性居民后在澳门以外所生的中国籍子女；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区成立前后，已在澳门连续居住不少于七年的中国公民，以及已成为永久性居民后在澳门以外出生的具有中国国籍的子女；"
+  },
+  {
+    "index": 78,
+    "source": "(3) The Portuguese who were born in Macao and have taken Macao as their place of permanent residence before or after the establishment of the Macao Special Administrative Region;",
+    "reference": "（三）在澳门特别行政区成立以前或以后在澳门出生并以澳门为永久居住地的葡萄牙人；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（三）在澳门出生，并在澳门特别行政区成立前后以澳门为永久居住地的葡萄牙人；"
+  },
+  {
+    "index": 79,
+    "source": "(4) The Portuguese who have habitually resided in Macao for a continuous period of not less than 7 years and have taken Macao as their place of permanent residence before or after the establishment of the Macao Special Administrative Region;",
+    "reference": "（四）在澳门特别行政区成立以前或以后在澳门通常居住连续七年以上并以澳门为永久居住地的葡萄牙人；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区成立前后，在澳门通常居住连续七年以上，并以澳门为永久居住地的葡萄牙人；"
+  },
+  {
+    "index": 80,
+    "source": "(5) Other persons who have habitually resided in Macao for a continuous period of not less than 7 years and have taken Macao as their place of permanent residence before or after the establishment of the Macao Special Administrative Region;",
+    "reference": "（五）在澳门特别行政区成立以前或以后在澳门通常居住连续七年以上并以澳门为永久居住地的其他人；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区成立前后，在澳门通常居住连续不少于7年并将澳门作为永久居住地点的其他人；"
+  },
+  {
+    "index": 81,
+    "source": "(6) Persons under 18 years of age born in Macao of those residents listed in Category (5) before or after the establishment of the Macao Special Administrative Region.",
+    "reference": "（六）第（五）项所列永久性居民在澳门特别行政区成立以前或以后在澳门出生的未满十八周岁的子女。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区成立前后，在澳门出生的，属于第(5)类所列居民的18岁以下人士。"
+  },
+  {
+    "index": 82,
+    "source": "The above-mentioned residents shall have the right of abode in the Macao Special Administrative Region and shall be qualified to obtain permanent identity cards.",
+    "reference": "以上居民在澳门特别行政区享有居留权并有资格领取澳门特别行政区永久性居民身份证。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "上述居民享有在澳门特别行政区的居留权，并有资格领取永久性居民身份证。"
+  },
+  {
+    "index": 83,
+    "source": "The non-permanent residents of the Macao Special Administrative Region shall be persons who are qualified to obtain Macao identity cards in accordance with the laws of the Region but have no right of abode.",
+    "reference": "澳门特别行政区非永久性居民为：有资格依照澳门特别行政区法律领取澳门居民身份证，但没有居留权的人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的非永久性居民为依照澳门特别行政区法律有资格取得澳门居民身份证但没有居留权的人士。"
+  },
+  {
+    "index": 84,
+    "source": "Article 25 All Macao residents shall be equal before the law, and shall be free from discrimination, irrespective of their nationality, descent, sex, race, language, religion, political persuasion or ideological belief, educational level, economic status or social conditions.",
+    "reference": "第二十五条 澳门居民在法律面前一律平等，不因国籍、血统、种族、性别、语言、宗教、政治或思想信仰、文化程度、经济状况或社会条件而受到歧视。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十五条 澳门居民在法律面前一律平等，不因国籍、血统、性别、种族、语言、宗教、政治或思想信仰、文化程度、经济状况或社会条件而受歧视。"
+  },
+  {
+    "index": 85,
+    "source": "Article 26 Permanent residents of the Macao Special Administrative Region shall have the right to vote and the right to stand for election in accordance with law.",
+    "reference": "第二十六条 澳门特别行政区永久性居民依法享有选举权和被选举权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区永久性居民依法享有选举权和被选举权。"
+  },
+  {
+    "index": 86,
+    "source": "Article 27 Macao residents shall have freedom of speech, of the press and of publication; freedom of association, of assembly, of procession and of demonstration; and the right and freedom to form and join trade unions, and to strike.",
+    "reference": "第二十七条 澳门居民享有言论、新闻、出版的自由，结社、集会、游行、示威的自由，组织和参加工会、罢工的权利和自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十七条 澳门居民享有言论、新闻、出版的自由，结社、集会、游行、示威的自由，组织和参加工会的权利和自由，以及罢工的权利。"
+  },
+  {
+    "index": 87,
+    "source": "Article 28 The freedom of the person of Macao residents shall be in violable.",
+    "reference": "第二十八条 澳门居民的人身自由不受侵犯。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十八条 澳门居民的人身自由不受侵犯。"
+  },
+  {
+    "index": 88,
+    "source": "No Macao resident shall be subjected to arbitrary or unlawful arrest, detention or imprisonment. In case of arbitrary or unlawful detention or imprisonment, Macao residents have the right to apply to the court for the issuance of a writ of habeas corpus.",
+    "reference": "澳门居民不受任意或非法的逮捕、拘留、监禁。对任意或非法的拘留、监禁，居民有权向法院申请颁发人身保护令。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "任何澳门居民不受任意或非法的逮捕、拘留或监禁。如遇任意或非法的拘留或监禁，澳门居民有权向法院申请人身保护令。"
+  },
+  {
+    "index": 89,
+    "source": "Unlawful search of the body of any resident or deprivation or restriction of the freedom of the person shall be prohibited.",
+    "reference": "禁止非法搜查居民的身体、剥夺或者限制居民的人身自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "禁止非法搜查任何居民的身体，禁止剥夺或限制人身自由。"
+  },
+  {
+    "index": 90,
+    "source": "Torture or inhuman treatment of any resident shall be prohibited.",
+    "reference": "禁止对居民施行酷刑或予以非人道的对待。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "禁止对任何居民施加酷刑或不人道待遇。"
+  },
+  {
+    "index": 91,
+    "source": "Article 29 Macao residents shall not be punished by law, unless their acts constitute a crime and they shall be punished for it as expressly prescribed by law at the time.",
+    "reference": "第二十九条 澳门居民除其行为依照当时法律明文规定为犯罪和应受惩处外，不受刑罚处罚。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十九条 澳门居民除其行为构成犯罪并于犯罪时已明确规定须受法律处罚者外，不受法律处罚。"
+  },
+  {
+    "index": 92,
+    "source": "When charged with criminal offenses, Macao residents shall enjoy the right to an early court trial and shall be presumed innocent before convicted.",
+    "reference": "澳门居民在被指控犯罪时，享有尽早接受法院审判的权利，在法院判罪之前均假定无罪。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "被指控犯有刑事罪行时，澳门居民应享有尽早接受法院审判的权利，并且在被判有罪前应被推定为无罪。"
+  },
+  {
+    "index": 93,
+    "source": "Article 30 The human dignity of Macao residents shall be inviolable. Humiliation, slander and false accusation against residents in any form shall be prohibited.",
+    "reference": "第三十条 澳门居民的人格尊严不受侵犯。禁止用任何方法对居民进行侮辱、诽谤和诬告陷害。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十條　澳門居民的人格尊嚴不受侵犯。禁止用任何形式對居民進行侮辱、誹謗和誣告。"
+  },
+  {
+    "index": 94,
+    "source": "Macao residents shall enjoy the right to personal reputation and the privacy of their private and family life.",
+    "reference": "澳门居民享有个人的名誉权、私人生活和家庭生活的隐私权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门居民享有个人名誉和私人及家庭生活隐私的权利。"
+  },
+  {
+    "index": 95,
+    "source": "Article 31 The homes and other premises of Macao residents shall be inviolable. Arbitrary or unlawful search of, or intrusion into, a resident's home or other premises shall be prohibited.",
+    "reference": "第三十一条 澳门居民的住宅和其他房屋不受侵犯。禁止任意或非法搜查、侵入居民的住宅和其他房屋。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十一条 澳门居民的住宅和其他房屋不受侵犯。禁止任意或非法搜查、侵入居民的住宅或其他房屋。"
+  },
+  {
+    "index": 96,
+    "source": "Article 32 The freedom and privacy of communication of Macao residents shall be protected by law. No department or individual may, on any grounds, infringe upon the freedom and privacy of communication of residents except that the relevant authorities may inspect communication in accordance with the provisions of the law to meet the needs of public security or of investigation into criminal offenses.",
+    "reference": "第三十二条 澳门居民的通讯自由和通讯秘密受法律保护。除因公共安全和追查刑事犯罪的需要，由有关机关依照法律规定对通讯进行检查外，任何部门或个人不得以任何理由侵犯居民的通讯自由和通讯秘密。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十二条 澳门居民的通讯自由和通讯秘密受法律保护。除因公共安全和追查刑事犯罪的需要，由有关机关依照法律规定进行检查外，任何部门和个人不得以任何理由侵犯居民的通讯自由和通讯秘密。"
+  },
+  {
+    "index": 97,
+    "source": "Article 33 Macao residents shall have freedom of movement within the Macao Special Administrative Region and freedom of emigration to other countries and regions. They shall have freedom to travel and to enter or leave the Region and shall have the right to obtain travel documents in accordance with law. Unless restrained by law, holders of valid travel documents shall be free to leave the Region without special authorization.",
+    "reference": "第三十三条 澳门居民有在澳门特别行政区境内迁徙的自由，有移居其他国家和地区的自由。澳门居民有旅行和出入境的自由，有依照法律取得各种旅行证件的权利。有效旅行证件持有人，除非受到法律制止，可自由离开澳门特别行政区，无需特别批准。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門居民有在澳門特別行政區境內遷徙的自由，有移居其他國家和地區的自由。他們有旅行和出入境的自由，並有權依法取得旅行證件。除受法律約束外，持有有效旅行證件者可自由離開澳門特別行政區，無須特別批准。"
+  },
+  {
+    "index": 98,
+    "source": "Article 34 Macao residents shall have freedom of conscience.",
+    "reference": "第三十四条 澳门居民有信仰的自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十四条 澳门居民享有良心自由。"
+  },
+  {
+    "index": 99,
+    "source": "Macao residents shall have freedom of religious belief and freedom to preach and to conduct and participate in religious activities in public.",
+    "reference": "澳门居民有宗教信仰的自由，有公开传教和举行、参加宗教活动的自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门居民享有宗教信仰自由、传教自由以及公开进行和参与宗教活动的自由。"
+  },
+  {
+    "index": 100,
+    "source": "Article 35 Macao residents shall have freedom of choice of occupation and work.",
+    "reference": "第三十五条 澳门居民有选择职业和工作的自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十五条 澳门居民有选择职业和工作的自由。"
+  },
+  {
+    "index": 101,
+    "source": "Article 36 Macao residents shall have the right to resort to law and to have access to the courts, to lawyers' help for protection of their lawful rights and interests, and to judicial remedies.",
+    "reference": "第三十六条 澳门居民有权诉诸法律，向法院提起诉讼，得到律师的帮助以保护自已的合法权益，以及获得司法补救。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十六条 澳门居民有权诉诸法律，向法院提起诉讼，获得律师的帮助以保护其合法权益，并获得司法补救。"
+  },
+  {
+    "index": 102,
+    "source": "Macao residents shall have the right to institute legal proceedings in the courts against the acts of the executive authorities and their personnel.",
+    "reference": "澳门居民有权对行政部门和行政人员的行为向法院提起诉讼。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门居民有权就行政机关及其人员的行为向法院提起诉讼。"
+  },
+  {
+    "index": 103,
+    "source": "Article 37 Macao residents shall have freedom to engage in education, academic research, literary and artistic creation, and other cultural activities.",
+    "reference": "第三十七条 澳门居民有从事教育、学术研究、文学艺术创作和其他文化活动的自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十七条　澳门居民享有从事教育、学术研究、文学艺术创作和其他文化活动的自由。"
+  },
+  {
+    "index": 104,
+    "source": "Article 38 The freedom of marriage of Macao residents and their right to form and raise a family freely shall be protected by law.",
+    "reference": "第三十八条 澳门居民的婚姻自由、成立家庭和自愿生育的权利受法律保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十八条 澳门居民的婚姻自由和自由组织家庭及生育的权利受法律保护。"
+  },
+  {
+    "index": 105,
+    "source": "The legitimate rights and interests of women shall be protected by the Macao Special Administrative Region.",
+    "reference": "妇女的合法权益受澳门特别行政区的保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区保障妇女的合法权益。"
+  },
+  {
+    "index": 106,
+    "source": "The minors, the aged and the disabled shall be taken care of and protected by the Macao Special Administrative Region.",
+    "reference": "未成年人、老年人和残疾人受澳门特别行政区的关怀和保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "未成年人、老年人和残疾人应受到澳门特别行政区的关顾和保护。"
+  },
+  {
+    "index": 107,
+    "source": "Article 39 Macao residents shall have the right to social welfare in accordance with law. The welfare benefits and retirement security of the labor force shall be protected by law.",
+    "reference": "第三十九条 澳门居民有依法享受社会福利的权利。劳工的福利待遇和退休保障受法律保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门居民依法享有社会福利的权利，劳动者的福利待遇和退休保障受法律保护。"
+  },
+  {
+    "index": 108,
+    "source": "Article 40 The provisions of International Covenant on Civil and Political Rights, International Covenant on Economic, Social and Cultural Rights, and international labor conventions as applied to Macao shall remain in force and shall be implemented through the laws of the Macao Special Administrative Region.",
+    "reference": "第四十条 《公民权利和政治权利国际公约》、《经济、社会与文化权利的国际公约》和国际劳工公约适用于澳门的有关规定继续有效，通过澳门特别行政区的法律予以实施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十条 《公民权利和政治权利国际公约》、《经济、社会及文化权利国际公约》和国际劳工公约适用于澳门的有关规定继续有效，并由澳门特别行政区的法律实施。"
+  },
+  {
+    "index": 109,
+    "source": "The rights and freedoms enjoyed by Macao residents shall not be restricted unless as prescribed by law. Such restrictions shall not contravene the provisions of the first paragraph of this Article.",
+    "reference": "澳门居民享有的权利和自由，除依法规定外不得限制，此种限制不得与本条第一款规定抵触。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "除非法律另有规定，不得限制澳门居民享有的权利和自由。此类限制不得违反本条第一款的规定。"
+  },
+  {
+    "index": 110,
+    "source": "Article 41 Macao residents shall enjoy the other rights and freedoms safeguarded by the laws of the Macao Special Administrative Region.",
+    "reference": "第四十一条 澳门居民享有澳门特别行政区法律保障的其他权利和自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十一条 澳门居民享有澳门特别行政区法律保障的其他权利和自由。"
+  },
+  {
+    "index": 111,
+    "source": "Article 42 The interests of the residents of Portuguese descent in Macao shall be protected by the Macao Special Administrative Region in accordance with law, and their customs and cultural traditions shall be respected.",
+    "reference": "第四十二条 在澳门的葡萄牙后裔居民的利益依法受澳门特别行政区的保护，他们的习俗和文化传统应受尊重。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十二条 澳门特别行政区依法保护在澳门的葡萄牙后裔居民的利益，并尊重他们的习惯和文化传统。"
+  },
+  {
+    "index": 112,
+    "source": "Article 43 Persons in the Macao Special Administrative Region other than Macao residents shall, in accordance with law, enjoy the rights and freedoms of Macao residents prescribed in this Chapter.",
+    "reference": "第四十三条 在澳门特别行政区境内的澳门居民以外的其他人，依法享有本章规定的澳门居民的权利和自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十三条 在澳门特别行政区的非澳门居民，依照法律规定，享有本章规定的澳门居民的权利和自由。"
+  },
+  {
+    "index": 113,
+    "source": "Article 44 Macao residents and other persons in Macao shall have the obligation to abide by the laws in force in the Macao Special Administrative Region.",
+    "reference": "第四十四条 澳门居民和在澳门的其他人有遵守澳门特别行政区实行的法律的义务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十四条 澳门居民和在澳门的其他人有义务遵守在澳门特别行政区施行的法律。"
+  },
+  {
+    "index": 114,
+    "source": "Chapter IV Political Structure",
+    "reference": "第四章 政治体制",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四章 政治结构"
+  },
+  {
+    "index": 115,
+    "source": "Section 1 The Chief Executive",
+    "reference": "第一节 行政长官",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一章 行政长官"
+  },
+  {
+    "index": 116,
+    "source": "Article 45 The Chief Executive of the Macao Special Administrative Region shall be the head of the Macao Special Administrative Region and shall represent the Region.",
+    "reference": "第四十五条 澳门特别行政区行政长官是澳门特别行政区的首长，代表澳门特别行政区。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十五条 澳门特别行政区行政长官是澳门特别行政区的首长，代表澳门特别行政区。"
+  },
+  {
+    "index": 117,
+    "source": "The Chief Executive of the Macao Special Administrative Region shall be accountable to the Central People's Government and the Macao Special Administrative Region in accordance with the provisions of this Law.",
+    "reference": "澳门特别行政区行政长官依照本法规定对中央人民政府和澳门特别行政区负责。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区行政长官依照本法规定对中央人民政府和澳门特别行政区负责。"
+  },
+  {
+    "index": 118,
+    "source": "Article 46 The Chief Executive of the Macao Special Administrative Region shall be a Chinese citizen of not less than 40 years of age who is a permanent resident of the Region and has habitually resided in Macao for a continuous period of not less than 20 years.",
+    "reference": "第四十六条 澳门特别行政区行政长官由年满四十周岁，在澳门通常居住连续满二十年的澳门特别行政区永久性居民中的中国公民担任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十六条 澳门特别行政区行政长官由年满四十周岁，在澳门通常居住连续满二十年的澳门永久性居民中的中国公民担任。"
+  },
+  {
+    "index": 119,
+    "source": "Article 47 The Chief Executive of the Macao Special Administrative Region shall be selected by election or through consultations held locally and be appointed by the Central People's Government.",
+    "reference": "第四十七条 澳门特别行政区行政长官在当地通过选举或协商产生，由中央人民政府任命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十七条 澳门特别行政区行政长官由在当地通过选举或协商产生，由中央人民政府任命。"
+  },
+  {
+    "index": 120,
+    "source": "The specific method for selecting the Chief Executive is prescribed in Annex I \"Method for the Selection of the Chief Executive of the Macao Special Administrative Region.''",
+    "reference": "行政长官的产生办法由附件一《澳门特别行政区行政长官的产生办法》规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "行政长官的产生办法由附件一《澳门特别行政区行政长官的产生办法》规定。"
+  },
+  {
+    "index": 121,
+    "source": "Article 48 The term of office of the Chief Executive of the Macao Special Administrative Region shall be five years. He or she may serve for not more than two consecutive terms.",
+    "reference": "第四十八条 澳门特别行政区行政长官任期五年，可连任一次。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十八条 澳门特别行政区行政长官每届任期五年，可连任一次。"
+  },
+  {
+    "index": 122,
+    "source": "Article 49 The Chief Executive of the Macao Special Administrative Region, during his or her term of office, shall have no right of abode in any foreign country and shall not engage in any activities for his or her personal gains. The Chief Executive, on assuming office, shall declare his or her assets to the President of the Court of Final Appeal of the Macao Special Administrative Region. This declaration shall be put on record.",
+    "reference": "第四十九条 澳门特别行政区行政长官在任职期内不得具有外国居留权，不得从事私人赢利活动。行政长官就任时应向澳门特别行政区终审法院院长申报财产，记录在案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四十九条 澳门特别行政区行政长官在任职期间不得具有外国居留权，不得从事任何以个人得益为目的的活动。行政长官就职时应向澳门特别行政区终审法院院长申报财产，该项申报须予登记。"
+  },
+  {
+    "index": 123,
+    "source": "Article 50 The Chief Executive of the Macao Special Administrative Region shall exercise the following powers and functions:",
+    "reference": "第五十条 澳门特别行政区行政长官行使下列职权：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十条 澳门特别行政区行政长官行使下列职权："
+  },
+  {
+    "index": 124,
+    "source": "(1) To lead the government of the Region;",
+    "reference": "（一）领导澳门特别行政区政府；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（一）领导本地区的政府；"
+  },
+  {
+    "index": 125,
+    "source": "(2) To be responsible for the implementation of this Law and other laws which, in accordance with this Law, apply in the Macao Special Administrative Region;",
+    "reference": "（二）负责执行本法和依照本法适用于澳门特别行政区的其他法律；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（二）负责执行本法和澳门特别行政区依照本法实行的其他法律；"
+  },
+  {
+    "index": 126,
+    "source": "(3) To sign bills passed by the Legislative Council and to promulgate laws;",
+    "reference": "（三）签署立法会通过的法案，公布法律；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "签署立法会通过的法案，并颁布法律；"
+  },
+  {
+    "index": 127,
+    "source": "To sign budgets passed by the Legislative Council and report the budgets and final accounts to the Central People's Government for the record;",
+    "reference": "签署立法会通过的财政预算案，将财政预算、决算报中央人民政府备案；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "签署立法会通过的财政预算案，并将财政预算案和决算报告报中央人民政府备案；"
+  },
+  {
+    "index": 128,
+    "source": "(4) To decide on government policies and to issue executive orders;",
+    "reference": "（四）决定政府政策，发布行政命令；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "(4) 决定政府政策和发布行政命令；"
+  },
+  {
+    "index": 129,
+    "source": "(5) To formulate the administrative regulations and promulgate them for implementation;",
+    "reference": "（五）制定行政法规并颁布执行；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（五）制定行政法规，公布施行；"
+  },
+  {
+    "index": 130,
+    "source": "(6) To nominate and to report to the Central People's Government for appointment of the following principal officials: Secretaries of Departments, Commissioner Against Corruption, Director of Audit, the leading members of the Police and the Customs and Excise; and to recommend to the Central People's Government the removal of the above-mentioned officials;",
+    "reference": "（六）提名并报请中央人民政府任命下列主要官员：各司司长、廉政专员、审计长、警察部门主要负责人和海关主要负责人；建议中央人民政府免除上述官员职务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "提名并报请中央人民政府任命下列主要官员：各司司长、廉政专员、审计署署长、警务部门和海关部门的主要负责人；并向中央人民政府建议免去上述官员的职务。"
+  },
+  {
+    "index": 131,
+    "source": "(7) To appoint part of the members of the Legislative Council;",
+    "reference": "（七）委任部分立法会议员；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（七）委任立法会的部分议员；"
+  },
+  {
+    "index": 132,
+    "source": "(8) To appoint or remove members of the Executive Council;",
+    "reference": "（八）任免行政会委员；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（八）委任或免除行政会议成员；"
+  },
+  {
+    "index": 133,
+    "source": "(9) To appoint or remove presidents and judges of the courts at all levels and procurators in accordance with legal procedures;",
+    "reference": "（九）依照法定程序任免各级法院院长和法官，任免检察官；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（九）依照法律程序任免各级人民法院院长和法官、人民检察院检察长；"
+  },
+  {
+    "index": 134,
+    "source": "(10) To nominate and report to the Central People's Government for appointment of the Procurator-General and recommend to the Central People's Government the removal of the Procurator-General in accordance with legal procedures;",
+    "reference": "（十）依照法定程序提名并报请中央人民政府任命检察长，建议中央人民政府免除检察长的职务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十）提名并报请中央人民政府任命检察长，依照法律程序建议中央人民政府免去检察长职务；"
+  },
+  {
+    "index": 135,
+    "source": "(11) To appoint or remove holders of public office in accordance with legal procedures;",
+    "reference": "（十一）依照法定程序任免公职人员；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十一）依照法定程序任免公职人员；"
+  },
+  {
+    "index": 136,
+    "source": "(12) To implement the directives issued by the Central People's Government in respect of the relevant matters provided for in this Law;",
+    "reference": "（十二）执行中央人民政府就本法规定的有关事务发出的指令；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十二）执行中央人民政府就本法规定的有关事项发出的指令；"
+  },
+  {
+    "index": 137,
+    "source": "(13) To conduct, on behalf of the Government of the Macao Special Administrative Region, external affairs and other affairs as authorized by the Central Authorities;",
+    "reference": "（十三）代表澳门特别行政区政府处理中央授权的对外事务和其他事务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十三）代表澳门特别行政区政府处理对外事务和中央授权的其他事务；"
+  },
+  {
+    "index": 138,
+    "source": "(14) To approve the introduction of motions regarding revenues or expenditure to the Legislative Council;",
+    "reference": "（十四）批准向立法会提出有关财政收入或支出的动议；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十四）批准向立法会提出有关收入或支出的议案；"
+  },
+  {
+    "index": 139,
+    "source": "(15) To decide, in the light of security and vital public interests, whether government officials or other personnel in charge of government affairs should testify or give evidence before the Legislative Council or its committees;",
+    "reference": "（十五）根据国家和澳门特别行政区的安全或重大公共利益的需要，决定政府官员或其他负责政府公务的人员是否向立法会或其所属的委员会作证和提供证据；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十五）基于安全和重要的公共利益，决定政府官员或其他负责政府事务的人员是否应在立法会或其委员会作证或提供证据；"
+  },
+  {
+    "index": 140,
+    "source": "(16) To confer medals and titles of honor of the Macao Special Administrative Region in accordance with law;",
+    "reference": "（十六）依法颁授澳门特别行政区奖章和荣誉称号；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十六）依照法律规定授予澳门特别行政区勋章、奖章和荣誉称号；"
+  },
+  {
+    "index": 141,
+    "source": "(17) To pardon persons convicted of criminal offenses or commute their penalties in accordance with law; and",
+    "reference": "（十七）依法赦免或减轻刑事罪犯的刑罚；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "(十七) 依法赦免罪犯或减轻其刑罚；及"
+  },
+  {
+    "index": 142,
+    "source": "(18) To handle petitions and complaints.",
+    "reference": "（十八）处理请愿、申诉事项。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（十八）处理申诉和投诉。"
+  },
+  {
+    "index": 143,
+    "source": "Article 51 If the Chief Executive of the Macao Special Administrative Region considers that a bill passed by the Legislative Council is not compatible with the overall interests of the Region, he or she may give his or her reasons in writing and return it to the Legislative Council within 90 days for reconsideration. If the Legislative Council passes the original bill again by not less than a two-thirds majority of all the members, the Chief Executive must sign and promulgate it within 30 days or act in accordance with the provisions of Article 52 of this Law.",
+    "reference": "第五十一条 澳门特别行政区行政长官如认为立法会通过的法案不符合澳门特别行政区的整体利益，可在九十日内提出书面理由并将法案发回立法会重议。立法会如以不少于全体议员三分之二多数再次通过原案，行政长官必须在三十日内签署公布或依照本法第五十二条的规定处理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十一条 澳门特别行政区行政长官如认为立法会通过的法案不符合澳门特别行政区的整体利益，可将理由书面提出，于九十日内退回立法会重议。如立法会以全体议员三分之二多数再次通过原案，行政长官必须于三十日内签署公布或依照本法第五十二条的规定处理。"
+  },
+  {
+    "index": 144,
+    "source": "Article 52 The Chief Executive of the Macao Special Administrative Region may dissolve the Legislative Council under any of the following circumstances:",
+    "reference": "第五十二条 澳门特别行政区行政长官遇有下列情况之一时，可解散立法会：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十二条 澳门特别行政区行政长官在下列情况下，可解散立法会："
+  },
+  {
+    "index": 145,
+    "source": "(1) The Chief Executive refuses to sign a bill passed the second time by the Legislative Council; and",
+    "reference": "（一）行政长官拒绝签署立法会再次通过的法案；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "行政长官拒绝签署立法会第二次通过的法案；并且"
+  },
+  {
+    "index": 146,
+    "source": "(2) The Legislative Council refuses to pass a budget introduced by the government or any other bills which he or she considers concern the overall interests of the Region, and after consultations, consensus still cannot be reached.",
+    "reference": "（二）立法会拒绝通过政府提出的财政预算案或行政长官认为关系到澳门特别行政区整体利益的法案，经协商仍不能取得一致意见。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "立法会拒绝通过政府提出的预算案或他/她认为涉及该区域整体利益的任何其他法案，并且在磋商后仍然无法达成共识。"
+  },
+  {
+    "index": 147,
+    "source": "Before dissolving the Legislative Council, the Chief Executive must consult the Executive Council and he or she shall explain the reason for it to the public.",
+    "reference": "行政长官在解散立法会前，须征询行政会的意见，解散时应向公众说明理由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在解散立法会之前，行政长官必须咨询行政会议，并且他或她应该向公众解释原因。"
+  },
+  {
+    "index": 148,
+    "source": "The Chief Executive may dissolve the Legislative Council only once in each term of his or her office.",
+    "reference": "行政长官在其一任任期内只能解散立法会一次。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "行政长官在其任期内只能解散立法会一次。"
+  },
+  {
+    "index": 149,
+    "source": "Article 53 If the Legislative Council of the Macao Special Administrative Region fails to pass the budget introduced by the government, the Chief Executive may approve provisional short-term appropriations according to the level of expenditure of the previous fiscal year.",
+    "reference": "第五十三条 澳门特别行政区行政长官在立法会未通过政府提出的财政预算案时，可按上一财政年度的开支标准批准临时短期拨款。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十三條 澳門特別行政區立法會否決政府提出的預算案，行政長官可批准臨時短期撥款，其數額不得超過上一個財政年度預算的開支水平。"
+  },
+  {
+    "index": 150,
+    "source": "Article 54 The Chief Executive of the Macao Special Administrative Region must resign under any of the following circumstances:",
+    "reference": "第五十四条 澳门特别行政区行政长官如有下列情况之一者必须辞职：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十四条 澳门特别行政区行政长官在下列情况下必须辞职："
+  },
+  {
+    "index": 151,
+    "source": "(1) When he or she loses the ability to discharge his or her duties as a result of serious illness or other reasons;",
+    "reference": "（一）因严重疾病或其他原因无力履行职务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（一）因重病或其他原因丧失履行职务能力的；"
+  },
+  {
+    "index": 152,
+    "source": "(2) When, after the Legislative Council is dissolved because he or she twice refuses to sign a bill passed by it, the new Legislative Council again passes by a two-thirds majority of all the members the original bill in dispute, but he or she still refuses to sign it within 30 days; and",
+    "reference": "（二）因两次拒绝签署立法会通过的法案而解散立法会，重选的立法会仍以全体议员三分之二多数通过所争议的原案，而行政长官在三十日内拒绝签署；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（二）立法会因其两次拒绝签署经其通过的法案而解散后，新一届立法会再次以全体议员三分之二多数通过先前争议的原法案，但其仍然在30天内拒绝签署；且"
+  },
+  {
+    "index": 153,
+    "source": "(3) When, after the Legislative Council is dissolved because it refuses to pass a budget or any other bill concerning the overall interests of the Macao Special Administrative Region, the newly elected Legislative Council still refuses to pass the original bill in dispute.",
+    "reference": "（三）因立法会拒绝通过财政预算案或关系到澳门特别行政区整体利益的法案而解散立法会，重选的立法会仍拒绝通过所争议的原案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（三）立法会因拒绝通过财政预算案或任何其他关乎澳门特别行政区整体利益的法案而被解散后，重选产生的立法会仍然拒绝通过原争议的法案。"
+  },
+  {
+    "index": 154,
+    "source": "Article 55 If the Chief Executive of the Macao Special Administrative Region is not able to discharge his or her duties for a short period, such duties shall temporarily be assumed by the secretaries of the departments in the order of precedence which shall be stipulated by law.",
+    "reference": "第五十五条 澳门特别行政区行政长官短期不能履行职务时，由各司司长按各司的排列顺序临时代理其职务。各司的排列顺序由法律规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十五条 澳门特别行政区行政长官短期不能履行职务时，由各司长按法律规定的顺序临时代理其职务。"
+  },
+  {
+    "index": 155,
+    "source": "In the event that the office of Chief Executive becomes vacant, a new Chief Executive shall be selected within 120 days in accordance with the provisions of Article 47 of this Law. During the period of vacancy, his or her duties shall be assumed according to the provisions of paragraph 1 of this Article and the choice of the acting Chief Executive shall be reported to the Central People's Government for approval. The acting Chief Executive shall abide by the provisions of Article 49 of this Law.",
+    "reference": "行政长官出缺时，应在一百二十日内依照本法第四十七条的规定产生新的行政长官。行政长官出缺期间的职务代理，依照本条第一款规定办理，并报中央人民政府批准。代理行政长官应遵守本法第四十九条的规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "行政长官职位缺位时，应在一百二十日内依照本法第四十七条的规定选出新的行政长官。在缺位期间，其职责依照本条第一款的规定履行，并须将署理行政长官的人选报中央人民政府批准。署理行政长官须遵守本法第四十九条的规定。"
+  },
+  {
+    "index": 156,
+    "source": "Article 56 The Executive Council of the Macao Special Administrative Region shall be an organ for assisting the Chief Executive in policy-making.",
+    "reference": "第五十六条 澳门特别行政区行政会是协助行政长官决策的机构。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十六条 澳门特别行政区行政会是协助行政长官决策的机构。"
+  },
+  {
+    "index": 157,
+    "source": "Article 57 Members of the Executive Council of the Macao Special Administrative Region shall be appointed by the Chief Executive from among the principal officials of the executive authorities, members of the Legislative Council and public figures. Their appointment or removal shall be decided by the Chief Executive. The term of office of members of the Executive Council shall not extend beyond the expiry of the term of office of the Chief Executive who appoints them. Members of the original Executive Council shall remain in office until the new Chief Executive is selected.",
+    "reference": "第五十七条 澳门特别行政区行政会的委员由行政长官从政府主要官员、立法会议员和社会人士中委任，其任免由行政长官决定。行政会委员的任期不超过委任他的行政长官的任期，但在新的行政长官就任前，原行政会委员暂时留任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十七条 澳门特别行政区行政会的委员由行政长官从行政机关的主要官员、立法会议员和社会人士中委任，其任免由行政长官决定。行政会委员的任期不得超过委任他的行政长官的任期。原行政会委员在新行政长官选出前继续留任。"
+  },
+  {
+    "index": 158,
+    "source": "Members of the Executive Council of the Macao Special Administrative Region shall be Chinese citizens who are permanent residents of the Region.",
+    "reference": "澳门特别行政区行政会委员由澳门特别行政区永久性居民中的中国公民担任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區行政會委員由澳門特別行政區永久性居民中的中國公民擔任。"
+  },
+  {
+    "index": 159,
+    "source": "The Executive Council shall be composed of seven to eleven persons. The Chief Executive may, as he or she deems necessary, invite other persons concerned to sit in on meetings of the Council.",
+    "reference": "行政会委员的人数为七至十一人，行政长官认为必要时可邀请有关人士列席行政会会议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "行政会议由七至十一人组成。行政长官可根据需要，邀请其他有关人士列席会议。"
+  },
+  {
+    "index": 160,
+    "source": "Article 58 The Executive Council of the Macao Special Administrative Region shall be presided over by the Chief Executive. The meeting of the Executive Council shall be held at least once each month. Except for the appointment, removal and disciplining of officials and the adoption of measures in emergencies, the Chief Executive shall consult the Executive Council before making important policy decisions, introducing bills to the Legislative Council, formulating administrative regulations, or dissolving the Legislative Council.",
+    "reference": "第五十八条 澳门特别行政区行政会由行政长官主持。行政会的会议每月至少举行一次。行政长官在作出重要决策、向立法会提交法案、制定行政法规和解散立法会前，须征询行政会的意见，但人事任免、纪律制裁和紧急情况下采取的措施除外。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十八条 澳门特别行政区行政会由行政长官主持。行政会会议每月至少举行一次。除委任、免职和纪律处分官员以及采取紧急措施外，行政长官在作出重要政策决定、向立法会提交法案、制定行政法规或者解散立法会前，须征询行政会的意见。"
+  },
+  {
+    "index": 161,
+    "source": "If the Chief Executive does not accept a majority opinion of the Executive Council, he or she shall put the specific reasons on record.",
+    "reference": "行政长官如不采纳行政会多数委员的意见，应将具体理由记录在案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果行政长官不采纳行政会议的多数意见，他或她应将具体理由记录在案。"
+  },
+  {
+    "index": 162,
+    "source": "Article 59 A Commission Against Corruption shall be established in the Macao Special Administrative Region. It shall function independently and its Commissioner shall be accountable to the Chief Executive.",
+    "reference": "第五十九条 澳门特别行政区设立廉政公署，独立工作。廉政专员对行政长官负责。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五十九条 澳门特别行政区设立廉政公署，独立工作，廉政专员对行政长官负责。"
+  },
+  {
+    "index": 163,
+    "source": "Article 60 A Commission of Audit shall be established in the Macao Special Administrative Region. It shall function independently and its Director shall be accountable to the Chief Executive.",
+    "reference": "第六十条 澳门特别行政区设立审计署，独立工作。审计长对行政长官负责。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十條　澳門特別行政區設立審計署，獨立工作，審計長對行政長官負責。"
+  },
+  {
+    "index": 164,
+    "source": "Section 2 The Executive Authorities",
+    "reference": "第二节 行政机关",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二节 行政机关"
+  },
+  {
+    "index": 165,
+    "source": "Article 61 The Government of the Macao Special Administrative Region shall be the executive authorities of the Region.",
+    "reference": "第六十一条 澳门特别行政区政府是澳门特别行政区的行政机关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十一條 澳門特別行政區政府是該地區的行政機關。"
+  },
+  {
+    "index": 166,
+    "source": "Article 62 The head of the Government of the Macao Special Administrative Region shall be the Chief Executive of the Region. General secretariats, directorates of services, departments and divisions shall be established in the Government of the Macao Special Administrative Region.",
+    "reference": "第六十二条 澳门特别行政区政府的首长是澳门特别行政区行政长官。澳门特别行政区政府设司、局、厅、处。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十二条 澳门特别行政区政府的首长为澳门特别行政区行政长官。澳门特别行政区政府设立各司、各局、各部门和各处。"
+  },
+  {
+    "index": 167,
+    "source": "Article 63 The principal officials of the Macao Special Administrative Region shall be Chinese citizens who are permanent residents of the Region and have habitually resided in Macao for a continuous period of not less than 15 years.",
+    "reference": "第六十三条 澳门特别行政区政府的主要官员由在澳门通常居住连续满十五年的澳门特别行政区永久性居民中的中国公民担任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十三条 澳门特别行政区的主要官员应为在澳门通常居住连续满15年的澳门永久性居民中的中国公民。"
+  },
+  {
+    "index": 168,
+    "source": "The principal officials of the Macao Special Administrative Region, at the time of assuming office, shall declare their property to the President of the Court of Final Appeal of the Macao Special Administrative Region for the record.",
+    "reference": "澳门特别行政区主要官员就任时应向澳门特别行政区终审法院院长申报财产，记录在案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的主要官员在就职时，应向澳门特别行政区终审法院院长申报财产备案。"
+  },
+  {
+    "index": 169,
+    "source": "Article 64 The Government of the Macao Special Administrative Region shall exercise the following powers and functions:",
+    "reference": "第六十四条 澳门特别行政区政府行使下列职权：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十四条 澳门特别行政区政府行使下列职权："
+  },
+  {
+    "index": 170,
+    "source": "(1) To formulate and implement policies;",
+    "reference": "（一）制定并执行政策；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "制定和实施政策；"
+  },
+  {
+    "index": 171,
+    "source": "(2) To conduct administrative affairs;",
+    "reference": "（二）管理各项行政事务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（二）处理行政事务；"
+  },
+  {
+    "index": 172,
+    "source": "(3) To conduct external affairs as authorized by the Central People's Government under this Law;",
+    "reference": "（三）办理本法规定的中央人民政府授权的对外事务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（三）依照本法规定，经中央人民政府授权处理有关的对外事务；"
+  },
+  {
+    "index": 173,
+    "source": "(4) To draw up and introduce budgets and final accounts;",
+    "reference": "（四）编制并提出财政预算、决算；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（四）编制和提出预算和决算；"
+  },
+  {
+    "index": 174,
+    "source": "(5) To introduce bills and motions and to draft administrative regulations; and",
+    "reference": "（五）提出法案、议案，草拟行政法规；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "(5) 提出议案和动议，并起草行政法规；以及"
+  },
+  {
+    "index": 175,
+    "source": "(6) To designate officials to sit in on the meetings of the Legislative Council to hear opinions or speak on behalf of the government.",
+    "reference": "（六）委派官员列席立法会会议听取意见或代表政府发言。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（六）指定官员列席立法会会议，听取意见或代表政府发言。"
+  },
+  {
+    "index": 176,
+    "source": "Article 65 The Government of the Macao Special Administrative Region must abide by the law and be accountable to the Legislative Council of the Region: it shall implement laws passed by the Council and already in force; it shall present regular policy addresses to the Council; and it shall answer questions raised by members of the Council.",
+    "reference": "第六十五条 澳门特别行政区政府必须遵守法律，对澳门特别行政区立法会负责：执行立法会通过并已生效的法律；定期向立法会作施政报告；答复立法会议员的质询。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十五條　澳門特別行政區政府必須遵守法律，對澳門特別行政區立法會負責：執行立法會通過並已生效的法律；定期向立法會作施政報告；答覆立法會議員的質詢。"
+  },
+  {
+    "index": 177,
+    "source": "Article 66 The Executive authorities of the Macao Special Administrative Region may, when necessary, establish advisory bodies.",
+    "reference": "第六十六条 澳门特别行政区行政机关可根据需要设立咨询组织。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十六条 澳门特别行政区行政机关在必要时可设立咨询机构。"
+  },
+  {
+    "index": 178,
+    "source": "Section 3 The Legislature",
+    "reference": "第三节 立法机关",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三节 立法机关"
+  },
+  {
+    "index": 179,
+    "source": "Article 67 The Legislative Council of the Macao Special Administrative Region shall be the legislature of the Region.",
+    "reference": "第六十七条 澳门特别行政区立法会是澳门特别行政区的立法机关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十七条 澳门特别行政区立法会是该地区的立法机关。"
+  },
+  {
+    "index": 180,
+    "source": "Article 68 The Legislative Council of the Macao Special Administrative Region shall be composed of permanent residents of the Region.",
+    "reference": "第六十八条 澳门特别行政区立法会议员由澳门特别行政区永久性居民担任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十八条 澳门特别行政区立法会由澳门特别行政区永久性居民组成。"
+  },
+  {
+    "index": 181,
+    "source": "The majority of its members shall be elected.",
+    "reference": "立法会多数议员由选举产生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "其成员的大多数应经选举产生。"
+  },
+  {
+    "index": 182,
+    "source": "The method for forming the Legislative Council is prescribed in Annex II Method for the Formation of the Legislative Council of the Macao Special Administrative Region.",
+    "reference": "立法会的产生办法由附件二《澳门特别行政区立法会的产生办法》规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "立法会的产生办法载于《澳门特别行政区立法会产生办法附件二》。"
+  },
+  {
+    "index": 183,
+    "source": "Members of the Legislative Council, upon assuming office, shall declare their financial situation in accordance with legal procedures.",
+    "reference": "立法会议员就任时应依法申报经济状况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "立法会议员就职时，应依照法定程序申报其财产状况。"
+  },
+  {
+    "index": 184,
+    "source": "Article 69 The term of office of the Legislative Council of the Macao Special Administrative Region shall be four years, except for the first term which shall be stipulated otherwise.",
+    "reference": "第六十九条 澳门特别行政区立法会除第一届另有规定外，每届任期四年。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六十九条 澳门特别行政区立法会的每届任期为四年，但第一届的任期另有规定。"
+  },
+  {
+    "index": 185,
+    "source": "Article 70 If the Legislative Council of the Macao Special Administrative Region is dissolved by the Chief Executive in accordance with the provisions of this Law, it must, within 90 days, be reconstituted in accordance with Article 68 of this Law.",
+    "reference": "第七十条 澳门特别行政区立法会如经行政长官依照本法规定解散，须于九十日内依照本法第六十八条的规定重新产生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七十条 澳门特别行政区立法会如经行政长官依照本法规定解散，须于九十日内依照本法第六十八条的规定重组。"
+  },
+  {
+    "index": 186,
+    "source": "Article 71 The Legislative Council of the Macao Special Administrative Region shall exercise the following powers and functions:",
+    "reference": "第七十一条 澳门特别行政区立法会行使下列职权：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七十一条 澳门特别行政区立法会行使下列职权："
+  },
+  {
+    "index": 187,
+    "source": "(1) To enact, amend, suspend or repeal laws in accordance with the provisions of this Law and legal procedures;",
+    "reference": "（一）依照本法规定和法定程序制定、修改、暂停实施和废除法律；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（一）依照本法和法定程序制定、修改、中止或者废止法律；"
+  },
+  {
+    "index": 188,
+    "source": "(2) To examine and approve budgets introduced by the government; and examine the report on audit introduced by the government;",
+    "reference": "（二）审核、通过政府提出的财政预算案；审议政府提出的预算执行情况报告；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（二）审查和批准政府提出的预算；并审查政府提出的审计报告；"
+  },
+  {
+    "index": 189,
+    "source": "(3) To decide on taxation according to government motions and approve debts to be undertaken by the government;",
+    "reference": "（三）根据政府提案决定税收，批准由政府承担的债务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（三）决定按照政府动议征税并批准政府承担的债务；"
+  },
+  {
+    "index": 190,
+    "source": "(4) To receive and debate the policy addresses of the Chief Executive;",
+    "reference": "（四）听取行政长官的施政报告并进行辩论；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（四）听取和辩论行政长官的施政报告；"
+  },
+  {
+    "index": 191,
+    "source": "(5) To debate any issue concerning public interests;",
+    "reference": "（五）就公共利益问题进行辩论；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "(5) 讨论任何有关公共利益的议题；"
+  },
+  {
+    "index": 192,
+    "source": "(6) To receive and handle complaints from Macao residents;",
+    "reference": "（六）接受澳门居民申诉并作出处理；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（六）接收和处理澳门居民的投诉；"
+  },
+  {
+    "index": 193,
+    "source": "(7) If a motion initiated jointly by one-third of all the members of the Legislative Council charges the Chief Executive with serious breach of law or dereliction of duty and if he or she refuses to resign, the Council may, by a resolution, give a mandate to the President of the Court of Final Appeal to form an independent investigation committee to carry out investigation. If the committee considers the evidence sufficient to substantiate such charges, the Council may pass a motion of impeachment by a two-thirds majority of all its members and report it to the Central People's Government for decision; and",
+    "reference": "（七）如立法会全体议员三分之一联合动议，指控行政长官有严重违法或渎职行为而不辞职，经立法会通过决议，可委托终审法院院长负责组成独立的调查委员会进行调查。调查委员会如认为有足够证据构成上述指控，立法会以全体议员三分之二多数通过，可提出弹劾案，报请中央人民政府决定；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（七）如果立法会全体议员三分之一联合动议，指控行政长官严重违法或渎职，而行政长官拒绝辞职，立法会可决议授权终审法院首席法官成立独立调查委员会进行调查。如果委员会认为有充分证据证实上述指控，立法会可以全体议员三分之二多数通过弹劾案，并报请中央人民政府决定；且"
+  },
+  {
+    "index": 194,
+    "source": "(8) To summon, as required when exercising the above-mentioned powers and functions, persons concerned to testify or give evidence.",
+    "reference": "（八）在行使上述各项职权时，如有需要，可传召和要求有关人士作证和提供证据。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（八）为行使上述权力及职能，按需要传唤有关人士作证或提供证据。"
+  },
+  {
+    "index": 195,
+    "source": "Article 72 The Legislative Council of the Macao Special Administrative Region shall have a President and a Vice President who shall he elected by and from among the members of the Legislative Council.",
+    "reference": "第七十二条 澳门特别行政区立法会设主席、副主席各一人。主席、副主席由立法会议员互选产生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七十二条 澳门特别行政区立法会设主席、副主席各一人，由立法会议员互选产生。"
+  },
+  {
+    "index": 196,
+    "source": "The President and Vice President of the Legislative Council shall be Chinese citizens who are permanent residents of the Region and have habitually resided in Macao for a continuous period of not less than 15 years.",
+    "reference": "澳门特别行政区立法会主席、副主席由在澳门通常居住连续满十五年的澳门特别行政区永久性居民中的中国公民担任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "立法会主席和副主席应为具有该地区永久居留权的中国公民，并在澳门通常居住连续不少于15年。"
+  },
+  {
+    "index": 197,
+    "source": "Article 73 In case of absence of the President of the Legislative Council of the Macao Special Administrative Region, the Vice President shall act as President.",
+    "reference": "第七十三条 澳门特别行政区立法会主席缺席时由副主席代理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區立法會主席缺席時，由副主席代理主席職務。"
+  },
+  {
+    "index": 198,
+    "source": "In the event that the office of President or of Vice President of the Legislative Council becomes vacant, new President or Vice President shall be elected.",
+    "reference": "澳门特别行政区立法会主席或副主席出缺时，另行选举。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果立法会主席或副主席职位出现空缺，则应选出新的主席或副主席。"
+  },
+  {
+    "index": 199,
+    "source": "Article 74 The President of the Legislative Council of the Macao Special Administrative Region shall exercise the following powers and functions:",
+    "reference": "第七十四条 澳门特别行政区立法会主席行使下列职权：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七十四条 澳门特别行政区立法会主席行使下列职权："
+  },
+  {
+    "index": 200,
+    "source": "(1) To preside over meetings;",
+    "reference": "（一）主持会议；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（1）主持会议；"
+  },
+  {
+    "index": 201,
+    "source": "(2) To decide on the agenda, giving priority to government bills for inclusion in the agenda upon the request of the Chief Executive;",
+    "reference": "（二）决定议程，应行政长官的要求将政府提出的议案优先列入议程；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（二）決定議程，在行政長官要求下，優先將政府法案納入議程；"
+  },
+  {
+    "index": 202,
+    "source": "(3) To decide on the dates of meetings;",
+    "reference": "（三）决定开会日期；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（三）决定会议日期；"
+  },
+  {
+    "index": 203,
+    "source": "(4) To call special sessions during the recess;",
+    "reference": "（四）在休会期间可召开特别会议；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（四）在休会期间召集特别会议；"
+  },
+  {
+    "index": 204,
+    "source": "(5) To call emergency sessions on his or her own or upon the request of the Chief Executive; and",
+    "reference": "（五）召开紧急会议或应行政长官的要求召开紧急会议；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（五）自行或应行政长官的要求，召开紧急会议；以及"
+  },
+  {
+    "index": 205,
+    "source": "(6) To exercise other powers and functions as prescribed in the rules of procedure of the Legislative Council.",
+    "reference": "（六）立法会议事规则所规定的其他职权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "(六) 行使立法会议事规则规定的其他权力和职能。"
+  },
+  {
+    "index": 206,
+    "source": "Article 75 Members of the Legislative Council of the Macao Special Administrative Region may introduce bills in accordance with the provisions of this Law and legal procedures. Bills which do not relate to public expenditure or political structure or the operation of the government may be introduced individually or jointly by members of the Council. The written consent of the Chief Executive shall be required before bills relating to government policies are introduced.",
+    "reference": "第七十五条 澳门特别行政区立法会议员依照本法规定和法定程序提出议案。凡不涉及公共收支、政治体制或政府运作的议案，可由立法会议员个别或联名提出。凡涉及政府政策的议案，在提出前必须得到行政长官的书面同意。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区立法会第七十五条 澳门特别行政区立法会议员依照本法及法定程序提出议案。凡不涉及公共开支、政治体制或政府运作的议案，均可由议员个别或联名提出。凡涉及政府政策的议案，在提出前必须得到行政长官的书面同意。"
+  },
+  {
+    "index": 207,
+    "source": "Article 76 Members of the Legislative Council of the Macao Special Administrative Region shall have the right to raise questions about the government work in accordance with legal procedures.",
+    "reference": "第七十六条 澳门特别行政区立法会议员有权依照法定程序对政府的工作提出质询。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区立法会委员有权依照法定程序对政府工作提出质询。"
+  },
+  {
+    "index": 208,
+    "source": "Article 77 The quorum for the meeting of the Legislative Council of the Macao Special Administrative Region shall be not less than one half of all its members. Except otherwise prescribed by this Law, bills and motions shall be passed by more than half of all the members of the Council.",
+    "reference": "第七十七条 澳门特别行政区立法会举行会议的法定人数为不少于全体议员的二分之一。除本法另有规定外，立法会的法案、议案由全体议员过半数通过。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七十七条 澳门特别行政区立法会的会议法定人数不得少于全体议员的二分之一。除本法另有规定外，法案和议案须经全体议员过半数通过。"
+  },
+  {
+    "index": 209,
+    "source": "The rules of procedure of the Legislative Council shall be made by the Council on its own, provided that they do not contravene this Law.",
+    "reference": "立法会议事规则由立法会自行制定，但不得与本法相抵触。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "立法会议事规则由立法会自行制定，但不得与本法相抵触。"
+  },
+  {
+    "index": 210,
+    "source": "Article 78 A bill passed by the Legislative Council of the Macao Special Administrative Region may take effect only after it is signed and promulgated by the Chief Executive.",
+    "reference": "第七十八条 澳门特别行政区立法会通过的法案，须经行政长官签署、公布，方能生效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区立法会通过的法案，须经行政长官签署及公布后方可生效，见第七十八条。"
+  },
+  {
+    "index": 211,
+    "source": "Article 79 Members of the Legislative Council of the Macao Special Administrative Region shall be immune from legal action in respect of their statements and voting at meetings of the Council.",
+    "reference": "第七十九条 澳门特别行政区立法会议员在立法会会议上的发言和表决，不受法律追究。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區立法會議員在立法會會議上的發言和表決，不受法律追究。"
+  },
+  {
+    "index": 212,
+    "source": "Article 80 Members of the Legislative Council of the Macao Special Administrative Region, excluding active criminals, shall not be subjected to arrest without the permission of the Council.",
+    "reference": "第八十条 澳门特别行政区立法会议员非经立法会许可不受逮捕，但现行犯不在此限。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區立法會議員，除現行犯外，非經立法會許可，不受逮捕。"
+  },
+  {
+    "index": 213,
+    "source": "Article 81 The President of the Legislative Council of the Macao Special Administrative Region shall declare, according to the decision of the Council, that a member of the Council is no longer qualified for the office under any of the following circumstances:",
+    "reference": "第八十一条 澳门特别行政区立法会议员如有下列情况之一，经立法会决定，即丧失其立法会议员的资格：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十一条 澳门特别行政区立法会主席须根据立法会的决定，宣布凡出现下列任何情况的议员丧失担任议员的资格："
+  },
+  {
+    "index": 214,
+    "source": "(1) When he or she loses the ability to discharge his or her duties as a result of serious illness or other reasons;",
+    "reference": "（一）因严重疾病或其他原因无力履行职务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（1）当他或她因重病或其他原因而丧失履行其职责的能力时；"
+  },
+  {
+    "index": 215,
+    "source": "(2) When he or she assumes posts which he or she is not permitted by law to hold concurrently;",
+    "reference": "（二）担任法律规定不得兼任的职务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（二）担任法律禁止兼任的职务时；"
+  },
+  {
+    "index": 216,
+    "source": "(3) When he or she, with no valid reason, is absent from meetings for five consecutive times or for 15 times intermittently without the consent of the President of the Legislative Council;",
+    "reference": "（三）未得到立法会主席同意，连续五次或间断十五次缺席会议而无合理解释；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（三）如其無正當理由連續五次或間斷十五次缺席會議，且未經立法會主席同意；"
+  },
+  {
+    "index": 217,
+    "source": "(4) When he or she breaches his or her oath; and",
+    "reference": "（四）违反立法会议员誓言；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（四）当他或她违反其誓言时；以及"
+  },
+  {
+    "index": 218,
+    "source": "(5) When he or she is convicted and sentenced to imprisonment for more than 30 days for a criminal offense committed within or outside the Region.",
+    "reference": "（五）在澳门特别行政区区内或区外犯有刑事罪行，被判处监禁三十日以上。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（五）因在区内或区外犯下刑事罪行而被判刑入狱30天以上时。"
+  },
+  {
+    "index": 219,
+    "source": "Section 4 The Judiciary",
+    "reference": "第四节 司法机关",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四节 司法部门"
+  },
+  {
+    "index": 220,
+    "source": "Article 82 The courts of the Macao Special Administrative Region shall exercise the judicial power.",
+    "reference": "第八十二条 澳门特别行政区法院行使审判权。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十二条 澳门特别行政区法院行使审判权。"
+  },
+  {
+    "index": 221,
+    "source": "Article 83 The courts of the Macao Special Administrative Region shall exercise judicial power independently. They shall be subordinated to nothing but law and shall not be subject to any interference.",
+    "reference": "第八十三条 澳门特别行政区法院独立进行审判，只服从法律，不受任何干涉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十三条 澳门特别行政区的法院独立行使审判权，只服从法律，不受任何干涉。"
+  },
+  {
+    "index": 222,
+    "source": "Article 84 The primary courts, intermediate courts and Court of Final Appeal shall be established in the Macao Special Administrative Region.",
+    "reference": "第八十四条 澳门特别行政区设立初级法院、中级法院和终审法院。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区设立初级法院、中级法院和终审法院。"
+  },
+  {
+    "index": 223,
+    "source": "The power of final adjudication of the Macao Special Administrative Region shall be vested in the Court of Final Appeal of the Region.",
+    "reference": "澳门特别行政区终审权属于澳门特别行政区终审法院。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的终审权属于该地区的终审法院。"
+  },
+  {
+    "index": 224,
+    "source": "The structure, powers and functions as well as operation of the courts of the Macao Special Administrative Region shall be prescribed by law.",
+    "reference": "澳门特别行政区法院的组织、职权和运作由法律规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区法院的组织、职权和职能以及运作，均由法律规定。"
+  },
+  {
+    "index": 225,
+    "source": "Article 85 The primary courts of the Macao Special Administrative Region may, when necessary, establish special courts.",
+    "reference": "第八十五条 澳门特别行政区初级法院可根据需要设立若干专门法庭。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十五条 澳门特别行政区初级法院可以根据需要设立专门法庭。"
+  },
+  {
+    "index": 226,
+    "source": "The previous system concerning criminal prosecution shall be maintained.",
+    "reference": "原刑事起诉法庭的制度继续保留。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "关于刑事诉讼的先前制度应予维持。"
+  },
+  {
+    "index": 227,
+    "source": "Article 86 An administrative court shall be established in the Macao Special Administrative Region. It is the court which shall have jurisdiction over administrative and tax cases. If a party refuses to accept a judgment by the administrative court, he or she shall have the right to file an appeal with an intermediate court.",
+    "reference": "第八十六条 澳门特别行政区设立行政法院。行政法院是管辖行政诉讼和税务诉讼的法院。不服行政法院裁决者，可向中级法院上诉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十六条 澳门特别行政区设立行政法院，管辖行政和税务案件。当事人不服行政法院的判决，有权向中级法院提起上诉。"
+  },
+  {
+    "index": 228,
+    "source": "Article 87 Judges of the courts of the Macao Special Administrative Region at all levels shall be appointed by the Chief Executive on the recommendation of an independent commission composed of local judges, lawyers and eminent persons. Judges shall be chosen on the basis of their professional qualifications. Qualified judges of foreign nationality may also be employed.",
+    "reference": "第八十七条 澳门特别行政区各级法院的法官，根据当地法官、律师和知名人士组成的独立委员会的推荐，由行政长官任命。法官的选用以其专业资格为标准，符合标准的外籍法官也可聘用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十七条 澳门特别行政区各级法院的法官，由行政长官根据由当地法官、律师和知名人士组成的独立委员会的推荐任命。法官应以其专业资格为基础进行遴选。 具有外国国籍的合格法官也可以聘用。"
+  },
+  {
+    "index": 229,
+    "source": "A judge may only be removed for inability to discharge his or her functions, or for behavior incompatible with his or her post, by the Chief Executive on the recommendation of a tribunal appointed by the President of the Court of Final Appeal and consisting of not fewer than three local judges.",
+    "reference": "法官只有在无力履行其职责或行为与其所任职务不相称的情况下，行政长官才可根据终审法院院长任命的不少于三名当地法官组成的审议庭的建议，予以免职。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "法官只有在无力履行其职责或行为与其职位不符的情况下，才可由行政长官根据终审法院首席法官委任的不少于三名本地法官组成的审裁庭的建议将其免职。"
+  },
+  {
+    "index": 230,
+    "source": "The removal of the judges of the Court of Final Appeal shall be decided on by the Chief Executive upon the recommendation of a review committee consisting of members of the Legislative Council of the Macao Special Administrative Region.",
+    "reference": "终审法院法官的免职由行政长官根据澳门特别行政区立法会议员组成的审议委员会的建议决定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "終審法院法官的免職，須由澳門特別行政區行政長官在由澳門特別行政區立法會議員組成的審查委員會的建議下決定。"
+  },
+  {
+    "index": 231,
+    "source": "The appointment and removal of the judges of the Court of Final Appeal shall be reported to the Standing Committee of the National People's Congress for the record.",
+    "reference": "终审法院法官的任命和免职须报全国人民代表大会常务委员会备案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "终审法院法官的任免须报全国人民代表大会常务委员会备案。"
+  },
+  {
+    "index": 232,
+    "source": "Article 88 The presidents of courts of the Macao Special Administrative Region at all levels shall be chosen from among judges and appointed by the Chief Executive.",
+    "reference": "第八十八条 澳门特别行政区各级法院的院长由行政长官从法官中选任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十八条 澳门特别行政区各级法院院长由法官中选任，由行政长官任命。"
+  },
+  {
+    "index": 233,
+    "source": "The President of the Court of Final Appeal of the Macao Special Administrative Region shall be a Chinese citizen who is a permanent resident of the Region.",
+    "reference": "终审法院院长由澳门特别行政区永久性居民中的中国公民担任。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區終審法院院長應為具有澳門特別行政區永久性居民身份的中國公民。"
+  },
+  {
+    "index": 234,
+    "source": "The appointment and removal of the President of the Court of Final Appeal shall be reported to the Standing Committee of the National People's Congress for the record.",
+    "reference": "终审法院院长的任命和免职须报全国人民代表大会常务委员会备案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "终审法院院长的任免须报全国人民代表大会常务委员会备案。"
+  },
+  {
+    "index": 235,
+    "source": "Article 89 The judges of the Macao Special Administrative Region shall exercise judicial power according to law, instead of according to any order or instruction, except in the situation as prescribed in paragraph 3 of Article 19 of this Law.",
+    "reference": "第八十九条 澳门特别行政区法官依法进行审判，不听从任何命令或指示，但本法第十九条第三款规定的情况除外。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八十九条 澳门特别行政区法官依照法律行使审判权，不受任何命令或指示的约束，但本法第十九条第三款规定的情况除外。"
+  },
+  {
+    "index": 236,
+    "source": "Judges shall be immune from legal action for discharging his or her judicial functions.",
+    "reference": "法官履行审判职责的行为不受法律追究。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "法官因履行其司法职能而免于承担法律责任。"
+  },
+  {
+    "index": 237,
+    "source": "During the term of his or her office, a judge shall not concurrently assume other public or private posts, nor shall he or she assume any post in organizations of a political nature.",
+    "reference": "法官在任职期间，不得兼任其他公职或任何私人职务，也不得在政治性团体中担任任何职务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "法官在任职期间，不得兼任其他公共或私人职务，也不得在具有政治性质的组织中担任任何职务。"
+  },
+  {
+    "index": 238,
+    "source": "Article 90 The procuratorates of the Macao Special Administrative Region shall exercise procuratorial functions as vested by law, independently and free from any interference.",
+    "reference": "第九十条 澳门特别行政区检察院独立行使法律赋予的检察职能，不受任何干涉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十条 澳门特别行政区检察院依照法律规定独立行使检察职权，不受任何干涉。"
+  },
+  {
+    "index": 239,
+    "source": "The Procurator-General of the Macao Special Administrative Region shall be a Chinese citizen who is a permanent resident of the Region, shall be nominated by the Chief Executive and appointed by the Central People's Government.",
+    "reference": "澳门特别行政区检察长由澳门特别行政区永久性居民中的中国公民担任，由行政长官提名，报中央人民政府任命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區檢察長應為澳門特別行政區永久性居民中的中國公民，由行政長官提名，報請中央人民政府任命。"
+  },
+  {
+    "index": 240,
+    "source": "Procurators shall be nominated by the Procurator-General and appointed by the Chief Executive.",
+    "reference": "检察官经检察长提名，由行政长官任命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "检察官由检察长提名，行政长官任命。"
+  },
+  {
+    "index": 241,
+    "source": "The structure, powers and functions as well as operation of the procuratorates shall be prescribed by law.",
+    "reference": "检察院的组织、职权和运作由法律规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "检察院的组织、职权、职能以及运作方式由法律规定。"
+  },
+  {
+    "index": 242,
+    "source": "Article 91 The system previously in force in Macao for appointment and removal of supporting members of the judiciary shall be maintained.",
+    "reference": "第九十一条 原在澳门实行的司法辅助人员的任免制度予以保留。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十一条　澳门原有关于法官助理人员的任免制度予以保留。"
+  },
+  {
+    "index": 243,
+    "source": "Article 92 On the basis of the system previously operating in Macao, the Government of the Macao Special Administrative Region may make provisions for local lawyers and lawyers from outside Macao to practice in the Region.",
+    "reference": "第九十二条 澳门特别行政区政府可参照原在澳门实行的办法，作出有关当地和外来的律师在澳门特别行政区执业的规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十二条　澳门特别行政区政府可参照澳门原有制度，对本地律师和澳门以外律师在澳门特别行政区执业作出规定。"
+  },
+  {
+    "index": 244,
+    "source": "Article 93 The Macao Special Administrative Region may, through consultations and in accordance with law, maintain judicial relations with the judicial organs of other parts of the country, and they may render assistance to each other.",
+    "reference": "第九十三条 澳门特别行政区可与全国其他地区的司法机关通过协商依法进行司法方面的联系和相互提供协助。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十三条 澳门特别行政区可与中国其他地区的司法机关通过协商，依法进行司法方面的联系和相互提供协助。"
+  },
+  {
+    "index": 245,
+    "source": "Article 94 With the assistance or authorization of the Central People's Government, the Macao Special Administrative Region may make appropriate arrangements with foreign states for reciprocal judicial assistance.",
+    "reference": "第九十四条 在中央人民政府协助和授权下，澳门特别行政区可与外国就司法互助关系作出适当安排。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十四条 经中央人民政府协助或者授权，澳门特别行政区可与外国就相互提供司法协助作出适当安排。"
+  },
+  {
+    "index": 246,
+    "source": "Section 5 Municipal Organs",
+    "reference": "第五节 市政机构",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五节 市政机关"
+  },
+  {
+    "index": 247,
+    "source": "Article 95 Municipal organizations which are not organs of political power may be established in the Macao Special Administrative Region. Entrusted by the government of the Region, they shall provide services in such fields as culture, recreation, environment and sanitation, and shall be consulted by the government of the Region on the above-mentioned affairs.",
+    "reference": "第九十五条 澳门特别行政区可设立非政权性的市政机构。市政机构受政府委托为居民提供文化、康乐、环境卫生等方面的服务，并就有关上述事务向澳门特别行政区政府提供咨询意见。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十五条 澳门特别行政区可以设立非政权性的市政机构。受澳门特别行政区政府的委托，市政机构为其居民提供文化、康乐、环境卫生等方面的服务，并就上述事务向澳门特别行政区政府提供咨询。"
+  },
+  {
+    "index": 248,
+    "source": "Article 96 The functions, powers and structure of the municipal organizations shall be prescribed by law.",
+    "reference": "第九十六条 市政机构的职权和组成由法律规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十六条 市政机关的职权、权力和结构由法律规定。"
+  },
+  {
+    "index": 249,
+    "source": "Section 6 Public Servants",
+    "reference": "第六节 公务人员",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第6节 公职人员"
+  },
+  {
+    "index": 250,
+    "source": "Article 97 Public servants serving in the Macao Special Administrative Region must be permanent residents of the Region, except for those as prescribed by Articles 98 and 99 of this Law and except for technical personnel of certain professions and junior public servants recruited by the Government of the Macao Special Administrative Region.",
+    "reference": "第九十七条 澳门特别行政区的公务人员必须是澳门特别行政区永久性居民。本法第九十八条和九十九条规定的公务人员，以及澳门特别行政区聘用的某些专业技术人员和初级公务人员除外。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区服务的公职人员必须是该地区的永久性居民，但本法第98条和第99条规定的以及澳门特别行政区政府聘用的某些专业的专业技术人员和初级公职人员除外。"
+  },
+  {
+    "index": 251,
+    "source": "Article 98 Upon the establishment of the Macao Special Administrative Region, public servants including the police and supporting members of the judiciary previously serving in Macao may all remain in employment, continue service and retain their seniority with pay, allowances, benefits and conditions of service no less favorable than before.",
+    "reference": "第九十八条 澳门特别行政区成立时，原在澳门任职的公务人员，包括警务人员和司法辅助人员，均可留用，继续工作，其薪金、津贴、福利待遇不低于原来的标准，原来享有的年资予以保留。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十八条 澳门特别行政区成立时，原在澳门服务的公务人员，包括警务人员及司法机关辅助人员，均可留用，继续工作，其薪金、津贴、福利待遇和服务条件不低于原来的标准，原有的年资予以保留。"
+  },
+  {
+    "index": 252,
+    "source": "The Government of the Macao Special Administrative Region shall pay to the above-mentioned public servants who are entitled to pensions and allowances under the laws previously in force in Macao and who remain in employment and retire after the establishment of the Macao Special Administrative Region, or to their dependents, all pensions and allowances due to them on terms no less favorable than before, and irrespective of their nationality or place of residence.",
+    "reference": "依照澳门原有法律享有退休金和赡养费待遇的留用公务人员，在澳门特别行政区成立后退休的，不论其所属国籍或居住地点，澳门特别行政区向他们或其家属支付不低于原来标准的应得的退休金和赡养费。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府應向按照澳門原有法律享有退休金和津貼待遇並在澳門特別行政區成立後繼續留任並退休的上述公務人員或其家屬，支付不低於原標準的應得的退休金和津貼，不論其國籍或居住地點。"
+  },
+  {
+    "index": 253,
+    "source": "Article 99 The Government of the Macao Special Administrative Region may employ Portuguese and other foreign nationals previously serving in the public service in Macao, or those holding permanent identity cards of the Region, to serve as public servants in government departments at all levels, unless otherwise provided by this Law.",
+    "reference": "第九十九条 澳门特别行政区可任用原澳门公务人员中的或持有澳门特别行政区永久性居民身份证的葡籍和其他外籍人士担任各级公务人员，但本法另有规定者除外。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九十九条 澳门特别行政区政府可以聘用原在澳门公共部门任职的葡萄牙籍和其他外籍人士，或持有澳门特别行政区永久性居民身份证的人士，担任各级政府部门的公务人员，但本法另有规定者除外。"
+  },
+  {
+    "index": 254,
+    "source": "The relevant government departments of the Macao Special Administrative Region may also employ Portuguese and other foreign nationals as advisers or to fill professional and technical posts.",
+    "reference": "澳门特别行政区有关部门还可聘请葡籍和其他外籍人士担任顾问和专业技术职务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区有关政府部门也可以聘请葡萄牙籍和其他外国籍人士担任顾问或者出任专业和技术职务。"
+  },
+  {
+    "index": 255,
+    "source": "These individuals shall be employed only in their individual capacities and shall be responsible to the Government of the Macao Special Administrative Region.",
+    "reference": "上述人员只能以个人身份受聘，并对澳门特别行政区负责。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些人员应仅以个人身份受雇，并对澳门特别行政区政府负责。"
+  },
+  {
+    "index": 256,
+    "source": "Article 100 The appointment and promotion of public servants shall be on the basis of their qualifications, experience and ability. Macao's previous system of employment, discipline, advanced and regular promotion may basically remain unchanged, but may be improved along with the development of the Macao society.",
+    "reference": "第一百条 公务人员应根据其本人的资格、经验和才能予以任用和提升。澳门原有关于公务人员的录用、纪律、提升和正常晋级制度基本不变，但得根据澳门社会的发展加以改进。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百条 公务人员的任用和晋升，应以其资历、经验和才能为依据。澳门原有关于任用、纪律、升级和定期晋升的制度基本不变，但可随着澳门社会的发展而加以改进。"
+  },
+  {
+    "index": 257,
+    "source": "Section 7 Swearing Allegiance",
+    "reference": "第七节 宣誓效忠",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第7条：宣誓效忠"
+  },
+  {
+    "index": 258,
+    "source": "Article 101 The Chief Executive, principal officials, members of the Executive Council and of the Legislative Council, judges and procurators in the Macao Special Administrative Region must uphold the Basic Law of the Macao Special Administrative Region of the People's Republic of China, devote themselves to their duties, be honest in performing official duties, swear allegiance to the Macao Special Administrative Region and take an oath to this effect in accordance with law.",
+    "reference": "第一百零一条 澳门特别行政区行政长官、主要官员、行政会委员、立法会议员、法官和检察官，必须拥护中华人民共和国澳门特别行政区基本法，尽忠职守，廉洁奉公，效忠中华人民共和国澳门特别行政区，并依法宣誓。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零一条 澳门特别行政区行政长官、主要官员、行政会委员、立法会议员、法官和检察官，必须拥护中华人民共和国澳门特别行政区基本法，尽忠职守，廉洁奉公，效忠澳门特别行政区，并依法宣誓。"
+  },
+  {
+    "index": 259,
+    "source": "Article 102 When assuming office, the Chief Executive, principal officials, President of the Court of Final Appeal and Procurator-General of the Macao Special Administrative Region must swear allegiance to the People's Republic of China, apart from taking the oath under Article 101.",
+    "reference": "第一百零二条 澳门特别行政区行政长官、主要官员、立法会主席、终审法院院长、检察长在就职时，除按本法第一百零一条的规定宣誓外，还必须宣誓效忠中华人民共和国。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零二条 澳门特别行政区行政长官、主要官员、终审法院院长和检察长就职时，除依照第一百零一条的规定宣誓外，还须宣誓效忠中华人民共和国。"
+  },
+  {
+    "index": 260,
+    "source": "Chapter V Economy",
+    "reference": "第五章 经 济",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五章 经济"
+  },
+  {
+    "index": 261,
+    "source": "Article 103 The Macao Special Administrative Region shall, in accordance with law, protect the right of individuals and legal persons to the acquisition, use, disposal and inheritance of property and their right to compensation for lawful deprivation of their property.",
+    "reference": "第一百零三条 澳门特别行政区依法保护私人和法人财产的取得、使用、处置和继承的权利，以及依法征用私人和法人财产时被征用财产的所有人得到补偿的权利。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零三条 澳门特别行政区依法保护个人和法人取得、使用、处置和继承财产的权利，以及依法获得对其财产受到合法剥夺的补偿的权利。"
+  },
+  {
+    "index": 262,
+    "source": "Such compensation shall correspond to the real value of the property concerned at the time and shall be freely convertible and paid without undue delay.",
+    "reference": "征用财产的补偿应相当于该财产当时的实际价值，可自由兑换，不得无故迟延支付。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此类补偿应相当于有关财产在当时的实际价值，并且应可自由兑换且在不无故拖延的情况下支付。"
+  },
+  {
+    "index": 263,
+    "source": "The ownership of enterprises and the investments from outside the Region shall be protected by Law.",
+    "reference": "企业所有权和外来投资均受法律保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "企业的所有权和来自该区域以外的投资应受法律保护。"
+  },
+  {
+    "index": 264,
+    "source": "Article 104 The Macao Special Administrative Region shall have independent finances.",
+    "reference": "第一百零四条 澳门特别行政区保持财政独立。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零四條　澳門特別行政區享有獨立的財政。"
+  },
+  {
+    "index": 265,
+    "source": "All the financial revenues of the Macao Special Administrative Region shall be managed and controlled by the Region itself and shall not be handed over to the Central People's Government.",
+    "reference": "澳门特别行政区财政收入全部由澳门特别行政区自行支配，不上缴中央人民政府。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区所有的财政收入都由该地区自行管理和控制，不需上缴中央人民政府。"
+  },
+  {
+    "index": 266,
+    "source": "The Central People's Government shall not levy taxes in the Macao Special Administrative Region.",
+    "reference": "中央人民政府不在澳门特别行政区征税。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中央人民政府不在澳门特别行政区征税。"
+  },
+  {
+    "index": 267,
+    "source": "Article 105 The Macao Special Administrative Region shall follow the principle of keeping expenditure within the limits of revenues in drawing up its budget, and strive to achieve a fiscal balance, avoid deficits and keep the budget commensurate with the growth rate of its gross domestic product.",
+    "reference": "第一百零五条 澳门特别行政区的财政预算以量入为出为原则，力求收支平衡，避免赤字，并与本地生产总值的增长率相适应。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零五條　澳門特別行政區在製定財政預算時，應遵循量入為出原則，力求收支平衡，避免赤字，並使預算與本地生產總值的增長率相適應。"
+  },
+  {
+    "index": 268,
+    "source": "Article 106 The Macao Special Administrative Region shall practice an independent taxation system.",
+    "reference": "第一百零六条 澳门特别行政区实行独立的税收制度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零六条 澳门特别行政区实行独立的税收制度。"
+  },
+  {
+    "index": 269,
+    "source": "The Macao Special Administrative Region shall, taking the low tax policy previously pursued in Macao as reference, enact laws on its own concerning types of taxes, tax rates, tax reductions, allowances and expenditures, and other matters of taxation. The taxation system for franchised businesses shall be otherwise prescribed by law.",
+    "reference": "澳门特别行政区参照原在澳门实行的低税政策，自行立法规定税种、税率、税收宽免和其他税务事项。专营税制由法律另作规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区参照澳门原有实行的低税政策，自行立法规定税种、税率、税收减免和其他税务事项。专营事业的税收制度另行法律规定。"
+  },
+  {
+    "index": 270,
+    "source": "Article 107 The monetary and financial systems of the Macao Special Administrative Region shall be prescribed by law.",
+    "reference": "第一百零七条 澳门特别行政区的货币金融制度由法律规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零七条 澳门特别行政区的货币金融制度由法律规定。"
+  },
+  {
+    "index": 271,
+    "source": "The Government of the Macao Special Administrative Region shall, on its own, formulate monetary and financial policies, safeguard the free operation of financial markets and all kinds of financial institutions, and regulate and supervise them in accordance with law.",
+    "reference": "澳门特别行政区政府自行制定货币金融政策，保障金融市场和各种金融机构的经营自由，并依法进行管理和监督。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区政府自行制定货币金融政策，保障金融市场和各类金融机构的自由经营，并依法进行监管。"
+  },
+  {
+    "index": 272,
+    "source": "Article 108 The Macao Pataca, as the legal tender in the Macao Special Administrative Region, shall continue to circulate.",
+    "reference": "第一百零八条 澳门元为澳门特别行政区的法定货币，继续流通。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零八条　澳门元为澳门特别行政区的法定货币，继续流通。"
+  },
+  {
+    "index": 273,
+    "source": "The authority to issue Macao currency shall be vested in the Government of the Macao Special Administrative Region. The issue of Macao currency must be backed by a 100 per cent reserve fund. The system regarding the issue of Macao currency and the reserve fund system shall be prescribed by law.",
+    "reference": "澳门货币发行权属于澳门特别行政区政府。澳门货币的发行须有百分之百的准备金。澳门货币的发行制度和准备金制度，由法律规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "发行澳门货币的权力属于澳门特别行政区政府。澳门货币的发行必须有百分之百的储备基金作为保证。关于澳门货币发行制度和储备基金制度，由法律规定。"
+  },
+  {
+    "index": 274,
+    "source": "The Government of the Macao Special Administrative Region may authorize designated banks to perform or continue to perform the function of its agents in the issuance of Macao currency.",
+    "reference": "澳门特别行政区政府可授权指定银行行使或继续行使发行澳门货币的代理职能。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府可授權指定銀行作為其代理人，履行或繼續履行發行澳門貨幣的職能。"
+  },
+  {
+    "index": 275,
+    "source": "Article 109 No foreign exchange control policies shall be applied in the Macao Special Administrative Region. The Macao Pataca shall be freely convertible.",
+    "reference": "第一百零九条 澳门特别行政区不实行外汇管制政策。澳门元自由兑换。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百零九条 澳门特别行政区不实行外汇管制政策。澳门元自由兑换。"
+  },
+  {
+    "index": 276,
+    "source": "The foreign exchange reserve of the Macao Special Administrative Region shall be managed and controlled by the Government of the Macao Special Administrative Region according to law.",
+    "reference": "澳门特别行政区的外汇储备由澳门特别行政区政府依法管理和支配。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区的外汇储备由澳门特别行政区政府依法管理及控制。"
+  },
+  {
+    "index": 277,
+    "source": "The Government of the Macao Special Administrative Region shall safeguard the free flow of capital within, into and out of the Region.",
+    "reference": "澳门特别行政区政府保障资金的流动和进出自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府應保障資本在區內、區外自由流動。"
+  },
+  {
+    "index": 278,
+    "source": "Article 110 The Macao Special Administrative Region shall maintain the status of a free port and shall not impose any tariff unless otherwise prescribed by law.",
+    "reference": "第一百一十条 澳门特别行政区保持自由港地位，除法律另有规定外，不征收关税。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十条 澳门特别行政区保持自由港地位，除法律另有规定外，不征收关税。"
+  },
+  {
+    "index": 279,
+    "source": "Article 111 The Macao Special Administrative Region shall pursue the policy of free trade and safeguard the free movement of goods, intangible assets and capital.",
+    "reference": "第一百一十一条 澳门特别行政区实行自由贸易政策，保障货物、无形财产和资本的流动自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十一條　澳門特別行政區實行自由貿易政策，保障貨物、無形資產和資本的自由流動。"
+  },
+  {
+    "index": 280,
+    "source": "Article 112 The Macao Special Administrative Region shall be a separate customs territory.",
+    "reference": "第一百一十二条 澳门特别行政区为单独的关税地区。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十二條　澳門特別行政區為單獨的關稅地區。"
+  },
+  {
+    "index": 281,
+    "source": "The Macao Special Administrative Region may, using the name \"Macao, China,\" participate in relevant international organizations and international trade agreements (including preferential trade arrangements), such as the General Agreement on Tariffs and Trade and arrangements regarding international trade in textiles.",
+    "reference": "澳门特别行政区可以“中国澳门”的名义参加《关税和贸易总协定》、关于国际纺织品贸易安排等有关国际组织和国际贸易协定，包括优惠贸易安排。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区可使用“中国澳门”的名义，参与有关国际组织和国际贸易协定（包括优惠贸易安排），例如关税及贸易总协定和关于国际纺织品贸易的安排。"
+  },
+  {
+    "index": 282,
+    "source": "Export quotas, tariff preferences and other similar arrangements, which are obtained or made by the Macao Special Administrative Region or which were obtained or made but remain valid, shall be enjoyed exclusively by the Region.",
+    "reference": "澳门特别行政区取得的和以前取得仍继续有效的出口配额、关税优惠和其他类似安排，全由澳门特别行政区享有。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区已获得或制定、或已获得或制定但仍然有效的出口配额、关税优惠和其他类似安排，应由该区域专享。"
+  },
+  {
+    "index": 283,
+    "source": "Article 113 The Macao Special Administrative Region may issue its own certificates of origin for products in accordance with prevailing rules of origin.",
+    "reference": "第一百一十三条 澳门特别行政区根据当时的产地规则，可对产品签发产地来源证。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十三条 澳门特别行政区可依照当时的产地规则，对产品签发原产地证书。"
+  },
+  {
+    "index": 284,
+    "source": "Article 114 The Macao Special Administrative Region shall, in accordance with law, protect the free operation of industrial and commercial enterprises and make its own policies on the development of industry and commerce.",
+    "reference": "第一百一十四条 澳门特别行政区依法保护工商企业的自由经营，自行制定工商业的发展政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十四条　澳门特别行政区依法保护工商企业的自由经营，自行制定工商业发展的政策。"
+  },
+  {
+    "index": 285,
+    "source": "The Government of the Macao Special Administrative Region shall improve the economic environment and provide legal guarantees for promoting the development of industry and commerce and for encouraging investments, technological progress and development new industries and new markets.",
+    "reference": "澳门特别行政区改善经济环境和提供法律保障，以促进工商业的发展，鼓励投资和技术进步，并开发新产业和新市场。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区政府应改善经济环境，为促进工商业发展、鼓励投资、技术进步和开发新兴产业及新兴市场提供法律保障。"
+  },
+  {
+    "index": 286,
+    "source": "Article 115 The Macao Special Administrative Region, in the light of its economic development, shall make labor policy and improve labor law on its own.",
+    "reference": "第一百一十五条 澳门特别行政区根据经济发展的情况，自行制定劳工政策，完善劳工法律。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十五條　澳門特別行政區根據經濟發展的情況，自行制定勞工政策和完善勞工法律。"
+  },
+  {
+    "index": 287,
+    "source": "The Macao Special Administrative Region shall establish consultative co-ordination organizations composed of representatives from the government, the employers' organizations and the employees' organizations.",
+    "reference": "澳门特别行政区设立由政府、雇主团体、雇员团体的代表组成的咨询性的协调组织。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区应设立由政府、雇主组织和雇员组织代表组成的咨询协调组织。"
+  },
+  {
+    "index": 288,
+    "source": "Article 116 The Macao Special Administrative Region shall maintain and improve Macao's previous systems of shipping management and shipping regulation, and make shipping policy on its own.",
+    "reference": "第一百一十六条 澳门特别行政区保持和完善原在澳门实行的航运经营和管理体制，自行制定航运政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十六条 澳门特别行政区应保持和完善澳门原有的航运管理制度和航运规章，并自行制定航运政策。"
+  },
+  {
+    "index": 289,
+    "source": "The Macao Special Administrative Region shall be authorized by the Central People's Government to maintain a shipping register and issue related certificates under its legislation, using the name \"Macao, China.\"",
+    "reference": "澳门特别行政区经中央人民政府授权可进行船舶登记，并依照澳门特别行政区的法律以“中国澳门”的名义颁发有关证件。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区经中央人民政府授权，可依照其法律，以“中国澳门”的名义，保持船舶登记，并签发有关证书。"
+  },
+  {
+    "index": 290,
+    "source": "With the exception of foreign warships, access for which requires the special permission of the Central People's Government, ships shall enjoy access to the ports of the Macao Special Administrative Region in accordance with the laws of the Region.",
+    "reference": "除外国军用船只进入澳门特别行政区须经中央人民政府特别许可外，其他船舶可依照澳门特别行政区的法律进出其港口。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "除外国军用船只（其进入须经中央人民政府特别许可）外，船舶可依照澳门特别行政区的法律进出该区域的港口。"
+  },
+  {
+    "index": 291,
+    "source": "Private shipping businesses and shipping-related businesses and terminals in the Macao Special Administrative Region may continue to operate freely.",
+    "reference": "澳门特别行政区的私营的航运及与航运有关的企业和码头可继续自由经营。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区，私人航运企业、航运相关企业及码头可以继续自由经营。"
+  },
+  {
+    "index": 292,
+    "source": "Article 117 The Government of the Macao Special Administrative Region may, with the authorization of the Central People's Government, formulate, on its own, various systems for the civil aviation management.",
+    "reference": "第一百一十七条 澳门特别行政区政府经中央人民政府具体授权可自行制定民用航空的各项管理制度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十七条　澳门特别行政区政府经中央人民政府授权，可自行制定民用航空管理的各项制度。"
+  },
+  {
+    "index": 293,
+    "source": "Article 118 The Macao Special Administrative Region shall, on its own, make policies on tourism and recreation in the light of its overall interests.",
+    "reference": "第一百一十八条 澳门特别行政区根据本地整体利益自行制定旅游娱乐业的政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十八條　澳門特別行政區根據本身整體利益自行制定旅遊娛樂政策。"
+  },
+  {
+    "index": 294,
+    "source": "Article 119 The Macao Special Administrative Region shall carry out the protection of environment in accordance with law.",
+    "reference": "第一百一十九条 澳门特别行政区政府依法实行环境保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百一十九条 澳门特别行政区依法保护环境。"
+  },
+  {
+    "index": 295,
+    "source": "Article 120 The Macao Special Administrative Region shall, in accordance with law, recognize and protect all the lawful leases of land granted or decided upon before the establishment of the Macao Special Administrative Region which extend beyond December 19, 1999, and all rights in relation to such leases.",
+    "reference": "第一百二十条 澳门特别行政区依法承认和保护澳门特别行政区成立前已批出或决定的年期超过一九九九年十二月十九日的合法土地契约和与土地契约有关的一切权利。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十条 澳门特别行政区依法保护在澳门特别行政区成立前已批出或决定的，并已跨越一九九九年十二月十九日的合法土地租赁，以及与该等租赁有关的一切权利。"
+  },
+  {
+    "index": 296,
+    "source": "The grant or renewal of land leases after the establishment of the Macao Special Administrative Region shall be dealt with in accordance with the relevant land laws and policies of the Region.",
+    "reference": "澳门特别行政区成立后新批或续批土地，按照澳门特别行政区有关的土地法律及政策处理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区成立后土地租约的批给或续期，均按照澳门特别行政区有关土地法律及政策处理。"
+  },
+  {
+    "index": 297,
+    "source": "Chapter VI Cultural and Social Affairs",
+    "reference": "第六章 文化和社会事务",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六章 文化和社会事务"
+  },
+  {
+    "index": 298,
+    "source": "Article 121 The Government of the Macao Special Administrative Region shall, on its own, formulate policies on education, including policies regarding the educational system and its administration, the language of instruction, the allocation of funds, the examination system, the recognition of educational qualifications and the system of academic awards so as to promote educational development.",
+    "reference": "第一百二十一条 澳门特别行政区政府自行制定教育政策，包括教育体制和管理、教学语言、经费分配、考试制度、承认学历和学位等政策，推动教育的发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十一条 澳门特别行政区政府自行制定教育方面的政策，包括教育体制及其管理、教学语言、经费分配、考试制度、学历认可和学术奖励制度等方面的政策，以促进教育发展。"
+  },
+  {
+    "index": 299,
+    "source": "The Government of the Macao Special Administration Region shall, in accordance with law, gradually institute a compulsory education system.",
+    "reference": "澳门特别行政区政府依法推行义务教育。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府應依照法律，逐步實行義務教育制度。"
+  },
+  {
+    "index": 300,
+    "source": "Community organizations and individuals may, in accordance with law, run educational undertakings of various kinds.",
+    "reference": "社会团体和私人可依法举办各种教育事业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "社区组织和个人可以依照法律，举办各种类型的教育事业。"
+  },
+  {
+    "index": 301,
+    "source": "Article 122 The existing educational institutions of all kinds in Macao may continue to operate. All educational institutions in the Macao Special Administrative Region shall enjoy their autonomy and teaching and academic freedom in accordance with law.",
+    "reference": "第一百二十二条 澳门原有各类学校均可继续开办。澳门特别行政区各类学校均有办学的自主性，依法享有教学自由和学术自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十二条　澳门原有各类学校均可继续办学。澳门特别行政区各学校均可在依法享有自主办学及教学自由和学术自由。"
+  },
+  {
+    "index": 302,
+    "source": "Educational institutions of all kinds may continue to recruit staff and use teaching materials from outside the Macao Special Administrative Region. Students shall enjoy freedom of choice of educational institutions and freedom to pursue their education outside the Macao Special Administrative Region.",
+    "reference": "各类学校可以继续从澳门特别行政区以外招聘教职员和选用教材。学生享有选择院校和在澳门特别行政区以外求学的自由。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "各类教育机构均可继续在澳门特别行政区以外招聘教职员工和使用教材。学生享有选择教育机构的自由和在澳门特别行政区以外接受教育的自由。"
+  },
+  {
+    "index": 303,
+    "source": "Article 123 The Government of the Macao Special Administrative Region shall, on its own, formulate policies to improve medical and health services and to develop Western and traditional Chinese medicine. Community organizations and individuals may provide various medical and health services in accordance with law.",
+    "reference": "第一百二十三条 澳门特别行政区政府自行制定促进医疗卫生服务和发展中西医药的政策。社会团体和私人可依法提供各种医疗卫生服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十三条 澳门特别行政区政府自行制定政策发展和改进医疗卫生服务，发展中西医药。 社团和个人可依法提供各种医疗卫生服务。"
+  },
+  {
+    "index": 304,
+    "source": "Article 124 The Government of the Macao Special Administrative Region shall, on its own, formulate policies on science and technology and protect by law achievements in scientific and technological research, patents, discoveries and inventions.",
+    "reference": "第一百二十四条 澳门特别行政区政府自行制定科学技术政策，依法保护科学技术的研究成果、专利和发明创造。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十四条　澳门特别行政区政府自行制定科学技术政策，并以法律保护科学技术研究成果、专利、发现和发明。"
+  },
+  {
+    "index": 305,
+    "source": "The Government of the Macao Special Administrative Region shall, on its own, decide on the scientific and technological standards and specifications applicable in Macao.",
+    "reference": "澳门特别行政区政府自行确定适用于澳门的各类科学技术标准和规格。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区政府自行决定适用于澳门的科技标准及规格。"
+  },
+  {
+    "index": 306,
+    "source": "Article 125 The Government of the Macao Special Administrative Region shall, on its own, formulate policies on culture, including literature, art, broadcasting, film and television programs.",
+    "reference": "第一百二十五条 澳门特别行政区政府自行制定文化政策，包括文学艺术、广播、电影、电视等政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府自行制定文化政策，包括文學、藝術、廣播、電影和電視節目等。"
+  },
+  {
+    "index": 307,
+    "source": "The Government of the Macao Special Administrative Region shall protect by law the achievements and the lawful rights and interests of authors in their literary, artistic and other creation.",
+    "reference": "澳门特别行政区政府依法保护作者的文学艺术及其他的创作成果和合法权益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府依法保護作者在文學、藝術和其他創作中的成果和合法權益。"
+  },
+  {
+    "index": 308,
+    "source": "The Government of the Macao Special Administrative Region shall protect by law scenic spots, historical sites and other historical relics as well as the lawful rights and interests of the owners of antiques.",
+    "reference": "澳门特别行政区政府依法保护名胜、古迹和其他历史文物，并保护文物所有者的合法权益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府依法保護名勝古蹟、歷史文物和其他歷史遺產，以及古董所有者的合法權益。"
+  },
+  {
+    "index": 309,
+    "source": "Article 126 The Government of the Macao Special Administrative Region shall, on its own, formulate policies on press and publication.",
+    "reference": "第一百二十六条 澳门特别行政区政府自行制定新闻、出版政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十六条 澳门特别行政区政府自行制定新闻和出版政策。"
+  },
+  {
+    "index": 310,
+    "source": "Article 127 The Government of the Macao Special Administrative Region shall, on its own, formulate policies on sports. Non-governmental sports organizations may continue to exist and develop in accordance with law.",
+    "reference": "第一百二十七条 澳门特别行政区政府自行制定体育政策。民间体育团体可依法继续存在和发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十七条 澳门特别行政区政府自行制定体育政策。非政府的体育组织可依法继续存在和发展。"
+  },
+  {
+    "index": 311,
+    "source": "Article 128 The Government of the Macao Special Administrative Region, consistent with the principle of religious freedom, shall not interfere in the internal affairs of religious organizations or in the efforts of religious organizations and believers in Macao to maintain and develop relations with their counterparts outside Macao, or restrict religious activities which do not contravene the laws of the Region.",
+    "reference": "第一百二十八条 澳门特别行政区政府根据宗教信仰自由的原则，不干预宗教组织的内部事务，不干预宗教组织和教徒同澳门以外地区的宗教组织和教徒保持及发展关系，不限制与澳门特别行政区法律没有抵触的宗教活动。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十八條 澳門特別行政區政府在宗教自由的原則下，不干預宗教組織的內部事務，不干預宗教組織和澳門信徒與澳門以外地方的宗教組織和信徒保持和發展關係，不限制不違反澳門地區法律的宗教活動。"
+  },
+  {
+    "index": 312,
+    "source": "Religious organizations may, in accordance with law, run seminaries and other schools, hospitals and welfare institutions and to provide other social services. Schools run by religious organizations may continue to provide religious education, including courses in religion.",
+    "reference": "宗教组织可依法开办宗教院校和其他学校、医院和福利机构以及提供其他社会服务。宗教组织开办的学校可以继续提供宗教教育，包括开设宗教课程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "宗教团体可以依照法律规定，开办神学院和其他学校、医院和社会福利机构，并提供其他社会服务。宗教团体开办的学校可以继续提供宗教教育，包括宗教课程。"
+  },
+  {
+    "index": 313,
+    "source": "Religious organizations shall, in accordance with law, enjoy the rights to acquire, use, dispose of and inherit property and the right to receive donations. Their previous property rights and interests shall be protected by law.",
+    "reference": "宗教组织依法享有财产的取得、使用、处置、继承以及接受捐献的权利。宗教组织在财产方面的原有权益依法受到保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "宗教团体按照法律规定，享有取得、使用、处分和继承财产的权利，以及接受捐赠的权利。其以往的财产权益受法律保护。"
+  },
+  {
+    "index": 314,
+    "source": "Article 129 The Government of the Macao Special Administrative Region shall, on its own, establish a system concerning the professions and, based on impartiality and rationality, formulate provisions for assessing professional qualifications or qualifications for practice in the various professions and issuing corresponding certificates.",
+    "reference": "第一百二十九条 澳门特别行政区政府自行确定专业制度，根据公平合理的原则，制定有关评审和颁授各种专业和执业资格的办法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百二十九条 澳门特别行政区政府自行确立专业制度，并依照公平、合理的原则，制定有关评审各行业专业资格或执业资格的规定，以及颁发相应的证书。"
+  },
+  {
+    "index": 315,
+    "source": "Persons with professional qualifications or qualifications for professional practice obtained prior to the establishment of the Macao Special Administrative Region may retain their previous qualifications in accordance with the relevant regulations of the Macao Special Administrative Region.",
+    "reference": "在澳门特别行政区成立以前已经取得专业资格和执业资格者，根据澳门特别行政区的有关规定可保留原有的资格。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门特别行政区成立前已取得专业资格或具备专业执业资格的人士，可按照澳门特别行政区的有关规定保留其原有的资格。"
+  },
+  {
+    "index": 316,
+    "source": "The Government of the Macao Special Administrative Region shall, in accordance with the relevant regulations, recognize the professions and the professional organizations recognized prior to the establishment of the Region and may, as required by social development and in consultation with the parties concerned, recognize new professions and professional organizations.",
+    "reference": "澳门特别行政区政府根据有关规定承认在澳门特别行政区成立以前已被承认的专业和专业团体，并可根据社会发展需要，经咨询有关方面的意见，承认新的专业和专业团体。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府依照有關規定，對在澳門特別行政區成立前已獲得承認的專業和專業組織，予以承認；並可因應社會發展的需要，經與有關方面協商，承認新的專業和專業組織。"
+  },
+  {
+    "index": 317,
+    "source": "Article 130 On the basis of the previous social welfare system, the Government of the Macao Special Administrative Region shall, on its own, formulate policies on the development and improvement of the social welfare system in the light of the economic conditions and social needs.",
+    "reference": "第一百三十条 澳门特别行政区政府在原有社会福利制度的基础上，根据经济条件和社会需要自行制定有关社会福利的发展和改进的政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区政府在原有社会福利制度的基础上，根据经济状况和社会需要，自行制定社会福利事业发展、完善的政策。"
+  },
+  {
+    "index": 318,
+    "source": "Article 131 local organizations providing social services in the Macao Special Administrative Region may, on their own, decide their forms of service, provided that the law is not contravened.",
+    "reference": "第一百三十一条 澳门特别行政区的社会服务团体，在不抵触法律的情况下，可以自行决定其服务方式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在不违反法律的前提下，澳门特别行政区内提供社会服务的第131条本地组织可以自行决定其服务形式。"
+  },
+  {
+    "index": 319,
+    "source": "Article 132 The Government of the Macao Special Administrative Region shall, when necessary and possible, gradually improve the policy previously practiced in Macao in respect of subventions for non-governmental organizations in fields such as education, science, technology, culture, sports, recreation, medicine and health, social welfare and social work.",
+    "reference": "第一百三十二条 澳门特别行政区政府根据需要和可能逐步改善原在澳门实行的对教育、科学、技术、文化、体育、康乐、医疗卫生、社会福利、社会工作等方面的民间组织的资助政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十二条 澳门特别行政区政府在有需要和可能的情况下，应逐步完善澳门原有对非政府机构在教育、科学、技术、文化、体育、康乐、医疗卫生、社会福利和社会工作等领域资助的政策。"
+  },
+  {
+    "index": 320,
+    "source": "Article 133 The relationship between non-governmental organizations in fields such as education, science, technology, culture, news media, publication, sports, recreation, the professions, medicine and health, labor, women, youth, returned overseas nationals, social welfare and social work as well as religious organizations in the Macao Special Administrative Region and their counterparts in other parts of the country shall be based on the principles of non-subordination, non-interference and mutual respect.",
+    "reference": "第一百三十三条 澳门特别行政区的教育、科学、技术、文化、新闻、出版、体育、康乐、专业、医疗卫生、劳工、妇女、青年、归侨、社会福利、社会工作等方面的民间团体和宗教组织同全国其他地区相应的团体和组织的关系，以互不隶属、互不干涉、互相尊重的原则为基础。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十三条 澳门特别行政区内的教育、科学、技术、文化、新闻、出版、体育、康乐、专业、医疗卫生、劳工、妇女、青年、归侨、社会福利、社会工作等方面的民间团体及宗教组织同全国其他地方相应的团体和组织的关系，应以互不隶属、互不干涉和互相尊重的原则为基础。"
+  },
+  {
+    "index": 321,
+    "source": "Article 134 Non-governmental organizations in fields such as education, science, technology, culture, news media, publication, sports, recreation, the professions, medicine and health, labor, women, youth, returned overseas nationals, social welfare and social work as well as religious organizations in the Macao Special Administrative Region may maintain and develop relations with their counterparts in foreign countries and regions and with relevant international organizations. They may, as required, use the name \"Macao, China\" in the relevant activities.",
+    "reference": "第一百三十四条 澳门特别行政区的教育、科学、技术、文化、新闻、出版、体育、康乐、专业、医疗卫生、劳工、妇女、青年、归侨、社会福利、社会工作等方面的民间团体和宗教组织可同世界各国、各地区及国际的有关团体和组织保持和发展关系，各该团体和组织可根据需要冠用“中国澳门”的名义，参与有关活动。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十四条 澳门特别行政区内的教育、科学、技术、文化、新闻、出版、体育、康乐、专业、医疗卫生、劳工、妇女、青年、归侨、社会福利、社会工作等方面的民间团体以及宗教组织，均可同外国、境外的有关团体和国际组织保持和发展关系。他们可根据需要以“中国澳门”的名义参与有关活动。"
+  },
+  {
+    "index": 322,
+    "source": "Chapter VII External Affairs",
+    "reference": "第七章 对外事务",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七章 对外事务"
+  },
+  {
+    "index": 323,
+    "source": "Article 135 Representatives of the Government of the Macao Special Administrative Region may, as members of delegations of the Government of the People's Republic of China, participate in negotiations at the diplomatic level directly affecting the Region conducted by the Central People's Government.",
+    "reference": "第一百三十五条 澳门特别行政区政府的代表，可作为中华人民共和国政府代表团的成员，参加由中央人民政府进行的同澳门特别行政区真接有关的外交谈判。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区政府的代表，可以作为中华人民共和国政府代表团的成员，参与由中央人民政府进行的、直接影响该地区的外交层面的谈判。"
+  },
+  {
+    "index": 324,
+    "source": "Article 136 The Macao Special Administrative Region may, on its own and using the name \"Macao, China,\" maintain and develop relations and conclude and implement agreements with foreign states and regions and relevant international organizations in the appropriate fields, including the economic, trade, financial and monetary, shipping, communications, tourism, cultural, science and technology, and sports fields.",
+    "reference": "第一百三十六条 澳门特别行政区可在经济、贸易、金融、航运、通讯、旅游、文化、科技、体育等适当领域以“中国澳门”的名义，单独地同世界各国、各地区及有关国际组织保持和发展关系，签订和履行有关协议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十六条 澳门特别行政区可在经济、贸易、金融、货币、航运、通讯、旅游、文化、科学、技术和体育等适当领域以“中国澳门”的名义，自行与各国、各地区及有关国际组织保持和发展关系，签订和履行有关协议。"
+  },
+  {
+    "index": 325,
+    "source": "Article 137 Representatives of the Government of the Macao Special Administrative Region may, as members of delegations of the People's Republic of China, participate in international organizations or conferences in appropriate fields limited to states and affecting the Region, or may attend in such other capacity as may be permitted by the Central People's Government and the international organizations or conference concerned, and may express their views, using the name \"Macao, China.\"",
+    "reference": "第一百三十七条 对以国家为单位参加的、同澳门特别行政区有关的、适当领域的国际组织和国际会议，澳门特别行政区政府可派遣代表作为中华人民共和国代表团的成员或以中央人民政府和上述有关国际组织或国际会议允许的身份参加，并以“中国澳门”的名义发表意见。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十七条 澳门特别行政区政府代表，可以中华人民共和国代表团成员的身份，参加仅限于国家参加的、与澳门相关的适当领域的国际组织或会议，或者可以中央人民政府和有关国际组织或会议允许的其他身份参加，并可以用“中国澳门”的名义发表意见。"
+  },
+  {
+    "index": 326,
+    "source": "The Macao Special Administrative Region may, using the name \"Macao, China,\" participate in international organizations and conferences not limited to states.",
+    "reference": "澳门特别行政区可以“中国澳门”的名义参加不以国家为单位参加的国际组织和国际会议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区可以“中国澳门”的名义，参加不限于主权国家的国际组织和会议。"
+  },
+  {
+    "index": 327,
+    "source": "The Central People's Government shall, in accordance with the circumstances and needs of the Region, take measures to ensure that the Macao Special Administrative Region shall continue to retain its status in an appropriate capacity in those international organizations of which the People's Republic of China is a member and in which Macao participates in one capacity or another.",
+    "reference": "对中华人民共和国已参加而澳门也以某种形式参加的国际组织，中央人民政府将根据情况和澳门特别行政区的需要采取措施，使澳门特别行政区以适当形式继续保持在这些组织中的地位。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中央人民政府应根据澳门特别行政区的情况和需要，采取措施，确保澳门特别行政区以适当身份继续保持在中华人民共和国已参加而澳门以某种身份参与的国际组织中的地位。"
+  },
+  {
+    "index": 328,
+    "source": "The Central People's Government shall, in accordance with the circumstances and needs of the Region, facilitate the continued participation of the Macao Special Administrative Region in an appropriate capacity in those international organizations in which Macao is a participant in one capacity or another, but of which the People's Republic of China is not a member.",
+    "reference": "对中华人民共和国尚未参加而澳门已以某种形式参加的国际组织，中央人民政府将根据情况和需要使澳门特别行政区以适当形式继续参加这些组织。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中央人民政府应根据澳门特别行政区的情况和需要，促使澳门特别行政区继续以适当身份参与那些澳门以某种身份参与但中华人民共和国不是成员的国际组织。"
+  },
+  {
+    "index": 329,
+    "source": "Article 138 The application to the Macao Special Administrative Region of international agreements to which the People's Republic of China is a member or becomes a party shall be decided by the Central People's Government, in accordance with the circumstances and needs of the Region, and after seeking the views of the government of the Region.",
+    "reference": "第一百三十八条 中华人民共和国缔结的国际协议，中央人民政府可根据情况和澳门特别行政区的需要，在征询澳门特别行政区政府的意见后，决定是否适用于澳门特别行政区。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十八条 中华人民共和国缔结或参加的国际协议适用于澳门特别行政区，由中央人民政府根据澳门特别行政区的情况和需要决定，并征求澳门特别行政区政府的意见。"
+  },
+  {
+    "index": 330,
+    "source": "International agreements to which the People's Republic of China is not a party but which are implemented in Macao may continue to be implemented in the Macao Special Administrative Region.",
+    "reference": "中华人民共和国尚未参加但已适用于澳门的国际协议仍可继续适用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国尚未加入但已在澳门实施的国际协定，可在澳门特别行政区继续实施。"
+  },
+  {
+    "index": 331,
+    "source": "The Central People's Government shall, as necessary, authorize or assist the government of the Region to make appropriate arrangements for the application to the Region of other relevant international agreements.",
+    "reference": "中央人民政府根据情况和需要授权或协助澳门特别行政区政府作出适当安排，使其他与其有关的国际协议适用于澳门特别行政区。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "必要时，中央人民政府应授权或协助特别行政区政府为有关国际协定的适用于该区域作出适当安排。"
+  },
+  {
+    "index": 332,
+    "source": "Article 139 The Central People's Government shall authorize the Government of the Macao Special Administrative Region to issue, in accordance with law, passports of the Macao Special Administrative Region of the People's Republic of China to all Chinese citizens who hold permanent identity cards of the Region, and travel documents of the Macao Special Administrative Region of the People's Republic of China to all other persons lawfully residing in the Region. The above passports and travel documents shall be valid for all states and regions and shall record the holder's right to return to the Region.",
+    "reference": "第一百三十九条 中央人民政府授权澳门特别行政区政府依照法律给持有澳门特别行政区永久性居民身份证的中国公民签发中华人民共和国澳门特别行政区护照，给在澳门特别行政区的其他合法居留者签发中华人民共和国澳门特别行政区的其他旅行证件。上述护照和旅行证件，前往各国和各地区有效，并载明持有人有返回澳门特别行政区的权利。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百三十九条 中央人民政府授权澳门特别行政区政府依照法律签发中华人民共和国澳门特别行政区护照给所有持有澳门特别行政区永久性居民身份证的中国公民，并签发中华人民共和国澳门特别行政区旅行证件给所有其他合法居于澳门特别行政区的人。上述护照和旅行证件，于所有国家和地区有效，并载明持有人有权返回澳门特别行政区。"
+  },
+  {
+    "index": 333,
+    "source": "The Government of the Macao Special Administrative Region may apply immigration controls on entry into, stay in and departure from the Region by persons from foreign states or regions.",
+    "reference": "对世界各国或各地区的人入境、逗留和离境，澳门特别行政区政府可实行出入境管制。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區政府可對外國或地區人士入境、逗留和離境實施出入境管制。"
+  },
+  {
+    "index": 334,
+    "source": "Article 140 The Central People's Government shall assist or authorize the Government of the Macao Special Administrative Region to negotiate and conclude visa abolition agreements with relevant foreign states or regions.",
+    "reference": "第一百四十条 中央人民政府协助或授权澳门特别行政区政府同有关国家和地区谈判和签订互免签证协议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百四十条 中央人民政府应协助或授权澳门特别行政区政府与有关国家或地区谈判和缔结互免签证协议。"
+  },
+  {
+    "index": 335,
+    "source": "Article 141 The Macao Special Administrative Region may, as necessary, establish official or semi-official economic and trade missions in foreign countries and shall report the establishment of such missions to the Central People's Government for the record.",
+    "reference": "第一百四十一条 澳门特别行政区可根据需要在外国设立官方或半官方的经济和贸易机构，报中央人民政府备案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百四十一條 澳門特別行政區可在外國設立官方或半官方的經濟貿易機構，必要時，須將設立情況報中央人民政府備案。"
+  },
+  {
+    "index": 336,
+    "source": "Article 142 The establishment of foreign consular and other official or semi-official missions in the Macao Special Administrative Region shall require the approval of the Central People's Government.",
+    "reference": "第一百四十二条 外国在澳门特别行政区设立领事机构或其他官方、半官方机构，须经中央人民政府批准。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百四十二条 外国在澳门特别行政区设立领事机构或其他官方、半官方机构，须经中央人民政府批准。"
+  },
+  {
+    "index": 337,
+    "source": "Consular and other official missions established in Macao by states which have formal diplomatic relations with the People's Republic of China may be maintained.",
+    "reference": "已同中华人民共和国建立正式外交关系的国家在澳门设立的领事机构和其他官方机构，可予保留。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "与中华人民共和国有正式外交关系的国家在澳门设立的领事及其他官方代表机构可以保留。"
+  },
+  {
+    "index": 338,
+    "source": "According to the circumstances of each case, consular and other official missions established in Macao by states which have no formal diplomatic relations with the People's Republic of China may either remain or change to semi-official missions.",
+    "reference": "尚未同中华人民共和国建立正式外交关系的国家在澳门设立的领事机构和其他官方机构，可根据情况予以保留或改为半官方机构。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "根据个案的具体情况，未与中华人民共和国建立正式外交关系的国家在澳门设立的领事馆和其他官方机构，可以继续保留或转为半官方机构。"
+  },
+  {
+    "index": 339,
+    "source": "States not recognized by the People's Republic of China may only establish non-governmental institutions in the Region.",
+    "reference": "尚未为中华人民共和国承认的国家，只能在澳门特别行政区设立民间机构。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "未被中华人民共和国承认的国家可能只能在该地区设立非政府机构。"
+  },
+  {
+    "index": 340,
+    "source": "Chapter VIII Interpretation and Amendment of the Basic Law",
+    "reference": "第八章 本法的解释和修改",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八章 基本法的解释和修改"
+  },
+  {
+    "index": 341,
+    "source": "Article 143 The power of interpretation of this Law shall be vested in the Standing Committee of the National People's Congress. The Standing Committee of the National People's Congress shall authorize the courts of the Macao Special Administrative Region to interpret on their own, in adjudicating cases, the provisions of this Law which are within the limits of the autonomy of the Region.",
+    "reference": "第一百四十三条 本法的解释权属于全国人民代表大会常务委员会。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百四十三条　本法的解释权属于全国人民代表大会常务委员会。全国人民代表大会常务委员会授权澳门特别行政区法院在审理案件时对本法关于澳门特别行政区自治范围内的条款自行解释。"
+  },
+  {
+    "index": 342,
+    "source": "The courts of the Macao Special Administrative Region may also interpret other provisions of this Law in adjudicating cases.",
+    "reference": "全国人民代表大会常务委员会授权澳门特别行政区法院在审理案件时对本法关于澳门特别行政区自治范围内的条款自行解释。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区法院在审理案件时，也可解释本法其他条款。"
+  },
+  {
+    "index": 343,
+    "source": "However, if the courts of the Region, in adjudicating cases, need to interpret the provisions of this Law concerning affairs which are the responsibility of the Central People's Government, or concerning the relationship between the Central Authorities and the Region, and if such interpretation will affect the judgments in the cases, the courts of the Region shall, before making their final judgments which are not appealable, seek an interpretation of the relevant provisions from the Standing Committee of the National People's Congress through the Court of Final Appeal of the Region. When the Standing Committee makes an interpretation of the provisions concerned, the courts of the Region, in applying those provisions, shall follow the interpretation of the Standing Committee. However, judgments previously rendered shall not be affected.",
+    "reference": "澳门特别行政区法院在审理案件时对本法的其他条款也可解释。但如澳门特别行政区法院在审理案件时需要对本法关于中央人民政府管理的事务或中央和澳门特别行政区关系的条款进行解释，而该条款的解释又影响到案件的判决，在对该案件作出不可上诉的终局判决前，应由澳门特别行政区终审法院提请全国人民代表大会常务委员会对有关条款作出解释。如全国人民代表大会常务委员会作出解释，澳门特别行政区法院在引用该条款时，应以全国人民代表大会常务委员会的解释为准。但在此以前作出的判决不受影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，区域的法院在审理案件时，如果需要解释本法中关于属于中央人民政府职责范围内的事务的条款，或关于中央与区域之间关系的条款，并且这种解释会影响案件的判决，则区域的法院在作出不可上诉的终审判决前，应通过区域终审法院提请全国人民代表大会常务委员会对有关条款作出解释。全国人民代表大会常务委员会对有关条款作出解释后，区域的法院在适用这些条款时，应遵循全国人民代表大会常务委员会的解释。但是，先前作出的判决不受影响。"
+  },
+  {
+    "index": 344,
+    "source": "The Standing Committee of the National People's Congress shall consult its Committee for the Basic Law of the Macao Special Administrative Region before giving an interpretation of this Law.",
+    "reference": "全国人民代表大会常务委员会在对本法进行解释前，征询其所属的澳门特别行政区基本法委员会的意见。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "全国人民代表大会常务委员会在解释本法前，应征询其澳门特别行政区基本法委员会的意见。"
+  },
+  {
+    "index": 345,
+    "source": "Article 144 The power of amendment of this Law shall be vested in the National People's Congress.",
+    "reference": "第一百四十四条 本法的修改权属于全国人民代表大会。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百四十四条 本法的修改权属于全国人民代表大会。"
+  },
+  {
+    "index": 346,
+    "source": "The power to propose bills for amendments to this Law shall be vested in the Standing Committee of the National People's Congress, the State Council, and the Macao Special Administrative Region. Amendment bills from the Macao Special Administrative Region shall be submitted to the National People's Congress by the delegation of the Region to the National People's Congress after obtaining the consent of two-thirds of the deputies of the Region to the National People's Congress, two-thirds of all the members of the Legislative Council of the Region, and the Chief Executive of the Region.",
+    "reference": "本法的修改提案权属于全国人民代表大会常务委员会、国务院和澳门特别行政区。澳门特别行政区的修改议案，须经澳门特别行政区的全国人民代表大会代表三分之二多数、澳门特别行政区立法会全体议员三分之二多数和澳门特别行政区行政长官同意后，交由澳门特别行政区出席全国人民代表大会的代表团向全国人民代表大会提出。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本法律修正案的议案权属于全国人民代表大会常务委员会、国务院和澳门特别行政区。澳门特别行政区的修正案议案，须经该地区出席全国人民代表大会的代表三分之二、该地区立法会全体议员三分之二以及该地区行政长官同意后，由该地区出席全国人民代表大会的代表团向全国人民代表大会提出。"
+  },
+  {
+    "index": 347,
+    "source": "Before a bill for amendment to this Law is put on the agenda of the National People's Congress, the Committee for the Basic Law of the Macao Special Administrative Region shall study it and submit its views.",
+    "reference": "本法的修改议案在列入全国人民代表大会的议程前，先由澳门特别行政区基本法委员会研究并提出意见。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "关于修改本法的法案列入全国人民代表大会议程前，澳门特别行政区基本法委员会应当进行研究并提出意见。"
+  },
+  {
+    "index": 348,
+    "source": "No amendment to this Law shall contravene the established basic policies of the People's Republic of China regarding Macao.",
+    "reference": "本法的任何修改，均不得同中华人民共和国对澳门既定的基本方针政策相抵触。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对本法的任何修改不得违反中华人民共和国既定的关于澳门的基本方针政策。"
+  },
+  {
+    "index": 349,
+    "source": "Chapter IX Supplementary Provisions",
+    "reference": "第九章 附则",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九章 附则"
+  },
+  {
+    "index": 350,
+    "source": "Article 145 Upon the establishment of the Macao Special Administrative Region, the laws previously in force in Macao shall be adopted as laws of the Region except for those which the Standing Committee of the National People's Congress declares to be in contravention of this Law. If any laws are later discovered to be in contravention of this Law, they shall be amended or cease to have force in accordance with the provisions of this Law and legal procedure.",
+    "reference": "第一百四十五条 澳门特别行政区成立时，澳门原有法律除由全国人民代表大会常务委员会宣布为同本法抵触者外，采用为澳门特别行政区法律，如以后发现有的法律与本法抵触，可依照本法规定和法定程序修改或停止生效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一百四十五条 澳门特别行政区成立时，澳门原有法律除同全国人民代表大会常务委员会宣布抵触本法的以外，采用为澳门特别行政区法律。以后如发现有法律与本法抵触，可依照本法规定的程序修改或停止生效。"
+  },
+  {
+    "index": 351,
+    "source": "Documents, certificates and contracts valid under the laws previously in force in Macao, and the rights and obligations provided for in such documents, certificates or contracts shall continue to be valid and be recognized and protected by the Macao Special Administrative Region, provided that they do not contravene this Law.",
+    "reference": "根据澳门原有法律取得效力的文件、证件、契约及其所包含的权利和义务，在不抵触本法的前提下继续有效，受澳门特别行政区的承认和保护。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在澳门原有法律下有效的文件、证件和合同，以及由此类文件、证件或合同规定的权利和义务，继续有效，并受澳门特别行政区承认和保护，但不得与本法相抵触。"
+  },
+  {
+    "index": 352,
+    "source": "The contracts signed by the Portuguese Macao Government whose terms of validity extend beyond December 19 1999 shall continue to be valid except those which a body authorized by the Central People's Government publicly declares to be inconsistent with the provisions about transitional arrangements contained in the Sino-Portuguese Joint Declaration and which need to be re-examined by the Government of the Macao Special Administrative Region.",
+    "reference": "原澳门政府所签订的有效期超过一九九九年十二月十九日的契约，除中央人民政府授权的机构已公开宣布为不符合中葡联合声明关于过渡时期安排的规定，须经澳门特别行政区政府重新审查者外，继续有效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由葡萄牙澳门政府签署的有效期延至1999年12月19日以后的合同继续有效，但由中央人民政府授权的机构公开声明与《中葡联合声明》中关于过渡期安排的规定不符，且需要澳门特别行政区政府重新审查的合同除外。"
+  },
+  {
+    "index": 353,
+    "source": "Method for the Selection of the Chief Executive of the Macao Special Administrative Region",
+    "reference": "澳门特别行政区行政长官的产生办法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳門特別行政區行政長官產生辦法"
+  },
+  {
+    "index": 354,
+    "source": "1. The Chief Executive shall be elected by a broadly representative Election Committee in accordance with this Law and appointed by the Central People's Government.",
+    "reference": "一、行政长官由一个具有广泛代表性的选举委员会依照本法选出，由中央人民政府任命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "行政长官由具有广泛代表性的选举委员会依照本法选出，由中央人民政府任命。"
+  },
+  {
+    "index": 355,
+    "source": "2. The Election Committee shall be composed of 300 members from the following sectors:",
+    "reference": "二、选举委员会委员共300人，由下列各界人士组成：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "2. 选举委员会应由下列界别的300名委员组成："
+  },
+  {
+    "index": 356,
+    "source": "Industrial, commercial and financial sectors 100",
+    "reference": "工商、金融界 100人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "工业、商业和金融部门100"
+  },
+  {
+    "index": 357,
+    "source": "Cultural and educational sectors and other professions 80",
+    "reference": "文化、教育、专业等界 80人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "文化教育等部门及其他行业80"
+  },
+  {
+    "index": 358,
+    "source": "Labor, social services, religious and other sectors  80",
+    "reference": "劳工、社会服务、宗教等界 80人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "劳工、社会服务、宗教及其他领域 80"
+  },
+  {
+    "index": 359,
+    "source": "Representatives of members of the Legislative Council, representatives of members of the municipal organs, Macao deputies to the National People's Congress, and representatives of Macao members of the National Committee of the Chinese People's Political Consultative Conference .....................40",
+    "reference": "立法会议员的代表、市政机构成员的代表、澳门地区全国人大代表、澳门地区全国政协委员的代表 40人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "立法会委员代表、市政机关委员代表、澳门全国人大代表、以及全国政协澳门委员代表....................40"
+  },
+  {
+    "index": 360,
+    "source": "The term of office of the Election Committee shall be five years.",
+    "reference": "选举委员会每届任期五年。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "选举委员会的任期为五年。"
+  },
+  {
+    "index": 361,
+    "source": "3. The delimitation of the various sectors, the organizations in each sector eligible to return Election Committee members and the number of such members returned by each of these organizations shall be prescribed by an electoral law enacted by the Macao Special Administrative Region in accordance with the principles of democracy and openness.",
+    "reference": "三、各个界别的划分，以及每个界别中何种组织可以产生选举委员会委员的名额，由澳门特别行政区根据民主、开放的原则制定选举法加以规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "3. 各个界别的划分，每个界别中有资格选出选举委员会委员的机构以及每个机构选出的委员名额，均由澳门特别行政区依照民主和公开的原则制定的选举法规定。"
+  },
+  {
+    "index": 362,
+    "source": "Corporate bodies in various sectors shall, on their own, elect members to the Election Committee, in accordance with the number of seats allocated and the election methods as prescribed by the electoral law.",
+    "reference": "各界别法定团体根据选举法规定的分配名额和选举办法自行选出选举委员会委员。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "各界别中的公司团体应按照选举法规定的席位分配和选举办法，自行选举产生选举委员会委员。"
+  },
+  {
+    "index": 363,
+    "source": "Members of the Election Committee shall vote in their individual capacities.",
+    "reference": "选举委员会委员以个人身份投票。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "选举委员会委员以个人身份投票。"
+  },
+  {
+    "index": 364,
+    "source": "4. Candidates for the office of Chief Executive may be nominated jointly by not less than 50 members of the Election Committee. Each member may nominate only one candidate.",
+    "reference": "四、不少于50名的选举委员会委员可联合提名行政长官候选人。每名委员只可提出一名候选人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "4. 行政长官候选人可由不少于50名选举委员会委员联合提名。每名委员仅可提名一名候选人。"
+  },
+  {
+    "index": 365,
+    "source": "5. The Election Committee shall, on the basis of the list of the nominees, elect the Chief Executive designate by secret ballot on a one-person-one-vote basis. The specific election method shall he prescribed by the electoral law.",
+    "reference": "五、选举委员会根据提名的名单，经一人一票无记名投票选出行政长官候选人。具体选举办法由选举法规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "选举委员会应根据被提名人名单，以一人一票的无记名投票方式选出候任行政长官。具体选举办法由选举法规定。"
+  },
+  {
+    "index": 366,
+    "source": "6. The first Chief Executive shall be selected in accordance with the \"Decision of the National People's Congress of the People's Republic of China on the Method for the Election of the First Government, the First Legislative Council and the First Judiciary of the Macao Special Administrative Region.\"",
+    "reference": "六、第一任行政长官按照《全国人民代表大会关于澳门特别行政区第一届政府、立法会和司法机关产生办法的决定》产生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "6. 首任行政长官应根据《中华人民共和国全国人民代表大会关于澳门特别行政区第一届政府、第一届立法会和第一届司法机关产生办法的决定》选出。"
+  },
+  {
+    "index": 367,
+    "source": "7. If there is a need to amend the method for selecting the Chief Executive for the terms subsequent to the year 2009, such amendments must be made with the endorsement of a two-thirds majority of all the members of the Legislative Council and the consent of the Chief Executive, and they shall be reported to the Standing Committee of the National People's Congress for approval.",
+    "reference": "七、二00九年及以后行政长官的产生办法如需修改，须经立法会全体议员三分之二多数通过，行政长官同意，并报全国人民代表大会常务委员会批准。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七，如需修改2009年后历任行政长官产生办法，该等修改须经立法会全体议员三分之二多数通过，行政长官同意，并报全国人民代表大会常务委员会批准。"
+  },
+  {
+    "index": 368,
+    "source": "Annex II",
+    "reference": "附II：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "附件二"
+  },
+  {
+    "index": 369,
+    "source": "Method for the Formation of the Legislative Council of the Macao Special Administrative Region",
+    "reference": "澳门特别行政区立法会的产生办法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区立法会产生办法"
+  },
+  {
+    "index": 370,
+    "source": "I. In the first term, the Legislative Council shall be formed in accordance with the \"Decision of the National People's Congress of the People's Republic of China on the Method for the Formation of the First Government, the First Legislative Council and the First Judiciary of the Macao Special Administrative Region.\"",
+    "reference": "一、澳门特别行政区第一届立法会按照《全国人民代表大会关于澳门特别行政区第一届政府、立法会和司法机关产生办法的决定》产生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一届立法会依照《中华人民共和国全国人民代表大会关于澳门特别行政区第一届政府、第一届立法会和第一届司法机关产生办法的决定》组成。"
+  },
+  {
+    "index": 371,
+    "source": "The Legislative Council in the second term shall be composed of 27:",
+    "reference": "第二届立法会由27人组成，其中：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二届立法委员会由27名议员组成："
+  },
+  {
+    "index": 372,
+    "source": "Members directly returned 10",
+    "reference": "直接选举的议员 10人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "会员直接退回了 10 个"
+  },
+  {
+    "index": 373,
+    "source": "Members indirectly returned 10",
+    "reference": "间接选举的议员　10人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "成员间接退还了10个"
+  },
+  {
+    "index": 374,
+    "source": "Appointed members 7",
+    "reference": "委任的议员　7人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "委任成员 7"
+  },
+  {
+    "index": 375,
+    "source": "The Legislative Council in the third and subsequent terms shall be composed of 29:",
+    "reference": "第三届及以后各届立法会由29人组成，其中：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三届及以后各届立法会的议员名额为29人："
+  },
+  {
+    "index": 376,
+    "source": "Members directly returned 12",
+    "reference": "直接选举的议员 12人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "成员直接返回了12"
+  },
+  {
+    "index": 377,
+    "source": "Members indirectly returned 10",
+    "reference": "间接选举的议员　10人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "成员间接返回了10。"
+  },
+  {
+    "index": 378,
+    "source": "Appointed members 7",
+    "reference": "委任的议员7人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "委任成员 7"
+  },
+  {
+    "index": 379,
+    "source": "II. The method for electing members of the Legislative Council shall be specified by an electoral law introduced by the Government of the Macao Special Administrative Region and passed by the Legislative Council.",
+    "reference": "二、议员的具体选举办法，由澳门特别行政区政府提出并经立法会通过的选举法加以规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "二、立法会委员的产生办法由澳门特别行政区政府提出并经立法会通过的选举法规定。"
+  },
+  {
+    "index": 380,
+    "source": "III. If there is a need to change the method for forming the Legislative Council of the Macao Special Administrative Region in and after 2009, such amendments must be made with the endorsement of two-thirds majority of all the members of the Council and the consent of the Chief Executive, and they shall he reported to the Standing Committee of the National People's Congress for the record.",
+    "reference": "三、二00九年及以后澳门特别行政区立法会的产生办法如需修改，须经立法会全体议员三会之二多数通过，行政长官同意，并报全国人民代表大会常务委员会备案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "三、如在2009年及以后需要修改澳门特别行政区立法会的产生办法，此类修改须经立法会全体议员三分之二多数通过，行政长官同意，并报全国人民代表大会常务委员会备案。"
+  },
+  {
+    "index": 381,
+    "source": "Annex III",
+    "reference": "附 III：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "附件三"
+  },
+  {
+    "index": 382,
+    "source": "National Laws Be Applied in the Macao Special Administrative Region",
+    "reference": "在澳门特别行政区实施的全国性法律",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "澳门特别行政区适用全国性法律。"
+  },
+  {
+    "index": 383,
+    "source": "The following national laws shall be applied locally with effect from December 20, 1999 by way of promulgation or legislation by the Macao Special Administrative Region:",
+    "reference": "下列全国性法律，自一九九九年十二月二十日起由澳门特别行政区在当地公布或立法实施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "下列全国性法律由澳门特别行政区自1999年12月20日起通过公布或立法等方式在当地实施："
+  },
+  {
+    "index": 384,
+    "source": "1. Resolution on the Capital, Calendar, National Anthem and National Flag of the People's Republic of China",
+    "reference": "一、《关于中华人民共和国国都、纪年、国歌、国旗的决议》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1. 关于中华人民共和国首都、历法、国歌和国旗的决议"
+  },
+  {
+    "index": 385,
+    "source": "2. Resolution on the National Day of the People's Republic of China",
+    "reference": "二、《关于中华人民共和国国庆日的决议》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "关于庆祝中华人民共和国国庆节的决议"
+  },
+  {
+    "index": 386,
+    "source": "3. Nationality Law of the People's Republic of China",
+    "reference": "三、《中华人民共和国国籍法》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国国籍法"
+  },
+  {
+    "index": 387,
+    "source": "4. Regulations of the People's Republic of China Concerning Diplomatic Privileges and Immunities",
+    "reference": "四、《中华人民共和国外交特权与豁免条例》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国外交特权与豁免条例"
+  },
+  {
+    "index": 388,
+    "source": "5. Regulations of the People's Republic of China Concerning Consular Privileges and Immunities",
+    "reference": "五、《中华人民共和国领事特权与豁免条例》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国领事特权与豁免条例"
+  },
+  {
+    "index": 389,
+    "source": "6. Law of the People's Republic of China on the National Flag",
+    "reference": "六、《中华人民共和国国旗法》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国国旗法"
+  },
+  {
+    "index": 390,
+    "source": "7. Law of the People's Republic of China on the National Emblem",
+    "reference": "七、《中华人民共和国国徽法》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国国徽法"
+  },
+  {
+    "index": 391,
+    "source": "8. Law of the People's Republic of China on the Territorial Sea and the Contiguous Zone",
+    "reference": "八、《中华人民共和国领海及毗连区法》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "8. 中华人民共和国领海及毗连区法"
+  },
+  {
+    "index": 392,
+    "source": "Law of the People’s Republic of China on the Promotion of Small and Medium-sized Enterprises",
+    "reference": "中华人民共和国中小企业促进法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中华人民共和国中小企业促进法"
+  },
+  {
+    "index": 393,
+    "source": "(Adopted at the 28th Meeting of the Standing Committee of the Ninth National People’s Congress of the People’s Republic of China on June 29, 2002)",
+    "reference": "（2002年6月29日第九届全国人民代表大会常务委员会第二十八次会议通过）",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "（2002年6月29日第九届全国人民代表大会常务委员会第二十八次会议通过）"
+  },
+  {
+    "index": 394,
+    "source": "Chapter 1 General Provisions",
+    "reference": "第一章　总则",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一章 总则"
+  },
+  {
+    "index": 395,
+    "source": "Article 1 This Law has been enacted in order to improve the business environment and healthy development of small and medium-sized enterprises, to create more employment opportunities in cities and villages, and to bring into play the important role of small and medium-sized enterprises in the national economy and social development.",
+    "reference": "第一条　为了改善中小企业经营环境，促进中小企业健康发展，扩大城乡就业，发挥中小企业在国民经济和社会发展中的重要作用，制定本法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一条 为了改善中小企业经营环境，促进中小企业健康发展，增加城乡就业机会，发挥中小企业在国民经济和社会发展中的重要作用，制定本法。"
+  },
+  {
+    "index": 396,
+    "source": "Article 2 The “small and medium-sized enterprises” as used in this Law shall refer to the enterprises of various kinds of ownerships and in various kinds of forms that are established according to law within the People’s Republic of China and are conducive to meeting the social needs and increasing the employment, that comply with the industrial policies of the State and whose scale of production and operation is small and medium-sized.",
+    "reference": "第二条　本法所称中小企业，是指在中华人民共和国境内依法设立的有利于满足社会需要，增加就业，符合国家产业政策，生产经营规模属于中小型的各种所有制和各种形式的企业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二条 本法所称中小企业，是指在中华人民共和国境内依法设立的，有各种所有制形式的、采取各种组织形式的，有利于满足社会需要、增加就业，符合国家产业政策，生产经营规模属于中小型的企业。"
+  },
+  {
+    "index": 397,
+    "source": "The standard for classifying small and medium-sized enterprises shall be formulated by the department of the State Council in charge of enterprises work according to the indexes such as the number of employees, the sales value and the total assets of the enterprises and in light of the characteristics of the industries, and the standard shall be subject to the approval of the State Council.",
+    "reference": "中小企业的划分标准由国务院负责企业工作的部门根据企业职工人数、销售额、资产总额等指标，结合行业特点制定，报国务院批准。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "划分中型企业和小型企业的标准，由国务院负责企业工作的部门根据企业的从业人员数量、销售额和资产总额等指标，结合行业的特点制定，并报国务院批准。"
+  },
+  {
+    "index": 398,
+    "source": "Article 3 The State shall apply the guidelines with respect to small and medium-sized enterprises such as actively supporting, strengthening the direction, improving the service, regulating according to law and guaranteeing their rights and interests, and thus create favorable environment for the establishment and development of small and medium-sized enterprises.",
+    "reference": "第三条　国家对中小企业实行积极扶持、加强引导、完善服务、依法规范、保障权益的方针，为中小企业创立和发展创造有利的环境。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三条 国家对中小企业实行积极扶持、加强引导、完善服务、依法规范、保障权益的方针，为中小企业的建立和发展创造有利环境。"
+  },
+  {
+    "index": 399,
+    "source": "Article 4 The State Council shall be responsible for the formulation of policies on small and medium-sized enterprises and make overall arrangements for the development of small and medium-sized enterprises of the whole country.",
+    "reference": "第四条　国务院负责制定中小企业政策，对全国中小企业的发展进行统筹规划。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四条 国务院负责制定促进中小企业发展的政策，对全国中小企业的发展进行统筹规划。"
+  },
+  {
+    "index": 400,
+    "source": "The department of the State Council in charge of enterprises work shall organize the implementation of the policies, arrangements and planning of the State with respect to small and medium-sized enterprises, and render comprehensive coordination, direction and service to the small and medium-sized enterprises work of the whole country.",
+    "reference": "国务院负责企业工作的部门组织实施国家中小企业政策和规划，对全国中小企业工作进行综合协调、指导和服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国务院负责企业工作的部门，应当组织实施国家关于中小企业的方针、政策、规划，对全国中小企业工作进行综合协调、指导和服务。"
+  },
+  {
+    "index": 401,
+    "source": "The relevant departments of the State Council shall, in accordance with the policies and arrangements of the State on small and medium-sized enterprises, render direction and service to the small and medium-sized enterprises work within their respective scope of duties.",
+    "reference": "国务院有关部门根据国家中小企业政策和统筹规划，在各自职责范围内对中小企业工作进行指导和服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国务院有关部门应当按照国家关于中小企业的方针、政策和部署，在各自的职责范围内对中小企业工作进行指导和服务。"
+  },
+  {
+    "index": 402,
+    "source": "The local people’s governments at the level of county and above and the departments in charge of enterprises work and other relevant departments thereof shall direct and serve the small and medium-sized enterprises within their respective administrative areas.",
+    "reference": "县级以上地方各级人民政府及其所属的负责企业工作的部门和其他有关部门在各自职责范围内对本行政区域内的中小企业进行指导和服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "县级以上地方人民政府和企业主管部门以及其他有关部门应当在其各自的管辖范围内指导和服务中小企业。"
+  },
+  {
+    "index": 403,
+    "source": "Article 5 The department of the State Council in charge of enterprises work shall, in line with the industrial policies of the State and in light of the characteristics and development of small and medium-sized enterprises, determine the focus of support by formulating the industrial guiding catalogs for small and medium-sized enterprises and other forms to direct and encourage the development of small and medium-sized enterprises.",
+    "reference": "第五条　国务院负责企业工作的部门根据国家产业政策，结合中小企业特点和发展状况，以制定中小企业发展产业指导目录等方式，确定扶持重点，引导鼓励中小企业发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第五条 国务院负责企业工作的部门应当按照国家产业政策，结合中小企业的特点和发展情况，通过制定中小企业产业指导目录等形式，确定扶持重点，引导和鼓励中小企业发展。"
+  },
+  {
+    "index": 404,
+    "source": "Article 6 The State shall protect the legitimate investment of small and medium-sized enterprises, their investors, and the legitimate proceeds obtained from the investment. No unit or individual may infringe upon the property and legitimate proceeds of small and medium-sized enterprises.",
+    "reference": "第六条　国家保护中小企业及其出资人的合法投资，及因投资取得的合法收益。任何单位和个人不得侵犯中小企业财产及其合法收益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第六条 国家保护中小企业及其投资者合法的投资和投资收益。任何单位和个人不得侵犯中小企业的财产和合法收益。"
+  },
+  {
+    "index": 405,
+    "source": "No unit may, in violation of laws and regulations, collect charges from or impose fines on small and medium-sized enterprises, or apportion obligations of property and money to small and medium-sized enterprises. Small and medium-sized enterprises shall have the right to refuse and to report and accuse the acts violating the provisions mentioned above.",
+    "reference": "任何单位不得违反法律、法规向中小企业收费和罚款，不得向中小企业摊派财物。中小企业对违反上述规定的行为有权拒绝和有权举报、控告。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "任何单位不得违反法律、法规，向中小企业收取费用、罚款或者摊派财物。中小企业有权拒绝并举报、控告上述违反规定的行为。"
+  },
+  {
+    "index": 406,
+    "source": "Article 7 The administrative authorities shall safeguard the legitimate rights and interests of small and medium-sized enterprises, protect their right to participate in fair competition and fair trade according to law, and may not discriminate against them or impose unfair trade conditions on them.",
+    "reference": "第七条　行政管理部门应当维护中小企业的合法权益，保护其依法参与公平竞争与公平交易的权利，不得歧视，不得附加不平等的交易条件。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第七条 行政机关应当维护中小企业的合法权益，依法保护其参与公平竞争和公平交易的权利，不得歧视中小企业或者对其附加不公平的交易条件。"
+  },
+  {
+    "index": 407,
+    "source": "Article 8 Small and medium-sized enterprises shall observe the laws and regulations of the State on labor safety, occupational health, social security, protection of resources and environment, quality, taxation and finance, etc. and shall operate and manage according to law, and may not infringe upon the legitimate rights and interests of the employees or damage the public interests.",
+    "reference": "第八条　中小企业必须遵守国家劳动安全、职业卫生、社会保障、资源环保、质量、财政税收、金融等方面的法律、法规，依法经营管理，不得侵害职工合法权益，不得损害社会公共利益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第八条 中小企业应当遵守国家关于劳动安全、职业卫生、社会保障、资源环境、质量、税务、财政等方面的法律、法规，依法经营管理，不得侵害职工的合法权益，不得损害社会公共利益。"
+  },
+  {
+    "index": 408,
+    "source": "Article 9 Small and medium-sized enterprises shall observe the professional ethics, stick to the principle of good faith, strive to improve the operation level and enhance the ability of self-development.",
+    "reference": "第九条　中小企业应当遵守职业道德，恪守诚实信用原则，努力提高业务水平，增强自我发展能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第九条 中小企业应当遵守职业道德，坚持诚实信用原则，努力提高经营水平，增强自主发展能力。"
+  },
+  {
+    "index": 409,
+    "source": "Chapter 2 Capital Support",
+    "reference": "第二章　资金支持",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二章 资本支持"
+  },
+  {
+    "index": 410,
+    "source": "Article 10 The central budget shall set up an entry of small and medium-sized enterprises, and arrange a special capital of support for the development of small and medium-sized enterprises.",
+    "reference": "第十条　中央财政预算应当设立中小企业科目，安排扶持中小企业发展专项资金。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十条 中央预算应当设立中小企业科目，安排支持中小企业发展的专项资金。"
+  },
+  {
+    "index": 411,
+    "source": "The local people’s governments shall provide financial support to small and medium-sized enterprises according to their actual situations.",
+    "reference": "地方人民政府应当根据实际情况为中小企业提供财政支持。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "地方人民政府应当根据中小企业的实际情况，给予财政支持。"
+  },
+  {
+    "index": 412,
+    "source": "Article 11 The special capital of support for the development of small and medium-sized enterprises of the State shall be used to promote the construction of the service system for and to carry out the support work for small and medium-sized enterprises, to supplement the development fund for small and medium-sized enterprises and to support other matters concerning the development of small and medium-sized enterprises.",
+    "reference": "第十一条　国家扶持中小企业发展专项资金用于促进中小企业服务体系建设，开展支持中小企业的工作，补充中小企业发展基金和扶持中小企业发展的其他事项。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十一条 国家支持中小企业发展的专项资金，用于促进中小企业服务体系建设，开展中小企业服务工作，补充中小企业发展基金，以及支持其他有利于中小企业发展的事项。"
+  },
+  {
+    "index": 413,
+    "source": "Article 12 The State shall set up a development fund for small and medium-sized enterprises. The development fund for small and medium-sized enterprises shall be composed of the following financial resources:",
+    "reference": "第十二条　国家设立中小企业发展基金。中小企业发展基金由下列资金组成：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十二条 国家设立中小企业发展基金。中小企业发展基金由下列资金组成："
+  },
+  {
+    "index": 414,
+    "source": "1) the special capital of support for the development of small and medium-sized enterprises arranged by the central budget;",
+    "reference": "（一）中央财政预算安排的扶持中小企业发展专项资金；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1) 中央预算安排的用于支持中小企业发展的专项资金；"
+  },
+  {
+    "index": 415,
+    "source": "2) fund proceeds;",
+    "reference": "（二）基金收益；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "2) 基金收益；"
+  },
+  {
+    "index": 416,
+    "source": "3) donations;",
+    "reference": "（三）捐赠；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "3) 捐款；"
+  },
+  {
+    "index": 417,
+    "source": "4) other financial resources.",
+    "reference": "（四）其他资金。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "4) 其他财政资源。"
+  },
+  {
+    "index": 418,
+    "source": "The state shall, by means of taxation policies, encourage donations to the development fund for small and medium-sized enterprises.",
+    "reference": "国家通过税收政策，鼓励对中小企业发展基金的捐赠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国家通过税收政策，鼓励向中小企业发展基金捐款。"
+  },
+  {
+    "index": 419,
+    "source": "Article 13 The development fund for small and medium-sized enterprises of the State shall be used in the following matters concerning the support for small and medium-sized enterprises:",
+    "reference": "第十三条　国家中小企业发展基金用于下列扶持中小企业的事项：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十三条 国家中小企业发展基金应当用于下列支持中小企业的事项："
+  },
+  {
+    "index": 420,
+    "source": "1) assistance and service for the initiation of business;",
+    "reference": "（一）创业辅导和服务；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1) 启动业务的协助和服务；"
+  },
+  {
+    "index": 421,
+    "source": "2) support for establishment of the credit guarantee system for small and medium-sized enterprises;",
+    "reference": "（二）支持建立中小企业信用担保体系；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "2) 支持建立中小企业信用担保体系；"
+  },
+  {
+    "index": 422,
+    "source": "3)support for technology innovations;",
+    "reference": "（三）支持技术创新；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "3) 支持技术创新；"
+  },
+  {
+    "index": 423,
+    "source": "4) encouragement of specialized development and cooperation with large enterprises;",
+    "reference": "（四）鼓励专业化发展以及与大企业的协作配套；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "4) 鼓励专业化发展并与大型企业合作；"
+  },
+  {
+    "index": 424,
+    "source": "5) support for staff training and information consultancy by small and medium-sized enterprise service agencies;",
+    "reference": "（五）支持中小企业服务机构开展人员培训、信息咨询等项工作；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "5) 中小企业服务机构为员工培训和信息咨询提供支持；"
+  },
+  {
+    "index": 425,
+    "source": "6) support for development of international market by small and medium-sized enterprises;",
+    "reference": "（六）支持中小企业开拓国际市场；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "6) 中小企业拓展国际市场的支持；"
+  },
+  {
+    "index": 426,
+    "source": "7) support for clean production by small and medium-sized enterprises;",
+    "reference": "（七）支持中小企业实施清洁生产；",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "7) 中小型企业对清洁生产的支持；"
+  },
+  {
+    "index": 427,
+    "source": "8) other matters.",
+    "reference": "（八）其他事项。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "8) 其他事项。"
+  },
+  {
+    "index": 428,
+    "source": "The methods for the establishment, use and management of the development fund for small and medium-sized enterprises shall be formulated by the State Council separately.",
+    "reference": "中小企业发展基金的设立和使用管理办法由国务院另行规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中小企业发展基金的设立、使用和管理办法，由国务院另行制定。"
+  },
+  {
+    "index": 429,
+    "source": "Article 14 The People’s Bank of China shall strengthen the direction of credit policies to improve the financing environment for small and medium-sized enterprises.",
+    "reference": "第十四条　中国人民银行应当加强信贷政策指导，改善中小企业融资环境。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十四条 中国人民银行应当加强信贷政策指导，改善中小企业融资环境。"
+  },
+  {
+    "index": 430,
+    "source": "The People’s Bank of China shall enhance the support given to small and medium-sized enterprises, and encourage the commercial banks to adjust the credit structure to give more credit support to small and medium-sized enterprises.",
+    "reference": "中国人民银行应当加强对中小金融机构的支持力度，鼓励商业银行调整信贷结构，加大对中小企业的信贷支持。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国人民银行应加大对中小企业的支持力度，并鼓励商业银行调整信贷结构，为中小企业提供更多的信贷支持。"
+  },
+  {
+    "index": 431,
+    "source": "Article 15 The financial institutions shall provide financial support to small and medium-sized enterprises, make efforts to improve the financial service, change the service style, enhance the service sense and improve the service quality.",
+    "reference": "第十五条　各金融机构应当对中小企业提供金融支持，努力改进金融服务，转变服务作风，增强服务意识，提高服务质量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十五条 金融机构应当为中小企业提供金融支持，努力改进金融服务，转变服务作风，增强服务意识，提高服务质量。"
+  },
+  {
+    "index": 432,
+    "source": "The commercial banks and credit cooperatives shall improve the credit management, expand the service area, develop the financial products suitable for small and medium-sized enterprises, adjust the credit structure and provide services to small and medium-sized enterprises in the aspects of credit, settlement, financial consultancy, investment management, etc.",
+    "reference": "各商业银行和信用社应当改善信贷管理，扩展服务领域，开发适应中小企业发展的金融产品，调整信贷结构，为中小企业提供信贷、结算、财务咨询、投资管理等方面的服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "商业银行和信用合作社应当完善信贷管理，拓展服务领域，开发适合中小企业的金融产品，调整信贷结构，并在信贷、结算、财务咨询、投资管理等方面为中小企业提供服务。"
+  },
+  {
+    "index": 433,
+    "source": "The policy-based financial institutions of the State shall, within their respective scope of business, adopt various kinds of forms to provide services to small and medium-sized enterprises.",
+    "reference": "国家政策性金融机构应当在其业务经营范围内，采取多种形式，为中小企业提供金融服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国家政策性金融机构应当在其经营范围内，采取多种形式为中小企业提供服务。"
+  },
+  {
+    "index": 434,
+    "source": "Article 16 The State shall take measures to expand the direct financing channels for small and medium-sized enterprises, actively guide small and medium-sized enterprises and enable them to create the conditions to make direct financing through various forms permitted by laws and regulations.",
+    "reference": "第十六条　国家采取措施拓宽中小企业的直接融资渠道，积极引导中小企业创造条件，通过法律、行政法规允许的各种方式直接融资。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十六条 国家采取措施，拓宽中小企业直接融资渠道，积极引导中小企业创造条件，通过法律、法规允许的各种形式进行直接融资。"
+  },
+  {
+    "index": 435,
+    "source": "Article 17 The State shall encourage various kinds of venture capital institutions established, through taxation policy, to invest more capital in small and medium-sized enterprises.",
+    "reference": "第十七条　国家通过税收政策鼓励各类依法设立的风险投资机构增加对中小企业的投资。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十七条 国家应当通过税收政策，鼓励各类风险投资机构增加对中小企业的投资。"
+  },
+  {
+    "index": 436,
+    "source": "Article 18 The State shall promote the construction of the credit system of small and medium-sized enterprises, establish the credit information collection and evaluation system, and realize the socialization of the inquiry, exchange and share of credit information of small and medium-sized enterprises.",
+    "reference": "第十八条　国家推进中小企业信用制度建设，建立信用信息征集与评价体系，实现中小企业信用信息查询、交流和共享的社会化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十八条 国家应当推进中小企业信用体系建设，建立信用信息征集和评估体系，实现中小企业信用信息的查询、交流和共享社会化。"
+  },
+  {
+    "index": 437,
+    "source": "Article 19 The people’s governments at the level of county and above and the relevant departments shall promote and organize the establishment of the credit guarantee system of small and medium-sized enterprises, impulse the credit guarantee for small and medium-sized enterprises and create conditions for the financing of small and medium-sized enterprises.",
+    "reference": "第十九条　县级以上人民政府和有关部门应当推进和组织建立中小企业信用担保体系，推动对中小企业的信用担保，为中小企业融资创造条件。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第十九条 县级以上人民政府和有关部门应当推动和组织建立中小企业信用担保体系，推动中小企业信用担保，为中小企业融资创造条件。"
+  },
+  {
+    "index": 438,
+    "source": "The measures for the management of credit guarantee for small and medium-sized enterprises shall be formulated by the State Council separately.",
+    "reference": "中小企业信用担保管理办法由国务院另行规定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中小企业信用担保管理办法由国务院另行制定。"
+  },
+  {
+    "index": 439,
+    "source": "Article 20 The State shall encourage various kinds of guarantee institutions to provide credit guarantee to small and medium-sized enterprises.",
+    "reference": "第二十条　国家鼓励各种担保机构为中小企业提供信用担保。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十条 国家鼓励各类担保机构为中小企业提供信贷担保。"
+  },
+  {
+    "index": 440,
+    "source": "Article 21 The State shall encourage small and medium-sized enterprises to carry out various kinds of mutual financing guarantee.",
+    "reference": "第二十一条　国家鼓励中小企业依法开展多种形式的互助性融资担保。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十一条 国家鼓励中小企业开展各种形式的互助融资担保。"
+  },
+  {
+    "index": 441,
+    "source": "Chapter 3 Support for Initiation of Business",
+    "reference": "第三章　创业扶持",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三章：支持企业启动"
+  },
+  {
+    "index": 442,
+    "source": "Article 22 The relevant governmental departments shall actively create conditions, provide necessary and relevant information and consultation services, and, according to the needs of the development of small and medium-sized enterprises, rationally arrange necessary sites and facilities in the construction planning of cities and villages to support the initiation of business of small and medium-sized enterprises.",
+    "reference": "第二十二条　政府有关部门应当积极创造条件，提供必要的、相应的信息和咨询服务，在城乡建设规划中根据中小企业发展的需要，合理安排必要的场地和设施，支持创办中小企业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十二条 有关政府部门应当积极创造条件，提供必要的和相关的资讯和咨询服务，并根据中小企业发展的需要，在城乡建设规划中合理安排必要的场地和设施，支持中小企业创业。"
+  },
+  {
+    "index": 443,
+    "source": "Where the unemployed or disabled initiate a small and medium-sized enterprise, the local governments shall actively render support and convenience, and enhance the direction.",
+    "reference": "失业人员、残疾人员创办中小企业的，所在地政府应当积极扶持，提供便利，加强指导。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对于失业人员或残疾人创办的中小企业，地方政府应当积极提供支持和便利，并加强指导。"
+  },
+  {
+    "index": 444,
+    "source": "The relevant governmental departments shall take measures to expand the channels to enable small and medium-sized enterprises to absorb graduates from the institutions of higher and medium learning.",
+    "reference": "政府有关部门应当采取措施，拓宽渠道，引导中小企业吸纳大中专学校毕业生就业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "相关政府部门应当采取措施，拓展渠道，使中小企业能够吸纳高等和中等院校毕业生。"
+  },
+  {
+    "index": 445,
+    "source": "Article 23 The State shall support and encourage the initiation and development of small and medium-sized enterprises in the aspect of relevant taxation policies.",
+    "reference": "第二十三条　国家在有关税收政策上支持和鼓励中小企业的创立和发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十三条 国家在有关税收政策方面支持和鼓励中小企业的创办和发展。"
+  },
+  {
+    "index": 446,
+    "source": "Article 24 With respect to the small and medium-sized enterprises initiated by the unemployed, and those absorbing unemployed personnel the number of which meets the proportion as provided for by the State, those initiated in the areas of minor nationalities and depressed areas, those settling disabled personnel the number of which meets the proportion as provided for by the State, the State shall reduce or exempt their income tax and apply tax preferences to them.",
+    "reference": "第二十四条　国家对失业人员创立的中小企业和当年吸纳失业人员达到国家规定比例的中小企业，符合国家支持和鼓励发展政策的高新技术中小企业，在少数民族地区、贫困地区创办的中小企业，安置残疾人员达到国家规定比例的中小企业，在一定期限内减征、免征所得税，实行税收优惠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十四条　对失业人员创办的中小企业，和吸纳失业人员达到国家规定比例的，在少数民族地区和贫困地区创办的，安置残疾人员达到国家规定比例的，国家减征或者免征其所得税，并给予税收优惠。"
+  },
+  {
+    "index": 447,
+    "source": "Article 25 The local people’s governments shall, according to the actual situations, provide policy consultation and information services in the aspects of industry and commerce, taxation, financing, labor and social security, etc. to the persons initiating business.",
+    "reference": "第二十五条　地方人民政府应当根据实际情况，为创业人员提供工商、财税、融资、劳动用工、社会保障等方面的政策咨询和信息服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十五条 地方各级人民政府应当根据实际情况，为创业人员在工商、税务、融资、劳动和社会保障等方面提供政策咨询和信息服务。"
+  },
+  {
+    "index": 448,
+    "source": "Article 26 The registration departments of enterprises shall, in accordance with the legal conditions and procedures, handle the registration procedures of the establishment of small and medium-sized enterprises, and improve the work efficiency to provide convenience for the registrants. And the departments may not set forth any pre-conditions for the registration of enterprises beyond the provisions of laws and regulations; may not take any charge beyond the charging items and standards as provided for by laws and regulations.",
+    "reference": "第二十六条　企业登记机关应当依法定条件和法定程序办理中小企业设立登记手续，提高工作效率，方便登记者。不得在法律、行政法规规定之外设置企业登记的前置条件；不得在法律、行政法规规定的收费项目和收费标准之外，收取其他费用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十六条 企业登记机关应当依照法定条件和程序，办理中小企业设立登记，提高办事效率，为申请人提供便利。登记机关不得在法律、法规规定之外设置企业登记的前置性条件；不得超出法律、法规规定的收费项目和标准收费。"
+  },
+  {
+    "index": 449,
+    "source": "Article 27 The State shall encourage small and medium-sized enterprises to, in accordance with the policies of the State on utilization of foreign investment, introduce in foreign capital, advanced technology and management experience, and to launch Chinese-foreign equity joint ventures and Chinese-foreign cooperative joint ventures.",
+    "reference": "第二十七条　国家鼓励中小企业根据国家利用外资政策，引进国外资金、先进技术和管理经验，创办中外合资经营、中外合作经营企业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十七条 国家鼓励中小企业按照国家利用外商投资的政策，引进外资、先进技术和管理经验，举办中外合资经营企业、中外合作经营企业。"
+  },
+  {
+    "index": 450,
+    "source": "Article 28 The State shall encourage individuals or legal persons to participate in the initiation of small and medium-sized enterprises by investing industrial property or non-patented technology, etc. according to law.",
+    "reference": "第二十八条　国家鼓励个人或者法人依法以工业产权或者非专利技术等投资参与创办中小企业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十八条 国家鼓励个人或者法人依法以工业产权或者非专利技术等参与中小企业的创办。"
+  },
+  {
+    "index": 451,
+    "source": "Chapter 4 Technology Innovations",
+    "reference": "第四章　技术创新",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第四章 技术创新"
+  },
+  {
+    "index": 452,
+    "source": "Article 29 The State shall formulate policies to encourage the small and medium-sized enterprises to, according to the market need, develop new products, adopt advanced technology, production technics and equipments, improve product quality and realize technological progress.",
+    "reference": "第二十九条　国家制定政策，鼓励中小企业按照市场需要，开发新产品，采用先进的技术、生产工艺和设备，提高产品质量，实现技术进步。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二十九条 国家制定政策，鼓励中小企业根据市场需要，开发新产品，采用先进技术、生产工艺和设备，提高产品质量，实现技术进步。"
+  },
+  {
+    "index": 453,
+    "source": "The technology innovation projects of small and medium-sized enterprises and the technology reform projects designed for the projects of large enterprises may enjoy the policies of discount in the interest on loans.",
+    "reference": "中小企业技术创新项目以及为大企业产品配套的技术改造项目，可以享受贷款贴息政策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中小企业技术创新项目以及针对大型企业项目设计的技术改造项目，可享受贷款贴息政策。"
+  },
+  {
+    "index": 454,
+    "source": "Article 30 The relevant governmental departments shall provide policy support in the aspects of planning, land use and finance, etc., promote the establishment of various kinds of technological service institutions, establish productivity promotion centers and technology enterprises incubation bases, provide the services such as technology information, technology consultation and technology transfer for small and medium-sized enterprises, and provide services for the product and technology development of small and medium-sized enterprises to promote the transformation of technological achievements and realize the upgrading of the technology and products.",
+    "reference": "第三十条　政府有关部门应当在规划、用地、财政等方面提供政策支持，推进建立各类技术服务机构，建立生产力促进中心和科技企业孵化基地，为中小企业提供技术信息、技术咨询和技术转让服务，为中小企业产品研制、技术开发提供服务，促进科技成果转化，实现企业技术、产品升级。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十条 有关政府部门应当在规划、用地、财政等方面提供政策支持，促进各类技术服务机构的建立，建立生产力促进中心和科技企业孵化基地，为中小企业提供技术信息、技术咨询、技术转让等服务，为中小企业的产品和技术开发提供服务，促进科技成果转化，实现技术和产品的升级换代。"
+  },
+  {
+    "index": 455,
+    "source": "Article 31 The State shall encourage small and medium-sized enterprises to conduct technology cooperation, development and exchange with research institutions and institutions of higher and medium learning to promote the industrialization of technology achievements, and shall actively develop technology-oriented small and medium-sized enterprises.",
+    "reference": "第三十一条　国家鼓励中小企业与研究机构、大专院校开展技术合作、开发与交流，促进科技成果产业化，积极发展科技型中小企业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三十一条 国家鼓励中小企业与科研机构和大专院校开展技术合作、开发和交流，促进科技成果产业化，积极发展科技型中小企业。"
+  }
+]

@@ -1,0 +1,1690 @@
+[
+  {
+    "index": 0,
+    "source": "非小细胞肺癌（non-small cell lung cancer, NSCLC）作为全球癌症相关死亡率较高的恶性肿瘤，目前仍缺少可靠稳定的预后指标。",
+    "reference": "Non-small cell lung cancer (NSCLC) is a malignant tumour with quite high cancer specific mortality, and it still lacks stable and reliable markers for NSCLC's prognosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Non-small cell lung cancer (NSCLC), as a malignant tumor with a high cancer-related mortality rate globally, currently still lacks reliable and stable prognostic indicators."
+  },
+  {
+    "index": 1,
+    "source": "血小板源生长因子（platelet derived grow factor, PDGF）及其受体通过多种细胞内信号通路参与细胞生长，迁移，转移以及上皮间叶转化等过程。",
+    "reference": "Platelet derived grow factor (PDGF) and PDGFR has been considered to be involved in the process of cell proliferation, migration, metastasis and epithelial mesenchymal transition of cancer cell through various intracellular signal pathways.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Platelet-derived growth factor (PDGF) and its receptors participate in processes such as cell growth, migration, metastasis, and epithelial-mesenchymal transition through various intracellular signaling pathways."
+  },
+  {
+    "index": 2,
+    "source": "病理结果表明，PDGF通路主要通过旁分泌途径刺激NSCLC肿瘤间质生长，亦有发现PDGF通路对某些NSCLC肿瘤细胞可能存在直接驱动作用。",
+    "reference": "Pathology analysis showed that PDGF pathway mainly stimulates the proliferation of NSCLC tumour stroma through paracrine pattern, and some reaseach found that PDGF pathway directly promotes some NSCLC cell's proliferation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The pathological results indicate that the PDGF pathway mainly stimulates the growth of the NSCLC tumor stroma through paracrine signaling, and it has also been found that the PDGF pathway may have a direct driving effect on certain NSCLC tumor cells."
+  },
+  {
+    "index": 3,
+    "source": "NSCLC组织中的PDGF及其受体的表达与肿瘤的预后，淋巴结转移等临床结果相关。",
+    "reference": "The expression of PDGF and PDGFR within NSCLC tissue correlates with status of lymphatic metastasis and patients' prognosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The expression of PDGF and its receptors in NSCLC tissue is related to clinical outcomes such as tumor prognosis and lymph node metastasis."
+  },
+  {
+    "index": 4,
+    "source": "在临床治疗中，PDGF通路对NSCLC血管生成的重要作用，及抑制PDGF通路促进化疗药物在实体瘤内部分布的作用不容忽视。",
+    "reference": "In clinical treatment of NSCLC, the great effect of PDGF pathway in angiogenesis and promoting distribution of chemotherapy by inhibition of PDGF should not be neglected.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In clinical treatment, the important role of the PDGF pathway in angiogenesis of NSCLC and its effect in inhibiting the PDGF pathway to promote the distribution of chemotherapy drugs within solid tumors should not be overlooked."
+  },
+  {
+    "index": 5,
+    "source": "PDGF作为重要的促血管生成通路，在NSCLC放射治疗中的作用也越来越多地被各种基础研究证实。",
+    "reference": "As an important pro-angiogenesis pathway, functions of PDGF in radiotherapy is dicovered by more and more fundamental research.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "PDGF, as an important angiogenesis pathway, is increasingly confirmed by various basic studies for its role in radiotherapy of NSCLC."
+  },
+  {
+    "index": 6,
+    "source": "本文拟对PDGF通路在NSCLC领域的研究进展做一综述，以求对临床和基础研究者有一些启发。",
+    "reference": "This review focuses on the progress of PDGF pathway in NSCLC and aims to provide some new ideas for clinical and fundamental researchers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article aims to review the research progress of the PDGF pathway in the field of NSCLC, with the hope of providing some inspiration for clinical and basic researchers."
+  },
+  {
+    "index": 7,
+    "source": "本文回顾了自2000年以来在中国人群中有关抑郁症的神经影像学研究。",
+    "reference": "This paper reviews neuroimaging studies of depressive disorders conducted in Chinese populations since 2000.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article reviews neuroimaging studies on depression in the Chinese population since 2000."
+  },
+  {
+    "index": 8,
+    "source": "利用结构成像和功能成像技术的横断面研究和纵向研究比较了不同类型的抑郁症患者、有无特定基因型的抑郁症患者、和抗抑郁药治疗前后抑郁症患者的特征。",
+    "reference": "Both cross-sectional and longitudinal studies using structural and functional imaging techniques have compared different types of depressed individuals, with and without specific genotypes, and the characteristics of depressed individuals before and after treatment with antidepressants.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Cross-sectional and longitudinal studies using structural imaging and functional imaging techniques compared the characteristics of different types of depression patients, patients with and without specific genotypes, and depression patients before and after antidepressant treatment."
+  },
+  {
+    "index": 9,
+    "source": "许多研究结果不稳定--可能是因为大部分的研究的检验效能较低--但对国际文献仍做出了重要的贡献。",
+    "reference": "Many of the findings are unstable - probably because most of the studies are underpowered - but there have been some important contributions to the international literature.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Many research findings are unstable—possibly because most of the studies have low statistical power—but they still made important contributions to the international literature."
+  },
+  {
+    "index": 10,
+    "source": "中国未来的研究需要使用标准化的方法、纵向设计、以及结构和功能性磁共振成像的联合应用。",
+    "reference": "Future studies in China need to use standardized methods, longitudinal designs, and joint application of both structural and functional MRI.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Future research in China needs to use standardized methods, longitudinal designs, and the combined application of structural and functional magnetic resonance imaging."
+  },
+  {
+    "index": 11,
+    "source": "肿瘤病人体内血浆游离氨基酸变化是其蛋白质代谢异常的一个基本特征。",
+    "reference": "Variation of plasma free amino acids (PFAAs) is an essential feature of protein metabolic abnormalities in cancer patients.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The changes in plasma free amino acids in tumor patients are a fundamental characteristic of their abnormal protein metabolism."
+  },
+  {
+    "index": 12,
+    "source": "但是 目前很少有研究关注肿瘤组织内部的氨基酸情况，包括它们的模式以及与血浆 氨基酸的浓度相关性。",
+    "reference": "But there still little data about the cancer tissue free amino acid (TFAAs) profiles, including their patterns and correlations with PFAAs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, there is currently little research focusing on the amino acid profile within tumor tissues, including their patterns and correlation with plasma amino acid concentrations."
+  },
+  {
+    "index": 13,
+    "source": "为了评价肺癌病人血浆和肿瘤组织中游离氨基酸的变化 情况，我们使用氨基酸分析仪测定了27 位肺癌肿瘤病人治疗前的血浆、肿瘤 组织以及癌旁组织中的游离氨基酸浓度。",
+    "reference": "To evaluate the variation in PFAAs and cancer TFAAs in patients with lung cancer, including their patterns and correlations, we investigated the concentrations of free amino acids in lung cancer tissues (n=27), paired lung paracarcinomous tissues (n=27) and plasma (n=27) using an automatic amino acid analyzer after pre-treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To evaluate the changes in free amino acids in the plasma and tumor tissues of lung cancer patients, we used an amino acid analyzer to measure the concentration of free amino acids in the plasma, tumor tissue, and adjacent non-cancerous tissue of 27 lung cancer patients before treatment."
+  },
+  {
+    "index": 14,
+    "source": "跟正常人血浆游离氨基酸浓度相比 较，我们发现肿瘤病人血浆游离氨基酸浓度中色氨酸、甘氨酸、瓜氨酸、鸟氨 酸和脯氨酸显著下降，而蛋氨酸显著上升；与癌旁组织相比，牛磺酸、谷氨酸 和甘氨酸浓度显著增加，而赖氨酸和鸟氨酸浓度显著下降。",
+    "reference": "Within the PFAAs, the concentrations of five amino acids (tryptophan, glycine, citrulline, ornithine and proline) were significantly decreased, while that of phenylalanine was markedly increased compared with control subjects. Within the TFAAs, the concentrations of three amino acids (taurine, glutamic acid and glycine) were increased, while the concentrations of two amino acids (lysine and ornithine) were decreased significantly in lung cancer tissues compared with the paracarcinomous tissues.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Compared to the plasma free amino acid concentration of normal individuals, we found that the plasma free amino acid concentrations of tryptophan, glycine, citrulline, ornithine, and proline in tumor patients were significantly reduced, while methionine was significantly increased; compared to adjacent cancer tissues, the concentrations of taurine, glutamate, and glycine were significantly increased, while lysine and ornithine concentrations were significantly reduced."
+  },
+  {
+    "index": 15,
+    "source": "在血浆和组织中游 离氨基酸有相似的浓度趋势，但是百分比变化是各异的。",
+    "reference": "The amino acid patterns in PFAAs and TFAAs had similar trends, but percentage variations were diverse.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The concentrations of free amino acids in plasma and tissues show similar trends, but the percentage changes are different."
+  },
+  {
+    "index": 16,
+    "source": "另外，我们发现血浆 和肺癌组织中的赖氨酸、蛋氨酸、苏氨酸、丝氨酸和丙氨酸有浓度相关性，但 是在血浆中和癌旁组织中没有发现一种氨基酸具有浓度相关性。",
+    "reference": "Additionally, the concentrations of five amino acids (lysine, phenylalanine, threonine, serine, and alanine) in PFAAs correlated with those in lung cancer TFAAs, but no amino acids in PFAAs were correlated with those in lung paracarcinomous TFAAs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In addition, we found a concentration correlation of lysine, methionine, threonine, serine, and alanine in plasma and lung cancer tissue, but no amino acid showed a concentration correlation in plasma and adjacent tissue."
+  },
+  {
+    "index": 17,
+    "source": "因此，血浆游 离氨基酸变化可能反应了肿瘤组织中氨基酸水平，这或许会对肺癌病人未来的 代谢状态和预后提供更多信息。",
+    "reference": "Thus, PFAA profiles may reflect the status of cancer tissues, which may provide more information about the metabolic statuses and prognoses of patients with lung cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Therefore, changes in plasma free amino acids may reflect the amino acid levels in tumor tissues, which may provide more information about the future metabolic state and prognosis of lung cancer patients."
+  },
+  {
+    "index": 18,
+    "source": "针对驱动基因的靶向药物吉非替尼、厄洛替尼及克唑替尼等在晚期非小细胞肺癌治疗中有着不可替代的地位，然而此类药物给患者带来益处的同时也出现较高的肝脏毒性，现就其肝脏毒性及机制作一综述。",
+    "reference": "Targeted drugs aimed at driver gene, such as Gefitinib, Erlotinib and Crizotinib, have an irreplaceable position in the therapy of advanced non-small cell lung cancer. These drugs bring benefit to patients, however, higher hepatotoxicity is also presented. Now, drug induced hepatotoxicity and its mechanism are reviewed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Targeted drugs for driving genes, such as gefitinib, erlotinib, and crizotinib, have an irreplaceable role in the treatment of advanced non-small cell lung cancer. However, while these drugs benefit patients, they also cause relatively high liver toxicity. This review discusses their liver toxicity and mechanisms."
+  },
+  {
+    "index": 19,
+    "source": "目前对于表皮生长因子受体（epidermal growth factor receptor, EGFR）基因状态明确的非小细胞肺癌患者，其治疗推荐已成共识：对EGFR基因突变患者，可优先选择表皮生长因子受体酪氨酸激酶抑制剂（epidermal growth factor receptor-tyrosine kinase inhibitors, EGFR-TKIs），其治疗可最大获益；EGFR基因野生型患者，无论一线二线均应首选化疗。",
+    "reference": "At present, the treatment recommendations of advanced non-small cell lung cancer (NSCLC) with clear epidermal growth factor receptor (EGFR) gene status has reached a consensus: patients with EGFR mutation-positive NSCLC can give priority to epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs), which can maximize the benefit from the treatment; while the patients with wild-type EGFR gene should regard chemotherapy as first choice whether the first-line or second-line therapy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Currently, for patients with non-small cell lung cancer whose epidermal growth factor receptor (EGFR) gene status is clearly defined, treatment recommendations have reached a consensus: for patients with EGFR gene mutations, epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) can be preferentially chosen, as they offer the greatest therapeutic benefit; for patients with wild-type EGFR genes, chemotherapy should be the first choice, regardless of whether it is first-line or second-line treatment."
+  },
+  {
+    "index": 21,
+    "source": "非小细胞肺癌（non-small cell lung cancer, NSCLC）是肿瘤相关性死亡率第一的恶性肿瘤。",
+    "reference": "Lung cancer is the leading cause of cancer-related mortality worldwide.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Non-small cell lung cancer (NSCLC) is the malignant tumor with the highest tumor-related mortality rate."
+  },
+  {
+    "index": 22,
+    "source": "虽然近年来靶向治疗进展迅速，但很多基因未突变的患者不能从中受益。",
+    "reference": "Despiting the great progress on target agents, majority of people who do not harbor a mutation could not get benefit from them.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Although targeted therapy has made rapid progress in recent years, many patients without gene mutations cannot benefit from it."
+  },
+  {
+    "index": 23,
+    "source": "目前免疫治疗已成为肿瘤治疗的新方向，它能通过刺激机体免疫系统提高抗肿瘤免疫效应。",
+    "reference": "Immunotherapy, through stimulating the body's immune system to improve the antitumor immunity effect, has been a new therapeutic method for non-small cell lung cancer (NSCLC).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Currently, immunotherapy has become a new direction in cancer treatment, as it can enhance anti-tumor immune effects by stimulating the body's immune system."
+  },
+  {
+    "index": 24,
+    "source": "研究显示免疫检查点分子：程序性死亡分子1（programmed death 1, PD-1）、程序性死亡分子1配体（PD-1 ligand, PD-L1），与肿瘤发生、发展密切相关，在NSCLC中有重要的临床意义。",
+    "reference": "Study had been reported that immune checkpoint molecules, including programmed death-1 (PD-1)/PD-ligand (L) 1 axis, are closedly related with cancer generation and development, and play a key role on clinical significance of NSCLC.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Research shows that immune checkpoint molecules: programmed death 1 (PD-1) and programmed death 1 ligand (PD-L1) are closely related to tumor occurrence and development, and have important clinical significance in non-small cell lung cancer (NSCLC)."
+  },
+  {
+    "index": 25,
+    "source": "PD-1/PD-L1信号通路的激活有助于肿瘤免疫逃逸，而阻断该通路可以增强机体内源性抗肿瘤免疫效应。",
+    "reference": "Activation of PD-1/PD-L1 pathway contributes to tumor immune escape, and block PD-1/PD-L1 pathway can enhance endogenous antimuor immunity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Activation of the PD-1/PD-L1 signaling pathway contributes to tumor immune evasion, while blocking this pathway can enhance the body's endogenous anti-tumor immune response."
+  },
+  {
+    "index": 26,
+    "source": "目前越来越多的临床试验显示免疫检查点阻滞剂抗PD-1、抗PD-L1抗体在治疗NSCLC中的良好疗效性和安全性。",
+    "reference": "Currently increasing clinical trials suggested that immune checkpoint inhibitors, including anti-PD-1 and anti-PD-L1 monoclonal antibodies turned out to be beneficial and safe in NSCLC.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Currently, an increasing number of clinical trials show the good efficacy and safety of immune checkpoint inhibitors, including anti-PD-1 and anti-PD-L1 antibodies, in the treatment of NSCLC."
+  },
+  {
+    "index": 27,
+    "source": "本综述旨在回顾及总结近年来PD-1/PD-L1信号通路及其阻滞剂在NSCLC中的研究进展。",
+    "reference": "Here, we provide a review on the progress of PD-1/PD-L1 pathway and immune checkpoint inhibitors in NSCLC.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This review aims to review and summarize the recent research progress of the PD-1/PD-L1 signaling pathway and its inhibitors in NSCLC."
+  },
+  {
+    "index": 28,
+    "source": "肿瘤细胞长期处于应激的微环境中，细胞内营养物质及能量的流通速率往往高于正常细胞，肿瘤细胞代谢以此为肿瘤转移提供生物合成原料和能量。",
+    "reference": "Intracellular nutrients and the rate of energy flowing in tumor cells are often higher than that in normal cells due to the prolonged stress of tumor-specific microenvironment. In this context, the metabolism of tumor cells provides the fuel of bio-synthesis and energy required for tumor metastasis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tumor cells are often in a stressed microenvironment for a long time, and the rate of nutrient and energy flow within the cells is usually higher than that of normal cells. Tumor cell metabolism provides biosynthetic materials and energy for tumor metastasis."
+  },
+  {
+    "index": 29,
+    "source": "在转移性肿瘤中也发现糖代谢异常活跃、脂肪酸过度累积等异于正常细胞的代谢反应。",
+    "reference": "Consistent with this, the abnormal metabolism such as extremely active glucose metabolism and excessive accumulating of fatty acid is also discovered in metastatic tumors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Abnormal metabolic responses, such as hyperactive glucose metabolism and excessive fatty acid accumulation, which are different from normal cells, have also been found in metastatic tumors."
+  },
+  {
+    "index": 30,
+    "source": "已有研究证实对肿瘤细胞代谢进行调节可影响肿瘤转移，部分成果已应用于临床治疗，靶向肿瘤细胞代谢是抗肿瘤转移的一个积极有效的方向。",
+    "reference": "Previous Studies have confirmed that the regulation of tumor metabolism can affect the tumor metastasis, and some of these have been successfully applied in clinical effective, positive way. Thus, targeting metabolism of tumor cells might be an effectively positive way to prevent the metastasis of tumor.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Studies have confirmed that regulating tumor cell metabolism can affect tumor metastasis, and some results have been applied in clinical treatment. Targeting tumor cell metabolism is a positive and effective direction for anti-tumor metastasis."
+  },
+  {
+    "index": 31,
+    "source": "本文对目前肿瘤细胞代谢与肿瘤转移相互关系和调节机制的研究进展进行综述。",
+    "reference": "So, our review is focused on the research development of the relationship between tumor metabolism and metastasis as well as the underlying mechanism.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article reviews the research progress on the relationship and regulatory mechanisms between tumor cell metabolism and tumor metastasis."
+  },
+  {
+    "index": 32,
+    "source": "本研究的目的是探讨一种能够反映中国快速变化的饮料消费模式的膳食调查方 法。",
+    "reference": "This paper addresses the need for diet assessment methods that capture the rapidly changing beverage consumption patterns in China.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The purpose of this study is to explore a dietary survey method that can reflect the rapidly changing beverage consumption patterns in China."
+  },
+  {
+    "index": 33,
+    "source": "我们设计了一种智能手机协助的3 天24 小时回顾调查以改善饮料消费的 调查，调查对象包括110 名中国青年，并在其中的34 名青年中收集24 小时尿 样，以比较问卷调查与智能手机协助调查的总液体摄入量。",
+    "reference": "The objective of this study was to develop a 3-day smartphone-assisted 24-hour recall to improve the quantification of beverage intake amongst young Chinese adults (n=110) and validate, in a small subset (n=34), the extent to which the written record and smartphone-assisted recalls adequately estimated total fluid intake, using 24-hour urine samples.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We designed a smartphone-assisted 3-day, 24-hour recall survey to improve beverage consumption, targeting 110 Chinese youths. Among them, 34 youths provided 24-hour urine samples to compare the total fluid intake between the questionnaire-based survey and the smartphone-assisted survey."
+  },
+  {
+    "index": 34,
+    "source": "结果表明，当与总 尿量比较时，智能手机协助的方法比问卷调查能更好地反映总液体的摄入量， 但被调查者通过智能手机提供的饮料消费量较少，主要是传统的不含能量的饮 料（如水和茶）报告较少。",
+    "reference": "The smartphone-assisted method showed improved validity compared with the written record-assisted method, when comparing reported total fluid intake to total urine volume. However, participants reported consuming fewer beverages on the smartphone-assisted method compared with the written record-assisted method, primarily due to decreased consumption of traditional zero-energy beverages (i.e. water, tea) in the smartphone-assisted method.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The results show that, compared to total urine volume, the smartphone-assisted method better reflects total fluid intake than the questionnaire survey. However, the beverage consumption reported by participants through smartphones was lower, mainly due to fewer reports of traditional non-caloric drinks (such as water and tea)."
+  },
+  {
+    "index": 35,
+    "source": "腺癌和鳞癌是非小细胞肺癌（non-small cell lung cancer, NSCLC）最常见的两种病理类型。",
+    "reference": "Adenocarcinoma and squamous cell carcinoma are the most common histological types of non-small cell lung cancer (NSCLC).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Adenocarcinoma and squamous cell carcinoma are the two most common pathological types of non-small cell lung cancer (NSCLC)."
+  },
+  {
+    "index": 36,
+    "source": "一些诱发和维持恶性肿瘤的分子改变被称为驱动基因。",
+    "reference": "Several molecular alterations have been defined as \"driver oncogenes\" responsible for both the initiation and maintenance of the malignancy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Some molecular changes that trigger and sustain malignant tumors are known as driver genes."
+  },
+  {
+    "index": 37,
+    "source": "随着多重基因分型和高通量基因组分析等下一代（next-generation sequencing, NGS）测序技术的推广运用，使得从微小的肿瘤活检标本中检测病患者的癌症基因组成为可能，基于基因特征的临床研究也相继开展，进一步推动对NSCLC的分子分型。",
+    "reference": "With next-generation sequencing (NGS) which having multiple and high-throughput genotyping is wildly used and promoted, make the detection of patients gene composition from a tiny tumor biopsy specimens become possible, initiate the clinical studies based on the genetic characteristics, and promote the progress of molecular typing in NSCLC.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "With the widespread application of next-generation sequencing (NGS) technologies such as multi-genetic typing and high-throughput genomic analysis, it has become possible to detect the cancer genome of patients from small tumor biopsy specimens. Clinical research based on genetic features has also been carried out, further promoting the molecular typing of NSCLC."
+  },
+  {
+    "index": 38,
+    "source": "肺腺癌中约60%的驱动基因被确定，肺鳞癌驱动基因的检出率也在逐步提高，其中表皮生长因子受体（epidermal growth factor receptor, EGFR）、间变性淋巴瘤激酶（anaplastic lymphoma kinase, ALK）、成纤维细胞生长因子受体1（fibroblast growth factor receptor 1, FGFR1）、磷脂酰肌醇3激酶催化亚单位A（phosphatidylinositol 3-kinase catalytic subunit alpha, PIK3CA）等起着重要作用，目前临床上有效的驱动基因靶向治疗主要是针对EGFR、ALK等。",
+    "reference": "So far, about 60% of lung adenocarcinoma has been found harbouring driver oncogenes, the rate of lung squamous cell carcinoma driven genes detection has gradually improved, in which epidermal growth factor receptor (EGFR), anaplastic lymphoma kinase (ALK), fibroblast growth factor receptor 1 (FGFR1), phosphatidylinositol 3-kinase catalytic subunit alpha (PIK3CA) and so on plays important roles. The currently effective targeted therapies is mainly used against EGFR, ALK, etc.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Approximately 60% of the driver genes in lung adenocarcinoma have been identified, and the detection rate of driver genes in lung squamous carcinoma is also gradually increasing. Among them, epidermal growth factor receptor (EGFR), anaplastic lymphoma kinase (ALK), fibroblast growth factor receptor 1 (FGFR1), phosphatidylinositol 3-kinase catalytic subunit alpha (PIK3CA), and others play important roles. Currently, the clinically effective driver gene-targeted therapies mainly target EGFR, ALK, and others."
+  },
+  {
+    "index": 39,
+    "source": "本文将对NSCLC驱动基因的意义及相关研究进行综述。",
+    "reference": "In this review, we will report the mainly advances on some latest driver mutations of NSCLC.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article will provide a review of the significance of NSCLC driver genes and related research."
+  },
+  {
+    "index": 40,
+    "source": "有关难治性抑郁症（treatment-resistant depression，TRD）的定义及其亚类一直有争议，从而难以评估治疗这种慢性致残性病症的不同方案的疗效。",
+    "reference": "There is on-going controversy about the definition and sub-classification of treatment-resistant depression (TRD) that makes it difficult to assess the effectiveness of different proposed strategies for treating this chronic, often disabling condition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The definition of treatment-resistant depression (TRD) and its subtypes have been controversial, making it difficult to assess the effectiveness of different treatment approaches for this chronic disabling condition."
+  },
+  {
+    "index": 41,
+    "source": "根据TRD的症状严重程度等临床特征以及人口学特征方面进行分类可能有助于对同一亚类TRD的识别，并有助于制定针对特定亚类的干预措施。",
+    "reference": "Sub-classification of TRD in terms of symptom severity and in terms of demographic and clinical characteristics may help in the recognition of homogeneous TRD subgroups and in the development of subgroup-specific interventions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Classifying based on the severity of TRD symptoms and other clinical characteristics, as well as demographic characteristics, may help in identifying the same subtype of TRD and contribute to developing interventions targeted at specific subtypes."
+  },
+  {
+    "index": 42,
+    "source": "此研究调查了184 位门诊40 岁以上之2 型糖尿病病患，评估病患特质对饮食 自我照顾行为配合度之影响。",
+    "reference": "The effects of patient characteristics on reported adherence to dietary self-care behaviours in 184 Taiwanese outpatients 40 years or older with type 2 diabetes was assessed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This study investigated 184 outpatients aged 40 and above with type 2 diabetes, assessing the impact of patient characteristics on the adherence to dietary self-care behaviors."
+  },
+  {
+    "index": 43,
+    "source": "利用一份72 题（共八面向）之调查问卷，评估 病患之特质，包括影响糖尿病患配合度之内在因素（此疾病相关之知识与态 度、自我效能和心理问题）、能力因素（对糖尿病的理解度和环境因素），以 及加强因素（医疗和家庭支持）。",
+    "reference": "Patient characteristics included the presence of predisposing factors affecting diabetes adherence (knowledge and attitudes about the disease, self-efficacy, and the absence of psychological problems), enabling factors (understanding of diabetes and environmental factors affecting it), and reinforcing factors (presence of medical and social support) which were evaluated using a 72 item self-administered questionnaire with 8 subscales.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Using a 72-item (eight dimensions) survey questionnaire, assess the characteristics of patients, including internal factors affecting diabetes patients' adherence (disease-related knowledge and attitudes, self-efficacy, and psychological issues), ability factors (understanding of diabetes and environmental factors), and strengthening factors (medical and family support)."
+  },
+  {
+    "index": 44,
+    "source": "有关病患饮食自我照顾行为之配合度，共调 查了七项饮食行为（遵循糖尿病饮食计划、食物代换表、每餐固定醣量、醣类 计算、减少油脂、增加纤维摄取，和记录饮食日志）。",
+    "reference": "Adherence was assessed by patients' reports of carrying out 7 self-care behaviours (following a diabetic meal plan, following the diabetes exchange system, eating meals providing the same amount of carbohydrate every day, counting carbohydrates, reducing dietary fat, consuming high fiber foods, and keeping a daily food record).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The compliance of patients' dietary self-care behaviors was investigated, covering seven dietary behaviors (following the diabetes meal plan, food exchange list, fixed carbohydrate amount per meal, carbohydrate counting, reducing fats, increasing fiber intake, and keeping a food diary)."
+  },
+  {
+    "index": 45,
+    "source": "病患饮食行为配合度调 查结果为17%至74%。",
+    "reference": "Reported adherence ranged from 17% to 74%.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The compliance rate of patients' dietary behavior ranged from 17% to 74%."
+  },
+  {
+    "index": 46,
+    "source": "没有单一（内在、能力和加强）因素可预测所有的饮 食行为配合度；然而，自我效能越强、理解度越佳、和有较好糖尿病的态度， 则与五项以上的饮食行为配合度表现相关。",
+    "reference": "No single predisposing, enabling, or reinforcing factor predicted adherence to all of the dietary self-care behaviours. However, more self-efficacy, better understanding, and a better attitude toward diabetes were associated with performing five or more of the dietary self-care behaviours examined.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "No single (intrinsic, ability, and reinforcement) factor can predict all dietary behavior adherence; however, the stronger the self-efficacy, the better the understanding, and the more positive the attitude towards diabetes, the more it is related to adherence to five or more dietary behaviors."
+  },
+  {
+    "index": 47,
+    "source": "特别的自我照顾行为，如女性在醣 类计算上可能较男性佳（OR=5.75），在减少脂肪摄取上亦同（OR=2.57）； 病患参加较多次的营养教育课程， 则较可能遵循糖尿病饮食计划 （OR=2.11），和糖尿病食物代换（OR=3.07）。",
+    "reference": "With respect to specific self-care behaviours, women were more likely than men to count carbohydrates (OR=5.75) and reduce fat in their diets (OR=2.57). Patients who attended more nutrition education sessions were more likely to follow diabetes meal plans (OR=2.11) and the diabetes exchange system (OR=3.07).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Special self-care behaviors, such as women being better than men at carbohydrate counting (OR=5.75) and also at reducing fat intake (OR=2.57); patients who attend more nutrition education courses are more likely to follow the diabetes diet plan (OR=2.11) and the diabetes food exchange (OR=3.07)."
+  },
+  {
+    "index": 48,
+    "source": "需鼓励卫教者对糖尿病自我 照顾行为教育的努力，和留意在病患人口统计学与社会心理学特质上的价值， 以提升病患的配合度。",
+    "reference": "Efforts are needed to encourage providers to teach diabetes self-care behaviours to patients and to capitalize upon demographic and psychosocial characteristics that can enhance patient adherence.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Efforts to encourage healthcare educators in diabetes self-care education should be made, while paying attention to the value in patient demographics and sociopsychological characteristics, in order to improve patient compliance."
+  },
+  {
+    "index": 49,
+    "source": "本研究的目的是根据渔民从马六甲海峡东海岸获取的鱼和其他海鲜的膳食摄入 量来确定其暴露于多氯联苯（PCBs）和选定的重金属的水平。",
+    "reference": "The aim of this study was to determine the level of exposure to polychlorinated biphenyls (PCBs) and selected heavy metals among fishermen via dietary intake of fish and other seafood from the eastern coast along the Straits of Malacca.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The purpose of this study is to determine the levels of exposure to polychlorinated biphenyls (PCBs) and selected heavy metals based on the dietary intake of fish and other seafood obtained by fishermen from the east coast of the Strait of Malacca."
+  },
+  {
+    "index": 50,
+    "source": "这项研究探讨 了渔民们的神经行为表现（基于神经行为核心测试分），并评估该神经行为核 心测试成绩和暴露因素之间的相关性。",
+    "reference": "This study determined the neurobehavioural performances (based on neurobehavioural core test battery scores) of the fishermen and evaluated the correlations between scores of neurobehavioural core test battery and exposure factors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This study explores the neurobehavioral performance of fishermen (based on core neurobehavioral test scores) and evaluates the correlation between the neurobehavioral core test scores and exposure factors."
+  },
+  {
+    "index": 51,
+    "source": "九十渔民参与了这项研究。",
+    "reference": "Ninety fishermen participated in the study.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ninety fishermen participated in this study."
+  },
+  {
+    "index": 52,
+    "source": "用食物频率 问卷测量渔民们的总鱼摄入量。",
+    "reference": "The total fish intakes of the fishermen were measured using a set of food frequency questionnaires.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Use a food frequency questionnaire to measure the total fish intake of fishermen."
+  },
+  {
+    "index": 53,
+    "source": "海鲜样品多氯联苯的含量介于0.2 和0.6 pg/g 新鲜样品。",
+    "reference": "The PCBs contents in the seafood samples ranged between 0.2 and 0.6 pg/g fresh sample.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The content of polychlorinated biphenyls in seafood samples ranges from 0.2 to 0.6 pg/g in fresh samples."
+  },
+  {
+    "index": 54,
+    "source": "海鲜样品中的汞、砷、镉和铅的浓度分别为1.1-5.4、0.3-4.4、0.6- 36.1 和0.02-0.3 μg/g 新鲜样品。",
+    "reference": "The concentrations of mercury (Hg), arsenic (As), cadmium (Cd), and lead (Pb) in the seafood samples were 1.1-5.4, 0.3-4.4, 0.6-36.1, and 0.02-0.3 μg/g fresh sample, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The concentrations of mercury, arsenic, cadmium, and lead in the seafood samples were 1.1-5.4, 0.3-4.4, 0.6-36.1, and 0.02-0.3 μg/g in fresh samples, respectively."
+  },
+  {
+    "index": 55,
+    "source": "渔民们的多氯联苯、汞（Hg）、砷（As）、 镉（Cd）和铅（Pb）暴露估计分别为2.8、0.02、4.5、0.09 和0.5 pg/kg 体重/ 天。",
+    "reference": "The PCBs, Hg, As, Cd, and Pb exposures of the fishermen was estimated to be 2.8, 0.02, 4.5, 0.09, and 0.5 pg/kg body weight/day, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The exposure of fishermen to polychlorinated biphenyls, mercury (Hg), arsenic (As), cadmium (Cd), and lead (Pb) is estimated to be 2.8, 0.02, 4.5, 0.09, and 0.5 pg/kg body weight/day, respectively."
+  },
+  {
+    "index": 56,
+    "source": "渔民们每日多氯联苯和重金属通过鱼和海鲜膳食摄入的暴露量均在可接受 的限度内。",
+    "reference": "PCB and heavy metal exposures through dietary intake of fish and seafood were within the tolerable daily limits.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The daily exposure of fishermen to polychlorinated biphenyls and heavy metals through fish and seafood in their diet is within acceptable limits."
+  },
+  {
+    "index": 57,
+    "source": "他们的神经行为核心测试结果显示渔民们的神经行为表现不受多氯 联苯和重金属中毒的影响。",
+    "reference": "The results of neurobehavioural core test battery revealed that the neurobehavioural performances of the fishermen were not affected due to PCB and heavy metal intoxication.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Their neurobehavioral core test results show that the fishermen's neurobehavioral performance is not affected by polychlorinated biphenyls and heavy metal poisoning."
+  },
+  {
+    "index": 58,
+    "source": "渔民们的神经行为表现与该暴露没有相关性。 这些 数据有利于政策制定者确保与海洋污染有关的海产品的安全和质量。",
+    "reference": "No correlations were found between the exposure and neurobehavioural performance among the fishermen. These data are useful for policy makers to assure the safety and quality of seafood in relation to sea pollution.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The neurobehavioral performance of the fishermen is not related to this exposure. These data are useful for policymakers to ensure the safety and quality of seafood related to marine pollution."
+  },
+  {
+    "index": 59,
+    "source": "虽然该暴 露水平较低，由于海水受到污染，定期评估鱼和鱼产品质量是必要。",
+    "reference": "Although the levels of exposure were low, periodic assessment of the quality of fish and fish products is required due to the polluted seawater.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Although the exposure level is low, due to the pollution of seawater, regular evaluation of the quality of fish and fish products is necessary."
+  },
+  {
+    "index": 60,
+    "source": "共纳入7篇随机对照试验文章，合计513人。",
+    "reference": "Seven eligible randomized controlled trials with 513 subjects were identified.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A total of 7 randomized controlled trial articles were included, with a total of 513 participants."
+  },
+  {
+    "index": 61,
+    "source": "本研究的目的是确定柬埔寨农村家庭食物无保障与低膳食多样性之间的相关 性。",
+    "reference": "The objective of this study was to identify correlates of household food insecurity and poor dietary diversity in rural Cambodia.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The aim of this study is to determine the correlation between food insecurity and low dietary diversity among rural households in Cambodia."
+  },
+  {
+    "index": 62,
+    "source": "经过培训的调查员在柬埔寨波萝勉省的四个农村地区调查了900 个家庭。",
+    "reference": "Trained interviewers administered a survey to 900 households in four rural districts of Prey Veng Province, Cambodia.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Trained investigators surveyed 900 households in four rural areas of Pailin Province, Cambodia."
+  },
+  {
+    "index": 63,
+    "source": "分别采用家庭食物无保障评估量表（ HFIAS ） 和家庭膳食多样性评分 （HDDS）来评估家庭食物无保障和膳食的多样性。",
+    "reference": "The Household Food Insecurity Access Scale (HFIAS) and Household Dietary Diversity Score (HDDS) were used to assess household food insecurity and dietary diversity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Household Food Insecurity Access Scale (HFIAS) and the Household Dietary Diversity Score (HDDS) are used to assess household food insecurity and dietary diversity."
+  },
+  {
+    "index": 64,
+    "source": "构建多因素logistic 回归 模型，以确定家庭食物无保障和低膳食多样性之间的独立相关性（HDDS",
+    "reference": "Multivariate logistic regression models were constructed to identify independent correlates of household food insecurity and poor dietary diversity (HDDS",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Construct a multi-factor logistic regression model to determine the independent association between household food insecurity and low dietary diversity (HDDS)."
+  },
+  {
+    "index": 65,
+    "source": "乳糖是嬰兒主要的醣類來源，它的影響會隨著兒童年紀增長與牛奶及乳製品攝 取降低而遞減。",
+    "reference": "Lactose is the main carbohydrate in infant feeding, but its impact decreases as the child gets older and consumes less milk and dairy products.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lactose is the main source of carbohydrates for infants, and its effect decreases as children grow older and their intake of milk and dairy products decreases."
+  },
+  {
+    "index": 66,
+    "source": "先天性乳糖不耐症是一種很罕見的情形。",
+    "reference": "Congenital lactose intolerance is a very rare condition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Congenital lactose intolerance is a very rare condition."
+  },
+  {
+    "index": 67,
+    "source": "許多嬰兒出生的第一 週，其乳糖酶活性可能較低，並需要時間逐漸成熟。",
+    "reference": "However, lactase activity may be low and need to mature during the first weeks of life in many infants.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In the first week of many babies' lives, their lactase activity may be lower and need time to gradually mature."
+  },
+  {
+    "index": 68,
+    "source": "然而，未被吸收的乳糖是 否是引起嬰兒哭鬧及絞痛的證據仍是矛盾的。",
+    "reference": "However, the evidence that unabsorbed lactose is causing infantile crying and colic is contradictory.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, the evidence on whether unabsorbed lactose causes infant crying and colic remains contradictory."
+  },
+  {
+    "index": 69,
+    "source": "未被吸收的乳糖可作為雙岐桿菌 生長之用，及促進鈣吸收。",
+    "reference": "Unabsorbed lactose has a bifidogenic effect and improves calcium absorption.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Unabsorbed lactose can be used for the growth of bifidobacteria and promote calcium absorption."
+  },
+  {
+    "index": 70,
+    "source": "乳糖吸收不良也可能是次發性的，起因於其他暫時 的病因，如腸胃道感染、對牛奶過敏或乳糜瀉。",
+    "reference": "Lactose malabsorption may occur secondary and thus temporally to other etiologies such as infectious gastroenteritis, cow's milk allergy and celiac disease.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lactose malabsorption can also be secondary, caused by other temporary factors, such as gastrointestinal infections, milk allergy, or celiac disease."
+  },
+  {
+    "index": 71,
+    "source": "一旦疾病被治癒，乳糖酶活性 會逐漸回復正常。",
+    "reference": "One the cause is treated, lactase activity will gradually return to normal.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Once the disease is cured, lactase activity will gradually return to normal."
+  },
+  {
+    "index": 72,
+    "source": "亞洲兒童絕大多數為晚發型先天性乳糖酶缺乏症。",
+    "reference": "The vast majority of Asian children will develop late onset congenital lactase deficiency.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The vast majority of Asian children have late-onset congenital lactase deficiency."
+  },
+  {
+    "index": 73,
+    "source": "但是，只 有少部分在4-5 歲前就有症狀。",
+    "reference": "However, this entity only exceptionally causes symptoms before the age of 4-5 years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, only a small portion show symptoms before the age of 4-5."
+  },
+  {
+    "index": 74,
+    "source": "症狀為腹部絞痛、脹氣、水便或酸便及降低生 活品質，但乳糖不耐症與真正的疾病並無相關。",
+    "reference": "Symptoms are abdominal cramps, flatulence and watery, acid stools, and decrease the quality of life but lactose intolerance is not associated with \"true disease\".",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The symptoms include abdominal cramps, bloating, watery stools or acidic stools, and reduced quality of life, but lactose intolerance is not related to any actual disease."
+  },
+  {
+    "index": 75,
+    "source": "如果需要，可經臨床表現及乳 糖呼吸測試確診。",
+    "reference": "The diagnosis is made on clinical grounds and confirmed with a lactose breath test, if needed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If necessary, diagnosis can be confirmed through clinical symptoms and lactose breath test."
+  },
+  {
+    "index": 76,
+    "source": "這些病人需要終身降低乳糖攝取，以改善他們的生活品質。",
+    "reference": "These patients need to have a lifetime long reduced lactose intake to improve their quality of life.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These patients need to reduce lactose intake for life to improve their quality of life."
+  },
+  {
+    "index": 77,
+    "source": "日本社會對於“瘦”的強烈社交壓力，造成年輕女性體重過輕者（身體質量指數",
+    "reference": "The strong social pressure for thinness in Japanese society has produced a dramatic increase in underweight (body mass index:",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The strong social pressure in Japanese society regarding 'thinness' has caused many young women to have an underweight condition (body mass index..."
+  },
+  {
+    "index": 78,
+    "source": "本研究旨在观察中国重庆地区学龄期儿童维生素A 营养状况与肥胖和代谢综 合征的关系。",
+    "reference": "The aim of our study was to examine the association of vitamin A status with obesity and the metabolic syndrome (MS) in school-age children in Chongqing, China.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This study aims to observe the relationship between the vitamin A nutritional status and obesity and metabolic syndrome in school-age children in Chongqing, China."
+  },
+  {
+    "index": 79,
+    "source": "横断面调查重庆市渝中区5 所小学共1,928 名学龄期儿童。",
+    "reference": "A cross-sectional study was conducted of 1,928 children aged 7~11 years from 5 schools in Chongqing, China.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A cross-sectional survey of 5 primary schools in Yuzhong District, Chongqing, covering a total of 1,928 school-age children."
+  },
+  {
+    "index": 80,
+    "source": "检查 其身高、体重、腰围和血压水平，检测其血清维生素A、血糖和血脂水平。",
+    "reference": "Body height, weight, waist circumference (WC) and blood pressure were measured. Blood glucose, lipids and vitamin A were determined.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Check their height, weight, waist circumference, and blood pressure levels, and test their serum vitamin A, blood glucose, and blood lipid levels."
+  },
+  {
+    "index": 81,
+    "source": "结 果显示，调查对象的超重率为10.1%，肥胖率为6.7%；代谢综合征发生率为 3.5%；维生素A 缺乏（VAD）发生率为2.8%，边缘型维生素A 缺乏 （MVAD）发生率为14.2%。",
+    "reference": "Overall prevalences for overweight, obesity and MS were 10.1%, 6.7% and 3.5%, respectively. There were 274 (14.2%) marginally vitamin A deficient (MVAD) children and 53 (2.8%) vitamin A deficient (VAD) children, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The results show that the overweight rate of the survey subjects is 10.1%, the obesity rate is 6.7%; the incidence of metabolic syndrome is 3.5%; the incidence of vitamin A deficiency (VAD) is 2.8%, and the incidence of marginal vitamin A deficiency (MVAD) is 14.2%."
+  },
+  {
+    "index": 82,
+    "source": "肥胖组儿童血清维生素A 水平显著低于超重组 和正常组。 体质指数、腰围、高密度脂蛋白胆固醇和血糖水平与维生素A 营 养状况有关（p",
+    "reference": "Serum vitamin A in the obese group was significantly lower than in the overweight and normal weight groups (p",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The serum vitamin A levels in the obese group of children are significantly lower than those in the overweight and normal groups. Body mass index, waist circumference, high-density lipoprotein cholesterol, and blood glucose levels are related to vitamin A nutritional status (p."
+  },
+  {
+    "index": 83,
+    "source": "菊粉益生元是一类非消化性多糖，能够影响婴幼儿肠道中微生态的构成，尤其 是增强双岐杆菌转化产生短链脂肪酸的作用。",
+    "reference": "Inulin-based prebiotics are non-digestible polysaccharides that influence the composition of the gut microbiota in infants and children, notably eliciting a bifidogenic effect with high short chain fatty acid levels.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Inulin prebiotics are a type of non-digestible polysaccharide that can influence the composition of the microecology in infants' intestines, especially enhancing the role of bifidobacteria in converting and producing short-chain fatty acids."
+  },
+  {
+    "index": 84,
+    "source": "菊粉是一个通用的术语，包括β- (2,1)线性果聚糖（主要从菊苣植物根中分离所得）及其衍生品如低聚果糖和长 链菊粉，尽管各自具有不同的生理功能。",
+    "reference": "Inulin, a generic term that comprises β-(2,1)-linked linear fructans, is typically isolated from the chicory plant root, and derivatives such as oligofructose and long chain inulin appear to have different physiological properties.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Inulin is a general term that includes β-(2,1) linear fructans (mainly isolated from the roots of chicory plants) and their derivatives such as oligofructose and long-chain inulin, although each has different physiological functions."
+  },
+  {
+    "index": 85,
+    "source": "婴儿出生后第一个1000 天被认为是影 响健康的一个关键期，甚至关系到成年期的健康，其中营养是关键因素之一。",
+    "reference": "The first 1000 days of a child's life are increasingly recognized as a critical timeframe for health also into adulthood, whereby nutrition plays a key role.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The first 1000 days after a baby's birth are considered a critical period that affects health, even impacting health in adulthood, with nutrition being one of the key factors."
+  },
+  {
+    "index": 86,
+    "source": "在此关键期间营养和肠道微生物群组成之间的联系不断增强和发展，从而影响 个体的生命健康。",
+    "reference": "There is an ever increasing association between nutrition and gut microbiota composition and development, with life health status of an individual.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The connection between nutrition and the composition of the gut microbiota continues to strengthen and develop during this critical period, thereby affecting the individual's life health."
+  },
+  {
+    "index": 87,
+    "source": "本文总结了对健康新生儿和早产婴儿肠道微生态进行研究的 结果，以及在发展中国家对营养不良患儿进行观察的最新进展。",
+    "reference": "This review summarizes the latest knowledge in the infant gut microbiota from preterms to healthy newborns, as well as in malnourished children in developing countries.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article summarizes the results of studies on the intestinal microecology of healthy newborns and preterm infants, as well as the latest developments in observing malnourished children in developing countries."
+  },
+  {
+    "index": 88,
+    "source": "这些研究内容 包括菊粉或其混合物对婴幼儿和较大年龄儿童的肠道功能和免疫力产生的影 响。",
+    "reference": "The impact of inulin or mixtures thereof on infants, toddlers and young children with respect to intestinal function and immunity in general, is reviewed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These research topics include the effects of inulin or its mixtures on the intestinal function and immunity of infants and older children."
+  },
+  {
+    "index": 89,
+    "source": "这些研究结果显示，益生元可以支持营养不良患儿肠道中的有益微生物生 长从而抑制感染，因此特别有益于发展中国家的儿童和孕妇的健康。",
+    "reference": "Possible benefits of prebiotics to support the gut microbiome of malnourished infants and children, especially those with infections in the developing world, are considered, as well as for the pregnant mothers health.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These research results show that prebiotics can support the growth of beneficial microorganisms in the intestines of malnourished children, thereby inhibiting infections, which is particularly beneficial for the health of children and pregnant women in developing countries."
+  },
+  {
+    "index": 90,
+    "source": "本文提出 了有关菊粉益生元在肠道微生态代谢编程方面的重要作用，明确了益生元对儿 童长期健康的潜在有益作用。",
+    "reference": "Importantly, novel insights in metabolic programming are covered, which are being increasing recognized for remarkable impact on long term offspring health, and eventual potential beneficial role of prebiotic inulins.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article presents the important role of inulin prebiotics in gut microbiota metabolic programming and clarifies the potential beneficial effects of prebiotics on children's long-term health."
+  },
+  {
+    "index": 91,
+    "source": "上述研究进展为利用益生元对某些疾病进行肠道 微生态疗法治疗和预防的可能性提供了证据。",
+    "reference": "Overall increasing findings prompt the potential for gut microbiota-based therapy to support health or prevent the development of certain diseases from conception to adulthood where inulin prebiotics may play a role.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The above research progress provides evidence for the possibility of using prebiotics for intestinal microecological therapy in the treatment and prevention of certain diseases."
+  },
+  {
+    "index": 92,
+    "source": "本文讨论了对颞下颌关节紊乱病关节盘移位的认识及治疗策略。",
+    "reference": "Understanding and treatment strategy for disc displacement of temporomandibular disorders (TMD) were discussed in the present review.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article discusses the understanding and treatment strategies for temporomandibular joint disorder and disc displacement."
+  },
+  {
+    "index": 93,
+    "source": "笔者认为对颞下颌关节紊乱病关节盘移位亚类的治疗应采取以可逆性的、非手术治疗为主的治疗策略。",
+    "reference": "It has been strongly recommended by the author that the treatment strategy for disc displacement, one subtype of TMD, should be mainly the reversible conservative treatment methods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The author believes that the treatment of the subcategory of temporomandibular joint disorder with disc displacement should adopt a strategy focused on reversible, non-surgical treatment."
+  },
+  {
+    "index": 94,
+    "source": "治疗的最重要目的是恢复患者关节的正常活动度和功能，提高生活质量。",
+    "reference": "The most important goal of treatment for disc displacement is to recover the mobility and function of the joint in order to improve the quality of the patient's life.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The primary goal of treatment is to restore the normal range of motion and function of the patient's joints, and improve quality of life."
+  },
+  {
+    "index": 95,
+    "source": "建议坚持在治疗中全面评估患者的躯体疾病和精神心理状况的原则，特别是对于病程迁延、存在慢性疼痛的患者尤为重要。",
+    "reference": "Comprehensive assessments both from somatic and psychological aspects for each TMD patient are necessary, especially for the patients with chronic pain.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is recommended to adhere to the principle of conducting a comprehensive assessment of the patient's physical diseases and psychological conditions during treatment, which is particularly important for patients with prolonged illness and chronic pain."
+  },
+  {
+    "index": 96,
+    "source": "外科手术治疗在关节盘移位总体治疗策略中的作用很有限；但对极少数关节病变诊断明确、经正确的可逆性非手术治疗无效、且明显影响生活质量的患者，仍有重要意义。",
+    "reference": "Although the role of surgical operative treatments is very limited in the general treatment strategy for TMD, it is still important for a few patients who had definite diagnosis of intra-articular disorders, severe symptoms affecting the quality of patient's life and failed to response to the correct conservative treatments.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Surgical treatment has limited role in the overall treatment strategy for disc displacement; however, it still holds significant importance for a small number of patients with clearly diagnosed joint disorders, ineffective reversible non-surgical treatment, and a significant impact on quality of life."
+  },
+  {
+    "index": 97,
+    "source": "建议慎重使用可能对患者造成损害的外科手术以及为治疗颞下颌关节紊乱病而施行的改变患者天然牙列的全口咬合重建、大范围调牙合等不可逆性的治疗方法。",
+    "reference": "It should be very careful to treat the TMD patients by surgical operation or irreversible occlusion treatments changing the natural denture of the patient, such as full mouth occlusional reconstruction and extensive adjustment of occlusion.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is recommended to use caution when performing surgical procedures that may cause harm to the patient, as well as irreversible treatment methods such as full-mouth occlusal reconstruction and large-scale orthodontics that alter the patient's natural dentition, which are performed to treat temporomandibular joint disorders."
+  },
+  {
+    "index": 98,
+    "source": "针对龋易感人群，提出一种全新的诊疗体系——健康美学管理。",
+    "reference": "A new clinic conception, healthy cosmetic management (HCM), was innovated introduced into diagnose and treatment of patients with high caries risk.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A brand new diagnosis and treatment system—health aesthetics management—is proposed for caries-susceptible populations."
+  },
+  {
+    "index": 99,
+    "source": "健康美学管理旨在恢复牙体美观的同时，考虑牙体、牙髓的保存，兼顾健康与美学，并达到个性化诊疗效果。",
+    "reference": "The priority of HCM should be given to aesthetic restoration of teeth, taking consideration of the conserving of tissue and pulp of teeth and the balance between health and aesthetics, which may reach to the goal of the individual clinic treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Health aesthetic management aims to restore the appearance of the teeth while considering the preservation of the tooth and pulp, balancing health and aesthetics, and achieving personalized treatment results."
+  },
+  {
+    "index": 100,
+    "source": "健康美学管理的策略主要包括5个方面的内容：1）龋病风险评估；2）早期龋探测；3）数字化微笑设计；4）微创技术；5）龋病行为管理及医患沟通平台。",
+    "reference": "HCM includes five steps: 1) caries risk assessment; 2) detection of initial caries; 3) digital aesthetic design; 4) minimally invasive therapy; 5) behavior management of caries and doctor-patient communication pattern.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The strategies for health aesthetics management mainly include five aspects: 1) Caries risk assessment; 2) Early caries detection; 3) Digital smile design; 4) Minimally invasive technology; 5) Caries behavior management and doctor-patient communication platform."
+  },
+  {
+    "index": 101,
+    "source": "本文结合临床实践，对健康美学管理的流程和方案进行阐释。",
+    "reference": "In this article, HCM is introduced into two aspects: process management and clinical protocols, followed by the combination of the clinical practice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article combines clinical practice to elaborate on the process and plans of health aesthetics management."
+  },
+  {
+    "index": 102,
+    "source": "主动脉弓部重建是主动脉手术中最具挑战性的操作。",
+    "reference": "Aortic arch reconstruction is one of the most challenging operations in aortic surgery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Aortic arch reconstruction is the most challenging procedure in aortic surgery."
+  },
+  {
+    "index": 103,
+    "source": "主动脉弓部的解剖畸形包括牛型主动脉弓、迷走右锁骨下动脉、单发椎动脉，对手术方式选择和脑保护方法有直接影响。 主动脉弓部重建术的风险和手术难度较大，严格掌握指征可以降低手术风险。",
+    "reference": "Anatomical abnormalities of the aortic arch, including bovine aortic arch, aberrant right subclavian artery, and single vertebral artery have direct impact on the choice of surgical procedures and methods of brain protection.The risk of aortic arch reconstruction and the difficulty of operation, it is possible to avoid the injury of patients by strictly grasping the indication of operation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Anatomical abnormalities of the aortic arch include bovine-type aortic arch, right subclavian artery arising from the vagus nerve, and single vertebral artery, all of which have a direct impact on the choice of surgical approach and brain protection methods. Aortic arch reconstruction surgery carries high risks and difficulty, and strictly adhering to the indications can reduce surgical risks."
+  },
+  {
+    "index": 104,
+    "source": "手术中动脉插管和脑保护策略直接关系到手术能否成功。",
+    "reference": "Intraoperative arterial cannulation and brain protection strategies are directly related to the success of the operation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Arterial catheterization and brain protection strategies during surgery are directly related to the success of the operation."
+  },
+  {
+    "index": 105,
+    "source": "本文对主动脉弓部重建过程中上述问题作一简要综述，希望对心血管外科医师能有所帮助。",
+    "reference": "This article makes a brief review of the above problems in the reconstruction of the aortic arch, hoping to be helpful to the cardiovascular surgeon.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article provides a brief review of the aforementioned issues during the reconstruction of the aortic arch, hoping it will be helpful to cardiovascular surgeons."
+  },
+  {
+    "index": 106,
+    "source": "目的：探讨核仁素对糖尿病性小鼠心肌病心肌细胞凋亡的影响。",
+    "reference": "To investigate the effect of nucleolin on cardiac cell apoptosis in Type 2 diabetic cardiomyopathy mice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To investigate the effect of nucleolar protein on myocardial cell apoptosis in diabetic mice with cardiomyopathy."
+  },
+  {
+    "index": 107,
+    "source": "方法：小鼠给予高脂高糖饲料喂养，第5，6周分别予链脲佐菌素60 mg/kg腹腔注射，构建2型糖尿病模型；实验分为4组：野生型小鼠对照组、核仁素转基因小鼠对照组、野生型小鼠糖尿病组、核仁素转基因小鼠糖尿病组；第8周末检测糖尿病相关指标；第20周末，采用HE染色观察心肌形态学改变；TUNEL染色和caspase-3活性检测心肌细胞凋亡程度。",
+    "reference": "Methods: Mice were fed with high-fat and high-sugar food for 20 weeks (mice were injected intraperitoneally with 60 mg/kg streptozotocin in the 5th and 6th weeks) to establish a mouse model of Type 2 diabetes. The mice were divided into 4 groups: a wild type (WT) control group, a nucleolin transgenic (TG) control group, a WT diabetic group, a TG diabetic group. Diabetes-related indicators were detected at the end of the 8th week. At the end of the 20th week, HE staining was used to observe myocardial morphological changes; TUNEL staining and caspase-3 activity were used to detect the extent of apoptosis of cardiac myocytes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: Mice were fed a high-fat, high-sugar diet. At weeks 5 and 6, streptozotocin (60 mg/kg) was administered by intraperitoneal injection to establish a type 2 diabetes model. The experiment was divided into 4 groups: wild-type mouse control group, nucleolin transgenic mouse control group, wild-type mouse diabetes group, and nucleolin transgenic mouse diabetes group. At the end of week 8, diabetes-related indicators were measured. At the end of week 20, myocardial morphological changes were observed by HE staining; TUNEL staining and caspase-3 activity were used to assess myocardial cell apoptosis."
+  },
+  {
+    "index": 108,
+    "source": "结果：糖尿病组小鼠空腹血糖值较野生型对照组明显升高；与野生型对照组相比，野生型糖尿病组小鼠心肌HE染色显示细胞排列紊乱，部分肌纤维出现断裂及溶解，TUNEL染色和caspase-3活性检测显示心肌细胞凋亡明显增加。",
+    "reference": "Results: The level of fasting blood glucose was significantly increased in the diabetic group than that in the control group. In WT diabetic group, myocardial disarrangement, fragmentation and dissolution were observed (determined by HE staining); cellular apoptosis (determined by TUNEL staining and caspase-3 activity) also increased markedly in the WT diabetic group.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: The fasting blood glucose levels of diabetic mice were significantly higher than those of the wild-type control group. Compared to the wild-type control group, myocardial HE staining in diabetic mice showed disordered cell arrangement, partial muscle fiber rupture and dissolution. TUNEL staining and caspase-3 activity assays revealed a significant increase in myocardial cell apoptosis."
+  },
+  {
+    "index": 109,
+    "source": "与野生型糖尿病组小鼠相比，转基因糖尿病组小鼠心肌形态学改变明显减轻，心肌细胞凋亡明显减少。",
+    "reference": "Compared with the wild mice in the diabetic group, myocardial morphological changes and cardiac myocytes apoptosis were alleviated significantly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Compared with the wild-type diabetic mice, the transgenic diabetic mice showed significantly reduced myocardial morphological changes and a marked decrease in myocardial cell apoptosis."
+  },
+  {
+    "index": 110,
+    "source": "结论：核仁素过表达可抑制糖尿病性心肌病中心肌细胞凋亡的发生。",
+    "reference": "Conclusion: Nucleolin overexpression affectes the occurrence and development of diabetic cardiomyopathy through inhibition of cardiac myocyte apoptosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: Overexpression of nuciferine can inhibit the occurrence of cardiomyocyte apoptosis in diabetic cardiomyopathy."
+  },
+  {
+    "index": 111,
+    "source": "目的：观察硫化氢(hydrogen sulfide，H2S)对1型糖尿病大鼠肾诱导型一氧化氮合酶(inducible nitric oxide synthase，iNOS)的影响。",
+    "reference": "To investigate effects of hydrogen sulfide (H2S) on inducible nitric oxide synthase (iNOS) in kidneys of Type 1 diabetic rats.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To observe the effect of hydrogen sulfide (H2S) on inducible nitric oxide synthase (iNOS) in the kidneys of type 1 diabetic rats."
+  },
+  {
+    "index": 112,
+    "source": "方法：将32只雄性SD大鼠随机分为4组(n=8)：正常对照(NC)组、糖尿病(DM)组、糖尿病治疗(NaHS+DM)组和NaHS对照(NaHS)组。",
+    "reference": "Methods: Thirty-two male SD rats were randomly divided into four groups: A normal control (NC) group, a diabetes mellitus (DM) group, a NaHS (NaHS+DM) group, and a NaHS control (NaHS) group (n=8 per group).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: 32 male SD rats were randomly divided into 4 groups (n=8): normal control (NC) group, diabetes (DM) group, diabetes treatment (NaHS+DM) group, and NaHS control (NaHS) group."
+  },
+  {
+    "index": 113,
+    "source": "采用腹腔注射55 mg/kg链脲佐菌素复制1型糖尿病大鼠模型。",
+    "reference": "Type 1 diabetes was induced by a single intraperitoneal injection of streptozotocin (55 mg/kg).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The rat model of type 1 diabetes was replicated using 55 mg/kg streptozotocin via intraperitoneal injection."
+  },
+  {
+    "index": 114,
+    "source": "造模成功后，NaHS+DM组和NaHS组大鼠腹腔注射56 μmol/kg NaHS溶液进行干预治疗。",
+    "reference": "After successful establishment of models, the rats in NaHS+DM and NaHS groups were injected with NaHS solution (56 μmol/kg) intraperitoneally.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After successful modeling, the NaHS+DM group and NaHS group of rats were intraperitoneally injected with 56 μmol/kg NaHS solution for intervention treatment."
+  },
+  {
+    "index": 115,
+    "source": "8周后，分别测定各组大鼠血清和肾组织中总一氧化氮合酶(total nitric oxide synthase，T-NOS)、iNOS活性和一氧化氮(NO)水平；测定肾组织中谷胱甘肽过氧化物酶(glutathione peroxidase，GSH-Px)活性；采用透射电镜观察肾皮质超微结构变化；Western印迹检测肾组织iNOS蛋白表达。",
+    "reference": "Eight weeks later, the activities of total nitric oxide synthase (T-NOS) and iNOS, as well as the level of nitric oxide (NO) were detected in serum and renal tissues, respectively. The activity of glutathione peroxidase (GSH-Px) was determined in renal tissues. The ultrastructures of renal tissues were observed by transmission electron microscope. The protein expression of iNOS in renal tissues was detected by Western blot.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After 8 weeks, the total nitric oxide synthase (T-NOS), iNOS activity, and nitric oxide (NO) levels in the serum and kidney tissues of each group of rats were measured; the activity of glutathione peroxidase (GSH-Px) in the kidney tissues was determined; transmission electron microscopy was used to observe the ultrastructural changes in the kidney cortex; Western blot was used to detect the expression of iNOS protein in kidney tissues."
+  },
+  {
+    "index": 116,
+    "source": "结果：与NC组相比，NaHS组各项指标间差异均无统计学意义(P",
+    "reference": "Results: Compared with the NC group, there was no significant difference in the various indexes in the NaHS group (P",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: Compared with the NC group, there were no statistically significant differences in the indicators of the NaHS group (P)"
+  },
+  {
+    "index": 117,
+    "source": "本病例报告描述了一女性患者，61 岁，双眼睑 痉挛，诊断美格综合征(Meige syndrome)，伴焦虑失 眠症状，使用精神药物治疗时发现，苯二氮卓类药物 硝西泮片、多巴胺拮抗剂奥氮平片加重眼睑痉挛，特 异性γ- 氨基丁酸受体结合药物右佐匹克隆片则减轻眼 睑痉挛。",
+    "reference": "The present case report described a 61-year-old female patient who was diagnosed as Meige syndrome with double eyelid spasm, anxiety and insomnia. After she was treated with psychoactive drugs, it was found that clonazepam tablets in the benzodiazepine class and dopamine antagonist olanzapine tablets aggravated double eyelid spasm; while eszopiclone tablets as a specificity γ-aminobutyric acid receptor binding drug alleviated this condition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This case report describes a female patient, 61 years old, with blepharospasm, diagnosed with Meige syndrome, accompanied by anxiety and insomnia symptoms. During treatment with psychiatric medications, it was found that benzodiazepine drug nitrazepam tablets and dopamine antagonist olanzapine tablets aggravated the blepharospasm, while the drug with selective gamma-aminobutyric acid receptor binding, eszopiclone tablets, relieved the blepharospasm."
+  },
+  {
+    "index": 118,
+    "source": "本病例提示精神药物对美格综合征的影响存 在正面与负面的差异，对伴发情绪障碍的患者，在选 用精神药物治疗时应仔细观察评估病情，首选特异性γ- 氨基丁酸受体结合的药物，如右佐匹克隆。",
+    "reference": "The present case suggests that psychoactive drugs have both positive and negative effects on treating Meige syndrome. As for the patients who also have emotion disorder, their conditions should be observed carefully when choosing which psychoactive drug to use. The specificity γ-aminobutyric acid receptor binding drugs should be the prime choice, such as eszopiclone.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This case suggests that the effects of psychiatric drugs on MEG syndrome vary in both positive and negative aspects. For patients with co-occurring mood disorders, careful observation and assessment of the condition should be conducted when selecting psychiatric drugs for treatment. The first choice should be medications that specifically bind to the γ-aminobutyric acid receptors, such as right-zopiclone."
+  },
+  {
+    "index": 119,
+    "source": "腹腔镜在直肠癌手术治疗中的应用越来越广泛。",
+    "reference": "Laparoscopic surgery has been increasingly used in rectal cancer surgery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The application of laparoscopy in the surgical treatment of rectal cancer is becoming increasingly widespread."
+  },
+  {
+    "index": 120,
+    "source": "虽有争议存在，但绝大多数研究结果显示，无论近期安全性、有效性还是远期肿瘤学结局，腹腔镜直肠癌手术均与传统开腹手术相当。",
+    "reference": "Though there are still some controversies, most of the research results support that the outcome is similar for rectal cancer patients with either laparoscopic or open surgery, in term of short-term such as safety and efficacy and long-term such as oncologic outcome.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Although there is controversy, the vast majority of research results show that laparoscopic rectal cancer surgery is comparable to traditional open surgery in terms of both short-term safety and efficacy as well as long-term oncological outcomes."
+  },
+  {
+    "index": 121,
+    "source": "腹腔镜标准化培训模块结合综合治疗理念是腹腔镜直肠癌治疗效果的保障和前提。",
+    "reference": "Standardization of laparoscopic training together with the comprehensive management concept are the prerequisites of laparoscopic rectal cancer surgery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The standardized training module for laparoscopy, combined with the concept of comprehensive treatment, is the guarantee and prerequisite for the effectiveness of laparoscopic rectal cancer treatment."
+  },
+  {
+    "index": 122,
+    "source": "从事微创外科的医师需在保障患者安全及争取良好肿瘤学结局的前提下追求保留肛门括约肌及缩小切口。",
+    "reference": "Those doctors who do minimally invasive surgery should follow the rationale that smaller incision and sphincter preservation are secondary to safety and oncological result of the patients.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Physicians engaged in minimally invasive surgery should strive to preserve the anal sphincter and reduce the incision size, while ensuring patient safety and achieving favorable oncological outcomes."
+  },
+  {
+    "index": 123,
+    "source": "直肠癌的综合治疗和个体化治疗带来了非手术治疗、内镜治疗、经自然腔道内镜手术、单孔腹腔镜及机器人手术等新技术和理念的不断发展与创新机遇，也将为患者带来更好的疗效和生活质量。",
+    "reference": "It is the comprehensive management and personalized treatment that bring opportunities for the continuous development and innovation of innovative technologies and concepts, for example, non-operative treatment, endoscopic therapy, natural orifice transluminal endoscopic surgery, single incision laparoscopic surgery, and robotic surgery. And they may finally lead to better outcome and quality of life for the patients.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The comprehensive and individualized treatment of colorectal cancer has brought continuous development and innovative opportunities for new technologies and concepts such as non-surgical treatment, endoscopic treatment, natural orifice transluminal endoscopic surgery, single-port laparoscopy, and robotic surgery, which will also bring better therapeutic effects and quality of life for patients."
+  },
+  {
+    "index": 124,
+    "source": "绝经后阴道流血的女性应积极评估以排除内膜病变的风险，经阴道超声测量内膜厚度非常重要。",
+    "reference": "Evaluation of the vaginal bleeding of postmenopausal women is crucial to diagnose endometrial lesions. Endometrial thickness measured by transvaginal ultrasonography provides an important reference for diagnosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Postmenopausal women with vaginal bleeding should be actively evaluated to exclude the risk of endometrial lesions, and transvaginal ultrasound measurement of endometrial thickness is very important."
+  },
+  {
+    "index": 125,
+    "source": "对于绝经后无症状、子宫内膜增厚的女性，目前尚无明确的内膜厚度临界值能够预测恶变风险。",
+    "reference": "Currently, no specific cut-off value of endometrial thickness has been identified to predict the malignant risk for endometrial thickening and postmenopausal women without any symptoms.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For postmenopausal women without symptoms and with endometrial thickening, there is currently no clear threshold for endometrial thickness that can predict the risk of malignancy."
+  },
+  {
+    "index": 126,
+    "source": "在无症状的绝经后患者中，绝大部分内膜切除的病理为良性病变或正常组织。",
+    "reference": "Most of resected endometrial specimens from postmenopausal women without any symptoms are diagnosed as benign or normal tissues.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In asymptomatic postmenopausal patients, the vast majority of endometrial biopsies show benign lesions or normal tissue."
+  },
+  {
+    "index": 127,
+    "source": "以阴道超声对无症状的绝经后女性进行内膜癌的普遍筛查或干预可能没有必要。",
+    "reference": "It seems that postmenopausal women without any symptoms have no need for general screen or intervention of endometrial cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Universal screening or intervention for endometrial cancer using vaginal ultrasound in asymptomatic postmenopausal women may not be necessary."
+  },
+  {
+    "index": 128,
+    "source": "欧洲肝脏研究学会最近在阿姆斯特丹的国际肝病大会上发布了最新的关于乙型肝炎病毒感染管理的临床实践指南。",
+    "reference": "The European Association for the Study of the Liver recently released the updated Clinical Practice Guidelines on the management of hepatitis B virus infection at the International Liver Congress(TM) 2017 in Amsterdam.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The European Association for the Study of the Liver recently released the latest clinical practice guidelines for the management of hepatitis B virus infection at the International Liver Congress in Amsterdam."
+  },
+  {
+    "index": 129,
+    "source": "最新的临床实践指南是将最新的科学进展与乙型肝炎的诊断和治疗结合在一起，从而为急性或慢性乙型肝炎患者的临床实践提供了最佳的参考。",
+    "reference": "The latest clinical practice guideline integrated the latest scientific advances on diagnosis and therapy of hepatitis B, thereby providing optimize the management of patients with either acute or chronic HBV.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The latest clinical practice guidelines combine the latest scientific advancements with the diagnosis and treatment of hepatitis B, providing the best reference for clinical practice in patients with acute or chronic hepatitis B."
+  },
+  {
+    "index": 130,
+    "source": "最新的临床实践指南主要更新包括疾病分期的定义，治疗的适应证，母婴垂直传播的预防以及抗病毒治疗停药的新指征等，同时也讨论了未来乙型肝炎病毒的新的标志物以及治疗策略。",
+    "reference": "The latest clinical practice guideline includes new definitions of disease phases, expanded indications for initiating treatment, prevention of mother-to-child transmission, new stopping rules for antiviral therapy. Future treatment strategies to achieve 'cure' of disease and new biomarkers are discussed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The latest clinical practice guidelines primarily include updates on the definition of disease staging, indications for treatment, prevention of vertical transmission from mother to infant, new indications for discontinuation of antiviral treatment, and also discuss new markers and treatment strategies for hepatitis B virus in the future."
+  },
+  {
+    "index": 131,
+    "source": "鼻衄或鼻出血是一种常见的疾病，有可能会严 重到需要紧急医疗或手术治疗。",
+    "reference": "Epistaxis or nasal bleeding is a common condition which may be severe enough to warrant an urgent medical or surgical treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Nosebleeds or nasal hemorrhage is a common condition that can be severe enough to require emergency medical or surgical treatment."
+  },
+  {
+    "index": 132,
+    "source": "人为的鼻出血是一种 罕见的案例。",
+    "reference": "Factitious epistaxis is a rare entity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Artificial nosebleed is a rare case."
+  },
+  {
+    "index": 133,
+    "source": "对患者复杂的行为问题，在大学阶段的 培训较少，因此，外科医生常常错过患者一些隐藏的 心理问题。 在这里，我们给出一例做作性障碍的病例， 该案例由于鼻出血而进行手术。",
+    "reference": "Due to a lack of exposure in complex behavioral issues during undergraduate training, it is quite natural on the part of a surgeon to miss the underlying emotional phenomena. Here, we present a case of factitious disorder which presented to the surgical causality with nasal bleeding.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For patients with complex behavioral issues, there is less training at the university level, so surgeons often miss some hidden psychological problems of patients. Here, we present a case of factitious disorder, where the case was surgically treated due to nosebleed."
+  },
+  {
+    "index": 134,
+    "source": "经过适当的评估并于 耳鼻咽喉科会诊之后，我们采用抗抑郁药物和认知行 为治疗成功治愈该患者。",
+    "reference": "After proper evaluation and liaison with the department of otorhinolaryngology, we were able to manage the patient with antidepressants and cognitive behavioral therapy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After proper evaluation and consultation with the ENT department, we successfully cured the patient using antidepressants and cognitive behavioral therapy."
+  },
+  {
+    "index": 135,
+    "source": "目的：探讨失独者社会支持与抑郁情绪间的关系及自我效能感在社会支持和抑郁情绪之间的中介作用。",
+    "reference": "To investigate the relationship between social support and depression of only-child-lost (OCL) people, and the mediation role of self-efficacy in this relationship.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To explore the relationship between social support and depressive emotions in childless individuals and the mediating role of self-efficacy between social support and depressive emotions."
+  },
+  {
+    "index": 136,
+    "source": "方法：采用分层整群抽样214名失独者，其中男80人，女134人，年龄49~83岁，用一般自我效能感量表、社会支持评定量表及抑郁自评量表测量失独者自我效能感、社会支持及抑郁水平。",
+    "reference": "Methods: By stratified cluster sampling, 214 OCL people were enrolled, with 80 males and 134 females, ages from 49 to 83 years old. They were assessed by General Self-Efficacy Scale, Social Support Rating Scale, and Self-rating Depression Scale.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: Stratified cluster sampling was used to select 214 bereaved parents, including 80 men and 134 women, aged 49 to 83 years. The general self-efficacy scale, social support assessment scale, and depression self-rating scale were used to measure the self-efficacy, social support, and depression levels of the bereaved parents."
+  },
+  {
+    "index": 137,
+    "source": "结果：单因素分析结果显示不同年龄(t=2.85，P",
+    "reference": "Results: Univariate analysis showed that there were significant differences in age groups (t=2.85, P",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: The results of the univariate analysis show different ages (t=2.85, P)"
+  },
+  {
+    "index": 138,
+    "source": "1例以鼻部皮肤受累为首发表现的结外NK/T细胞淋巴瘤(鼻型)患者，男，29岁，因左侧鼻翼肿胀伴间歇高热1个月，口腔、左鼻孔口溃烂及左眼周红肿1周就诊。",
+    "reference": "A 29-year-old male patient with extranodal NK/T-cell lymphoma, a nasal type lymphoma with involvement of skin as the first symptom, was reported. The patient presented with swelling in the left side of the nose and suffered intermittent fever for 1 month. The fester in the oral mucosa and skin under the left nostril and redness, and the swelling on the orbit of the left eye lasted for 1 week.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A case of extranodal NK/T-cell lymphoma (nasal type) with initial presentation of nasal skin involvement, a 29-year-old male, who presented with left-wing nasal swelling accompanied by intermittent fever for one month, oral and left nostril ulceration, and left eye periocular redness and swelling for one week."
+  },
+  {
+    "index": 139,
+    "source": "体格检查表现为左鼻翼部肿胀，左鼻孔下方皮肤浅表糜烂、结痂。",
+    "reference": "Physical examination showed that the left side of nose was swelling, and the skin below the left nostril was anabrotic and crusted.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The physical examination shows swelling in the left nostril wing, with superficial erosion and scabbing on the skin below the left nostril."
+  },
+  {
+    "index": 140,
+    "source": "口腔上腭部及两侧颊黏膜可见多个大小不等的溃疡面。",
+    "reference": "There were different ulcers in his jaws and buccal mucosa.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Multiple ulcers of varying sizes can be seen on the oral hard palate and bilateral buccal mucosa."
+  },
+  {
+    "index": 141,
+    "source": "双侧眼睑红肿(左侧明显)，双眼结膜充血，结合皮肤组织病理学及免疫组织化学检查符合鼻部NK/T细胞淋巴瘤诊断。",
+    "reference": "Bilateral eyelid was redness and swelling, especially in the left side. Binocular conjunctival was congestive. The diagnosis of extranodal NK/T-cell lymphoma (nasal type) was confirmed by biopsy and immunohistochemistry.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Bilateral eyelid redness and swelling (more prominent on the left side), bilateral conjunctival congestion, combined with skin tissue histopathology and immunohistochemistry examination, consistent with the diagnosis of nasal NK/T-cell lymphoma."
+  },
+  {
+    "index": 142,
+    "source": "环二鸟苷酸 (Bis-(3′-5′) cyclic diguanylic acid, c-di-GMP) 是细菌所特有的一类核酸类第二信使，参与并调节细菌多种生理功能，包括细胞分化、生物被膜的形成以及致病因子的产生等。",
+    "reference": "The cyclic dinucleotide c-di-GMP is known as an important second messenger in bacteria, which controls various important cellular processes, such as cell differentiation, biofilm formation and virulence factors production.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Cyclic diguanylic acid (Bis-(3′-5′) cyclic diguanylic acid, c-di-GMP) is a type of nucleic acid second messenger unique to bacteria, involved in and regulating various bacterial physiological functions, including cell differentiation, biofilm formation, and the production of virulence factors."
+  },
+  {
+    "index": 143,
+    "source": "阻断c-di-GMP 信号的传导对于发展新型抗菌药物具有重要的意义。",
+    "reference": "It is extremely vital for the development of new antibacterial agents by virtue of blocking c-di-GMP signal conduction.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Blocking the signaling of c-di-GMP is of significant importance for the development of new antimicrobial drugs."
+  },
+  {
+    "index": 144,
+    "source": "现有研究结果表明，基于c-di-GMP 调控的信号通路开发新型抗菌药物具有3 类潜在的靶点，分别是c-di-GMP 合成酶 (DGCs)、c-di-GMP 降解酶 (PDEs) 以及c-di-GMP 受体。",
+    "reference": "Current research indicates that there are three potential targets for discovering new antibacterial agents based on c-di-GMP regulated signal pathway, which are c-di-GMP synthases, c-di-GMP degrading enzymes and c-di-GMP receptors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Current research results show that the development of novel antibacterial drugs based on the c-di-GMP regulated signaling pathway has three potential targets: c-di-GMP synthetase (DGCs), c-di-GMP degrading enzymes (PDEs), and c-di-GMP receptors."
+  },
+  {
+    "index": 145,
+    "source": "文中根据上述3 类关键靶点，介绍了相关小分子抑制剂的研究进展，并展望了c-di-GMP 信号分子抑制剂的发展方向。",
+    "reference": "Herein, we review small molecules that have been developed to inhibit c-di-GMP related enzymes and indicate perspectives of c-di-GMP inhibitors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The article introduces the research progress of relevant small molecule inhibitors based on the above-mentioned three types of key targets, and looks forward to the development direction of c-di-GMP signaling molecule inhibitors."
+  },
+  {
+    "index": 146,
+    "source": "甲状腺功能紊乱可影响机体生长代谢以及类固醇性激素的合成与分泌，大量临床与基础研究提示,甲状腺激素异常可造成性功能及生育障碍。",
+    "reference": "Thyroid dysfunction may affect the body growth metabolism and the synthesis and secretion of sex steroids. A large number of clinical and basic studies suggest that thyroid hormone abnormality can cause sexual and reproductive problems.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Thyroid dysfunction can affect the growth and metabolism of the body as well as the synthesis and secretion of steroid hormones. A large number of clinical and basic studies suggest that thyroid hormone abnormalities can lead to sexual and reproductive dysfunction."
+  },
+  {
+    "index": 147,
+    "source": "甲亢患者不仅可出现早泄(PE)，也可出现勃起功能障碍(ED)；同样甲减患者不仅可出现ED，也可出现PE；甲状腺激素可对睾丸间质细胞、支持细胞、精子的发生产生影响。",
+    "reference": "Patients with hyperthyroidism or hypothyroidism may develop not only premature ejaculation but also erectile dysfunction. The thyroid hormone level also influences Leydig cells, Sertoli cells, and spermatogenesis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hyperthyroidism patients may not only experience premature ejaculation (PE), but also erectile dysfunction (ED); similarly, hypothyroidism patients may not only experience ED, but also PE; thyroid hormones can affect the production of testicular interstitial cells, supporting cells, and sperm."
+  },
+  {
+    "index": 148,
+    "source": "本文就甲状腺功能紊乱对男性PE、ED及不育的影响及其机制的研究进展进行综述。",
+    "reference": "This review focuses on the association of thyroid dysfunction with male premature ejaculation, erectile dysfunction, and infertility and its mechanisms.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article reviews the research progress on the impact of thyroid dysfunction on male PE, ED, and infertility, as well as the underlying mechanisms."
+  },
+  {
+    "index": 149,
+    "source": "Th17细胞和调节性T细胞（Treg）均来自于初始CD4(+)T细胞，在不同细胞因子的微环境中分化形成，其中，Th17细胞由转化生长因子（TGF）β和白细胞介素（IL）-6共同诱导形成，而Treg细胞仅由TGFβ诱导分化而来。",
+    "reference": "Naïve CD4+T cell differentiates into either Th17 or Treg in the microenvironment of various cytokines, among that, Th17 is induced by TGF-β and IL-6, while differentiates into Treg when there is only TGF-β.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Th17 cells and regulatory T cells (Treg) both originate from naive CD4(+) T cells and differentiate in different cytokine microenvironments. Th17 cells are induced by transforming growth factor (TGF) β and interleukin (IL)-6, while Treg cells are solely induced by TGFβ."
+  },
+  {
+    "index": 150,
+    "source": "维甲酸相关孤儿受体γt和叉头/翅膀状螺旋因子分别为Th17细胞和Treg细胞的主要转录因子，在二者的平衡维持中具有重要作用。",
+    "reference": "As the mainly transcription factors of Th17 and Treg respectively, RORγt and Foxp3 have important role in maintaining balance of Th17/Treg.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Retinoic acid-related orphan receptor γt and forkhead/winged-helix transcription factor are the main transcription factors of Th17 cells and Treg cells, respectively, and play an important role in maintaining the balance between the two."
+  },
+  {
+    "index": 151,
+    "source": "由于Th17细胞和Treg细胞在功能上互相拮抗，因此二者的平衡对于机体至关重要。",
+    "reference": "Th17 and Treg are function antagonistically, so the balance of Th17/Treg means a lot for human body.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Since Th17 cells and Treg cells antagonize each other functionally, the balance between them is crucial for the body."
+  },
+  {
+    "index": 152,
+    "source": "肝脏作为机体的代谢器官，易受机体内部以及外界因素的影响而发生病变，从最基础的炎症性病变到终末阶段的恶性病变，常见的肝脏疾病主要有病毒性肝炎、酒精性肝病、非酒精性脂肪性肝病、自身免疫性肝病、肝细胞肝癌以及肝脏寄生虫疾病，这些疾病的发生、发展与Th17/Treg平衡具有一定的关联。",
+    "reference": "Liver-a metabolic organof the body, it is susceptible to factors in vivo and in vitro. From basal hepatis to end-stage malignancy, common liver diseases are mainly including viral hepatitis, alcoholic liver disease, nonalcoholic fatty liver disease, autoimmune liver disease, hepatocellualr carcinoma and parasitic disease of liver, besides, the occurrence and development of all the diseases are correlated to the balance of Th17/Treg.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The liver, as the body's metabolic organ, is easily affected by both internal and external factors, leading to pathological changes, ranging from the most basic inflammatory lesions to malignant lesions in the terminal stages. Common liver diseases include viral hepatitis, alcoholic liver disease, non-alcoholic fatty liver disease, autoimmune liver disease, hepatocellular carcinoma, and liver parasitic diseases. The occurrence and development of these diseases are related to the balance between Th17 and Treg cells."
+  },
+  {
+    "index": 153,
+    "source": "基于细菌基因组规律成蔟的间隔短回文重复 (Clustered regularly interspaced short palindromic repeats)发展而来的新型基因编辑方法 (CRISPR-Cas9) 对生物医学研究是一场划时代的革命。",
+    "reference": "The development of genome editing techniques based on CRISPR (Clustered regularly interspaced short palindromic repeats)-Cas9 system has revolutionized biomedical researches.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The new gene editing method (CRISPR-Cas9), developed based on the clustered regularly interspaced short palindromic repeats (CRISPR), is an epoch-making revolution in biomedical research."
+  },
+  {
+    "index": 154,
+    "source": "它几乎可用于大多数生物体的基因编辑。 秀丽线虫是一种非常经典的遗传学模式生物，CRISPR-Cas9 基因编辑技术进一步加速了对其基因功能及各种生物学问题的研究。",
+    "reference": "It can be utilized to edit genome sequence in almost any organisms including Caenorhabditis elegans, one of the most convenient and classic genetic model animals. The application of CRISPR-Cas9 mediated genome editing in C. elegans promotes the functional analysis of gene and proteins under many physiological conditions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is almost applicable to the gene editing of most organisms. Caenorhabditis elegans is a very classic model organism in genetics, and the CRISPR-Cas9 gene editing technology has further accelerated the research on its gene functions and various biological issues."
+  },
+  {
+    "index": 155,
+    "source": "文中主要总结CRISPR-Cas9 基因编辑系统在遗传学模式生物秀丽线虫中的发展和应用。",
+    "reference": "In this mini-review, we summarized the development of CRISPR-Cas9-based genome editing in C. elegans.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The article mainly summarizes the development and application of the CRISPR-Cas9 gene editing system in the genetic model organism Caenorhabditis elegans."
+  },
+  {
+    "index": 156,
+    "source": "真核生物翻译控制在细胞进程中对基因表达调控具有重要作用，能确保蛋白的迅速调节以维持细胞内稳态。",
+    "reference": "Translation control in eukaryotes contributes significantly to gene expression regulation during cellular processes, which enables rapid changes of specific proteins to maintain cellular homeostasis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Eukaryotic translation control plays an important role in gene expression regulation during cellular processes, ensuring the rapid regulation of proteins to maintain intracellular homeostasis."
+  },
+  {
+    "index": 157,
+    "source": "真核翻译是一个多步骤的过程，包括起始、延伸、终止和核糖体循环，其中起始是限速步骤，受真核翻译起始因子(eukaryotic translation initiation factors，eIFs)调控。",
+    "reference": "Eukaryotic translation is a multiple-step process that comprised of four phases: initiation, elongation, termination and ribosome recycling. The initiation phase is rate-limiting and orchestrated by a set of eukaryotic translation initiation factors (eIFs).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Eukaryotic translation is a multi-step process, including initiation, elongation, termination, and ribosome recycling, with initiation being the rate-limiting step, regulated by eukaryotic translation initiation factors (eIFs)."
+  },
+  {
+    "index": 158,
+    "source": "翻译起始缺陷将导致一系列疾病。",
+    "reference": "Defects in translation initiation can result in a series of diseases.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Translation starting defects will lead to a series of diseases."
+  },
+  {
+    "index": 159,
+    "source": "在所有eIFs中，eIF3是最大的同时知之较少的因子。",
+    "reference": "Among all eIFs, eIF3 is the largest and less-known initiation factor due to its intrinsic complexity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Among all eIFs, eIF3 is the largest and the least known factor."
+  },
+  {
+    "index": 160,
+    "source": "eIF3A是eIF3因子的最大亚基，其异常一方面会导致肿瘤发生，另一方面将阻止肿瘤向更高级别恶性肿瘤进展。 eIF3A表达变化和突变影响肿瘤患者对铂类化疗药物的反应。",
+    "reference": "Aberration in eIF3A, the largest subunit of eIF3, is known to contribute to carcinogenesis and protection against evolution into higher-grade malignancy, and the altered expression or mutation of eIF3A affects the responses of cancer patients to platinum-based chemotherapy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "eIF3A is the largest subunit of the eIF3 complex, and its abnormalities can lead to tumor formation, while also preventing tumors from progressing to more advanced malignant stages. Changes in eIF3A expression and mutations affect tumor patients' responses to platinum-based chemotherapy drugs."
+  },
+  {
+    "index": 161,
+    "source": "此外，eIF3A与纤维化病变相关，抑制eIF3A的试剂能延缓病变进展。",
+    "reference": "Besides its role in cancinogenesis, eIF3A is also implicated in fibrosis, and the agents inhibiting eIF3A delay the progression of this disorder.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In addition, eIF3A is associated with fibrotic lesions, and inhibitors of eIF3A can delay the progression of the lesions."
+  },
+  {
+    "index": 162,
+    "source": "eIF3A在肿瘤中的双重作用可能是其在肿瘤进展的不同阶段调节不同mRNAs翻译的结果，特定阶段不同mRNAs的编码产物发挥促癌或抑癌作用。",
+    "reference": "The dual roles of eIF3A in tumorigenesis are probably due to the regulation of translation of different mRNAs at different stages of tumor progression by eIF3A. In turn the encoded products serve as pro-tumor or anti-tumor proteins at different stages.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The dual role of eIF3A in tumors may be the result of its regulation of the translation of different mRNAs at different stages of tumor progression, where the products encoded by specific mRNAs exert either pro-cancer or anti-cancer effects at different stages."
+  },
+  {
+    "index": 163,
+    "source": "HINT1蛋白可在多种组织中表达,在转录和信号转导中发挥重要作用。",
+    "reference": "HINT1 protein is expressed in various tissues and plays an important role in transcription and signal transduction.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "HINT1 protein can be expressed in various tissues and plays an important role in transcription and signal transduction."
+  },
+  {
+    "index": 164,
+    "source": "早期研究已经明确HINT1是单倍剂量不足的肿瘤抑制因子;也有研究表明HINT1广泛参与一系列生理过程,且部分功能与其基本的酶活性无关;新近研究表明这一蛋白与诸多外周、中枢神经系统疾病存在密切关系,在遗传性周围神经病、精神分裂症、心境障碍、药物成瘾、唐氏综合征等神经精神疾病中起作用。",
+    "reference": "Earlier studies have identified HINT1 as a haplo-insufficient tumor suppressor. Other evidences indicate that HINT1 is involved in a wide variety of physiological processes,some of which are irrelevant with its basic enzymic activities. Investigations recently suggest that HINT1 is closely related to many peripheral and central nervous system diseases,and plays a vital role in some of neuropsychiatric diseases such as inherited peripheral neuropathies,schizophrenia,mood disorder,drug addiction,and Down's syndrome.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Early studies have clearly shown that HINT1 is a tumor suppressor factor with a single-dose insufficiency; other studies have also indicated that HINT1 is widely involved in a range of physiological processes, with some functions unrelated to its basic enzymatic activity. Recent research suggests that this protein is closely associated with various peripheral and central nervous system diseases, playing a role in neuropsychiatric disorders such as hereditary peripheral neuropathy, schizophrenia, mood disorders, drug addiction, and Down syndrome."
+  },
+  {
+    "index": 165,
+    "source": "本文针对HINT1蛋白在以上不同神经精神疾病中的作用做了详细综述,分析归纳了HINT1在上述每一种疾病中的研究发现,以期对今后该蛋白的深入研究起到一定的指导作用。",
+    "reference": "In this review,the role of HINT1 in above-mentioned neuropsychiatric disorders was summarised,and the research findings of HINT1 in each of the above diseases were summarized and analyzed,in order to provide some guidance for further research on this protein.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article provides a detailed review of the role of HINT1 protein in the above-mentioned neuropsychiatric disorders, analyzing and summarizing the research findings of HINT1 in each of these diseases, with the aim of guiding further in-depth research on this protein in the future."
+  },
+  {
+    "index": 166,
+    "source": "腹腔镜技术开发后，微创食管切除术近来成为流行。",
+    "reference": "Minimally invasive esophagectomy has recently become popular after the laparoscopic technique was developed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After the development of laparoscopic technology, minimally invasive esophagectomy has recently become popular."
+  },
+  {
+    "index": 167,
+    "source": "然而，接受该手术的患者 术后的能量消耗尚未进行评估。",
+    "reference": "However, the postoperative energy expenditure in patients undergoing this procedure has not been evaluated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, the energy expenditure of patients after undergoing the surgery has not been evaluated."
+  },
+  {
+    "index": 168,
+    "source": "因此，我们假设微创食管切除术后患者静息能 量消耗（REE）低于用Harris-Benedict 公式估算的能量消耗。",
+    "reference": "Therefore, we hypothesized that postoperative resting energy expenditure (REE) following minimally invasive esophagectomy is lower than that estimated using the Harris-Benedict equation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Therefore, we assume that the resting energy expenditure (REE) of patients after minimally invasive esophagectomy is lower than the energy expenditure estimated using the Harris-Benedict equation."
+  },
+  {
+    "index": 169,
+    "source": "本研究分析了15 例俯卧位接受胸腔镜食管切除术的患者。",
+    "reference": "Fifteen patients who underwent esophagectomy by thoracoscopy in the prone position were analyzed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This study analyzed 15 patients who underwent thoracoscopic esophagectomy in the prone position."
+  },
+  {
+    "index": 170,
+    "source": "在重症监护室（ICU）用间接热量计 测量食管切除术后通气患者的能量消耗。",
+    "reference": "After esophagectomy, an indirect calorimeter measured the energy expenditure during ventilation in the ICU.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Measuring energy expenditure in ventilated patients after esophagectomy using indirect calorimetry in the intensive care unit (ICU)."
+  },
+  {
+    "index": 171,
+    "source": "使用配对T 检验，比较测得的能量 消耗和估计的基础能量消耗。",
+    "reference": "These values and the estimated basal energy expenditure values were compared using the paired t test.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Using paired t-test, compare the measured energy consumption and the estimated basal energy expenditure."
+  },
+  {
+    "index": 172,
+    "source": "患者的平均年龄为66±10 岁，在ICU 使用呼吸 机的平均时间是697±70 分钟。",
+    "reference": "The mean age was 66 ± 10 years and mean duration of ventilator use in the ICU was 697 ± 70 mins.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The average age of the patients is 66±10 years, and the average time spent using the ventilator in the ICU is 697±70 minutes."
+  },
+  {
+    "index": 173,
+    "source": "在ICU 住院期间急性生理和慢性健康评估II （APACHE II）和序贯器官衰竭评估的得分分别为13±4 和2±1。",
+    "reference": "The acute physiology and chronic health evaluation II (APACHE II) and sequential organ failure assessment (SOFA) scores at the time of ICU admission were 13 ± 4 and 2 ± 1, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "During the ICU hospitalization, the scores for Acute Physiology and Chronic Health Evaluation II (APACHE II) and Sequential Organ Failure Assessment were 13±4 and 2±1, respectively."
+  },
+  {
+    "index": 174,
+    "source": "食管切除通 气期间患者的平均体温、心率和呼吸频率分别为36.2±0.6℃、67±9 次/分和 12±2 次/分，平均REE 是985±167 千卡/天（18.1±3.4 千卡/千克/天）。",
+    "reference": "The average temperature, heart rate, and respiratory rate during ventilation were 36.2 ± 0.6°C, 67 ± 9 beats/min, and 12 ± 2/min, respectively. The average REE during ventilation was 985 ± 167 kcal/day (18.1 ± 3.4 kcal/kg/day).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "During the period of mechanical ventilation after esophagectomy, the patient's average body temperature, heart rate, and respiratory rate were 36.2±0.6°C, 67±9 beats/min, and 12±2 breaths/min, respectively. The average REE was 985±167 kcal/day (18.1±3.4 kcal/kg/day)."
+  },
+  {
+    "index": 175,
+    "source": "根据 Harris-Benedict 公式估算的REE 为1191±159 千卡/天。",
+    "reference": "The estimated REE was 1191 ± 159 kcal/day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The REE estimated using the Harris-Benedict equation is 1191±159 kcal/day."
+  },
+  {
+    "index": 176,
+    "source": "用间接热量计测量的食 管切除通气期间的平均REE 显著低于估算的REE（ 是估算的REE 的 83±10%，p",
+    "reference": "The average REE measured using the indirect calorimeter during ventilation was significantly lower than the estimated REE (83 ± 10% of the estimated REE, p",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The average REE measured during ventilatory periods after esophageal resection using indirect calorimetry was significantly lower than the estimated REE (which was 83±10% of the estimated REE, p)"
+  },
+  {
+    "index": 177,
+    "source": "多原发性肺癌的发病率和检出率逐年升高。",
+    "reference": "Recently, the incidence and detection rates of multiple primary lung cancer (MPLC) are increasing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The incidence and detection rate of multiple primary lung cancer are increasing year by year."
+  },
+  {
+    "index": 178,
+    "source": "目前临床上诊断多原发性肺癌（multiple primary lung cancer, MPLC）主要参照Martini-Melamed标准和美国胸科医师协会（American College of Chest Physicians, ACCP）标准，综合考虑临床表现、影像学特征、组织学类型和分子遗传学特征。",
+    "reference": "The diagnosis of MPLC depends mainly on the Martini-Melamed criterion and ACCP criterion at present, taking all features (histological, genetic, radiologic and clinical) into account.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Currently, the diagnosis of multiple primary lung cancer (MPLC) in clinical practice mainly refers to the Martini-Melamed criteria and the American College of Chest Physicians (ACCP) criteria, considering clinical manifestations, imaging features, histological types, and molecular genetic characteristics."
+  },
+  {
+    "index": 179,
+    "source": "组织学类型不同的MPLC诊断相对容易，而组织学类型相同的MPLC诊断仍相当困难。",
+    "reference": "It may be easy to diagnose cases of MPLC that exhibit different histological types, but it is difficult to diagnose cases that exhibit similar histological type.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Diagnosis of MPLC with different histological types is relatively easy, while diagnosis of MPLC with the same histological type remains quite difficult."
+  },
+  {
+    "index": 180,
+    "source": "目前临床使用的肺癌分期是国际抗癌联盟（Union for International Cancer Control, UICC）于2009年1月颁布的第七版TNM分期。",
+    "reference": "The currently adopted staging system for lung cancer is the seventh edition of the TNM staging edited by Union for International Cancer Control (UICC) in January, 2009.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The current clinical staging for lung cancer is the 7th edition of the TNM staging system issued by the Union for International Cancer Control (UICC) in January 2009."
+  },
+  {
+    "index": 181,
+    "source": "近年来，随着肺癌诊断技术的提高以及个体化治疗、分子靶向治疗等精准治疗模式的改变，肺癌的生存率及预后也有了明显的提高，旧的分期标准已难以适应当前的快速发展的临床需求。",
+    "reference": "In recent years, with the advances of techniques in lung cancer diagnosis and the treatment trends towards precision treatment modalities such as individualized therapy and molecular targeted therapy, the survival and prognosis of lung cancer has been significantly improved. The old staging standard is difficult to satisfy the currentrapidly developing clinical needs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In recent years, with the improvement of lung cancer diagnostic technologies and the changes in precision treatment models such as individualized treatment and molecular targeted therapy, the survival rate and prognosis of lung cancer have significantly improved. The old staging standards are no longer sufficient to meet the rapidly evolving clinical needs."
+  },
+  {
+    "index": 182,
+    "source": "因此国际肺癌研究学会（International Association for the Study of Lung Cancer, IASLC）2015年对肺癌分期系统进行了更新，其修订稿发表于《Journal of Thoracic Oncology》，新版分期计划于2017年1月正式颁布实施。",
+    "reference": "Therefore, the International Lung Cancer Research Society (International Association for the Study of Lung Cancer, IASLC) updated the stage of lung cancer in 2015, and the forthcoming eighth edition of the TNM Classification for Lung Cancer, which will be formally adopted in Jan. 2017, has been published in Journal of Thoracic Oncology.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Therefore, the International Association for the Study of Lung Cancer (IASLC) updated the lung cancer staging system in 2015, and its revised version was published in the Journal of Thoracic Oncology. The new staging system was officially issued and implemented in January 2017."
+  },
+  {
+    "index": 183,
+    "source": "新分期标准采纳了来自16个国家的35个数据库，包含了自1999年-2010年间新发病的94,708例肺癌病例。",
+    "reference": "The new staging system has adopted 35 databases from 16 countries, including 94,708 cases treated between 1999 and 2010.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The new staging standards incorporate 35 databases from 16 countries, including 94,708 new cases of lung cancer diagnosed between 1999 and 2010."
+  },
+  {
+    "index": 184,
+    "source": "新版分期的优势在于能够更好的显示患者的预后，对临床具有更高的指导价值。",
+    "reference": "The advantages of the new staging lies in its higher prognosis prediction and clinical guidance value.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The advantage of the new version of staging is that it can better display the patient's prognosis, providing greater clinical guidance value."
+  },
+  {
+    "index": 185,
+    "source": "肺癌是目前恶性肿瘤死亡的首要原因，早期诊断对肺癌的预后至关重要。",
+    "reference": "Lung cancer is the leading cause of cancer mortality currently. Early diagnosis is crucial to the good prognosis of lung cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lung cancer is currently the leading cause of death from malignant tumors, and early diagnosis is crucial for the prognosis of lung cancer."
+  },
+  {
+    "index": 186,
+    "source": "研究显示低剂量计算机断层扫描（computed tomography, CT）筛查可以使肺癌的死亡率下降。",
+    "reference": "Evidence has shown that low-dose computed tomography (CT) screening can make the decline in the mortality of lung cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Research shows that low-dose computed tomography (CT) screening can reduce the mortality rate of lung cancer."
+  },
+  {
+    "index": 187,
+    "source": "但其存在的问题不可忽视，如过高的假阳性率、过度诊断、辐射效应等。",
+    "reference": "However, there are still many problems in the screening, such as, high false-positive rates, overdiagnosis and radiation exposure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, the problems associated with it cannot be ignored, such as the excessively high false positive rate, overdiagnosis, radiation effects, and so on."
+  },
+  {
+    "index": 188,
+    "source": "作为一种肿瘤无创筛查方法，血液相关肿瘤标志物的检测，在肺癌早期诊断中显示出良好的敏感性和特异性。",
+    "reference": "As another non-invasive tumor screening method, blood-based tumor markers showed a high sensitivity and specificity in early diagnosis of lung cancer in recent years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "As a non-invasive tumor screening method, the detection of blood-related tumor biomarkers has shown good sensitivity and specificity in the early diagnosis of lung cancer."
+  },
+  {
+    "index": 189,
+    "source": "如何利用现有的筛查手段，建立肺癌筛查综合模式，需要更多大规模的临床研究。",
+    "reference": "How to establish a comprehensive mode for lung cancer screening by use existing screening methods, we need more clinical research.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "How to use existing screening methods to establish a comprehensive model for lung cancer screening requires more large-scale clinical studies."
+  },
+  {
+    "index": 190,
+    "source": "上颌第一磨牙根管系统复杂多样，近颊根双根管发生率较高，而远颊根少有双根管报道。",
+    "reference": "The root and canal anatomy of maxillary first molar is very complicated. The incidence of having two canals in the mesiobuccal root of maxillary first molar is higher than that in its distobuccal root.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The root canal system of the upper first molar is complex and diverse, with a higher incidence of double canals in the mesiobuccal root, while double canals in the distobuccal root are rarely reported."
+  },
+  {
+    "index": 191,
+    "source": "本文报道1例具有5根管的上颌第一磨牙（其中近颊及远颊根各2个根管）。",
+    "reference": "This article described a maxillary first molar with five root canals, including two canals in mesiobuccal and distobuccal roots.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article reports a case of a maxillary first molar with five canals (two root canals in the mesiobuccal and distobuccal roots respectively)."
+  },
+  {
+    "index": 192,
+    "source": "目的：观察右美托咪定对冠心病患者围手术期心脏不良事件的影响。",
+    "reference": "To investigate the effects of dexmedetomidine on perioperative cardiac adverse events in elderly patients with coronary heart disease.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To observe the effect of dexmedetomidine on perioperative cardiac adverse events in patients with coronary heart disease."
+  },
+  {
+    "index": 193,
+    "source": "方法：择期行开腹胃癌切除术的老年冠心病患者60例，采用随机数字表法将其分为右美托咪定组(Dex组)与对照组(Control组)，每组30例。",
+    "reference": "Methods: Sixty elderly patients, who were diagnosed as coronary heart disease and underwent gastric cancer operation, were randomly divided into 2 groups (n=30): the dexmedetomidine group (Dex group) and the control group.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: 60 elderly patients with coronary heart disease undergoing scheduled open gastric cancer resection were randomly divided into the dexmedetomidine group (Dex group) and the control group (Control group) using a random number table method, with 30 cases in each group."
+  },
+  {
+    "index": 194,
+    "source": "两组患者麻醉管理一致，其中Dex组诱导麻醉前10 min静脉微量泵入右美托咪定0.5 μg/kg，10 min后继续泵注维持量0.5 μg/(kg·h)至手术结束；Control组在同一时点采用等量的生理盐水静脉输注。",
+    "reference": "In the Dex group, dexmedetomidine was administered intravenously at 0.5 μg/(kg·h) after a bolus infusion at 0.5 μg/kg for 10 min before anesthesia induction. In the control group, equal volume of normal saline was infused instead of dexmedetomidine. The 2 groups received the same anesthesia treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The anesthetic management was consistent between the two groups of patients. In the Dex group, dexmedetomidine was intravenously infused at 0.5 μg/kg for 10 minutes before the induction of anesthesia, followed by a continuous infusion at a maintenance dose of 0.5 μg/(kg·h) until the end of the surgery. In the Control group, the same amount of physiological saline was intravenously infused at the same time point."
+  },
+  {
+    "index": 195,
+    "source": "目的 采用系统评价的方法评价慢性牙周炎与高脂血症相关性。",
+    "reference": "Objective The aim of this study is to evaluate the relationship between periodontitis and hyperlipidemia risks through Meta-analysis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The purpose is to evaluate the correlation between chronic periodontitis and hyperlipidemia using a system evaluation method."
+  },
+  {
+    "index": 196,
+    "source": "方法 计算机检索PubMed、Cochrane Library、Embase、中国生物医学文献数据库、中国期刊全文数据库、万方和维普数据库，检索时限从建库到2016年7月，限中、英文，由两位研究者按标准纳入牙周炎与高脂血症相关性的观察性研究论文，进行资料提取及质量评价，采用RevMan 5.3软件进行Meta分析并用GRADE 3.6软件进行证据整体质量等级的评定。",
+    "reference": "Methods Two researchers conducted an electronic search on PubMed, Cochrane Library, Embase, CBM, CNKI, Wanfang and VIP databases established until July 2016 for observational studies on the association between periodontitis and hyperlipidemia. The language used was limited to Chinese and English. After data extraction and quality evaluation of included trials, Meta-analysis was conducted using the RevMan 5.3 software. The GRADE 3.6 software was used to evaluate the quality level of the evidence.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Methods: Computer searches were conducted in PubMed, Cochrane Library, Embase, China Biomedical Literature Database, China Journal Full-text Database, Wanfang, and Weipu databases, with the search period from the establishment of the database to July 2016. The languages were limited to Chinese and English. Two researchers independently selected observational studies on the correlation between periodontitis and hyperlipidemia according to the standards, conducted data extraction and quality assessment, performed a Meta-analysis using RevMan 5.3 software, and assessed the overall quality of evidence using GRADE 3.6 software."
+  },
+  {
+    "index": 197,
+    "source": "结果 一共纳入6个病例对照研究和1个队列研究。",
+    "reference": "Results Six case-control studies and one cohort study were included.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A total of 6 case-control studies and 1 cohort study were included."
+  },
+  {
+    "index": 198,
+    "source": "Meta分析结果显示，慢性牙周炎患者血清中甘油三酯（TG）的浓度明显高于牙周健康组（MD= 50.50，95%可信区间=39.57~61.42，P",
+    "reference": "The results of Meta-analysis showed that serum triglyceride (TG) in patients with periodontitis was significantly higher than that of the periodontal health group (MD=50.50, 95% confidence interval=39.57-61.42, P",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The meta-analysis results show that the concentration of triglycerides (TG) in the serum of patients with chronic periodontitis is significantly higher than that in the periodontally healthy group (MD=50.50, 95% confidence interval=39.57~61.42, P)"
+  },
+  {
+    "index": 199,
+    "source": "文中简要回顾了近来关于循环lncRNA 的来源，以及作为生物标志物的检测方法，着重总结分析了循环lncRNA 作为潜在肿瘤生物标志物在肺癌、乳腺癌、胃癌、肝癌、结直肠癌和前列腺癌等常见恶性肿瘤中的早期诊断价值。",
+    "reference": "We review the origin of circulating lncRNAs, and the detection methods as potential biomarkers. We focus on the early diagnosis value of circulating lncRNAs as tumor biomarkers in lung, breast, gastric, liver, colorectal and prostate cancers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article briefly reviews recent studies on the origin of circulating lncRNA and detection methods as biomarkers, with a focus on summarizing and analyzing the early diagnostic value of circulating lncRNA as a potential tumor biomarker in common malignancies such as lung cancer, breast cancer, gastric cancer, liver cancer, colorectal cancer, and prostate cancer."
+  },
+  {
+    "index": 200,
+    "source": "与传统生物标志物相比，循环lncRNA 具有作为新型生物标志物的独特优势和临床应用价值。",
+    "reference": "Compared with the traditional biomarkers, the circulating lncRNAs show the unique advantages and clinical values as novel biomarkers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Compared with traditional biomarkers, circulating lncRNA has unique advantages and clinical application value as a novel biomarker."
+  },
+  {
+    "index": 201,
+    "source": "肺癌是临床上常见的恶性肿瘤，发病率和死亡率居肿瘤首位，严重威胁人类的健康。",
+    "reference": "Lung cancer is a common malignant tumor in clinic. Morbidity and mortality are the first place in cancer, which seriously threaten the health of human beings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lung cancer is a common malignant tumor in clinical practice, with the highest incidence and mortality rates among all cancers, posing a severe threat to human health."
+  },
+  {
+    "index": 202,
+    "source": "由于早期缺乏有效的、特异性强的筛查方法，多数患者发现时已处于中晚期，常合并骨、脑、肝、肾上腺等部位的转移。",
+    "reference": "Due to the lack of effective and specific screening methods, most patients were found already at an advanced stage, and often combined with bone, brain, liver, adrenal and other parts of the metastasis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Due to the lack of effective and highly specific screening methods in the early stages, most patients are diagnosed when they are already in the middle or late stages, often with metastasis to areas such as the bones, brain, liver, and adrenal glands."
+  },
+  {
+    "index": 203,
+    "source": "通常，患者多因原发病灶、扩散转移或副肿瘤综合征等引起临床症状而就诊。",
+    "reference": "Symptoms of patient resulted from the primary tumor, metastatic spread, or paraneoplastic syndrome commonly cause the medical attention.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Usually, patients seek medical attention due to clinical symptoms caused by the primary lesion, spread and metastasis, or paraneoplastic syndromes."
+  },
+  {
+    "index": 204,
+    "source": "对由于远处转移相关症状作为首发表现就诊的患者，诊断是一个非常大的挑战。",
+    "reference": "For the syndrome related to the distant metastatic spread as the first manifestation, diagnosis would be a challenge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For patients who present with symptoms related to distant metastasis as the initial manifestation, diagnosis is a very significant challenge."
+  },
+  {
+    "index": 205,
+    "source": "视网膜转移作为肺鳞癌的首发症状极其罕见。",
+    "reference": "Retinal metastasis is very rare as the first symptom of squamous cell carcinoma of the lung.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Retinal metastasis as the initial symptom of pulmonary squamous cell carcinoma is extremely rare."
+  },
+  {
+    "index": 206,
+    "source": "本文回顾性分析了我院收治的一例肺鳞癌患者的诊治经过，以眼部症状为首发表现，基于临床表现、影像学检查和手术病理诊断，给予患者手术、化疗等多学科综合治疗，目前短期预后良好，随访观察中。",
+    "reference": "This paper reviewed a case, in which a patient developed the retinal metastasis as the inital presentation. After systemic evaluation, our patient was managed in multidisciplinary treatments, including surgery and chemotherapy. Now, the patient has a good short-term prognosis and is still in fellow-up condition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article retrospectively analyzes the diagnosis and treatment process of a patient with pulmonary squamous cell carcinoma admitted to our hospital, whose initial symptoms presented primarily as ocular issues. Based on clinical presentation, imaging examination, and surgical pathological diagnosis, the patient received surgery, chemotherapy, and other multidisciplinary comprehensive treatments. Currently, the short-term prognosis is good, and the patient is under follow-up observation."
+  },
+  {
+    "index": 207,
+    "source": "同时复习肿瘤眼内转移的相关文献，为我们对于肺癌罕见表现的深入了解提供了一个窗口。",
+    "reference": "At the same time, reviewing the relevant literature on tumor metastasis provides a window for our understanding of the rare manifestations of lung cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "At the same time, reviewing the relevant literature on intraocular metastasis of tumors has provided us with a window for a deeper understanding of the rare manifestations of lung cancer."
+  },
+  {
+    "index": 208,
+    "source": "利用廉价可再生木质纤维素资源水解产生的可发酵糖生产生物能源和生物基化学品是近年来国内外研究的热点。",
+    "reference": "Production of bioenergy and bio-based chemicals by using fermentable sugars released from low-cost renewable lignocellulosic biomass has received great attention.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The production of bioenergy and biobased chemicals using fermentable sugars derived from the hydrolysis of inexpensive, renewable lignocellulosic resources has been a research hotspot both domestically and internationally in recent years."
+  },
+  {
+    "index": 209,
+    "source": "纤维素酶酶解是木质纤维素原料生物降解的重要手段，但目前纤维素酶生产成本过高，限制了纤维素生物转化和生物炼制的工业化应用。",
+    "reference": "Efficient cellulolytic enzymes are crucial for lignocellulose bioconversion, but high cellulase production cost is limiting the bioconversion efficiency of cellulosic biomass and industrial applications of lignocellulose biorefinery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Cellulase hydrolysis is an important method for the bioconversion of lignocellulosic materials, but the current high production cost of cellulase limits the industrial application of cellulose bioconversion and biorefining."
+  },
+  {
+    "index": 210,
+    "source": "对丝状真菌纤维素酶基因表达和调控进行研究，有利于进一步选育纤维素酶高产菌株，降低纤维素酶生产成本。",
+    "reference": "Studies on induction and regulation of cellulase in filamentous fungi will help to further develop superior fungal strains for efficient cellulase production and reduce cellulase production cost.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Research on the gene expression and regulation of fungal cellulase is beneficial for further breeding of high-yield cellulase strains and reducing the production cost of cellulase."
+  },
+  {
+    "index": 211,
+    "source": "随着高通量测序及丝状真菌遗传操作等技术的进步，对丝状真菌纤维素酶诱导和基因表达调控机理有了更深入的认识。",
+    "reference": "With the advances in high-throughput sequencing and gene manipulation technology using fungal strains, an in-depth understanding of cellulase induction and regulation mechanisms of enzyme expression has been achieved.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "With the advancement of technologies such as high-throughput sequencing and genetic manipulation of filamentous fungi, there has been a deeper understanding of the mechanisms of cellulase induction and gene expression regulation in filamentous fungi."
+  }
+]

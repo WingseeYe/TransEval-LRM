@@ -1,0 +1,1794 @@
+[
+  {
+    "index": 0,
+    "source": "The Heart-Healthy Lenoir Project is a multi-study project designed to reduce the risk burden of heart disease in Lenoir County, North Carolina.",
+    "reference": "Heart-Healthy Lenoir 项目是一个旨在减少北卡罗来纳州勒诺县心脏病风险负担的多研究项目。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "心脏健康莱诺尔项目是一个多研究项目，旨在降低北卡罗来纳州莱诺尔县心脏病的风险负担。"
+  },
+  {
+    "index": 1,
+    "source": "This case report examines one client's experience in this project and the impact of health coaching interventions that were used.",
+    "reference": "该病例报告剖析了该项目中一名患者的经历和所用健康辅导干预的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本案例报告探讨了一位客户在该项目中的经历以及所采用健康辅导干预措施的影响。"
+  },
+  {
+    "index": 2,
+    "source": "The client presented with unhealthy lifestyle behaviors and a systolic blood pressure (BP) of more than 200 mmHg.",
+    "reference": "该患者的行为表现出不健康的生活方式，其血压 (BP) 的收缩压高于 200 毫米汞柱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该客户表现出不健康的生活方式行为，并且收缩压（BP）超过200毫米汞柱。"
+  },
+  {
+    "index": 3,
+    "source": "After 1 year of educational group meetings and personalized health coaching, the client was able to reduce her BP to an acceptable range and has adopted many new lifestyle behaviors.",
+    "reference": "在参加为期 1 年的集体教导会议和针对个人的健康辅导之后，该患者的血压降至可接受的范围内，并且已经采纳了多种新的生活方式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "经过一年的教育小组会议和个性化健康指导，客户成功将血压降至可接受范围，并采纳了许多新的生活方式行为。"
+  },
+  {
+    "index": 4,
+    "source": "This case report demonstrates one way health coaching is being integrated into educational programs and in collaboration with primary care practices.",
+    "reference": "本病例报告示证了健康辅导配合教导计划的一种方式，而这种方式可为初级护理实践提供协助。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本案例报告展示了健康指导如何被整合到教育项目中，并与初级保健实践进行协作的一种方式。"
+  },
+  {
+    "index": 5,
+    "source": "Integrative health coaching (IHC) offers significant health improvement in biometric measures without pharmaceuticals.",
+    "reference": "综合健康辅导 (IHC) 可在不施用药物的情况下，在生物计量指标上实现显著的健康改善。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "整合健康教练（IHC）在不使用药物的情况下，显著改善了生物计量指标的健康状况。"
+  },
+  {
+    "index": 6,
+    "source": "In this case of newly diagnosed impaired glucose tolerance (IGT) with obesity, IHC used the patient's strengths to reverse IGT, prevent frank diabetes, and reduce weight by 40 lbs or 21% of her original weight.",
+    "reference": "在此病例中，患者新近被诊断出罹患糖耐量受损 (IGT) 且伴有肥胖，IHC 利用患者的优势倒转了 IGT 的病况，预防了显性糖尿病并使体重降低了 40 磅（或原体重的 21% ）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这例新诊断的伴有肥胖的糖耐量受损（IGT）患者中，IHC利用患者的优势逆转了IGT，预防了显性糖尿病的发生，并使体重减轻了40磅，即她原始体重的21%。"
+  },
+  {
+    "index": 7,
+    "source": "This intervention included a client self-assessment and 14 in-person health coaching sessions over 11 months.",
+    "reference": "该等干预包括患者自我评估和为期超过 11 个月的 14 次亲身健康辅导疗程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此次干预包括客户自我评估和为期11个月的14次面对面健康辅导课程。"
+  },
+  {
+    "index": 8,
+    "source": "IHC provides a framework to accomplish short-term goals and identify and overcome barriers while drawing on the strengths and aims of the individual.",
+    "reference": "IHC 可提供一个框架以实现短期目标，并在利用有关个人优势和目标的同时识别和克服障碍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "IHC提供了一个框架，用于实现短期目标，识别并克服障碍，同时利用个人的优势和目标。"
+  },
+  {
+    "index": 9,
+    "source": "An 18-year old female was admitted to a psychiatric hospital with an initial episode of mania.",
+    "reference": "患者是一名18岁的女性，因首次躁狂发作而入院。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一名18岁女性因首次躁狂发作被送入精神病院。"
+  },
+  {
+    "index": 10,
+    "source": "Treated with routine dosages of lithium bicarbonate, her symptoms resolved after two weeks; she was discharged on a dosage of 250mg lithium bid.",
+    "reference": "给予常规剂量的碳酸锂治疗，两周后她的症状缓解；随即出院，在家服药剂量为250 mg，每天两次。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "经过常规剂量的碳酸锂治疗后，她的症状在两周后得到缓解；出院时，她的剂量为250毫克碳酸锂，每日两次。"
+  },
+  {
+    "index": 11,
+    "source": "Five days after discharge she was taken to the emergency department of a general hospital with loss of appetite and disturbed consciousness.",
+    "reference": "出院五天后，她由于食欲差和意识模糊被送入一家综合医院急诊室。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "出院五天后，她因食欲不振和意识障碍被送往一家综合医院的急诊科。"
+  },
+  {
+    "index": 12,
+    "source": "The general hospital physicians were unable to diagnose the problem so she was transferred back to the psychiatric hospital.",
+    "reference": "由于综合医院医师无法诊断该问题，患者被转诊送入我院。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "综合医院的医生无法诊断出问题所在，因此她被转回了精神病医院。"
+  },
+  {
+    "index": 13,
+    "source": "At that time she had a lithium blood level of 0.57 mmol/L (i.e., at the lower end of the therapeutic range) but was, nevertheless, clearly experiencing lithium intoxication with anuria, trembling extremities, blurred speech, muscle rigidity and hyperactive tendon reflexes.",
+    "reference": "虽然入院时血锂浓度为0.57 mmol/L （即，治疗量的下限)，但是她已经表现出锂盐中毒的症状，包括无尿，四肢震颤、吐词不清、肌张力升高、和腱反射亢进。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当时她的血锂水平为0.57 mmol/L（即处于治疗范围的下限），但尽管如此，她显然出现了锂中毒症状，包括无尿、四肢颤抖、言语模糊、肌肉僵硬以及腱反射亢进。"
+  },
+  {
+    "index": 14,
+    "source": "Treated with intravenous mannitol, her acute symptoms resolved quickly.",
+    "reference": "给予甘露醇静滴，她的急性症状很快得到缓解。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "经过静脉注射甘露醇治疗后，她的急性症状迅速缓解。"
+  },
+  {
+    "index": 15,
+    "source": "The case highlights the need to monitor clinical symptoms of intoxication in all patients taking lithium, regardless of their blood level, and to inform patients, family members, and general physicians about the symptoms and management of lithium intoxication.",
+    "reference": "此病例说明，无论血锂浓度的高低，对使用锂盐的患者必须监测锂盐中毒的临床症状；同时必须告知患者、家属、和普通医师锂盐中毒的症状和处理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该案例强调了监测所有服用锂盐患者中毒临床症状的必要性，无论其血锂水平如何，并向患者、家属及全科医生普及锂中毒的症状及处理方法。"
+  },
+  {
+    "index": 16,
+    "source": "METHODS A total of 25 C57/129 adult mice were randomly divided into the normal control group (0 h) and the groups at 1, 6, 12 or 24 after severe burns (n=5 per group).",
+    "reference": "方法：健康C57/129小鼠25只，随机分成5组，每组5只：正常对照(0 h)组、烧伤后1，6，12和24 h组。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法 将25只C57/129成年小鼠随机分为正常对照组（0小时）和严重烧伤后1、6、12或24小时组（每组n=5）。"
+  },
+  {
+    "index": 17,
+    "source": "A model with third degree (20% of the total body surface area) burn injury was established and then liver tissues were taken.",
+    "reference": "制作烧伤组大鼠20%总体表面积(total body surface area，TBSA)III度烧伤模型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "建立了一个三度烧伤（占体表总面积的20%）的模型，随后采集了肝脏组织。"
+  },
+  {
+    "index": 18,
+    "source": "IFIT1 expression was examined by Western blot. The expression of caspase-3 and -8 was measured by immunohistochemistry. Liver cell apoptosis was detected by terminal deoxynucleotidyl transferase mediated nick end labeling (TUNEL).",
+    "reference": "取肝组织，Western印迹观察IFIT1表达；免疫组织化学检测caspase-3和caspase-8表达；脱氧核糖核苷酸末端转移酶介导的缺口末端标记法(terminal deoxynucleotidyl transferase mediated nick end labeling，TUNEL)检测肝细胞凋亡。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过蛋白质印迹法检测了IFIT1的表达。通过免疫组织化学法测量了caspase-3和caspase-8的表达。通过末端脱氧核苷酸转移酶介导的dUTP缺口末端标记（TUNEL）法检测了肝细胞凋亡。"
+  },
+  {
+    "index": 19,
+    "source": "The increase in IFIT1 expression after severe burns promotes liver cell apoptosis.",
+    "reference": "结论：严重烧伤后IFIT1表达增高可促使肝细胞凋亡的增强。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "严重烧伤后IFIT1表达的增加促进了肝细胞凋亡。"
+  },
+  {
+    "index": 20,
+    "source": "Approximately half a million people are thought to develop multidrug-resistant tuberculosis annually.",
+    "reference": "每年大约有五十万人被认为患上了多重抗药性结核病。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据估计，每年约有五十万人患上耐多药结核病。"
+  },
+  {
+    "index": 21,
+    "source": "Barely 20% of these people currently receive recommended treatment and only about 10% are successfully treated.",
+    "reference": "其中仅有 20% 的人目前接受推荐的治疗方案，而大约只有 10% 的人成功治愈。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目前，这些人中仅有20%接受了推荐的治疗，而成功治愈的只有约10%。"
+  },
+  {
+    "index": 22,
+    "source": "Poor access to treatment is probably driving the current epidemic, via ongoing transmission.",
+    "reference": "治疗不佳便会导致持续性传播，这可能是当前传染病加剧的原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "治疗途径的匮乏可能通过持续的传播推动了当前的疫情。"
+  },
+  {
+    "index": 23,
+    "source": "Treatment scale-up is hampered by current treatment regimens, which are lengthy, expensive, poorly tolerated and difficult to administer in the settings where most patients reside.",
+    "reference": "治疗范围的扩大受限于当前的治疗方案，该种方案不仅冗长、昂贵、耐受性差，并且很难在多数患者居住的环境中予以实施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当前的治疗方案阻碍了治疗规模的扩大，这些方案疗程长、费用高、耐受性差，并且在大多数患者居住的环境中难以实施。"
+  },
+  {
+    "index": 24,
+    "source": "Although new drugs provide an opportunity to improve treatment regimens, current and planned clinical trials hold little promise for developing regimens that will facilitate prompt treatment scale-up.",
+    "reference": "虽然新药让我们有机会改善治疗方案，但是当前和计划的临床试验仍无法保证制定出有助于迅速扩大治疗范围的方案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管新药物为改进治疗方案提供了机会，但当前和计划中的临床试验对于开发能够促进迅速扩大治疗规模的方案几乎没有希望。"
+  },
+  {
+    "index": 25,
+    "source": "In this article we argue that clinical trials, while necessary, should be complemented by timely, large-scale, operational research that will provide programmatic data on the use of new drugs and regimens while simultaneously improving access to life-saving treatment.",
+    "reference": "在本文中，我们主张临床试验应通过开展及时的、大规模性的操作型研究加以实施，而该种研究须能针对新药和方案的使用提供程式化数据，从而同时改善救生治疗的情况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在本文中，我们主张临床试验虽然是必要的，但也应辅以及时、大规模的操作性研究，这些研究将提供关于新药和新疗法使用的项目数据，同时提高救命治疗的可及性。"
+  },
+  {
+    "index": 26,
+    "source": "Perceived risks - such as the rapid development of resistance to new drugs - need to be balanced against the high levels of mortality and transmission that will otherwise persist.",
+    "reference": "感知风险——如新药的抗药性快速产生——需要在高水平的死亡率和传播率之间寻求平衡，否则其将持续存在。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "感知到的风险——例如对新药物迅速产生抗药性——需要与否则将持续存在的高死亡率和传播率相权衡。"
+  },
+  {
+    "index": 27,
+    "source": "Doubling access to treatment and increasing treatment success could save approximately a million lives over the next decade.",
+    "reference": "获得加倍治疗并提高治疗成功率，可在未来十年中挽救大约一百万人的生命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将治疗机会翻倍并提高治疗成功率，可以在未来十年内挽救大约一百万人的生命。"
+  },
+  {
+    "index": 28,
+    "source": "METHODS The expressions of Twist1 in 32 cervical cancers and matched normal tissues were examined by immunohistochemistry (IHC). Cell invasive ability and the expression of invasion-related genes were determined in RNAi-based Twist1-silencing HeLa cells. The relationship between Twist1 and microRNA-33a (miR-33a) in cervical cancer was studied by Pearson correlation analysis, and the roles of miR-33a in regulation of Twist1 and cell invasiveness were studied.",
+    "reference": "方法：免疫组织化学检测32对临床宫颈癌组织及正常宫颈组织中Twist1的表达情况，并运用RNA干扰技术沉默宫颈癌HeLa细胞内Twist1 后检测细胞的侵袭能力以及侵袭相关基因表达的变化；采用Pearson相关性检验分析Twist1与microRNA-33a(miR-33a)在宫颈癌组织内的关系，并分析miR-33a对Twist1的调节关系及其对细胞侵袭能力的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法 通过免疫组织化学（IHC）检测了32例宫颈癌及其匹配的正常组织中Twist1的表达。在基于RNAi的Twist1沉默的HeLa细胞中，测定了细胞侵袭能力及侵袭相关基因的表达。通过Pearson相关分析研究了Twist1与microRNA-33a（miR-33a）在宫颈癌中的关系，并探讨了miR-33a在调控Twist1和细胞侵袭性中的作用。"
+  },
+  {
+    "index": 29,
+    "source": "RESULTS The positive expression rate of Twist1 was 75.0% (24/32) and 21.9% (7/32) in the cervical cancer and the matched normal tissues, respectively, with significant difference between them (P<0.05). Twist1 shRNA significantly decreased the invasiveness of HeLa cells (P<0.05).",
+    "reference": "结果：Twist1在宫颈癌组织和正常宫颈组织中表达的阳性率分别为75.0%(24/32)和21.9%(7/32)，二者表达差异具有统计学意义(P<0.05)；Twist1 shRNA能显著减低HeLa细胞的体外侵袭能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果 Twist1在宫颈癌组织中的阳性表达率为75.0%（24/32），在匹配的正常组织中为21.9%（7/32），两者之间存在显著差异（P<0.05）。Twist1 shRNA显著降低了HeLa细胞的侵袭能力（P<0.05）。"
+  },
+  {
+    "index": 30,
+    "source": "Compared with the matched normal tissues, the expression of miR-33a was increased in the cervical cancer tissues, which was negatively correlated with Twist1 (r=-0.661, P<0.05). Overexpression of miR-33a could significantly suppress Twist1 expression as well as cell invasiveness (P<0.05).",
+    "reference": "宫颈癌组织中miR-33a的表达较正常组织减低(P<0.05)，并与Twist1呈负相关(r=−0.661，P<0.05)；而宫颈癌细胞内过表达miR-33a可减低Tiwst1的表达(P<0.05)，并减弱细胞的体外侵袭能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "与匹配的正常组织相比，宫颈癌组织中miR-33a的表达增加，且与Twist1呈负相关（r=-0.661，P<0.05）。miR-33a的过表达能显著抑制Twist1的表达及细胞侵袭能力（P<0.05）。"
+  },
+  {
+    "index": 31,
+    "source": "This study aims to explore the effect and molecular mechanism of the invasion and migration of lung adenocarcinoma A549 cells after knock-down of CK2α expression.",
+    "reference": "本研究旨在探讨下调CK2α基因表达对肺腺癌A549细胞侵袭迁移的影响以及可能的机制。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究旨在探讨敲低CK2α表达后对肺腺癌A549细胞侵袭和迁移的影响及其分子机制。"
+  },
+  {
+    "index": 32,
+    "source": "METHODS The pSilencerTM 4.1-siCK2α-eGFP of lentiviral-mediated shRNA was constructed. The expression of CK2α was knock-downed, and a stable A549 cell line was established.",
+    "reference": "方法 构建pSilencerTM 4.1-shCK2α-eGFP慢病毒表达载体，建立稳定干扰CK2α表达的A549细胞株。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法 构建了慢病毒介导的shRNA载体pSilencerTM 4.1-siCK2α-eGFP。通过敲低CK2α的表达，建立了稳定的A549细胞系。"
+  },
+  {
+    "index": 33,
+    "source": "The invasion and migration of A549 cell line was detected through Transwell and Boyden chamber assays.",
+    "reference": "利用Transwell和Boyden小室实验检测干扰CK2α表达前后A549细胞的侵袭及迁移的能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过Transwell和Boyden小室实验检测了A549细胞系的侵袭和迁移能力。"
+  },
+  {
+    "index": 34,
+    "source": "The protein expression of the PI3K/Akt signaling pathway and mesenchymal-to-epithelial transition (EMT) was evaluated using Western blot analysis.",
+    "reference": "Western blot检测PI3K/Akt信号通路和上皮-间充质转化（mesenchymal-to-epithelial transition, EMT）相关蛋白的表达。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过Western blot分析评估了PI3K/Akt信号通路和间质-上皮转化（EMT）的蛋白表达。"
+  },
+  {
+    "index": 35,
+    "source": "RESULTS The invasion and migration of A549 cells were significantly inhibited after the knockdown of CK2α expression compared with that in the control group. p-PTEN, Akt, p-Akt473, p-Akt308, p-PDK1, p-c-Raf, and p-GSK-3β were significantly downregulated, whereas PTEN was upregulated.",
+    "reference": "结果 与对照组相比，干扰CK2α表达后肺腺癌A549细胞的侵袭及迁移能力明显下降，p-PTEN、Akt、p-Akt473、p-Akt308、 p-PDK1、p-c-Raf、p-GSK-3β蛋白明显下调，PTEN蛋白表达水平显著上调。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果 与对照组相比，敲低CK2α表达后，A549细胞的侵袭和迁移能力显著受到抑制。p-PTEN、Akt、p-Akt473、p-Akt308、p-PDK1、p-c-Raf和p-GSK-3β的表达显著下调，而PTEN的表达则上调。"
+  },
+  {
+    "index": 36,
+    "source": "In the literature examining neighbourhood effects on educational outcomes, the socialisation mechanism is usually investigated by looking at the association between neighbourhood characteristics and educational attainment.",
+    "reference": "在关于教育成果的邻里效应的研究文献中，社会化机制的研究方式通常是考察邻里特征与教育获得度之间的关联。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在探讨邻里环境对教育成果影响的文献中，社会化机制通常通过考察邻里特征与教育成就之间的关联来进行研究。"
+  },
+  {
+    "index": 37,
+    "source": "We attempt to fill this gap by looking at how the internalisation of educational norms (commitments) is influenced by neighbourhoods' immigrant concentration.",
+    "reference": "我们尝试通过考察邻里的移民聚集度如何影响教育准则（投入度）的内化，来填补这道缺口。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们试图通过研究教育规范（承诺）的内化如何受到社区移民集中度的影响来填补这一空白。"
+  },
+  {
+    "index": 38,
+    "source": "We investigate this process for both migrant and native youth, as both groups might be influenced differently by immigrant concentrations.",
+    "reference": "我们针对移民青年和本地青年分别考察了这一进程，因为这两个群体可能在不同程度上受到移民聚集度的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们针对移民青年和本地青年分别调查了这一过程，因为这两类群体可能受到移民集中程度的不同影响。"
+  },
+  {
+    "index": 39,
+    "source": "To test our hypothesis we used longitudinal panel data with five waves (N = 4255), combined with between-within models which control for a large portion of potential selection bias.",
+    "reference": "为验证我们的设论，我们采用了带五个波段的纵向面板数据 (N = 4255)，并结合组间-组内模型，把大量潜在选择偏差作为控制变量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了验证我们的假设，我们使用了包含五个波次的纵向面板数据（N = 4255），并结合了控制大部分潜在选择偏差的混合效应模型。"
+  },
+  {
+    "index": 40,
+    "source": "These models have an advantage over naïve OLS models in that they predict the effect of change in neighbourhood characteristics on change in educational commitment, and therefore offer a more dynamic approach to modelling neighbourhood effects.",
+    "reference": "这些模型相比传统最小平方法 (naïve OLS) 模型的优点是预测了邻里特征的变化对教育投入度变化的影响，因此提供了对邻里效应建模的更动态方式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些模型相较于简单的OLS模型具有优势，因为它们能够预测邻里特征变化对教育投入变化的影响，从而为邻里效应的建模提供了更为动态的方法。"
+  },
+  {
+    "index": 41,
+    "source": "Our results show that living in neighbourhoods with higher proportions of immigrants increases the educational commitments of migrant youth compared to living in neighbourhoods with lower proportions.",
+    "reference": "我们的结果显示，居住在移民比例更高的邻里社区，相比居住在移民比例较低的邻里社区，移民青年的教育投入度更高。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们的研究结果表明，与居住在移民比例较低社区相比，居住在移民比例较高的社区会增加移民青年的教育投入。"
+  },
+  {
+    "index": 42,
+    "source": "Besides, we find that adolescents with a resilient personality experience less influence of the neighbourhood context on educational commitments than do adolescents with non-resilient personalities.",
+    "reference": "此外，我们发现，性格富有弹性的青少年，相比性格没有弹性的青少年，所经历的邻里环境对教育投入度的影响要低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，我们发现，与非韧性人格的青少年相比，具有韧性人格的青少年在教育承诺方面受邻里环境的影响较小。"
+  },
+  {
+    "index": 43,
+    "source": "Methods: A total of 32 C57BL/6 mice were divided into 4 groups: a sham group, an AMI group, a low-dose atorvastatin [2 mg/(kg.d)] group and a high-dose atorvastatin [20 mg/(kg.d)] group.",
+    "reference": "方法：32只C57BL/6小鼠随机分为4组：假手术组、AMI组、小剂量阿托伐他汀组[2 mg/(kg.d)]和大剂量阿托伐他汀组[20 mg/(kg.d)]。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：将32只C57BL/6小鼠分为4组：假手术组、急性心肌梗死（AMI）组、低剂量阿托伐他汀[2 mg/(kg.d)]组和高剂量阿托伐他汀[20 mg/(kg.d)]组。"
+  },
+  {
+    "index": 44,
+    "source": "In addition, mouse 3T3-L1 preadipocytes in vitro were differentiated and they were stimulated by oxidized low density lipoprotein (ox-LDL). The protein expressions of adiponectin and resistin in adipocytes were detected. The effects of atorvastatin on ox-LDL-induced adipokine imbalance in adipocytes were identified.",
+    "reference": "体外诱导小鼠3T3L1前脂肪细胞分化成熟后，观察氧化低密度脂蛋白(oxidized low density lipoprotein，ox-LDL)对细胞脂联素和抵抗素表达的影响，并研究不同剂量阿托伐他汀干预对ox-LDL所致脂肪因子代谢紊乱的作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，体外培养的小鼠3T3-L1前脂肪细胞被诱导分化，并用氧化低密度脂蛋白（ox-LDL）进行刺激。检测了脂肪细胞中脂联素和抵抗素的蛋白表达。并确定了阿托伐他汀对ox-LDL诱导的脂肪细胞脂肪因子失衡的影响。"
+  },
+  {
+    "index": 45,
+    "source": "Results: The plasma levels of hs-CRP and resistin in AMI mice were significantly increased, whereas the plasma levels of adiponectin were remarkably decreased.",
+    "reference": "结果：动物实验显示AMI小鼠血浆hs-CRP和抵抗素浓度均明显升高，而脂联素明显降低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：急性心肌梗死（AMI）小鼠的血浆高敏C反应蛋白（hs-CRP）和抵抗素水平显著升高，而血浆脂联素水平则显著降低。"
+  },
+  {
+    "index": 46,
+    "source": "The plasma levels of hs-CRP were positively correlated with resistin but negatively with adiponectin.",
+    "reference": "相关性分析显示血浆hs-CRP浓度与抵抗素呈正相关，而与脂联素呈负相关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "hs-CRP的血浆水平与抵抗素呈正相关，但与脂联素呈负相关。"
+  },
+  {
+    "index": 47,
+    "source": "In vitro study, ox-LDL increased resistin protein and adiponectin expressions in adipocytes, which were dose-dependently reversed by atorvastatin.",
+    "reference": "体外试验显示ox-LDL刺激可上调脂肪细胞抵抗素表达，同时降低脂联素表达，而阿托伐他汀呈剂量依赖性逆转上述ox-LDL效应。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "体外研究表明，氧化低密度脂蛋白（ox-LDL）增加了脂肪细胞中抵抗素蛋白和脂联素的表达，而阿托伐他汀能够以剂量依赖的方式逆转这一效应。"
+  },
+  {
+    "index": 48,
+    "source": "Conclusion: Inflammation activation in AMI mice leads to adipokine imbalance. Atorvastatin ameliorates the AMI-induced adipokine imbalance via anti-inflammation.",
+    "reference": "结论：AMI小鼠体内炎症激活导致脂肪因子代谢紊乱，而阿托伐他汀通过抗炎作用可改善此类脂肪因子代谢紊乱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：AMI小鼠中的炎症激活导致脂肪因子失衡。阿托伐他汀通过抗炎作用改善了AMI引起的脂肪因子失衡。"
+  },
+  {
+    "index": 49,
+    "source": "Total parathyroidectomy (PTX) can be used to treat secondary hyperparathyroidism (SHPT) in uremic patients, relieving the patient's osteolytic destruction.",
+    "reference": "药物治疗无效的尿毒症继发性甲状旁腺功能亢进患者，可行甲状旁腺全切术，缓解患者的溶骨破坏。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "全甲状旁腺切除术（PTX）可用于治疗尿毒症患者的继发性甲状旁腺功能亢进（SHPT），缓解患者的骨溶解破坏。"
+  },
+  {
+    "index": 50,
+    "source": "Complete resection of bilateral parathyroid glands is key to successful operation.",
+    "reference": "术中彻底切除双侧甲状旁腺是手术成功的关键。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "双侧甲状旁腺的完全切除是手术成功的关键。"
+  },
+  {
+    "index": 51,
+    "source": "The biological effects mediated by vitamin D and vitamin D receptor (VDR) are involved in the regulation of multiple pathophysiologic processes, including calcium phosphorus metabolism, immune regulation, anti-inflammation, anti-infection and cancer prevention, etc. Autophagy is a eukaryotic cell lysosome-mediated catabolic pathway, which is classified into 3 different types: macroautophagy, microautophagy, and chaperone-mediated autophagy.",
+    "reference": "维生素D及维生素D受体(vitamin D receptor，VDR)介导的生物效应参与调节体内多个病理生理过程，包括钙磷代谢、免疫调控、抗炎、抗感染、肿瘤预防等。 自噬是真核细胞溶酶体介导的一种分解代谢途径，分为巨自噬、微自噬及分子伴侣介导的自噬3种类型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "维生素D及其受体（VDR）介导的生物学效应参与调控多种病理生理过程，包括钙磷代谢、免疫调节、抗炎、抗感染以及癌症预防等。自噬是一种真核细胞溶酶体介导的分解代谢途径，可分为三种不同类型：巨自噬、微自噬和伴侣蛋白介导的自噬。"
+  },
+  {
+    "index": 52,
+    "source": "Since autophagy is vital to maintain energy and metabolism in cells, autophagy dysfunction is closely associated with various pathological processes such as inflammation, infection and tumor.",
+    "reference": "自噬有助于维持细胞能量及新陈代谢，炎症、感染、肿瘤等多种病理过程均与自噬功能障碍密切相关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于自噬对于维持细胞内的能量和代谢至关重要，自噬功能障碍与炎症、感染和肿瘤等多种病理过程密切相关。"
+  },
+  {
+    "index": 53,
+    "source": "Studies have shown that vitamin D/VDR can affect the different stages of autophagy and regulate inflammation in autophagy. Moreover, vitamin D/VDR and autophagy play an important role in autoimmune disease, diabetes, cardiovascular disease, cancer and other inflammatory diseases.",
+    "reference": "维生素D/VDR通过调节炎症因子影响自噬，调节自噬的不同阶段，在自身免疫性疾病、糖尿病、心血管疾病、肿瘤等炎症相关疾病中发挥重要作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究表明，维生素D/VDR能够影响自噬的不同阶段并调节自噬中的炎症反应。此外，维生素D/VDR和自噬在自身免疫疾病、糖尿病、心血管疾病、癌症以及其他炎症性疾病中扮演着重要角色。"
+  },
+  {
+    "index": 54,
+    "source": "To examine the changes of mimecan protein expression in development of atherosclerosis induced by sinoaortic denervation, and to explore the effects of mimecan knock down on the proliferation and migration of vascular smooth muscle cells.",
+    "reference": "目的：观察大鼠血压变异性增加诱导的动脉粥样硬化发展中mimecan蛋白的表达变化，以及小鼠胸主动脉平滑肌细胞敲减mimecan蛋白对细胞增殖和迁移的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究去窦弓神经诱导的动脉粥样硬化发展过程中mimecan蛋白表达的变化，并探讨mimecan敲低对血管平滑肌细胞增殖和迁移的影响。"
+  },
+  {
+    "index": 55,
+    "source": "Methods: The animals were randomly divided into a sham group and a model group (n=8 in each group).",
+    "reference": "方法：动物实验共分为假手术组和模型组，每组8只。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：将动物随机分为假手术组和模型组，每组各8只。"
+  },
+  {
+    "index": 56,
+    "source": "The rat model of blood pressure variability was established by sinoaortic denervation, and the hemodynamic indexes were recorded 20 weeks after the surgery to confirm the success of the model.",
+    "reference": "通过大鼠去窦弓神经手术建立血压变异性升高的动物模型，20周后采用检测的血流动力学指标对模型进行验证。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过去窦弓神经术建立了血压变异性的大鼠模型，并在手术后20周记录血流动力学指标以确认模型成功。"
+  },
+  {
+    "index": 57,
+    "source": "The thoracic aorta was excised and stained with immunohistochemistry to observe the pathological changes of smooth muscle tissues and the changes of mimecan expression.",
+    "reference": "胸主动脉进行石蜡切片后，通过免疫组织化学观察血管平滑肌组织的病理学改变及mimecan蛋白的表达变化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "胸主动脉被切除并用免疫组织化学染色，以观察平滑肌组织的病理变化及mimecan表达的变化。"
+  },
+  {
+    "index": 58,
+    "source": "Results: Twenty weeks after sinoaortic denervation, the blood pressure variability in the model group was significantly increased compared with that in the sham group, suggesting the model was successfully established.",
+    "reference": "结果：手术20周后，与假手术组相比，模型组大鼠血压变异性参数明显升高，证明模型建立成功。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：在去窦弓神经术后二十周，模型组的血压变异性较假手术组显著增加，表明模型成功建立。"
+  },
+  {
+    "index": 59,
+    "source": "In addition, the increased blood pressure variability in the model group promoted the proliferation and migration of the vascular smooth muscle cells in thoracic aorta, while the expression of mimecan protein was significantly decreased.",
+    "reference": "同时，血压变异性增加促进了模型组大鼠胸主动脉中血管平滑肌细胞的增殖与迁移，而mimecan蛋白的表达却显著降低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，模型组中血压变异性的增加促进了胸主动脉血管平滑肌细胞的增殖和迁移，而mimecan蛋白的表达显著降低。"
+  },
+  {
+    "index": 60,
+    "source": "In in vitro assays, the knock down of mimecan in mice vascular smooth muscle cells could promote the cell proliferation and migration.",
+    "reference": "敲减小鼠血管平滑肌细胞中mimecan蛋白，能显著促进细胞的增殖和迁移。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在体外实验中，敲低小鼠血管平滑肌细胞中的mimecan可以促进细胞增殖和迁移。"
+  },
+  {
+    "index": 61,
+    "source": "Results: Stunting, underweighting and wasting represented the poor nutritional conditions, which accounted for 28.6%, 25.3% and 25.3%, respectively.",
+    "reference": "结果：先天性心脏病患儿发育迟缓发生率为28.6%，低体重发生率为25.3%，消瘦发生率为25.3%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：发育迟缓、体重不足和消瘦反映了不良的营养状况，分别占28.6%、25.3%和25.3%。"
+  },
+  {
+    "index": 62,
+    "source": "Maternal accurate perception and the psychological problems such as anxiety and depression were the main relevant factors.",
+    "reference": "母亲对疾病的正确感知和焦虑抑郁是对患儿营养状况造成影响的主要因素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "母亲的准确感知以及焦虑和抑郁等心理问题是主要的相关因素。"
+  },
+  {
+    "index": 63,
+    "source": "Conclusion: The poor nutritional condition for the congenital heart disease was serious. It is very important to improve the maternal accurate perception and to relieve the maternal psychological problems for changing the nutritional condition through appropriate health education and effective intervention.",
+    "reference": "结论：先天性心脏病患儿的营养不良状况比较严重，应选择合适的健康教育内容和干预方式对患儿母亲进行干预，以改变其照顾行为，改善患儿营养状况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：先天性心脏病患儿的营养不良状况严重。通过适当的健康教育和有效干预，提高母亲的准确认知并缓解其心理问题，对于改善患儿的营养状况至关重要。"
+  },
+  {
+    "index": 64,
+    "source": "Laryngotracheal stenosis includes congenital laryngotracheal stenosis and secondary laryngotracheal stenosis.",
+    "reference": "儿童喉气管狭窄可分为先天性和后天性两类。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "喉气管狭窄包括先天性喉气管狭窄和继发性喉气管狭窄。"
+  },
+  {
+    "index": 65,
+    "source": "Congenital laryngotracheal anomalies are rare, accounting for 0.3%-1.0% of all laryngotracheal stenosis(LTS).",
+    "reference": "其中先天性喉气管狭窄少见，占喉气管狭窄的0.3%～1.0%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "先天性喉气管异常较为罕见，占所有喉气管狭窄(LTS)的0.3%-1.0%。"
+  },
+  {
+    "index": 66,
+    "source": "Despite the management of pediatric LTS over the past 30 years had been considerable improved, primary surgery still failed in a significant number of complex LTS cases. In some severe LTS cases combined with glottic stenosis, the primary surgery failed around 30%, even with the latest available techniques.",
+    "reference": "在过去的30年，对儿童喉气管狭窄的治疗取得了长足的进步，但是对于最严重的联合声门狭窄的病例，即使应用最新的技术，初次手术失败率仍高达30%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管过去30年对儿童喉气管狭窄（LTS）的管理有了显著改善，但在许多复杂的LTS病例中，初次手术仍然失败。在一些合并有声门狭窄的严重LTS病例中，即使采用最新的技术，初次手术的失败率仍约为30%。"
+  },
+  {
+    "index": 67,
+    "source": "Children with LTS usually need multiple operations, and need the tracheostomy tube for months or even years.",
+    "reference": "患儿往往需要多次手术，有的必须长期依靠气管切开维持呼吸，严重影响生活质量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "患有LTS的儿童通常需要多次手术，并且需要气管切开插管数月甚至数年。"
+  },
+  {
+    "index": 68,
+    "source": "Objective To investigate the polymorphisms of 23 Y-STR loci in a Han population in Jiangsu province.",
+    "reference": "目的 调查23个Y染色体STR基因座在江苏汉族人群中的多态性分布。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目的 研究江苏省汉族人群中23个Y-STR基因座的多态性。"
+  },
+  {
+    "index": 69,
+    "source": "Methods Blood samples were collected from 4821 unrelated healthy Han males in Jiangsu province. DNA templates were amplified by PowerPlex Y23 kit,and the amplification products were detected by 3500xL genetic analyzer. Then,we calculated the allele frequencies and gene diversities respectively,as well as the haplotype frequencies and haplotype diversities.",
+    "reference": "方法 采用PowerPlex Y23荧光标记复合扩增系统,对江苏地区4821名汉族无关男性个体的静脉血DNA进行复合扩增,3500xL遗传分析仪进行毛细管电泳检测,分别计算各个STR基因座的等位基因频率和基因多样性,以及23个基因座联合构成的单倍型频率和单倍型多样性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法 从江苏省4821名无血缘关系的健康汉族男性中采集血样。使用PowerPlex Y23试剂盒扩增DNA模板，扩增产物通过3500xL基因分析仪进行检测。随后，我们分别计算了等位基因频率和基因多样性，以及单倍型频率和单倍型多样性。"
+  },
+  {
+    "index": 70,
+    "source": "Results The gene diversity of these 23 Y-STR loci ranged 0.4099-0.9696.",
+    "reference": "结果 23个Y染色体STR基因座在4821名江苏汉族男性个体中的基因多样性值介于0.4099~0.9696。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果 这23个Y-STR位点的基因多样性范围在0.4099至0.9696之间。"
+  },
+  {
+    "index": 71,
+    "source": "A total of 4781 haplotypes were detected,of which 4743 were found once. The haplotype diversity was 0.99999812.",
+    "reference": "共检出4781种不同的单倍型,其中有4743种只出现1次,单倍型多样性达到0.99999812。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "共检测到4781种单倍型，其中4743种仅出现一次。单倍型多样性为0.99999812。"
+  },
+  {
+    "index": 72,
+    "source": "Conclusion The 23 Y-STR loci used in this study are highly polymorphic in Han individuals in Jiangsu province and therefore suitable for population genetic study and forensic individual identification.",
+    "reference": "结论 23个Y染色体STR基因座联合应用于江苏地区汉族人群时具有较好的遗传多态性分布,适用于该地区的群体遗传学与法医学个体识别等研究。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论 本研究所采用的23个Y-STR基因座在江苏汉族个体中表现出高度多态性，因此适用于群体遗传学研究及法医学个体识别。"
+  },
+  {
+    "index": 73,
+    "source": "Along with the increase in the prevalence of lipid metabolism disorders,in vitro research on the adipocytes has been a hot topic in recent years.",
+    "reference": "随着脂肪代谢性疾病的增多,有关脂肪细胞的体外研究成为近年来研究热点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着脂质代谢紊乱患病率的增加，脂肪细胞的体外研究近年来已成为热门话题。"
+  },
+  {
+    "index": 74,
+    "source": "3T3-L1 preadipocyte line is one of the most commonly used cell line for establishing adipocytes models. However,for 3T3-L1 cell lines,the traditional method,known also as the \"Cocktail\" method,have disadvantages including low transformation rate and heterogeneous conversion.",
+    "reference": "3T3-L1前脂肪细胞系是建立成熟脂肪细胞模型最为常用的细胞系之一,但经典的脂肪细胞诱导方案存在转化率低、转化不均匀等问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "3T3-L1前脂肪细胞系是建立脂肪细胞模型最常用的细胞系之一。然而，对于3T3-L1细胞系，传统方法，也被称为“鸡尾酒”法，存在转化率低和异质性转化等缺点。"
+  },
+  {
+    "index": 75,
+    "source": "Therefore,many studies aimed to improving the induction method by changing the time of inducers or adding other new drugs have been performed(known as the improved method).",
+    "reference": "近年来,诸多学者通过改变诱导剂作用时间、增加新的诱导药物等方法,即改良诱导法,进行脂肪细胞模型的建立。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，许多研究旨在通过改变诱导剂的时间或添加其他新药物来改进诱导方法（称为改进方法），这些研究已经得以实施。"
+  },
+  {
+    "index": 76,
+    "source": "The present study was to summarize the progress of the traditional methods and the improved methods for inducing 3T3-L1 cell lines to mature adipocytes.",
+    "reference": "本文主要从传统诱导法和改良诱导法两方面,总结了3T3-L1脂肪细胞诱导分化的研究进展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究旨在总结传统方法及改进方法在诱导3T3-L1细胞系向成熟脂肪细胞分化方面的进展。"
+  },
+  {
+    "index": 77,
+    "source": "Obsessive-compulsive disorder (OCD) is a chronic, distressing and substantially impairing neuropsychiatric disorder, characterized by obsessions or compulsions.",
+    "reference": "强迫症(OCD) 是一种慢性、痛苦和进行性损害的神经精神疾病，其特点是存在强迫意念或强迫动作。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "强迫症（OCD）是一种慢性、令人痛苦且严重影响功能的精神神经疾病，其特征为强迫思维或强迫行为。"
+  },
+  {
+    "index": 78,
+    "source": "The current case describes a 44-year-old adult female diagnosed with OCD.",
+    "reference": "本文报道的一名44 岁成年女性强迫症的病例。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当前病例描述了一位被诊断为强迫症的44岁成年女性。"
+  },
+  {
+    "index": 79,
+    "source": "The patient had an incomplete response to several SSRIs alone during her past treatment, and led a poor-quality life for at least three years.",
+    "reference": "之前3 年治疗中，患者对数个选择性5 - 羟色胺再摄取抑制剂 (SSRIs) 疗效不佳，生活质量受到严重影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "患者在过去的治疗中单独使用多种SSRIs类药物时反应不完全，且至少三年生活质量较差。"
+  },
+  {
+    "index": 80,
+    "source": "Current multidimensional approaches, including combined cognitive behavioral therapy (CBT) and the Selective Serotonin Reuptake Inhibitor (SSRI, Sertraline) with a small dose of antipsychotics (Aripiprazole) for augmentation, as well as familial support and resources from the internet were provided for the patient for six months.",
+    "reference": "经过6 个月的多维整合治疗，包括认知行为治疗(CBT)、舍曲林和低剂量抗精神病药物 (阿立哌唑)，以及家庭支持和网络支持。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当前的多维治疗方法，包括联合认知行为疗法（CBT）与选择性血清素再摄取抑制剂（SSRI，舍曲林）以及小剂量的抗精神病药物（阿立哌唑）进行增效，同时提供家庭支持和互联网资源，已为患者提供了六个月的治疗。"
+  },
+  {
+    "index": 81,
+    "source": "Standardized assessments with Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) every two months indicated significant reductions in obsessive and compulsive symptoms, with significant improvements in her social functioning and quality of life.",
+    "reference": "每两个月Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) 标准化量表评估显示，强迫意念或强迫动作明显减少，其社会功能和生活质量得到明显改善。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每两个月使用耶鲁-布朗强迫量表（Y-BOCS）进行的标准化评估显示，她的强迫症状显著减少，社交功能和生活质量均有显著改善。"
+  },
+  {
+    "index": 82,
+    "source": "A case such as this one provides preliminary support to multidimensional approaches for OCD treatment in order to achieve an optimal response, though further rigorous clinical trials are needed to provide more evidence.",
+    "reference": "本病例初步显示OCD 多维整合治疗有助于达到最佳治疗疗效较好治疗效果，期待今后更严格的临床试验验证。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "像这样的案例为多维度的强迫症治疗方法提供了初步支持，以期达到最佳治疗效果，但仍需进一步严格的临床试验来提供更多证据。"
+  },
+  {
+    "index": 83,
+    "source": "Fungal polyketides display complex structures and variously biological activities. Their biosynthetic pathways generally contain novel enzyme-catalyzed reactions.",
+    "reference": "具有广泛生物活性的真菌聚酮化合物因具有复杂的化学结构，其生物合成途径一般包含多样且新颖的酶催化反应。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "真菌聚酮化合物展现出复杂的结构和多样的生物活性。它们的生物合成途径通常包含新颖的酶催化反应。"
+  },
+  {
+    "index": 84,
+    "source": "This review provides a summary of recent research advances in molecular mechanism of the biosynthesis of fungal polyketides including highly-reducing polyketide synthases (HR-PKSs), non-reducing polyketide synthases (NR-PKSs), as well as polyketide-nonribosomal peptide synthase (PKS-NRPSs) and reducingnon- reducing polyketide synthase (HR-NR PKSs) hybrids.",
+    "reference": "文中主要综述了2013−2016 年来源于还原性聚酮合成酶 (HR-PKSs)、非还原性聚酮合成酶 (NR-PKSs)、聚酮-非核糖体多肽合成酶 (PKS-NRPSs) 和还原性-非还原性聚酮合成酶 (HR-NR PKSs) 杂合型等四大类型的真菌聚酮类化合物的生物合成研究进展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本综述总结了真菌聚酮化合物生物合成分子机制的最新研究进展，包括高度还原型聚酮合酶（HR-PKSs）、非还原型聚酮合酶（NR-PKSs），以及聚酮-非核糖体肽合酶（PKS-NRPSs）和还原-非还原型聚酮合酶（HR-NR PKSs）杂合体。"
+  },
+  {
+    "index": 85,
+    "source": "The elucidation of biosynthetic mechanism of many fungal polyketides provides guidance on the discovery of new biosynthetic gene cluster of fungal polyketide natural products and compounds with novel structures as well as their analogue.",
+    "reference": "众多真菌聚酮类化合物生物机理的阐明，为未来新型真菌聚酮类天然产物生物合成基因簇的挖掘、新结构化合物的发现及其类似物的研究提供了方向和理论基础。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对多种真菌聚酮化合物生物合成机制的阐明，为发现新的真菌聚酮天然产物生物合成基因簇、具有新颖结构的化合物及其类似物提供了指导。"
+  },
+  {
+    "index": 86,
+    "source": "Exponential growth of the mass spectrometry (MS) data is exhibited when the mass spectrometry-based proteomics has been developing rapidly.",
+    "reference": "基于质谱的蛋白质组学快速发展，蛋白质质谱数据也呈指数式增长。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着基于质谱的蛋白质组学迅速发展，质谱（MS）数据呈现出指数级增长。"
+  },
+  {
+    "index": 87,
+    "source": "It is a great challenge to develop some quick, accurate and repeatable methods to identify peptides and proteins.",
+    "reference": "寻找速度快、准确度高以及重复性好的鉴定方法是该领域的一项重要任务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "开发一些快速、准确且可重复的方法来识别肽和蛋白质是一个巨大的挑战。"
+  },
+  {
+    "index": 88,
+    "source": "Nowadays, the spectral library searching has become a mature strategy for tandem mass spectra based proteins identification in proteomics, which searches the experiment spectra against a collection of confidently identified MS/MS spectra that have been observed previously, and fully utilizes the abundance in the spectrum, peaks from non-canonical fragment ions, and other features.",
+    "reference": "谱图库搜索策略直接比较实验谱图与谱图库中的真实谱图，充分利用了谱图中的丰度、非常规碎裂模式和其他的一些特征，使得搜索更加快速和准确，成为蛋白质组学的主流鉴定方法之一。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如今，谱库搜索已成为蛋白质组学中基于串联质谱的蛋白质鉴定的成熟策略，该方法将实验光谱与之前观察到的经过可靠鉴定的MS/MS光谱集合进行比对，并充分利用光谱中的丰度、非典型碎片离子的峰以及其他特征。"
+  },
+  {
+    "index": 89,
+    "source": "This review provides an overview of the implement of spectral library search strategy, and two key steps, spectral library construction and spectral library searching comprehensively, and discusses the progress and challenge of the library search strategy.",
+    "reference": "文中介绍基于谱图库的蛋白质组质谱数据鉴定策略，并针对其中两个关键步骤——谱图库构建方法和谱图库搜索方法进行深入介绍，探讨了谱图库策略的进展和挑战。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本综述概述了谱库搜索策略的实施，全面介绍了谱库构建和谱库搜索这两个关键步骤，并探讨了该搜索策略的进展与挑战。"
+  },
+  {
+    "index": 90,
+    "source": "Psychogenic dystonia is one of the most common problems encountered in movement disorder patients and accounted mostly for misdiagnosis, management confusion and treatment resistance.",
+    "reference": "固性肌张力障碍是运动障碍患者最常见的问题之一，并且大部分会被误诊、管理混淆和治疗抵抗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "心因性肌张力障碍是运动障碍患者中最常见的问题之一，主要导致了误诊、管理混乱和治疗抵抗。"
+  },
+  {
+    "index": 91,
+    "source": "Psychiatric morbidities often are the culprit, hence proper psychiatric history taking is of utmost importance.",
+    "reference": "精神障碍经常是罪魁祸首，因此获取适当的精神病史是最重要的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "精神疾病往往是罪魁祸首，因此详细的精神病史采集至关重要。"
+  },
+  {
+    "index": 92,
+    "source": "Here we report one case where dystonia was the main presenting complaint of an underlying depressive episode and discuss how managing the cause alleviated the symptoms.",
+    "reference": "我们在此报告一例以肌张力障碍为主诉的抑郁发作病例，并讨论如何处理病因缓解症状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在此我们报告一例以肌张力障碍为主要表现的潜在抑郁发作病例，并讨论如何通过管理病因来缓解症状。"
+  },
+  {
+    "index": 93,
+    "source": "Psychogenic seizures are often underdiagnosed and epilepsy is very often over-treated which leads to multiple financial, social and stigma related difficulties.",
+    "reference": "心因性抽搐发作经常会漏诊，并且癫痫往往会被过度治疗从而导致多种财力、社会、以及耻辱感相关的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "心因性癫痫发作常常被漏诊，而癫痫则往往被过度治疗，这导致了多方面的经济、社会和与污名相关的困难。"
+  },
+  {
+    "index": 94,
+    "source": "The myoclonic seizure itself is a rare phenomenon and when functional movement disorder presents like myoclonus then it's extremely difficult to pinpoint the exact cause.",
+    "reference": "肌阵挛癫痫发作本身是一种罕见的现象，当功能性运动障碍呈现肌阵挛的时候就极难找到确切的原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "肌阵挛性发作本身是一种罕见现象，而当功能性运动障碍表现为肌阵挛时，要确定确切原因极其困难。"
+  },
+  {
+    "index": 95,
+    "source": "Here, we are presenting a case who was misdiagnosed as having a myoclonic seizure disorder and treated in multiple places without any improvement which ultimately turned out to be functional movement disorder of a rare variety.",
+    "reference": "在这里，我们呈现一个被误诊为肌阵挛癫痫发作障碍的病例，该患者在多处经过治疗却无好转并且最终被诊断为患有非常罕见的功能性运动障碍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在此，我们介绍一例被误诊为肌阵挛性癫痫发作障碍并在多处接受治疗却无任何改善的病例，最终确诊为一种罕见类型的功能性运动障碍。"
+  },
+  {
+    "index": 96,
+    "source": "CAR-T cell therapy that targets surface antigens to kill tumor cells specifically has recently become another cornerstone in tumor immunotherapy.",
+    "reference": "CAR-T 细胞疗法通过靶向识别肿瘤细胞表面抗原，特异性杀伤肿瘤细胞，近年来已经成为肿瘤免疫疗法的研究热点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "针对表面抗原以特异性杀死肿瘤细胞的CAR-T细胞疗法，最近已成为肿瘤免疫治疗的另一个基石。"
+  },
+  {
+    "index": 97,
+    "source": "In this study, a lentiviral expression plasmid of CAR targeting human epidermal growth factor receptor 2 (HER2) was constructed by genetic engineering. The recombinant plasmid was co-transfected with other packaging plasmids into HEK293T cells by calcium phosphate precipitation to generate lenti-car, which are CAR lentiviral particles. HER2-specific CAR-T cells were obtained by transducing human peripheral blood mononuclear cells with lenti-car. Their specific inhibitory effects on HER2-positive and HER2-negative tumor cells were analyzed in vitro.",
+    "reference": "通过基因工程方法构建靶向人类表皮生长因子受体2 (HER2) 的CAR 慢病毒表达质粒，以磷酸钙沉淀辅助多质粒共转染HEK293T 细胞包装，制备CAR 慢病毒颗粒lenti-car，感染人外周血单核细胞获得HER2靶向的CAR-T 细胞，并分析其对HER2 阳性和阴性肿瘤细胞的特异性抑制效果。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在本研究中，通过基因工程构建了靶向人表皮生长因子受体2（HER2）的CAR慢病毒表达质粒。该重组质粒与其他包装质粒通过磷酸钙共沉淀法转染HEK293T细胞，生成lenti-car，即CAR慢病毒颗粒。通过用lenti-car转导人外周血单核细胞，获得了HER2特异性CAR-T细胞。在体外分析了它们对HER2阳性和HER2阴性肿瘤细胞的特异性抑制作用。"
+  },
+  {
+    "index": 98,
+    "source": "Thus, the constructed second-generation HER2-specific CAR-T cells specifically suppressed growth of tumor cells overexpressing HER2 protein, suggesting that HER2-specific CAR-T cells might prove useful for immunotherapy of HER2-positive cancer.",
+    "reference": "研究结果表明，构建的HER2 靶向的第二代CAR-T 细胞可选择性地抑制高表达HER2 蛋白的肿瘤细胞的生长，暗示了其对HER2 阳性肿瘤进行细胞免疫治疗的临床应用前景。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，构建的第二代HER2特异性CAR-T细胞特异性地抑制了过表达HER2蛋白的肿瘤细胞的生长，这表明HER2特异性CAR-T细胞可能对HER2阳性癌症的免疫治疗具有应用价值。"
+  },
+  {
+    "index": 99,
+    "source": "Reaching the level of herd protection by increasing vaccine coverage is the basic strategy to eradicate related infectious diseases.",
+    "reference": "扩大疫苗接种率达到足够的群体保护是预防甚至是根除某些传染性疾病的基本策略。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过提高疫苗覆盖率以达到群体保护水平，是根除相关传染病的基本策略。"
+  },
+  {
+    "index": 100,
+    "source": "Again, herd protection has played an important role in public health practices.",
+    "reference": "此外，群体保护的评价在制定公共卫生策略方面具有十分重要的作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "再次，群体保护在公共卫生实践中发挥了重要作用。"
+  },
+  {
+    "index": 101,
+    "source": "With the increasing interests in estimating the vaccine herd protection, we however, have seen only few relevant papers including observational population-based and cluster-randomized clinical trials reported in China.",
+    "reference": "近年来，国外关于疫苗群体保护的研究日益增多，包括人群观察性研究和群随机对照临床研究，但国内还未见相关的文献报道。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管对估算疫苗群体保护效应的兴趣日益增加，然而，我们仅看到少数相关论文在中国发表，其中包括基于观察的人群研究和集群随机临床试验。"
+  },
+  {
+    "index": 102,
+    "source": "Peritoneal metastasis is the second leading cause of death of colorectal cancer patients.",
+    "reference": "腹膜转移是结直肠癌患者的第二大死亡原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "腹膜转移是结直肠癌患者死亡的第二大原因。"
+  },
+  {
+    "index": 103,
+    "source": "Cytoreductive surgery (CRS) combined with hyperthermia intraperitoneal chemotherapy (HIPEC) is the primary method to treat peritoneal metastasis of colorectal cancer, though there remain some controversies.",
+    "reference": "肿瘤细胞减灭术联合腹腔热灌注化疗(CRS＋HIPEC)是目前治疗结直肠癌腹膜转移的主要方法，但是仍存在着一定争议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "细胞减灭术（CRS）联合腹腔热灌注化疗（HIPEC）是治疗结直肠癌腹膜转移的主要方法，尽管仍存在一些争议。"
+  },
+  {
+    "index": 104,
+    "source": "We reviewed current studies of colorectal peritoneal carcinomatosis (PC) and CRS+ HIPEC, and discussed some issues with regard to the scoring system for peritoneal metastasis, selection criteria for CRS+ HIPEC treatment, and the new drug application for colorectal PC.",
+    "reference": "本文回顾了结直肠癌腹膜转移和CRS＋HIPEC的相关研究，对腹膜转移评分体系(PCI)、CRS＋HIPEC的病例选择标准、CRS＋HIPEC的治疗方案争议，以及新的药物应用对于结直肠癌腹膜转移治疗影响等方面进行了论述。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们回顾了当前关于结直肠腹膜癌（PC）及CRS+HIPEC的研究，并讨论了腹膜转移评分系统、CRS+HIPEC治疗的选择标准以及结直肠PC新药申请的相关问题。"
+  },
+  {
+    "index": 105,
+    "source": "Peritoneal carcinomatosis index (PCI) is the most useful scoring system for peritoneal metastasis and CRS+ HIPEC is the primary treatment for colorectal PC.",
+    "reference": "PCI评分是目前最适用于腹膜转移癌评估的临床标准，CRS＋HIPEC方案是结直肠癌腹膜转移的主要治疗手段。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "腹膜癌指数（PCI）是评估腹膜转移最有用的评分系统，而CRS+HIPEC是结直肠腹膜癌的主要治疗方法。"
+  },
+  {
+    "index": 106,
+    "source": "Patients with PCI<20 should receive thorough assessment on the feasibility of R0 or R1 resection and CRS+ HIPEC treatment. For patients with unresectable PC at the initial stage, active drug therapy should be adopted to achieve tumor regression, so that some of them would have the opportunity to receive CRS+ HIPEC treatment.",
+    "reference": "对于PCI<20分且有望实现R0或R1切除的患者应仔细评估，争取开展CRS＋HIPEC；对于初始不可切除的患者，积极的药物治疗或可使部分肿瘤转变为可能实现R0或R1切除的肿瘤，从而有机会接受CRS＋HIPEC治疗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对于PCI<20的患者，应全面评估R0或R1切除以及CRS+HIPEC治疗的可行性。对于初始阶段无法切除的PC患者，应采取积极的药物治疗以实现肿瘤消退，从而使其中部分患者有机会接受CRS+HIPEC治疗。"
+  },
+  {
+    "index": 107,
+    "source": "As a common disease in orthopedics, osteonecrosis of the femoral head (ONFH) frequently occurs among young and middle-aged people.",
+    "reference": "股骨头坏死（osteonecrosis of the femoral head，ONFH）是骨科常见病，好发于中青年人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "作为骨科中的一种常见疾病，股骨头坏死（ONFH）在青壮年人群中频繁发生。"
+  },
+  {
+    "index": 108,
+    "source": "Hip joint preserving surgery has attracted more and more attention due to the fact that artificial joint prosthesis has a certain useful life and the rate of hip joint revision is high and the higher risk of many complications.",
+    "reference": "因人工关节假体有一定的使用寿命，且髋关节翻修术难度较高、风险较大、并发症较多，所以保留髋关节手术越来越受到重视。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于人工关节假体具有一定的使用寿命，髋关节翻修率高且并发症风险较大，髋关节保留手术已引起越来越多的关注。"
+  },
+  {
+    "index": 109,
+    "source": "There are a large number of operative methods for preserving hip joint in clinical practice without definitive effectiveness.",
+    "reference": "目前临床上应用的保髋手术方法较多，但疗效不确切。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在临床实践中，存在大量用于保留髋关节的手术方法，但尚未确定其确切疗效。"
+  },
+  {
+    "index": 110,
+    "source": "How to choose appropriate surgical methods at the right time is also a continuous understanding. The pathological process of necrosis of the femur helps to choose the choice of the femoral head necrosis for the treatment of hip operation.",
+    "reference": "关于如何在恰当的时机选择恰当的手术方式的认识也在不断更新，明确 ONFH 病理发展过程有助于选择恰当的 ONFH 保髋手术方式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如何在合适的时机选择合适的手术方法，也是一个不断认识的过程。股骨头坏死的病理过程有助于为髋关节手术治疗的股骨头坏死选择提供依据。"
+  },
+  {
+    "index": 111,
+    "source": "Core decompression and impaction bone grafting with simple operative methods can relieve internal pressure of femoral head and pain symptoms, but they cannot remove necrotic bone completely. Hence, they are only used for ONFH in the early stage.",
+    "reference": "早期的髓芯减压术与打压植骨术方法简便，可减轻股骨头内压力、缓解疼痛，但无法彻底清除坏死骨，仅应用于早期 ONFH。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "核心减压和打压植骨术通过简单的手术方法可以缓解股骨头内部压力和疼痛症状，但无法完全清除坏死骨。因此，这些方法仅适用于早期股骨头坏死（ONFH）。"
+  },
+  {
+    "index": 112,
+    "source": "Vascularized bone transplantation can fill defects of the former, as it can not only completely remove necrotic bone, but also provide bone graft with nourishing vessels for femoral head, being beneficial to reconstruct the bone structure of femoral head.",
+    "reference": "血管化骨移植术的应用填补了前者缺陷，不仅能够彻底清除坏死骨，还可以为股骨头提供有滋养血管的移植骨，有利于股骨头内骨结构的重建。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "血管化骨移植可以填补前者的缺损，因为它不仅能彻底清除坏死骨，还能为股骨头提供带有滋养血管的骨移植，有利于重建股骨头的骨结构。"
+  },
+  {
+    "index": 113,
+    "source": "Subsequently, the application of tantalum rod can provide mechanical support for femoral head to prevent the collapse of femoral head.",
+    "reference": "钽棒的应用为股骨头提供了力学支撑，具有预防股骨头塌陷的作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随后，钽棒的应用可以为股骨头提供机械支撑，防止股骨头塌陷。"
+  },
+  {
+    "index": 114,
+    "source": "Hip joint preserving surgery, in recent years, has been performed increasingly, and has obtained improvement in clinical effects. The multiple combination of a variety of its operative methods provides more effective treatments for ONFH.",
+    "reference": "近十年来，保留髋关节手术开展越来越多，临床疗效也不断得到改善，多种术式相互结合为 ONFH 保髋治疗提供了更多选择。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "近年来，髋关节保留手术的应用日益增多，并在临床效果上取得了改善。其多种手术方法的组合为股骨头坏死（ONFH）提供了更有效的治疗方案。"
+  },
+  {
+    "index": 115,
+    "source": "It is an essential notion that hip joint preserving surgery, however with any operative method, should as far as possible select a surgical plan with little trauma, simple methods, and little injury of hip joint bone structure based on ensuring the effectiveness.",
+    "reference": "但无论采用何种术式，保髋手术的理念始终是在保证疗效的前提下，尽可能选择手术创伤小、方法简便、对髋关节骨结构损伤不大的手术方案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "髋关节保留手术是一个基本概念，无论采用何种手术方法，都应在确保有效性的基础上，尽可能选择创伤小、方法简单且对髋关节骨结构损伤小的手术方案。"
+  },
+  {
+    "index": 116,
+    "source": "Vascularize bone graft is one of the most popular technique in current clinical practice of mandibular reconstruction. Fibula is the most common donor site for mandibular reconstruction. The disadvantage of low height of neo-mandible reconstructed by single fibular segment can be solved by vascularized double barrel fibula graft.",
+    "reference": "血管化骨移植是目前临床上应用最广泛的下颌骨重建方法，腓骨是最常用的供区，腓骨肌皮瓣平行折叠能够克服单层腓骨重建下颌骨后高度不足的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "血管化骨移植是当前下颌骨重建临床实践中最流行的技术之一。腓骨是下颌骨重建最常见的供体部位。通过血管化双筒腓骨移植，可以解决单段腓骨重建新下颌骨高度不足的缺点。"
+  },
+  {
+    "index": 117,
+    "source": "Using virtual surgical planning and intraoperative navigation for mandibular reconstruction leads to simplify surgical procedure, reduce operating time and injury, and decrease donor site morbidity so that accurate mandibular reconstruction could be completed. Direction of minimal invasive surgery for mandibular reconstruction will be developed by intraoral approach and intraoral anastomosis.",
+    "reference": "应用虚拟手术计划和术中导航辅助下颌骨重建，简化了手术操作、缩短了手术时间和创伤、降低了供区并发症，也提高了下颌骨重建的精确性；而口内入路手术和口内显微血管吻合则将推动下颌骨重建向微创的方向发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "利用虚拟手术规划和术中导航进行下颌骨重建，可以简化手术程序，减少手术时间和损伤，并降低供区并发症，从而实现精确的下颌骨重建。通过口内入路和口内吻合，将发展出下颌骨重建的微创手术方向。"
+  },
+  {
+    "index": 118,
+    "source": "Methods: From January 2011 to January 2016, a total of 82 patients were diagnosed as large LST without deep submucosal invasion (T1 SM2, ≥1 000 µm) in the Second Xiangya Hospital of Central South University. Among them, 52 patients were treated by ESD and the other 30 patients were treated by RS [laparoscopic-assisted colectomy (LAC)/open colectomy (OC)].",
+    "reference": "方法：收集中南大学湘雅二医院2011年1月至2016年1月确诊的82例直径>5 cm的无深部黏膜下浸润的大肠LST患者(T1 SM2，≥1 000 μm)，其中52例接受ESD治疗，30例接受RS(包括腹腔镜辅助结肠切除术和开腹结肠切除术)治疗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：自2011年1月至2016年1月，中南大学湘雅二医院共诊断出82例无深层黏膜下浸润（T1 SM2，≥1000微米）的大型侧向发育型肿瘤（LST）患者。其中，52例患者接受了内镜黏膜下剥离术（ESD）治疗，另外30例患者则接受了根治性手术[腹腔镜辅助结肠切除术（LAC）/开腹结肠切除术（OC）]治疗。"
+  },
+  {
+    "index": 119,
+    "source": "The clinic data were retrospectively analyzed and the en-bloc resection rate, en-bloc R0 resection rate, local recurrence, complication, procedure time and hospital stay were collected and analyzed.",
+    "reference": "回顾性分析患者的临床资料并比较两组患者的整块切除率、整块R0切除率、局部复发率、并发症、手术时间和住院时间。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对诊所数据进行了回顾性分析，收集并分析了整块切除率、整块R0切除率、局部复发率、并发症、手术时间和住院时间。"
+  },
+  {
+    "index": 120,
+    "source": "Results: The lesion sizes were (5.80±1.20) cm and (5.53±0.69) cm in diameter for ESD and RS groups, respectively (P>0.05).",
+    "reference": "结果：ESD组和RS组病灶大小分别为(5.80±1.20) cm和(5.53±0.69) cm(P>0.05)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：ESD组和RS组的病变直径分别为（5.80±1.20）厘米和（5.53±0.69）厘米（P>0.05）。"
+  },
+  {
+    "index": 121,
+    "source": "En-bloc resection rates, en-bloc R0 resection rates and recurrence rates showed no significant difference between the ESD group and RS group (P>0.05).",
+    "reference": "两组整块切除率、整块R0切除率和局部复发率差异均无统计学意义(P>0.05)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "整块切除率、整块R0切除率及复发率在ESD组与RS组之间未显示出显著差异（P>0.05）。"
+  },
+  {
+    "index": 122,
+    "source": "Complication rate of the ESD group (7.69%, 4/52) was much lower than that in the RS group (33.33%, 10/30; P<0.01).",
+    "reference": "ESD组并发症发生率(7.69%，4/52)明显低于根治性手术组(33.33%，10/30；P<0.01)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "ESD组的并发症发生率（7.69%，4/52）远低于RS组（33.33%，10/30；P<0.01）。"
+  },
+  {
+    "index": 123,
+    "source": "The ESD group also had a shorter hospital stay and operation time than the RS group (P<0.05).",
+    "reference": "ESD组的住院时间和手术时间明显短于RS组(P<0.05)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "ESD组的住院时间和手术时间均短于RS组（P<0.05）。"
+  },
+  {
+    "index": 124,
+    "source": "Conclusion: ESD appears to be a safe, minimal invasive and effective strategy for treating large LST and it is obviously better than RS in the aspects of hospital stay, operation time and short-term complication.",
+    "reference": "结论：ESD是一种安全、微创、有效的治疗较大LST的方法。 在住院时间、手术时间及短期并发症方面明显优于RS组。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：内镜黏膜下剥离术（ESD）似乎是一种安全、微创且有效的治疗大范围侧向发育型肿瘤（LST）的策略，在住院时间、手术时间和短期并发症方面明显优于传统手术（RS）。"
+  },
+  {
+    "index": 125,
+    "source": "To investigate the influential factors for depression and anxiety in patients with chronic wounds, and the relationship between depression and anxiety and social support or quality of life.",
+    "reference": "目的：分析慢性伤口患者抑郁、焦虑的影响因素，以及抑郁、焦虑不良情绪与生活质量和社会支持的相互关系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "探讨慢性伤口患者抑郁和焦虑的影响因素，以及抑郁、焦虑与社会支持或生活质量之间的关系。"
+  },
+  {
+    "index": 126,
+    "source": "Methods: We used convenience sampling method to enroll 150 patients with chronic wounds. Self-rating Depression Scale (SDS), Self-rating Anxiety Scale (SAS), Short Form 36 Health Survey (SF-36) and Social Support Rating Scale (SSRS) were used to assess the level of depression and anxiety, quality of life, and social support in patients with chronic wounds.",
+    "reference": "方法：采用方便抽样法，选取150例慢性伤口患者，使用抑郁自评量表(Self-Rating Depression Scale，SDS)、焦虑自评量表(Self-Rating Anxiety Scale，SAS)、生活质量调查简表(Short Form 36 Health Survey，SF-36)、社会支持评定量表(Social Support Rating Scale，SSRS)评估患者的抑郁、焦虑程度、生活质量及社会支持情况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：我们采用便利抽样法招募了150名慢性伤口患者。使用抑郁自评量表（SDS）、焦虑自评量表（SAS）、健康调查简表（SF-36）和社会支持评定量表（SSRS）来评估慢性伤口患者的抑郁和焦虑水平、生活质量以及社会支持情况。"
+  },
+  {
+    "index": 127,
+    "source": "Results: The detection rate of depression and anxiety in patients with chronic wounds was 45.3% and 14% respectively.",
+    "reference": "结果：慢性伤口患者抑郁检出率为45.3%，焦虑检出率为14%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：慢性伤口患者中抑郁和焦虑的检出率分别为45.3%和14%。"
+  },
+  {
+    "index": 128,
+    "source": "In patients with chronic wounds, age was positively correlated with SDS and SAS scores (P<0.05), while education, eight factors of SF-36, objective support, subjective support, and social support scores of SSRS were negatively correlated with SDS and SAS scores (P<0.05).",
+    "reference": "慢性伤口患者年龄与其SDS，SAS标准分之间呈正相关(P<0.05)，患者受教育年限，SF-36各因子，SSRS的客观支持、主观支持、社会支持总分与其SDS，SAS标准分之间呈负相关(P<0.05)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在慢性伤口患者中，年龄与SDS和SAS评分呈正相关（P<0.05），而教育水平、SF-36的八个因子、客观支持、主观支持以及SSRS的社会支持评分与SDS和SAS评分呈负相关（P<0.05）。"
+  },
+  {
+    "index": 129,
+    "source": "Further multiple regression analysis showed that the duration of wounds, physical functional score, role physical score and role emotional score of SF-36, objective support score, subjective support score, support utilization score, and social support score of SSRS were the independent influential factors for SDS score (P<0.05). Education, general health score, social functional score, and mental health score of SSRS were the independent factors for SAS score (P<0.05).",
+    "reference": "多元回归分析结果显示慢性伤口患者的伤口持续时间，SF-36的生理机能、生理职能、情感职能，SSRS的客观支持、主观支持、支持利用度、社会支持总分是其SDS标准分的独立影响因素(P<0.05)，而患者的受教育年限、一般健康状况、社会功能、精神健康是其SAS标准分的独立影响因素(P<0.05)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "进一步的多元回归分析显示，伤口持续时间、SF-36中的身体功能评分、角色身体评分和角色情感评分，以及SSRS中的客观支持评分、主观支持评分、支持利用评分和社会支持评分是SDS评分的独立影响因素（P<0.05）。教育程度、SSRS中的总体健康评分、社会功能评分和心理健康评分是SAS评分的独立影响因素（P<0.05）。"
+  },
+  {
+    "index": 130,
+    "source": "Conclusion: The lower quality of life and social support of patients with chronic wounds could increase their depression and anxiety.",
+    "reference": "结论：慢性伤口患者的生活质量、社会支持度降低会加重其抑郁、焦虑情绪。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：慢性伤口患者较低的生活质量和社会支持可能会增加他们的抑郁和焦虑。"
+  },
+  {
+    "index": 131,
+    "source": "While treating patients with chronic wounds, medical staff should also pay attention to the mutual influence between anxiety and depression, or quality of life and social support.",
+    "reference": "医护人员在对慢性伤口患者进行治疗的同时，还应充分重视其抑郁、焦虑不良情绪与生活质量和社会支持的相互影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在治疗慢性伤口患者时，医护人员还应关注焦虑与抑郁之间，或生活质量与社会支持之间的相互影响。"
+  },
+  {
+    "index": 132,
+    "source": "Distal stent graft-induced new entry (dSINE) is the complication with high incidence following thoracic endovascular aortic repair (TEVAR) for Stanford type B aortic dissection.",
+    "reference": "支架移植物远端新发破口是Stanford B型主动脉夹层腔内修复术后发生率较高的并发症。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "远端支架移植物诱导的新破口（dSINE）是Stanford B型主动脉夹层进行胸主动脉腔内修复术（TEVAR）后高发的一种并发症。"
+  },
+  {
+    "index": 133,
+    "source": "Aortic remolding play an important role in prophylaxis of dSINE.",
+    "reference": "促进假腔重塑对于支架移植物远端新发破口(dSINE)的预防具有重要价值。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "主动脉重塑在预防dSINE中起着重要作用。"
+  },
+  {
+    "index": 134,
+    "source": "As a major factor in determining performances of the electrochemical super capacitor, electrode materials have received wide attentions recently.",
+    "reference": "作为决定超级电容器电化学性能的主要因素，电极材料近年来获得了广泛关注。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "作为决定电化学超级电容器性能的主要因素，电极材料近年来受到了广泛关注。"
+  },
+  {
+    "index": 135,
+    "source": "Bacteria, with their advantages of low cost, abundance, environmental protection and easy to get from nature, have become the promising biomaterials.",
+    "reference": "细菌以其廉价、丰富、环保、自然界可提供等优点成为了很有前景的生物材料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "细菌因其低成本、资源丰富、环保且易于从自然界获取的优势，已成为极具前景的生物材料。"
+  },
+  {
+    "index": 136,
+    "source": "The composite electrode materials based on bacteria or their related products, have the advantages of large specific surface area, good cycle stability and high capacitance, and become the research focus in the field of super capacitor electrode materials.",
+    "reference": "以细菌及其相关产物为基础的复合电极材料，以其比表面积大、循环稳定性好、电容量高等优点已成为超级电容器电极材料领域的最前沿的研究热点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基于细菌或其相关产物的复合电极材料，具有比表面积大、循环稳定性好和电容高等优点，已成为超级电容器电极材料领域的研究热点。"
+  },
+  {
+    "index": 137,
+    "source": "The use of various biomimetic methods to achieve remineralization of demineralized dentin and the formation of an organic matrix-inorganic mineral complex with a certain mechanical strength has been a research hotspot in recent years in the field of stomatology, and it also provides a new idea for the restoration of dentin defect.",
+    "reference": "利用各种仿生手段实现脱矿牙本质再矿化并形成具有一定力学强度的有机基质-无机矿物复合物，是近年牙齿修复领域的研究热点，也为修复牙本质缺损提供新思路。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "近年来，在口腔医学领域，利用多种仿生方法实现脱矿牙本质的再矿化，并形成具有一定机械强度的有机基质-无机矿物复合物，已成为研究热点，同时也为牙本质缺损的修复提供了新思路。"
+  },
+  {
+    "index": 138,
+    "source": "This review summarizes the process of remineralization of decalcified dentin regulated by non-collagenous protein analogues in vitro.",
+    "reference": "本文就仿生分子体外调控脱矿牙本质再矿化过程的研究进展进行综述。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本综述总结了体外由非胶原蛋白类似物调控的脱钙牙本质再矿化过程。"
+  },
+  {
+    "index": 139,
+    "source": "Seasonal influenza vaccination is the most effective way to prevent influenza virus infection and complications from infection.",
+    "reference": "接种流感疫苗是预防流感病毒感染及其严重并发症的最有效手段。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "季节性流感疫苗接种是预防流感病毒感染及其并发症的最有效方法。"
+  },
+  {
+    "index": 140,
+    "source": "Currently, China has licensed trivalent inactivated influenza vaccine (IIV3) and quadrivalent inactivated influenza vaccine (IIV4), including split-virus influenza vaccine and subunit vaccine.",
+    "reference": "目前，我国国内批准上市的灭活流感疫苗为三价（IIV3）和四价（IIV4），包括裂解疫苗和亚单位疫苗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目前，中国已批准三价灭活流感疫苗（IIV3）和四价灭活流感疫苗（IIV4），包括裂解病毒流感疫苗和亚单位疫苗。"
+  },
+  {
+    "index": 141,
+    "source": "Except for a few major cities, influenza vaccine is a category Ⅱ vaccine, which means influenza vaccination is voluntary, and recipients must pay for it.",
+    "reference": "除个别地区外，流感疫苗在我国大多数地区属于第二类疫苗，实行自愿、自费接种。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "除少数主要城市外，流感疫苗属于二类疫苗，这意味着接种流感疫苗是自愿的，接种者需自费。"
+  },
+  {
+    "index": 142,
+    "source": "To strengthen the technical guidance for prevention and control of influenza and operational research on influenza vaccination in China, the National Immunization Advisory Committee (NIAC) Influenza Vaccine Technical Working Group (TWG), updated the 2014 technical guidelines and compiled the \"Technical guidelines for seasonal influenza vaccination in China (2018-2019)\" .",
+    "reference": "为指导我国流感预防控制和疫苗应用工作，中国疾病预防控制中心国家免疫规划技术工作组流感疫苗工作组综合国内外最新研究进展，对2014年版指南进行了更新和修订，形成了《中国流感疫苗预防接种技术指南（2018—2019）》。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为加强我国流感防控的技术指导和流感疫苗接种的操作研究，国家免疫规划咨询委员会（NIAC）流感疫苗技术工作组（TWG）更新了2014年的技术指南，并编制了《中国季节性流感疫苗接种技术指南（2018-2019）》。"
+  },
+  {
+    "index": 143,
+    "source": "The main updates in this version include: epidemiology, disease burden, types of influenza vaccines, northern hemisphere influenza vaccination composition for the 2018-2019 season, IIV3 and IIV4 immune response, durability of immunity, immunogenicity, vaccine efficacy, effectiveness, safety, cost-effectiveness and cost-benefit. The influenza vaccine TWG provided the recommendations for influenza vaccination for the 2018-2019 influenza season based on existing scientific evidence.",
+    "reference": "本指南主要更新了以下内容：流感的流行病学、疾病负担，流感疫苗的种类、2018—2019年度流感疫苗抗原组份、IIV3和IIV4的免疫反应、免疫持久性、免疫原性、效力、效果、安全性、成本效果和成本效益等新的科学证据，并基于现有的科学证据，提出了2018—2019年度流感疫苗预防接种的建议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本版本的主要更新包括：流行病学、疾病负担、流感疫苗类型、2018-2019年度北半球流感疫苗成分、IIV3和IIV4的免疫反应、免疫持久性、免疫原性、疫苗效力、有效性、安全性、成本效益和成本效益分析。流感疫苗技术工作组（TWG）根据现有科学证据提供了2018-2019流感季的流感疫苗接种建议。"
+  },
+  {
+    "index": 144,
+    "source": "The recommendations described in this report include the following: Points of Vaccination clinics (PoVs) should provide influenza vaccination to all persons aged 6 months and above who are willing to be vaccinated and do not have contraindications.",
+    "reference": "本指南建议：原则上，接种服务单位应为≥6月龄所有愿意接种流感疫苗且无禁忌证的人提供接种服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本报告中提出的建议包括以下内容：疫苗接种点（PoVs）应为所有6个月及以上、愿意接种且无禁忌症的人提供流感疫苗接种。"
+  },
+  {
+    "index": 145,
+    "source": "No preferential recommendation is made for one influenza vaccine product over another for persons for whom more than one licensed, recommended, and appropriate product is available.",
+    "reference": "对可接种不同类型、厂家疫苗产品的人群，可由受种者自愿选择接种任一种流感疫苗，无优先推荐。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对于有多种已获许可、推荐且适用的流感疫苗产品可供选择的人群，不对其中任何一种产品给予优先推荐。"
+  },
+  {
+    "index": 146,
+    "source": "To decrease the risk of severe infections and complications due to influenza virus infection among high risk groups, the recommendations prioritize seasonal influenza vaccination for children aged 6-59 months, adults ≥60 years of age, persons with specific chronic diseases, healthcare workers, the family members and caregivers of infants <6 months of age, and pregnant women or women who plan to become pregnant during the influenza season.",
+    "reference": "为降低高危人群罹患流感及感染后发生严重临床结局的风险，指南推荐6月龄至5岁儿童、60岁及以上老人、慢性病患者、医务人员、6月龄以下婴儿的家庭成员和看护人员以及孕妇或准备在流感季节怀孕的女性为优先接种对象。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为降低高危人群因流感病毒感染导致严重感染和并发症的风险，建议优先为6-59个月的儿童、60岁及以上的成年人、患有特定慢性疾病的人、医护人员、6个月以下婴儿的家庭成员和看护者、以及计划在流感季节怀孕或已怀孕的女性接种季节性流感疫苗。"
+  },
+  {
+    "index": 147,
+    "source": "Children aged 6 months through 8 years require 2 doses of influenza vaccine administered a minimum of 4 weeks apart during their first season of vaccination for optimal protection. If they were vaccinated in 2017-2018 influenza season or a prior season, 1 dose is recommended.",
+    "reference": "首次接种流感疫苗的6月龄至8岁儿童应接种两剂次，间隔≥4周；2017—2018年度或以前接种过1剂及以上流感疫苗的儿童，建议接种1剂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "6个月至8岁的儿童在首次接种流感疫苗的季节中，需要接种两剂流感疫苗，两剂之间至少间隔4周，以获得最佳保护效果。如果他们在2017-2018流感季节或之前的季节已经接种过疫苗，则建议接种一剂。"
+  },
+  {
+    "index": 148,
+    "source": "People more than 8 years old require 1 dose of influenza vaccine.",
+    "reference": "9岁及以上儿童和成人仅需接种1剂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "8岁以上人群需要接种1剂流感疫苗。"
+  },
+  {
+    "index": 149,
+    "source": "It is recommended that people receive their influenza vaccination by the end of October. Influenza vaccination should be offered as soon as the vaccination is available. For the people unable to be vaccinated before the end of October, influenza vaccination will continue to be offered for the whole season.",
+    "reference": "建议各地在疫苗供应到位后尽快安排接种工作，最好在10月底前完成免疫接种；对10月底前未接种的对象，整个流行季节都可以提供接种服务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "建议人们在十月底前接种流感疫苗。一旦疫苗可用，应立即提供流感疫苗接种服务。对于无法在十月底前接种疫苗的人群，整个流感季节将持续提供疫苗接种服务。"
+  },
+  {
+    "index": 150,
+    "source": "Influenza vaccine is also recommended for use in pregnant women during any trimester.",
+    "reference": "孕妇在孕期的任一阶段均可接种流感疫苗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "流感疫苗也建议在怀孕期间的任何阶段使用于孕妇。"
+  },
+  {
+    "index": 151,
+    "source": "These guidelines are intended for use by staff members of the Centers for Disease Control and Prevention at all levels who work on influenza control and prevention, PoVs staff members, healthcare workers from the departments of pediatrics, internal medicine, and infectious diseases, and staff members of maternity and child care institutions at all levels.",
+    "reference": "本指南适用于从事流感防控相关的各级疾病预防控制机构工作人员，预防接种点的接种人员，各级医疗机构儿科、内科、感染科等医务人员，以及各级妇幼保健机构的专业人员。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本指南旨在供各级疾病预防控制中心从事流感防控工作的人员、PoVs工作人员、儿科、内科及感染科医护人员，以及各级妇幼保健机构的员工使用。"
+  },
+  {
+    "index": 152,
+    "source": "Chinese companies made \"artificial plasma\" by learning the experience of artificial nutritional medicine at western drugs companies.",
+    "reference": "人造自来血是近代企业借鉴西药制造的人造\"补药\"。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国企业通过借鉴西方制药公司在人工营养药物方面的经验，成功研制出了“人工血浆”。"
+  },
+  {
+    "index": 153,
+    "source": "A lot advertising presented typical models for modern medicines.",
+    "reference": "大量的广告宣传，使人造自来血成为近代医药广告的典型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "许多广告为现代药物提供了典型范例。"
+  },
+  {
+    "index": 154,
+    "source": "The producers tried to convince the customers of artificial plasma's functions by utilizing famous person advertising effect and the customers' assured talking about it. And the theories of traditional Chinese medicines and western medicines experiments were hired to note the functions \"artificial plasma\" , but it is very difficult to evaluate its real functions.",
+    "reference": "企业采取刊登\"名人广告\"和服用者\"保证书\"的形式来说明人造自来血的补血功效，并用中医理论和西医试验相结合的方式来诠释其功效，但其真实功效难以准确评价。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "生产商试图通过利用名人广告效应和顾客的肯定评价来说服消费者相信人工血浆的功能。同时，他们还引用了传统中医理论和西医实验来标注“人工血浆”的功能，但评估其真实功能却非常困难。"
+  },
+  {
+    "index": 155,
+    "source": "\"Artificial plasma\" was fashionable on the market, because the customers joyfully have requirements of nourishing live psychologically, fear being \"sick man of Asia\" and hopefully strengthen the race and country.",
+    "reference": "\"以补为喜\"的心理需求，\"东亚病夫\"的社会不安和\"强种保国\"的观念是人造自来血在近代风靡的社会原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "\"人工血浆\"曾在市场上风靡一时，因为顾客们心理上渴望滋养生命，害怕成为“东亚病夫”，并希望增强种族和国家的力量。"
+  },
+  {
+    "index": 156,
+    "source": "After the Revolution of 1911, the companies wanted to meet not only the need and requirement of the ruler class, but also of the common people.",
+    "reference": "企业顺应时局变化，在\"辛亥革命\"后，利用\"共和\"的必然趋势宣传产品，既迎合了统治阶层的意愿和需要，也顺应了民众的健康需求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1911年革命后，公司不仅希望满足统治阶级的需求和要求，也希望满足普通民众的需求。"
+  },
+  {
+    "index": 157,
+    "source": "From later Qing Dynasty, health care and preventive medicine became more popular. Artificial nutritional medicine played an important role in this process.",
+    "reference": "晚清至近代，医药保健已成为一种社会风潮，而受人民需要、政治时局与医药知识大众化科普影响而诞生的人造\"补药\"在其中扮演重要的\"新角色\"。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "自晚清以来，保健和预防医学变得更加流行。人工营养药物在这一过程中发挥了重要作用。"
+  },
+  {
+    "index": 158,
+    "source": "PiCCO has been used more and more in burn patients in recent years, however there is no clinic consensus on how to apply PiCCO monitoring, understand the significance of PiCCO monitored parameters, and guide the treatment using PiCCO monitored parameters in patients with severe burns.",
+    "reference": "PiCCO监测技术在烧伤患者中的应用日趋增多，但如何在烧伤患者中实施PiCCO监测，正确理解PiCCO监测参数的临床意义，以及基于PiCCO监测参数指导严重烧伤救治，尚缺乏统一认识。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "近年来，PiCCO在烧伤患者中的应用越来越广泛，然而，关于如何应用PiCCO监测、理解PiCCO监测参数的意义以及利用PiCCO监测参数指导严重烧伤患者的治疗，目前尚无临床共识。"
+  },
+  {
+    "index": 159,
+    "source": "Based on the current literatures and the experts' clinical experience, national experts consensus on application of pulse contour cardiac output monitoring technique in severe burn treatment (2018 version) is now issued by the Burn and Trauma Branch of Chinese Geriatrics Society, aiming to provide practical guidance for its usage in clinic.",
+    "reference": "中国老年医学学会烧创伤分会组织国内烧创伤领域著名专家学者，以文献进展为主要依据，结合临床经验，撰写制订《PiCCO监测技术在严重烧伤治疗中应用的全国专家共识(2018版)》，为该技术的临床应用提供参考。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基于当前文献及专家临床经验，中国老年医学学会烧伤与创伤分会现发布《脉搏轮廓心输出量监测技术在严重烧伤治疗中应用的专家共识（2018版）》，旨在为其在临床中的使用提供实用指导。"
+  },
+  {
+    "index": 160,
+    "source": "Collagen, as the main structural protein in human body, plays an important role in the wound healing process.",
+    "reference": "胶原是人体主要的结构蛋白，在伤口愈合过程中具有重要作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "胶原蛋白作为人体内的主要结构蛋白，在伤口愈合过程中扮演着重要角色。"
+  },
+  {
+    "index": 161,
+    "source": "Due to their inherent hemostatic characteristics, good biocompatibility, low immunogenicity, as well as controllable biodegradability, collagen-based materials have attracted much attention.",
+    "reference": "以胶原为原料的材料因其天然的止血性、良好的生物相容性、较低的免疫原性及可控的生物降解性等性能，备受人们关注。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于其固有的止血特性、良好的生物相容性、低免疫原性以及可控的生物降解性，基于胶原蛋白的材料引起了广泛关注。"
+  },
+  {
+    "index": 162,
+    "source": "In this article, we mainly introduce the characteristics of collagen-based wound biomaterials and the application mechanism as scaffold and wound dressing. And the standard and unified experts' consensus formed on the clinical indications, recommended applications, contraindications, and matters needing attention. The consensus wound help clinicians and patients to recognize collagen-based wound biomaterials correctly and use them rationally.",
+    "reference": "本文主要介绍了胶原类创面材料的特点、作为支架材料和创面覆盖物应用的机制，并就其临床适应证、推荐使用方法、禁忌证以及注意事项等形成较为规范、统一的专家共识，以帮助临床医师和患者正确认识并合理使用胶原类创面材料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文主要介绍了胶原基伤口生物材料的特性及其作为支架和伤口敷料的应用机制，并形成了关于临床适应症、推荐应用、禁忌症及注意事项的标准统一专家共识。该共识有助于临床医生和患者正确认识并合理使用胶原基伤口生物材料。"
+  },
+  {
+    "index": 163,
+    "source": "The prevalence of carbapenems-resistant Klebsiella pneumoniae (CRKP ) in burn wards has become one of the most troublesome issues in current management of bacterial infections.",
+    "reference": "抗碳青霉烯类抗生素肺炎克雷伯菌(CRKP)在烧伤病房的检出及流行，已成为烧伤抗感染治疗中十分棘手的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "烧伤病房中耐碳青霉烯类肺炎克雷伯菌（CRKP）的流行已成为当前细菌感染管理中最棘手的问题之一。"
+  },
+  {
+    "index": 164,
+    "source": "It is necessary for us to reconsider the epidemiology, risk factors and clinical characteristics of CRKP infection as well as therapeutic options.",
+    "reference": "因此，有必要进一步认识CRKP感染的流行病学、易感因素、临床特征及治疗策略。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们有必要重新考虑CRKP感染的流行病学、风险因素、临床特征以及治疗方案。"
+  },
+  {
+    "index": 165,
+    "source": "Formulating the principles of antimicrobial therapy of CRKP infection and combined antibiotics therapy and implementing appropriate dosage regimens designed by pharmacokinetic and pharmacodynamic profiles will be of importance.",
+    "reference": "应用药代动力学和药效学理论，制订CRKP感染时抗菌治疗及联合用药的原则、实施恰当的剂量策略，显得尤为重要。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "制定CRKP感染的抗菌治疗原则及联合抗生素治疗方案，并实施基于药代动力学和药效学特征设计的适当剂量方案，将具有重要意义。"
+  },
+  {
+    "index": 166,
+    "source": "Common antimicrobial agents for the treatment of CRKP infection include polymyxins, tigecycline, fosfomycin, and carbapenems.",
+    "reference": "治疗CRKP感染常用抗菌药物包括多黏菌素、替加环素、磷霉素和碳青霉烯类抗生素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "治疗CRKP感染的常见抗菌药物包括多粘菌素、替加环素、磷霉素和碳青霉烯类。"
+  },
+  {
+    "index": 167,
+    "source": "Infection control measures such as contact isolation, active screening, and environmental surface disinfection must be integrated with antimicrobial stewardship to effectively curb and prevent the spread of CRKP.",
+    "reference": "为有效地抑制和防止CRKP的传播，感染控制管理措施中必须整合接触隔离、主动筛选和环境消毒。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "感染控制措施，如接触隔离、主动筛查和环境表面消毒，必须与抗菌药物管理相结合，以有效遏制和预防CRKP的传播。"
+  },
+  {
+    "index": 168,
+    "source": "The goal of this study is to determine the regions in the spinal cord controlling different hindlimb movements in the rats. Normalization was used for the regions dominating the corresponding movements. It has been verified that FES can be used in motor function recovery of the hindlimb.",
+    "reference": "本研究的目标是在大鼠脊髓上确定诱发后肢不同动作的区域，对支配相应动作的区域进行归一化描述，并验证脊髓内功能电激励能够用于后肢运动功能恢复。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究的目的是确定大鼠脊髓中控制不同后肢运动的区域。对于主导相应运动的区域，采用了归一化处理。已经验证，功能性电刺激（FES）可用于后肢运动功能的恢复。"
+  },
+  {
+    "index": 169,
+    "source": "The spinal cord was stimulated by FES with a three-dimensional scan mode in experiments.",
+    "reference": "实验中利用了三维扫描式功能电激励技术对大鼠脊髓腰骶段进行刺激。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在实验中，通过三维扫描模式的FES刺激了脊髓。"
+  },
+  {
+    "index": 170,
+    "source": "The results show that stimulation through the electrodes implanted in the ventral locations of the lumbosacral enlargement can produce coordinated single- and multi-joint hindlimb movements. A variety of different hindlimb movements can be induced with the appropriate stimulation sites, and movement vectors of the hindlimb cover the full range of movement directions in the sagittal plane of the hindlimb.",
+    "reference": "结果表明，对腰骶段脊髓腹侧进行电刺激能够产生单关节或多关节的协调运动，合理选择刺激位点能够诱发后肢多种不同动作，且后肢运动向量图覆盖后肢运动的矢状平面的各个方向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果表明，通过植入腰骶膨大腹侧位置的电极进行刺激，可以产生协调的单关节和多关节后肢运动。通过适当的刺激位点，可以诱导出多种不同的后肢运动，且后肢的运动矢量覆盖了后肢矢状面内的全部运动方向。"
+  },
+  {
+    "index": 171,
+    "source": "This article drew a map about spinal cord motor function of the rat. The regions in the spinal cord which control corresponding movements are normalized. The data in the study provide guidance about the location of electrode tips in the follow-up experiments.",
+    "reference": "本文绘制了大鼠脊髓运动功能图谱，对相关动作的控制区域进行归一化描述，为后续实验中电极植入位点的确定提供指导。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文绘制了一张关于大鼠脊髓运动功能的地图。脊髓中控制相应运动的区域已被标准化。研究中的数据为后续实验中电极尖端的位置提供了指导。"
+  },
+  {
+    "index": 172,
+    "source": "The 2018 Academic Annual Meeting of the Chinese Burn Association, sponsored by the Chinese Medical Association and the Chinese Burn Association, was successfully held in Fuzhou, Fujian Province, from October 24th to 27th.",
+    "reference": "由中华医学会、中华医学会烧伤外科学分会主办的中华医学会烧伤外科学分会2018年学术年会于10月24—27日在福建福州顺利召开。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由中华医学会和中华烧伤学会主办的2018年中华烧伤学会学术年会，于10月24日至27日在福建省福州市成功举办。"
+  },
+  {
+    "index": 173,
+    "source": "The theme of this conference is \" One China, One Standard\".",
+    "reference": "本次会议的主题为\"一个中国，一个标准\"。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本次会议的主题是“一个中国，一个标准”。"
+  },
+  {
+    "index": 174,
+    "source": "A total of 1, 798 submissions were received, and 1, 060 registered representatives, more than 2, 000 representatives from 9 countries and regions attended the meeting.",
+    "reference": "会议共收到投稿1 798篇，注册代表人数1 060人，来自9个国家和地区的2 000余名代表出席了本次会议。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "共收到1,798份提交材料，1,060名注册代表以及来自9个国家和地区的超过2,000名代表出席了会议。"
+  },
+  {
+    "index": 175,
+    "source": "The tumor components of pancreatic ductal adenocarcinoma (PDAC) are composed of immune microenvironment of extracellular matrix, fibroblasts, endothelial cells and immune cells together with a minority of malignant cells.",
+    "reference": "胰腺导管腺癌（PDAC）的肿瘤成分由细胞外基质、成纤维细胞、内皮细胞和免疫细胞组成的免疫微环境及其中的少量恶性肿瘤细胞共同组成。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "胰腺导管腺癌（PDAC）的肿瘤成分由细胞外基质、成纤维细胞、内皮细胞和免疫细胞构成的免疫微环境与少数恶性细胞共同组成。"
+  },
+  {
+    "index": 176,
+    "source": "The failure of the therapeutic measures, such as chemotherapy, targeted therapy and immunotherapy, has been linked to the specific immune microenvironment of pancreatic cancer.",
+    "reference": "化疗、靶向治疗和免疫治疗等一系列治疗措施的失败均与胰腺癌特殊的免疫微环境相关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "化疗、靶向治疗和免疫治疗等治疗措施的失败，与胰腺癌特定的免疫微环境有关。"
+  },
+  {
+    "index": 177,
+    "source": "New efforts in single-cell profiling will enable a better understanding of the composition of the microenvironment in primary and metastatic PDAC, as well as an understanding of how the microenvironment may respond to novel therapeutic approaches.",
+    "reference": "同时，通过对肿瘤单细胞进行分析研究，可以更好地了解PDAC中免疫微环境的组成特点，以及在目前胰腺癌新治疗措施中免疫微环境的变化特点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "单细胞分析的新努力将有助于更好地理解原发性和转移性PDAC微环境的组成，以及微环境可能如何响应新型治疗方法。"
+  },
+  {
+    "index": 178,
+    "source": "With the progress of technology, three-dimensional (3D) printing technology has become more and more widely used in stomatology.",
+    "reference": "随着科技的进步，三维打印技术在口腔医学中的应用越来越广泛。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着技术的进步，三维（3D）打印技术在口腔医学中的应用越来越广泛。"
+  },
+  {
+    "index": 179,
+    "source": "3D printed template has played an irreplaceable role in oral implantation; at the same time, 3D printed template, which has been successfully applied to the calcified root canal negotiation, endodontic treatment of dental invaginatus, apical surgery and autotransplantation, has also provided a new concept and treatment mode for the diagnosis and therapy of endodontic diseases.",
+    "reference": "三维打印导板已在口腔种植中发挥着不可替代的作用；同时，三维打印导板也为牙体牙髓疾病的诊疗提供了新的理念和治疗模式，已成功应用于钙化根管疏通、牙内陷的根管治疗、根尖外科及自体牙移植等。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "3D打印模板在口腔种植中发挥了不可替代的作用；同时，3D打印模板已成功应用于钙化根管的疏通、牙内陷的牙髓治疗、根尖手术以及自体牙移植，为牙髓疾病的诊断和治疗提供了新的理念和治疗模式。"
+  },
+  {
+    "index": 180,
+    "source": "This review, summarized the research and application of 3D printed template from the perspective of the treatment of endodontic deseases.",
+    "reference": "本文从牙体牙髓病的治疗角度，综述三维打印导板在牙体牙髓专业领域中的研究和应用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本综述从牙髓病治疗的角度，总结了3D打印模板的研究与应用。"
+  },
+  {
+    "index": 181,
+    "source": "Sepsis-induced cardiac dysfunction is a serious complication of sepsis with no effective treatment.",
+    "reference": "脓毒症心功能不全是脓毒症的严重并发症，但是目前缺乏有效的治疗方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "脓毒症引发的心脏功能障碍是脓毒症的一种严重并发症，目前尚无有效治疗方法。"
+  },
+  {
+    "index": 182,
+    "source": "AMP-activated protein kinase (AMPK) is a regulator for energy metabolism in cells and plays a key role in the energy balance.",
+    "reference": "腺苷酸活化蛋白激酶(AMP-activated protein kinase，AMPK)是细胞的能量代谢调节器，在能量平衡中起关键作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "AMP激活蛋白激酶（AMPK）是细胞能量代谢的调节器，在能量平衡中起着关键作用。"
+  },
+  {
+    "index": 183,
+    "source": "Recent studies have shown that AMPK exerted a protective effect on sepsis-induced cardiac dysfunction, which was related to the regulation of inflammation, endothelial cells injury, energy metabolism, myocardial cells apoptosis and autophagy.",
+    "reference": "AMPK对脓毒症心功能不全起保护作用，其机制与调控炎症、内皮细胞损伤、能量代谢、心肌细胞凋亡及自噬相关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最近的研究表明，AMPK对脓毒症引起的心脏功能障碍具有保护作用，这种作用与炎症调节、内皮细胞损伤、能量代谢、心肌细胞凋亡和自噬有关。"
+  },
+  {
+    "index": 184,
+    "source": "Therefore, AMPK is a therapeutic target for sepsis-induced cardiac dysfunction.",
+    "reference": "因此，AMPK是脓毒症心功能不全的治疗靶点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，AMPK是治疗脓毒症引起的心功能障碍的一个治疗靶点。"
+  },
+  {
+    "index": 185,
+    "source": "Our study aimed to amplify and explain the items of statistical reporting requirements proposed by medical journals, and to improve the statistical reporting quality of medical articles.",
+    "reference": "本文旨在对医学期刊统计报告要求中的条目进行详述与解读，为提高医学论文的统计报告质量提供参考。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们的研究旨在扩增并解释医学期刊提出的统计报告要求项目，以提高医学文章的统计报告质量。"
+  },
+  {
+    "index": 186,
+    "source": "Statistical reporting requirements were obtained from the reporting standards published by the International Committee of Medical Journal Editors (ICMJE), the Enhancing the QUAlity and Transparency of Health Research (EQUATOR) network, and the editorial board of Chinese Medical Journal, etc. The items involved in statistical reporting requirements were summarized as issues of study design, statistical analysis, and interpretation of results. Each item was amplified based on cases of original articles.",
+    "reference": "本文基于国际医学期刊编辑委员会（ICMJE）、提高健康研究质量与透明度协作网（EQUATOR）、中华医学杂志编辑部等发布的医学研究报告规范，从研究设计、统计分析与结果报告3个方面对统计学相关条目进行归纳，并结合已发表的医学论文进行案例解读。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "统计报告要求是从国际医学期刊编辑委员会（ICMJE）发布的报告标准、提高健康研究质量和透明度（EQUATOR）网络以及《中华医学杂志》编辑委员会等发布的报告中获取的。统计报告要求所涉及的条目被总结为研究设计、统计分析和结果解释等问题。每个条目都基于原始文章的案例进行了详细说明。"
+  },
+  {
+    "index": 187,
+    "source": "It is noticeable that the statistical reporting requirements of English medical journals generally referring to guidance documents, including \"Recommendations for the conduct, reporting, editing, and publication of scholarly work in medical journals\" proposed by the ICMJE, or the statements for different study types published by the EQUATOR network, where the statistical reporting of medical articles had been detailed specified. The statistical reporting requirements of Chinese medical journals, however, were usually stated by the editorial boards. Although the formats and contents of statistical analysis had been regulated, the requirements of Chinese medical journals were to some extent insufficient and should be enhanced in accordance with the international standards.",
+    "reference": "需要注意的是，英文医学期刊普遍参考ICMJE提出的\"医学期刊学术著作实施、报告、编辑和发表建议\"及EQUATOR协作网发布的针对多种研究设计类型的报告声明等规范性文件，对于医学研究的统计报告有详细规定；中文医学期刊通常采用编辑部自行刊发的对统计学报告的要求，虽然对统计分析的格式和内容有具体说明，但并不充分，建议根据国际规范完善现行的统计报告要求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "值得注意的是，英文医学期刊的统计报告要求通常参考指导文件，包括国际医学期刊编辑委员会（ICMJE）提出的《医学期刊学术工作的实施、报告、编辑和出版建议》，或EQUATOR网络发布的不同研究类型的声明，这些文件对医学文章的统计报告进行了详细规定。然而，中文医学期刊的统计报告要求通常由编辑部自行规定。尽管统计分析的格式和内容已有所规范，但中文医学期刊的要求在一定程度上仍显不足，应按照国际标准进行加强。"
+  },
+  {
+    "index": 188,
+    "source": "In conclusion, the amplification and explanation of statistical reporting requirements were expected to help investigators understand the requirements for statistical reporting in medical researches, so as to effectively improve the quality of medical articles.",
+    "reference": "本文对医学期刊统计报告要求的相关条目进行归纳与实例解读，将帮助研究者了解医学研究的统计报告要求，从而切实提高医学论文的统计报告质量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "总之，统计报告要求的详细说明和解释预计将帮助研究者理解医学研究中统计报告的要求，从而有效提高医学文章的质量。"
+  },
+  {
+    "index": 189,
+    "source": "The history of vascular surgery in new China could be divided into the following three stages: the first stage, since the early 1980s, the technique of endovascular surgery was introduced in China, developed in some major hospitals, and gradually popularized to some basic hospitals conditionally. Vascular surgery had gradually developed into an independent discipline in China by the late 1980s.",
+    "reference": "新中国血管外科发展史可分为3个阶段：第1阶段，自20世纪80年代初期，引进腔内血管外科技术，相继在一些大医院开展，并逐渐向一些有条件的基层医院普及，至20世纪80年代后期，血管外科才逐渐发展成为一门独立的学科。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "新中国血管外科的历史可分为以下三个阶段：第一阶段，自20世纪80年代初起，血管腔内技术被引入中国，在一些大型医院得到发展，并逐步有条件地推广到一些基层医院。到20世纪80年代末，血管外科在中国已逐渐发展成为一个独立的学科。"
+  },
+  {
+    "index": 190,
+    "source": "The second stage, since the late 1980s, vascular diagnosis and treatment technology, vascular equipment, and related research modification had been improving continuously in China, and achieved certain success, especially since the establishment of the department of vascular surgery affiliated to the Chinese Medical Association in 1993, vascular surgery in China representing its period of primary development.",
+    "reference": "第2阶段，20世纪80年代后期以来，血管诊疗技术不断改进、血管器材不断改良及相关研究相继在国内得到开展，并取得一定成功。 特别是1993年中华医学会血管外科学组成立后，血管外科进入了初级发展期。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二阶段，自20世纪80年代末以来，中国的血管诊断与治疗技术、血管设备及相关研究改进持续提升，并取得了一定成就，特别是1993年中华医学会血管外科学分会成立后，中国的血管外科进入了初步发展时期。"
+  },
+  {
+    "index": 191,
+    "source": "The third stage, since the beginning of the 21st century, the innovation of the technique of endovascular surgery and hybridization technology, and the development of materials technology had contributed to the second leaping forward of vascular surgery in China. Since then, vascular surgery enters a new era of minimally invasive surgery and opens a period of rapid development.",
+    "reference": "第3阶段，进入21世纪后，腔内血管外科技术及杂交技术等技术的创新及材料科技的发展促成了血管外科的第2次飞跃，血管外科从此进入了微创新纪元并进入了快速发展期。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "自21世纪初以来，第三阶段中，血管内手术技术的创新与杂交技术的发展，以及材料技术的进步，共同推动了中国血管外科的第二次飞跃。自此，血管外科进入了微创手术的新时代，并开启了快速发展的时期。"
+  },
+  {
+    "index": 192,
+    "source": "Severe frostbite (grade Ⅲ to Ⅳ) is a common disease accompanied with high disability rate in cold regions, especially for military training and disaster events in cold regions.",
+    "reference": "严重(Ⅲ~Ⅳ度)冻伤是寒区较常见病，尤其多见于寒区军事作业及灾害事件，且致残率较高。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "严重冻伤（Ⅲ至Ⅳ级）是寒冷地区常见疾病，尤其在军事训练和寒冷地区灾害事件中，伴随高致残率。"
+  },
+  {
+    "index": 193,
+    "source": "The treatment of severe frostbite mainly includes rapid rewarming in the early stage and amputation in the later stage; while the damage of vascular endothelial cells, microvascular thrombosis, and decreased tissue perfusion secondary to severe frostbite are important factors affecting prognosis.",
+    "reference": "严重冻伤的治疗方法主要包括前期的快速复温以及后期的截肢治疗，而严重冻伤继发的血管内皮细胞损伤、微血管内血栓形成、组织灌注减少是影响预后的重要因素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "严重冻伤的治疗主要包括早期的快速复温和后期的截肢；而严重冻伤继发的血管内皮细胞损伤、微血管血栓形成以及组织灌注减少是影响预后的重要因素。"
+  },
+  {
+    "index": 194,
+    "source": "Transcatheter arterial thrombolysis is a new technique for the treatment of severe frostbite. It has the advantages of minimally invasive, high safety, and significantly reduced amputation rate. We reviewed the advances in the research of transcatheter arterial thrombolysis for the treatment of severe frostbite.",
+    "reference": "经导管动脉溶栓是治疗严重冻伤的新技术，具有微创、安全性高、可显著降低截肢率等优势，本文对此方面的研究进展进行综述。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "经导管动脉溶栓术是一种治疗重度冻伤的新技术。它具有微创、安全性高以及显著降低截肢率的优点。我们回顾了经导管动脉溶栓术治疗重度冻伤的研究进展。"
+  },
+  {
+    "index": 195,
+    "source": "Cancer is a major disease threatening the people's health in China. Cancer registry is the ground work of the development and evaluation of cancer prevention and control policies.",
+    "reference": "恶性肿瘤是影响中国居民健康的重要疾病，肿瘤登记是制定肿瘤防控政策、评价防控效果的基础性工作。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "癌症是威胁中国人民健康的主要疾病。癌症登记是制定和评估癌症防控政策的基础工作。"
+  },
+  {
+    "index": 196,
+    "source": "Cancer registry in China started in 1950s. During the last 60 years, a nationwide cancer surveillance and follow-up network has been developed. All cancer registries covered about 31.51% population of the national population in 2017.",
+    "reference": "中国肿瘤登记工作起步于20世纪50年代，经过近60年的发展，至今已初步建成覆盖全国的肿瘤登记及监测随访网络，登记地区覆盖人口占2017年全国人口数的31.51%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国的癌症登记始于20世纪50年代。在过去的60年里，已经建立了一个全国性的癌症监测和随访网络。截至2017年，所有癌症登记点覆盖了全国约31.51%的人口。"
+  },
+  {
+    "index": 197,
+    "source": "However, there are still some problems in the present work in the aspects of the number and distribution of cancer registries, the depth and width of registry data, the timeliness and accessibility of registry data.",
+    "reference": "然而，中国肿瘤登记工作在登记处数量及分布、登记数据的深度和广度、登记数据时效性和可获得性等方面仍存在不足。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，当前的工作在癌症登记处的数量和分布、登记数据的深度和广度、以及登记数据的及时性和可访问性等方面仍存在一些问题。"
+  },
+  {
+    "index": 198,
+    "source": "The advent of the big data and informatization era provides a clear direction for the future of cancer registry.",
+    "reference": "大数据时代的来临为肿瘤登记工作的发展指明方向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "大数据与信息化时代的到来为癌症登记的未来提供了明确的方向。"
+  },
+  {
+    "index": 199,
+    "source": "In the next decade, standardizing cancer registry workflow, constructing cancer big data, improving data sharing mechanism and realizing real-time reporting, dynamic monitoring and multi-dimensional presenting of cancer registry data using latest information technologies will be the core methods to solve the problems we are facing now.",
+    "reference": "未来几年内，依托现代信息化技术，规范肿瘤登记工作的流程，制定肿瘤登记数据标准规范，推进恶性肿瘤大数据的资源建设，完善多源数据信息共享机制，实现肿瘤登记数据的实时上报、动态监测和多维呈现，是解决传统监测手段问题的核心和关键。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在接下来的十年中，标准化癌症登记工作流程、构建癌症大数据、完善数据共享机制，并利用最新信息技术实现癌症登记数据的实时报告、动态监测和多维度展示，将是解决当前面临问题的核心方法。"
+  },
+  {
+    "index": 200,
+    "source": "Autoimmune liver disease is a group of hepatobiliary injuries mediated by abnormal immunity. It mainly includes autoimmune hepatitis, primary biliary cholangitis and primary sclerosing cholangitis.",
+    "reference": "自身免疫性肝病是一组因异常免疫介导的肝胆损伤，其主要包括自身免疫性肝炎、原发性胆汁性胆管炎以及原发性硬化性胆管炎等。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "自身免疫性肝病是一组由异常免疫介导的肝胆损伤，主要包括自身免疫性肝炎、原发性胆汁性胆管炎和原发性硬化性胆管炎。"
+  },
+  {
+    "index": 201,
+    "source": "Recently, an advancement of diagnostic technology has improved the detection and treatment of autoimmune hepatitis.",
+    "reference": "近年来,由于诊疗技术的进步，自身免疫性肝病的检出率大大提高。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最近，诊断技术的进步提高了自身免疫性肝炎的检测和治疗水平。"
+  },
+  {
+    "index": 202,
+    "source": "However, it is easy to be confused with other liver diseases. Thus, the standardization of diagnosis and treatment of autoimmune liver diseases has become a main concern.",
+    "reference": "与此同时，易与其他肝脏疾病混淆又使得自身免疫性肝病诊治的规范性成为当务之急。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，它很容易与其他肝脏疾病混淆。因此，自身免疫性肝病的诊断和治疗标准化已成为一个主要关注点。"
+  },
+  {
+    "index": 203,
+    "source": "Moreover, new progress has been made in basic research and clinical treatment of autoimmune liver diseases since 2018.",
+    "reference": "2018年,自身免疫性肝病在基础研究和临床治疗方面皆有新进展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，自2018年以来，自身免疫性肝病的基础研究和临床治疗取得了新的进展。"
+  },
+  {
+    "index": 204,
+    "source": "Artificial intelligence clinical decision-support system is an important direction of artificial intelligence in the medical field. Both international and domestic researchers are exploring the application value of intelligent decision-making system in the field of cancer.",
+    "reference": "智能决策系统是人工智能在医疗领域重要的发展方向，不论是国际还是国内均有研究探索智能决策系统在肿瘤领域的应用价值。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人工智能临床决策支持系统是人工智能在医疗领域的重要方向。国内外研究人员都在探索智能决策系统在癌症领域的应用价值。"
+  },
+  {
+    "index": 205,
+    "source": "But at the same time of the craze, there are still some problems in the intelligent decision-making system.",
+    "reference": "在掀起热潮的同时，智能决策系统仍有一些问题亟待解决。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但在热潮的同时，智能决策系统仍存在一些问题。"
+  },
+  {
+    "index": 206,
+    "source": "Combining the work of the research groups in this field, this paper explores the current confusions and solutions, and hopes to help clinicians better understand intelligent decision-making.",
+    "reference": "本文旨在探讨目前智能决策发展的困惑与出路，期望可以帮助临床医师更好地认识智能决策。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文结合该领域研究团队的工作，探讨了当前的困惑与解决方案，并期望能帮助临床医生更好地理解智能决策。"
+  },
+  {
+    "index": 207,
+    "source": "It is believed that with the deepening of the concept and the advancement of technology, intelligent decision-making will become a good help for doctors in the future.",
+    "reference": "相信随着理念的深入和技术的进步，智能决策定会成为未来医师实施诊疗的良好助力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人们相信，随着理念的深化和技术的进步，智能决策将成为未来医生的得力助手。"
+  },
+  {
+    "index": 208,
+    "source": "Trichoderma reesei Rut-C30 is widely used in industrial cellulase production, and development of cellulase hyper-producer is of great importance for economic lignocellulosic biorefinery.",
+    "reference": "里氏木霉Trichoderma reesei Rut-C30 是目前研究最广泛的纤维素酶生产菌，选育高产纤维素酶的里氏木霉菌株有助于提高木质纤维素资源生物炼制的经济性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "里氏木霉Rut-C30被广泛应用于工业纤维素酶的生产中，而纤维素酶高产菌株的开发对于经济型木质纤维素生物精炼具有重要意义。"
+  },
+  {
+    "index": 209,
+    "source": "In this study, T. reesei Rut-C30 was engineered with an artificial zinc finger proteins (AZFPs) library. Two mutants T. reesei M1 and M2 with improved cellulase production were obtained. Compared to the parent strain, the filter paper activity (FPase) of T. reesei M1 and M2 increased 100% and 53%, respectively. In addition, the total amount of extracellular protein from the M1 mutant increased 69%, whereas the endo-β-glucanase (CMCase) activity of the M2 mutant is 64% higher compared to the parental strain.",
+    "reference": "利用人工锌指蛋白文库转化T. reesei Rut-C30，筛选获得了两株高产纤维素酶的突变株T. reesei M1 和M2，与出发菌株比较，突变株M1 和M2 滤纸酶活分别提高100%和53%，且M1 突变株外泌蛋白量提高69%，M2 内切纤维素酶活提高64%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在本研究中，利用人工锌指蛋白（AZFPs）文库对里氏木霉Rut-C30进行了工程改造。获得了两个纤维素酶产量提高的突变体里氏木霉M1和M2。与亲本菌株相比，里氏木霉M1和M2的滤纸酶活（FPase）分别提高了100%和53%。此外，M1突变体的胞外蛋白总量增加了69%，而M2突变体的内切-β-葡聚糖酶（CMCase）活性比亲本菌株高64%。"
+  },
+  {
+    "index": 210,
+    "source": "Furthermore, RT-qPCR analysis showed that the major cellulase genes exhibited significantly increased expression in both mutants, but different patterns were observed in the two mutants.",
+    "reference": "实时定量PCR 分析结果表明，与对照菌株相比，突变株M1 和M2 中主要纤维素酶基因转录均上调，但不同酶基因在两株菌中有不同的变化特征。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，RT-qPCR分析显示，主要纤维素酶基因在两种突变体中均表现出显著增加的表达，但在两种突变体中观察到了不同的模式。"
+  },
+  {
+    "index": 211,
+    "source": "On the other hand, the cellulase transcriptional repressor ace1 was down-regulated in both mutants, but the transcription level of the activator xyr1 was only up-regulated in the strain M1.",
+    "reference": "此外，纤维素酶抑制转录因子基因ace1 在两株突变株中都转录下调，而纤维素酶正调控转录因子基因xyr1 仅在M1 突变株中上调。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "另一方面，纤维素酶转录抑制因子ace1在两个突变体中均下调，而激活因子xyr1的转录水平仅在M1菌株中上调。"
+  },
+  {
+    "index": 212,
+    "source": "These results demonstrated that different AZFPs exert diverse regulatory mechanisms on cellulase production in T. reesei.",
+    "reference": "以上结果表明，不同人工锌指蛋白对纤维素酶活性的影响具有多样性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些结果表明，不同的AZFPs对里氏木霉中纤维素酶的产生具有多样的调控机制。"
+  },
+  {
+    "index": 213,
+    "source": "Analysis of the target genes of AZFPs from T. reesei M1 and M2 will not only benefit further exploration of the regulatory mechanisms of cellulase biosynthesis in T. reesei, but also enable development of cellulase hyper-producing strains by metabolic engineering.",
+    "reference": "对这些突变体中人工锌指蛋白靶基因进行深入分析，为进一步深入探究里氏木霉纤维素酶合成调控的机理，以及利用代谢工程选育更高效的产酶菌株提供了基础。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对里氏木霉M1和M2中AZFPs靶基因的分析，不仅有助于进一步探索里氏木霉中纤维素酶生物合成的调控机制，还能通过代谢工程开发高产纤维素酶的菌株。"
+  },
+  {
+    "index": 214,
+    "source": "Monoclonal antibodies have become the main type of antibody drug because of their high specificity and strong affinity to antigen.",
+    "reference": "单克隆抗体因其与抗原结合具有高度特异性与强亲和力，已成为抗体药物研发的主要类型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "单克隆抗体因其高特异性和对抗原的强亲和力，已成为抗体药物的主要类型。"
+  },
+  {
+    "index": 215,
+    "source": "However, with the intensive study of the natural monoclonal antibody, many defects have faced, such as the limit times of binding to antigen, the unanticipated antibody clearance and antigen accumulation.",
+    "reference": "但随着天然单克隆抗体的深入研究，它的诸多缺陷也浮出水面，如与抗原结合次数有限、带来非预期的抗体清除效应和抗原累积效应。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，随着对天然单克隆抗体的深入研究，许多缺陷逐渐显现，例如与抗原结合次数的限制、意料之外的抗体清除以及抗原的积累等问题。"
+  },
+  {
+    "index": 216,
+    "source": "Therefore, studies are no longer limited to the natural antibody screening, but rather to improve the efficiency of antibody drugs by engineering.",
+    "reference": "人们不再局限于天然抗体的筛选，而是想通过改造提升抗体药物的药效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，研究不再局限于天然抗体的筛选，而是通过工程手段提高抗体药物的效率。"
+  },
+  {
+    "index": 217,
+    "source": "In recent years, the bottlenecks in the development of conventional antibody have been solved effectively since the discovery of a novel recycling antibody.",
+    "reference": "近年来，一类新型再循环抗体的问世，很好地解决了天然单克隆抗体发展的瓶颈。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "近年来，随着一种新型循环抗体的发现，传统抗体发展中的瓶颈问题得到了有效解决。"
+  },
+  {
+    "index": 218,
+    "source": "Recycling antibody binds to an antigen in plasma and dissociates from the antigen in endosome, thus maximizing the use of antibody and reducing antigen-mediated antibody clearance and antibody-mediated antigen accumulation. In addition, recycling antibodies can enhance the affinity with Fc receptors through further Fc modification.",
+    "reference": "再循环抗体可以在胞外结合抗原，在细胞内与抗原解离，使抗体结合抗原次数最大化，减少抗原介导的抗体清除效应和抗体介导的抗原累积效应，并且再循环抗体可以通过进一步的Fc 改造来加强与Fc 受体的亲和力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "循环抗体在血浆中与抗原结合，并在内体中与抗原解离，从而最大化抗体的利用，减少抗原介导的抗体清除和抗体介导的抗原积累。此外，循环抗体可以通过进一步的Fc修饰增强与Fc受体的亲和力。"
+  },
+  {
+    "index": 219,
+    "source": "This paper reviews the research progress of circulating antibodies, including its characteristics, transformation methods and prospects.",
+    "reference": "文中综述了再循环抗体的研究进展，包括其特点、改造方法及展望。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文综述了循环抗体的研究进展，包括其特性、转化方法及前景。"
+  },
+  {
+    "index": 220,
+    "source": "DNA methylation is an important type of epigenetic modification in eukaryotes.",
+    "reference": "DNA 甲基化是真核生物一种重要的表观修饰形式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "DNA甲基化是真核生物中一种重要的表观遗传修饰。"
+  },
+  {
+    "index": 221,
+    "source": "In order to research genome-wide methylation levels and patterns in foxtail millet (Setaria italica), the Methylation Sensitive Amplified Polymorphism (MSAP) analysis (employing double digestion with EcoR I and Hpa II/Msp I) was established and applied in two foxtail millet cultivars (Chaogu 58 and Yugu 1).",
+    "reference": "为了探讨谷子基因组DNA 胞嘧啶甲基化的水平和模式，以谷子 Setaria italica 的两个品种朝谷 58 号和豫谷 1 号为实验材料，利用 EcoRⅠ和 HpaⅡ/MspⅠ双酶切建立适合于谷子基因组的甲基化敏感扩增多态性 (MSAP) 分析体系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了研究谷子（Setaria italica）全基因组甲基化水平和模式，建立了甲基化敏感扩增多态性（MSAP）分析方法（采用EcoR I和Hpa II/Msp I双酶切），并在两个谷子品种（超谷58和豫谷1）中进行了应用。"
+  },
+  {
+    "index": 222,
+    "source": "The results showed that 32 pairs of MSAP primers were selected from 100 MSAP primers, and 1 615 and 1 482 clearly distinguishable and reproducible bands were amplified from Chaogu 58 and Yugu 1 respectively, including 3 types of methylation patterns. Cytosine methylation levels of CCGG context in Chaogu 58 and Yugu 1 were characterized as 6.93% and 8.77% respectively.",
+    "reference": "结果表明，从100 对MSAP 选扩引物中，筛选出32 对MSAP 引物组合，在朝谷58 号和豫谷1 号中分别扩增产生1 615、1 482 条清晰可辨且可重复的DNA 条带，其中包括3 种类型的甲基化条带，朝谷58 号和豫谷1 号的基因组中CCGG序列胞嘧啶甲基化水平分别为6.93%和8.77%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果显示，从100对MSAP引物中筛选出32对，分别在超谷58和豫谷1中扩增出1615条和1482条清晰可辨且可重复的条带，包括3种甲基化模式。超谷58和豫谷1中CCGG序列的胞嘧啶甲基化水平分别为6.93%和8.77%。"
+  },
+  {
+    "index": 223,
+    "source": "Such different genomic DNA methylation levels between two foxtail millet varieties may provide a preliminary reference for the cultivation of this crop from a novel epigenetic viewpoint.",
+    "reference": "这种谷子不同品种间甲基化水平和分布位点的差异为从表观遗传学的角度培育新品种提供了初步的理论依据和参考。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "两种谷子品种间基因组DNA甲基化水平的显著差异，可能为从新的表观遗传学角度培育该作物提供了初步参考。"
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "index": 0,
+    "source": "发明的是一个伟大的科学家。",
+    "reference": "A great scientist invented it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The inventor is a great scientist."
+  },
+  {
+    "index": 1,
+    "source": "发明的是一个机器人。",
+    "reference": "A robot was invented.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was a robot that was invented."
+  },
+  {
+    "index": 2,
+    "source": "关心的是高的分数。",
+    "reference": "High scores was cared about.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The concern is about achieving high scores."
+  },
+  {
+    "index": 3,
+    "source": "关心的是关心你的，但是你却不关心的人。",
+    "reference": "The people who care for you but you don't care for care for you.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who truly care are the ones concerned about you, yet you pay them no mind."
+  },
+  {
+    "index": 4,
+    "source": "批评的是犯了错误的学生。",
+    "reference": "The student who made the mistake was criticized.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the students who made mistakes that are being criticized."
+  },
+  {
+    "index": 5,
+    "source": "批评的是治学严厉的教师。",
+    "reference": "The one who criticizes is the rigorous teacher .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones being criticized are the teachers who are strict in their scholarship."
+  },
+  {
+    "index": 6,
+    "source": "正在采收的是果园里的果实。",
+    "reference": "What is being harvested is the fruit in the orchard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The fruits in the orchard are being harvested."
+  },
+  {
+    "index": 7,
+    "source": "正在采收的是果园里的果农。",
+    "reference": "The orchard worker in the orchard is harvesting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones harvesting are the orchard farmers."
+  },
+  {
+    "index": 8,
+    "source": "正在手术的是健康的医生。",
+    "reference": "A healthy doctor is doing surgery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The healthy doctor is performing the surgery."
+  },
+  {
+    "index": 9,
+    "source": "正在手术的是生命垂危的病人。",
+    "reference": "What is undergoing surgery is a patient whose life is dying.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The patient undergoing surgery is in critical condition."
+  },
+  {
+    "index": 10,
+    "source": "正在教授的是知识。",
+    "reference": "What is taught is knowledge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being taught is knowledge."
+  },
+  {
+    "index": 11,
+    "source": "正在教授的是正教授。",
+    "reference": "A professor is teaching.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who is teaching is a full professor."
+  },
+  {
+    "index": 12,
+    "source": "正在执行的是法律。",
+    "reference": "What is implemented is the law.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being enforced is the law."
+  },
+  {
+    "index": 13,
+    "source": "正在执行的是法警。",
+    "reference": "The bailiff is implementing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the bailiffs who are performing the duties."
+  },
+  {
+    "index": 14,
+    "source": "正在收割的是农田里的稻谷。",
+    "reference": "What is being harvested is the rice in the farmland.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being harvested is the rice in the fields."
+  },
+  {
+    "index": 15,
+    "source": "正在收割的是农民的孩子。",
+    "reference": "The farmer's child is harvesting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one harvesting is the farmer's child."
+  },
+  {
+    "index": 16,
+    "source": "正在管理的是机房。",
+    "reference": "What is being managed is the computer room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being managed is the computer room."
+  },
+  {
+    "index": 17,
+    "source": "正在管理的是学校专门的管理员。",
+    "reference": "The school's dedicated administrator is managing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person currently managing is the school's dedicated administrator."
+  },
+  {
+    "index": 18,
+    "source": "捕获的是猎物。",
+    "reference": "The prey is hunted.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is captured is prey."
+  },
+  {
+    "index": 19,
+    "source": "捕获的是猎人。",
+    "reference": "The hunter is hunting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who captures is the hunter."
+  },
+  {
+    "index": 20,
+    "source": "敲打的是鼓。",
+    "reference": "What is beaten is the drum.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the drum that is being beaten."
+  },
+  {
+    "index": 21,
+    "source": "敲打的是已经在击鼓行业工作了数十年的鼓手。",
+    "reference": "The drummer who have been working in the drumming industry for decades is beating.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one beating the drum is a drummer who has been working in the drumming industry for decades."
+  },
+  {
+    "index": 22,
+    "source": "扮演的是一头龙。",
+    "reference": "What is acted is a dragon.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The role being portrayed is a dragon."
+  },
+  {
+    "index": 23,
+    "source": "扮演的是李连杰。",
+    "reference": "The role is played by Lianjie Li.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Played by Jet Li."
+  },
+  {
+    "index": 24,
+    "source": "研究的是企业文化。",
+    "reference": "The corporate culture is studied.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The research focuses on corporate culture."
+  },
+  {
+    "index": 25,
+    "source": "研究的是企业科研人员。",
+    "reference": "The corporate researchers is studying.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The study focuses on corporate research personnel."
+  },
+  {
+    "index": 26,
+    "source": "飞跃的是峡谷。",
+    "reference": "What was leaped is the canyon.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the canyon that is being flown over."
+  },
+  {
+    "index": 27,
+    "source": "飞跃的专业运动员。",
+    "reference": "The professional athletes is leaping.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Soaring professional athlete."
+  },
+  {
+    "index": 28,
+    "source": "发现的是一个新的古文明。",
+    "reference": "What is Discovered is a new civilizations.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What has been discovered is a new ancient civilization."
+  },
+  {
+    "index": 29,
+    "source": "发现的是一个考古教授。",
+    "reference": "A archaeological professor discovered it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What was discovered is an archaeology professor."
+  },
+  {
+    "index": 30,
+    "source": "调研乡镇的经济发展情况。",
+    "reference": "The economic development of townships is investigated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Investigate the economic development of townships."
+  },
+  {
+    "index": 31,
+    "source": "调研乡镇的经济学教授。",
+    "reference": "The economics professor who investigates townships.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Economics professors conducting research on townships."
+  },
+  {
+    "index": 32,
+    "source": "记录实验的表格。",
+    "reference": "The form which is used to record the experiment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Experiment record table"
+  },
+  {
+    "index": 33,
+    "source": "记录实验的结果。",
+    "reference": "The results of the experiment is recorded.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Record the experimental results."
+  },
+  {
+    "index": 34,
+    "source": "吃了游客的鳄鱼。",
+    "reference": "The crocodile who ate the tourists.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The crocodile that ate the tourists."
+  },
+  {
+    "index": 35,
+    "source": "吃了游客的猫。",
+    "reference": "The tourist's cat was eaten.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The cat that ate the tourists."
+  },
+  {
+    "index": 36,
+    "source": "丢了他家的可爱的狗。",
+    "reference": "The cute dog of his home has been thrown.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They lost their adorable dog."
+  },
+  {
+    "index": 37,
+    "source": "咬了他家人的野狗。",
+    "reference": "The wild dog who bit his family.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The wild dog that bit his family members."
+  },
+  {
+    "index": 38,
+    "source": "挖西瓜的勺子。",
+    "reference": "The spoon which is used to dig the watermelon.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "watermelon scoop"
+  },
+  {
+    "index": 39,
+    "source": "削西瓜的皮。",
+    "reference": "The skin of the The watermelon is cut.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Peel the watermelon rind."
+  },
+  {
+    "index": 40,
+    "source": "维修桌子的桌脚。",
+    "reference": "The table legs are repaired.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Repair the legs of the table."
+  },
+  {
+    "index": 41,
+    "source": "维修桌子的锤子。",
+    "reference": "The hammer which is used to repair the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "the hammer for repairing the table"
+  },
+  {
+    "index": 42,
+    "source": "游览他国的总统。",
+    "reference": "The president who visited other countries.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The president touring a foreign country."
+  },
+  {
+    "index": 43,
+    "source": "游览他国的景点。",
+    "reference": "Visited the attractions of other countries.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Visit tourist attractions in foreign countries."
+  },
+  {
+    "index": 44,
+    "source": "搜索程序的程序员。",
+    "reference": "A programmer who searches for programs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Programmers who search for programs."
+  },
+  {
+    "index": 45,
+    "source": "搜索程序的代码。",
+    "reference": "What is searched is the code of the program.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Search for the program's code."
+  },
+  {
+    "index": 46,
+    "source": "三条河里的石头。",
+    "reference": "Stones in three rivers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The stones in the three rivers."
+  },
+  {
+    "index": 47,
+    "source": "三块河里的石头。",
+    "reference": "Three stones in the river",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "three stones in the river"
+  },
+  {
+    "index": 48,
+    "source": "两匹草地上的马。",
+    "reference": "Two horses on the grass.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Two horses on the grassland."
+  },
+  {
+    "index": 49,
+    "source": "两片草地上的马。",
+    "reference": "Horses on two grasses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Horses on two meadows."
+  },
+  {
+    "index": 50,
+    "source": "三节玩具车的电池。",
+    "reference": "Three batteries of the toy car.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "three toy car batteries"
+  },
+  {
+    "index": 51,
+    "source": "三辆玩具车的电池。",
+    "reference": "The batteries of three toy cars.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Batteries of three toy cars"
+  },
+  {
+    "index": 52,
+    "source": "四架桌上的照相机。",
+    "reference": "Four cameras on the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Four cameras on the table."
+  },
+  {
+    "index": 53,
+    "source": "四张桌上的照相机。",
+    "reference": "The cameras on four tables.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Cameras on the four tables."
+  },
+  {
+    "index": 54,
+    "source": "两把厨房里的菜刀。",
+    "reference": "Two kitchen knives in the kitchen.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Two kitchen knives in the kitchen."
+  },
+  {
+    "index": 55,
+    "source": "两处厨房里的菜刀。",
+    "reference": "The kitchen knives in two kitchens.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The kitchen knives in two kitchens."
+  },
+  {
+    "index": 56,
+    "source": "四篇报纸上的文章。",
+    "reference": "Four articles in the newspaper.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Four articles in the newspaper."
+  },
+  {
+    "index": 57,
+    "source": "四张报纸上的文章。",
+    "reference": "The Articles in four newspapers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Articles from four newspapers."
+  },
+  {
+    "index": 58,
+    "source": "参观了千年古建筑。",
+    "reference": "Visited two thousand years' ancient building.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Visited the thousand-year-old ancient architecture."
+  },
+  {
+    "index": 59,
+    "source": "参观了五小时古建筑。",
+    "reference": "Visited the ancient building for five hours.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Visited ancient buildings for five hours."
+  },
+  {
+    "index": 60,
+    "source": "挑选了十分钟木头。",
+    "reference": "Pick a wood for ten minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Spent ten minutes selecting wood."
+  },
+  {
+    "index": 61,
+    "source": "挑选了千年木头。",
+    "reference": "Pick a wood of thousand years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Selected millennium-old wood."
+  },
+  {
+    "index": 62,
+    "source": "扮演了两分钟角色。",
+    "reference": "Played a role for two minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Played a role for two minutes."
+  },
+  {
+    "index": 63,
+    "source": "扮演了500年前人物。",
+    "reference": "Played the character  who lived in 500 years ago.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Portrayed a character from 500 years ago."
+  },
+  {
+    "index": 64,
+    "source": "连续写了5份会议报告书。",
+    "reference": "Five conference reports were written in succession.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Wrote five consecutive meeting reports."
+  },
+  {
+    "index": 65,
+    "source": "连续写了5小时会议报告书。",
+    "reference": "The coference report was written for 5 hours in succession.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Spent five consecutive hours writing the meeting report."
+  },
+  {
+    "index": 66,
+    "source": "讲了2小时历史。",
+    "reference": "Talking about history for 2 hours.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Gave a two-hour history lecture."
+  },
+  {
+    "index": 67,
+    "source": "讲了1百年历史。",
+    "reference": "Talking about a hunderd years' history.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It covers a century of history."
+  },
+  {
+    "index": 68,
+    "source": "画了6分钟画。",
+    "reference": "Drew a painting for six minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Spent 6 minutes drawing."
+  },
+  {
+    "index": 69,
+    "source": "画了6幅画。",
+    "reference": "Drew six paintings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Drew six paintings."
+  },
+  {
+    "index": 70,
+    "source": "做了5张试卷。",
+    "reference": "Did five papers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Completed 5 exam papers."
+  },
+  {
+    "index": 71,
+    "source": "做了5分钟试卷。",
+    "reference": "Did the paper for five minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Worked on the test for 5 minutes."
+  },
+  {
+    "index": 72,
+    "source": "销售快速的商品。",
+    "reference": "The goods that sells rapidly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Quick-selling products."
+  },
+  {
+    "index": 73,
+    "source": "销售昂贵的商品。",
+    "reference": "Selling expensive goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sell expensive products."
+  },
+  {
+    "index": 74,
+    "source": "修建快速的建筑。",
+    "reference": "Building a building quickly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Construct buildings rapidly."
+  },
+  {
+    "index": 75,
+    "source": "修建巨大的建筑。",
+    "reference": "Building a huge building.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Construct massive buildings."
+  },
+  {
+    "index": 76,
+    "source": "探查无人的地区。",
+    "reference": "Explore unmanned areas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Explore the uninhabited area."
+  },
+  {
+    "index": 77,
+    "source": "探查明白的地区。",
+    "reference": "The areas has been explored clearly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "the thoroughly explored area"
+  },
+  {
+    "index": 78,
+    "source": "观看精彩的电影。",
+    "reference": "Watch a great movie.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Watch wonderful movies."
+  },
+  {
+    "index": 79,
+    "source": "观看舒服的电影。",
+    "reference": "feeling comfortable when watching the movie.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Watch a comfortable movie."
+  },
+  {
+    "index": 80,
+    "source": "采购顺利的产品。",
+    "reference": "The product that is purchased successfully.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Products that are easy to procure."
+  },
+  {
+    "index": 81,
+    "source": "采购易碎的产品。",
+    "reference": "Purchasing fragile products.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Procurement of fragile products."
+  },
+  {
+    "index": 82,
+    "source": "研究困难的问题。",
+    "reference": "Study difficult problems.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Study difficult problems."
+  },
+  {
+    "index": 83,
+    "source": "研究清楚的问题。",
+    "reference": "The question is studied clearly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A problem that has been thoroughly researched."
+  },
+  {
+    "index": 84,
+    "source": "操纵方便的机器。",
+    "reference": "The machine that is manipulated conveniently.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Easy-to-operate machine"
+  },
+  {
+    "index": 85,
+    "source": "操纵重要的机器。",
+    "reference": "Manipulate important machines.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Operate important machinery."
+  },
+  {
+    "index": 86,
+    "source": "囚禁凶狠的罪犯。",
+    "reference": "Imprison a fierce criminal.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Imprison the violent criminals."
+  },
+  {
+    "index": 87,
+    "source": "囚禁严密的罪犯。",
+    "reference": "The criminal has been imprisoned tightly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The criminal is securely imprisoned."
+  },
+  {
+    "index": 88,
+    "source": "交老师作业本。",
+    "reference": "Hand homework to teacher.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hand in the homework notebook to the teacher."
+  },
+  {
+    "index": 89,
+    "source": "交红色作业本。",
+    "reference": "Hand in the red homework.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hand in the red exercise books."
+  },
+  {
+    "index": 90,
+    "source": "捐赠图书馆图书。",
+    "reference": "Donate books to library.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Donate books to the library."
+  },
+  {
+    "index": 91,
+    "source": "捐赠国外图书。",
+    "reference": "Donate foreign books.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Donate foreign books."
+  },
+  {
+    "index": 92,
+    "source": "送过生日的领导礼物。",
+    "reference": "Send a gift to the leader on his  birthday.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Presenting a birthday gift to the leader."
+  },
+  {
+    "index": 93,
+    "source": "送生日礼物。",
+    "reference": "Send a birthday gift.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Give a birthday gift."
+  },
+  {
+    "index": 94,
+    "source": "毯子和凳子的腿都坏了。",
+    "reference": "The blanket and the legs of the stool were broken.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The legs of both the blanket and the stool are broken."
+  },
+  {
+    "index": 95,
+    "source": "他的衣服的袖子和拐杖都脏了。",
+    "reference": "The sleeves of his clothes and crutches are dirty.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The sleeves of his clothes and his cane are both dirty."
+  },
+  {
+    "index": 96,
+    "source": "电脑的屏幕和椅子需要摆放整齐。",
+    "reference": "The mainframe of the computer and chair  need to be neatly arranged.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The computer screen and chair need to be arranged neatly."
+  },
+  {
+    "index": 97,
+    "source": "桌子上的电脑和沙发都要扔掉。",
+    "reference": "The computer on the table and the sofa  should be thrown away.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Both the computer on the table and the sofa need to be thrown away."
+  },
+  {
+    "index": 98,
+    "source": "在这个商场工作的保安人员和警察在大楼外面交流。",
+    "reference": "Security guards working in the mall and police communicate outside the building.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Security guards working at this mall and police officers are communicating outside the building."
+  },
+  {
+    "index": 99,
+    "source": "在空中的小鸟和鱼都是他的捕猎对象。",
+    "reference": "The birds in the air and fish  are his hunting objects.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Both the small birds in the air and the fish are his prey."
+  },
+  {
+    "index": 100,
+    "source": "收获的是勤劳的农夫。",
+    "reference": "It's the hardworking farmer that harvest.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The diligent farmer reaps the harvest."
+  },
+  {
+    "index": 101,
+    "source": "收获的是可口的果实。",
+    "reference": "What is harvested is delicious fruit.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is harvested is delicious fruit."
+  },
+  {
+    "index": 102,
+    "source": "创造的是一个科学家。",
+    "reference": "It is a scientist that create.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is created is a scientist."
+  },
+  {
+    "index": 103,
+    "source": "创造的是一个机器人。",
+    "reference": "What is created is a robot.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What has been created is a robot."
+  },
+  {
+    "index": 104,
+    "source": "严厉打击的是偷窃行为。",
+    "reference": "What is severely attacked is theft.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is theft that is being severely cracked down on."
+  },
+  {
+    "index": 105,
+    "source": "严厉打击的是久经训练的特警。",
+    "reference": "It is the well-trained special police that attack severely.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones being severely cracked down upon are the well-trained special police officers."
+  },
+  {
+    "index": 106,
+    "source": "调查的是这桩贪污腐败案件。",
+    "reference": "The investigation was about this corruption case.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being investigated is this corruption case."
+  },
+  {
+    "index": 107,
+    "source": "调查的是这桩案件中贪污的人员。",
+    "reference": "The investigation was conducted on the corrupted personnel in this case.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The investigation targets the personnel involved in corruption in this case."
+  },
+  {
+    "index": 108,
+    "source": "错失的是这次难得的机会。",
+    "reference": "What is missed is this rare opportunity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What was missed is this rare opportunity."
+  },
+  {
+    "index": 109,
+    "source": "错失的是等待机会很久的运动员们。",
+    "reference": "Tt's the athletes who have waited for a long time that miss.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who missed out were the athletes who had long awaited the opportunity."
+  },
+  {
+    "index": 110,
+    "source": "表演的是来自省里的一线演员。",
+    "reference": "The performance Is given by the A-list actors in the province.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The performance features frontline actors from the provincial level."
+  },
+  {
+    "index": 111,
+    "source": "表演的是西游记里的孙悟空。",
+    "reference": "The performance is about the Monkey King in the Journey to the West.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The performance features Sun Wukong from Journey to the West."
+  },
+  {
+    "index": 112,
+    "source": "推出的是一款跨时代的手机。",
+    "reference": "What is introduced is an inter-generational mobile phone.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They have launched an epoch-making smartphone."
+  },
+  {
+    "index": 113,
+    "source": "推出的是一家伟大的公司。",
+    "reference": "It is a great company that launch it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What was launched is a great company."
+  },
+  {
+    "index": 114,
+    "source": "科研的是一线的科学家。",
+    "reference": "It is the frontline scientist that do scientific research.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Scientific research is conducted by frontline scientists."
+  },
+  {
+    "index": 115,
+    "source": "科研的是国际上的新兴领域。",
+    "reference": "What is researched is an emerging field in the world.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The field of scientific research is an emerging area internationally."
+  },
+  {
+    "index": 116,
+    "source": "研究的是国际知名数学难题。",
+    "reference": "What is studied is an internationally renowned mathematical problem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The research focuses on internationally renowned mathematical problems."
+  },
+  {
+    "index": 117,
+    "source": "研究的是专攻数学题的国际知名数学家。",
+    "reference": "It is the internationally renowned mathematician specializing in math problems that study.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The research focuses on an internationally renowned mathematician who specializes in mathematical problems."
+  },
+  {
+    "index": 118,
+    "source": "解出的是五道国际知名数学难题。",
+    "reference": "What is solved is five internationally renowned mathematical problems.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What have been solved are five internationally renowned mathematical problems."
+  },
+  {
+    "index": 119,
+    "source": "解出来的是五位国际知名数学家。",
+    "reference": "It's the five internationally renowned mathematicians that solve it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The solution was derived by five internationally renowned mathematicians."
+  },
+  {
+    "index": 120,
+    "source": "杀了房东的猫。",
+    "reference": "Killed the landlord's cat.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Killed the landlord's cat."
+  },
+  {
+    "index": 121,
+    "source": "杀了房东的杀手。",
+    "reference": "The killer killed the landlord.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The killer who killed the landlord."
+  },
+  {
+    "index": 122,
+    "source": "装修房子的工作室人员。",
+    "reference": "The studio staff who renovated the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Studio staff specializing in house renovation."
+  },
+  {
+    "index": 123,
+    "source": "装修房子的工作室房间。",
+    "reference": "Renovating the studio room of the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Renovate the studio room in the house."
+  },
+  {
+    "index": 124,
+    "source": "研究代码的整体架构。",
+    "reference": "Study the overall architecture of the code.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Study the overall architecture of the code."
+  },
+  {
+    "index": 125,
+    "source": "研究代码的整体架构师。",
+    "reference": "The general architect who research the code.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "An architect researching the overall architecture of the code."
+  },
+  {
+    "index": 126,
+    "source": "参观大皇宫的内部构造。",
+    "reference": "Visit the internal structure of the Grand Palace.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Explore the interior structure of the Grand Palace."
+  },
+  {
+    "index": 127,
+    "source": "参观大皇宫的内部人员。",
+    "reference": "The internal personnel who visit the Grand Palace.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Internal personnel visiting the Grand Palace."
+  },
+  {
+    "index": 128,
+    "source": "制裁伊朗的经济。",
+    "reference": "Sanction the Iranian economy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Impose economic sanctions on Iran."
+  },
+  {
+    "index": 129,
+    "source": "制裁伊朗的经济大国。",
+    "reference": "The economic power who sanction Iran.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Economic powers imposing sanctions on Iran."
+  },
+  {
+    "index": 130,
+    "source": "发展国家的经济水平。",
+    "reference": "Develop the economic level of the country.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Develop the country's economic level."
+  },
+  {
+    "index": 131,
+    "source": "发展国家的经济学专家。",
+    "reference": "The economic experts who develop the country.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Economics experts dedicated to national development"
+  },
+  {
+    "index": 132,
+    "source": "打击经济犯罪的团伙。",
+    "reference": "Combat the gangs of economic crimes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Crack down on criminal gangs involved in economic crimes."
+  },
+  {
+    "index": 133,
+    "source": "打击经济犯罪的警察。",
+    "reference": "The police who combat economic crimes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Police officers who combat economic crimes."
+  },
+  {
+    "index": 134,
+    "source": "调查重大案件的嫌疑人。",
+    "reference": "Investigate suspects in major cases.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Investigate suspects in major cases."
+  },
+  {
+    "index": 135,
+    "source": "调查重大案件嫌疑人的刑警。",
+    "reference": "The criminal police who investigate the suspects in major cases.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A criminal police detective investigating suspects in major cases."
+  },
+  {
+    "index": 136,
+    "source": "喜欢旅游的过程中遇到的旅行家。",
+    "reference": "Love travellers who I met in the process of traveling.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I like the travelers I meet during my journeys."
+  },
+  {
+    "index": 137,
+    "source": "喜欢旅游的过程的旅行家。",
+    "reference": "Travellers who like the process of travel.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A traveler who enjoys the journey of traveling."
+  },
+  {
+    "index": 138,
+    "source": "一件橱柜里的衣服。",
+    "reference": "A piece of clothing in the cupboard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A piece of clothing in the wardrobe."
+  },
+  {
+    "index": 139,
+    "source": "一个橱柜里的衣服。",
+    "reference": "Clothes in a cupboard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Clothes in a wardrobe."
+  },
+  {
+    "index": 140,
+    "source": "三座寺庙里的和尚。",
+    "reference": "The monks in the three temples.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Monks in three temples."
+  },
+  {
+    "index": 141,
+    "source": "三位寺庙里的和尚。",
+    "reference": "Three monks in the temple.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three monks in the temple."
+  },
+  {
+    "index": 142,
+    "source": "四台桌上的电脑。",
+    "reference": "Four computers on the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "four computers on the table"
+  },
+  {
+    "index": 143,
+    "source": "四张桌上的电脑。",
+    "reference": "Computers on the four tables.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The computers on the four tables."
+  },
+  {
+    "index": 144,
+    "source": "五张床上的手机。",
+    "reference": "Phones on five beds.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The phones on the five beds."
+  },
+  {
+    "index": 145,
+    "source": "五只床上的手机。",
+    "reference": "Five phones on the bed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Five mobile phones on the bed."
+  },
+  {
+    "index": 146,
+    "source": "六本杂志上的封面人物。",
+    "reference": "Cover characters on six magazines.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The cover figures featured in six magazines."
+  },
+  {
+    "index": 147,
+    "source": "六位杂志上的封面人物。",
+    "reference": "Six cover characters on the magazine.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Six magazine cover stars."
+  },
+  {
+    "index": 148,
+    "source": "七朵盆栽中的鲜花。",
+    "reference": "Seven flowers in the pot.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Seven fresh flowers in potted plants."
+  },
+  {
+    "index": 149,
+    "source": "七盆盆栽里的鲜花。",
+    "reference": "Flowers in seven pots.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Fresh flowers in seven potted plants"
+  },
+  {
+    "index": 150,
+    "source": "八枚钱包里的硬币。",
+    "reference": "Eight coins in the wallet.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Eight coins in the wallet."
+  },
+  {
+    "index": 151,
+    "source": "八只钱包里的硬币。",
+    "reference": "Coins in eight wallets.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Coins in eight wallets."
+  },
+  {
+    "index": 152,
+    "source": "九位电影中的演员。",
+    "reference": "Nine actors in the movie.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Nine actors in the film."
+  },
+  {
+    "index": 153,
+    "source": "九场电影中的情节。",
+    "reference": "The plots in nine movies.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The plots in nine movies."
+  },
+  {
+    "index": 154,
+    "source": "老师讲了三天的历史。",
+    "reference": "The teacher taught the history for three days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The teacher taught three days' worth of history."
+  },
+  {
+    "index": 155,
+    "source": "老师教了三千年的历史。",
+    "reference": "The teacher taught the history of three thousand years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The teacher taught three thousand years of history."
+  },
+  {
+    "index": 156,
+    "source": "演出了两天的历史剧。",
+    "reference": "Performed a historical drama for 2 days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The historical drama was performed over two days."
+  },
+  {
+    "index": 157,
+    "source": "演出了两千年的历史剧。",
+    "reference": "Performed a historical drama of two thousand years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A historical drama spanning two thousand years was performed."
+  },
+  {
+    "index": 158,
+    "source": "写了三天作业。",
+    "reference": "I wrote assignments for three days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I spent three days doing homework."
+  },
+  {
+    "index": 159,
+    "source": "写了三张作业。",
+    "reference": "I wrote three assignments.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Finished three sheets/pages of homework."
+  },
+  {
+    "index": 160,
+    "source": "卖了十几年车。",
+    "reference": "Sold cars for more than ten years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I have been selling cars for over a decade."
+  },
+  {
+    "index": 161,
+    "source": "卖了辆十几年的车。",
+    "reference": "Sold a car which was used for more than ten years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sold a car that was over a decade old."
+  },
+  {
+    "index": 162,
+    "source": "我看了十几年电影。",
+    "reference": "I have watched movies for more than ten years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I have been watching movies for over a decade."
+  },
+  {
+    "index": 163,
+    "source": "我看了部十几年前的电影。",
+    "reference": "I watched a movie which was played ten years ago.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I watched a movie from over a decade ago."
+  },
+  {
+    "index": 164,
+    "source": "经营了十几年店铺。",
+    "reference": "Has been operating a store for more than ten years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Has been operating a shop for over a decade."
+  },
+  {
+    "index": 165,
+    "source": "经营了家十几年的店铺。",
+    "reference": "I have run a store that has opened for more than ten years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A shop that has been in operation for over a decade."
+  },
+  {
+    "index": 166,
+    "source": "曾经重要的历史转折点。",
+    "reference": "A once-meaningful historical turning point.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A once significant historical turning point."
+  },
+  {
+    "index": 167,
+    "source": "意义重要的历史转折点。",
+    "reference": "A significant turning point  in the history.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A historic turning point of great significance."
+  },
+  {
+    "index": 168,
+    "source": "购买困难的商品。",
+    "reference": "Goods that are bought difficultly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Goods that are difficult to purchase."
+  },
+  {
+    "index": 169,
+    "source": "购买便宜的商品。",
+    "reference": "Buy cheap goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Buy inexpensive goods."
+  },
+  {
+    "index": 170,
+    "source": "销售困难的产品。",
+    "reference": "Products that are difficult to sell.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hard-to-sell products."
+  },
+  {
+    "index": 171,
+    "source": "销售便宜的劣质产品。",
+    "reference": "Selling cheap and inferior products.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Selling cheap, low-quality products."
+  },
+  {
+    "index": 172,
+    "source": "情节精彩的电视剧。",
+    "reference": "TV series that have wonderful plots.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A TV drama with an enthralling plot."
+  },
+  {
+    "index": 173,
+    "source": "晚上精彩的电视剧。",
+    "reference": "Wonderful TV series in the evening.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Wonderful TV dramas in the evening."
+  },
+  {
+    "index": 174,
+    "source": "感觉愉悦的气氛。",
+    "reference": "The pleasant atmosphere.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sensing the joyful atmosphere."
+  },
+  {
+    "index": 175,
+    "source": "享受快乐的气氛。",
+    "reference": "Enjoy the delightful  atmosphere.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Enjoy the joyful atmosphere."
+  },
+  {
+    "index": 176,
+    "source": "研究简单的问题。",
+    "reference": "Study simple questions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Study simple problems."
+  },
+  {
+    "index": 177,
+    "source": "研究完成的问题。",
+    "reference": "The problem that has been studied completely.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "problems that have been researched and resolved"
+  },
+  {
+    "index": 178,
+    "source": "考察严格的考官。",
+    "reference": "Examiners that examine strictly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A strict examiner in assessment"
+  },
+  {
+    "index": 179,
+    "source": "考察落后的学生。",
+    "reference": "Investigate underachieving  students.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Assess underperforming students."
+  },
+  {
+    "index": 180,
+    "source": "咬死了猎人的猫。",
+    "reference": "Killed the hunter's cat.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The hunter's cat was bitten to death."
+  },
+  {
+    "index": 181,
+    "source": "咬死了狐狸的老虎。",
+    "reference": "The tiger that killed the fox.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The tiger that killed the fox."
+  },
+  {
+    "index": 182,
+    "source": "杀死了猎人的狗。",
+    "reference": "Killed the hunter's dog",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The hunter's dog was killed."
+  },
+  {
+    "index": 183,
+    "source": "杀死了猎人的老虎。",
+    "reference": "The tiger that killed the hunter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The tiger that killed the hunter."
+  },
+  {
+    "index": 184,
+    "source": "吃掉了蛋糕的巧克力。",
+    "reference": "Eat the chocolate of the cake.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ate the chocolate part of the cake."
+  },
+  {
+    "index": 185,
+    "source": "吃掉了蛋糕的小孩。",
+    "reference": "The child who ate the cake.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The child who ate the cake."
+  },
+  {
+    "index": 186,
+    "source": "爱上了明星的女孩儿。",
+    "reference": "The girl who falls in love with the star.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The girl who fell in love with a celebrity."
+  },
+  {
+    "index": 187,
+    "source": "爱上了明星的作品。",
+    "reference": "Fall in love with the works of the stars.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Fell in love with the star's works."
+  },
+  {
+    "index": 188,
+    "source": "错怪了父母的良苦用心。",
+    "reference": "Wrongly blame the parents for their good intentions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Misunderstood the parents' well-intentioned efforts."
+  },
+  {
+    "index": 189,
+    "source": "错怪了父母的小孩子。",
+    "reference": "The child who wrongly blame the parents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The child who mistakenly blamed his parents."
+  },
+  {
+    "index": 190,
+    "source": "维修了房间的窗户。",
+    "reference": "Repaired the windows of the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The window of the room was repaired."
+  },
+  {
+    "index": 191,
+    "source": "维修了房间的装修工。",
+    "reference": "The decorator who repaired the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The renovation worker repaired the room."
+  },
+  {
+    "index": 192,
+    "source": "水里的鲨鱼和老虎都是凶猛的动物。",
+    "reference": "Sharks in the water and tiger  are ferocious animals.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Both sharks in the water and tigers are ferocious animals."
+  },
+  {
+    "index": 193,
+    "source": "他在一张照片里面拍下了空中的小鸟和猎豹。",
+    "reference": "He took a photo for  the birds in the air and cheetahs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He captured a bird in mid-air and a cheetah within a single photograph."
+  },
+  {
+    "index": 194,
+    "source": "采收的是果园里的成熟的果实。",
+    "reference": "What is harvested is the ripe fruit in the orchard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The fruits being harvested are the ripe ones in the orchard."
+  },
+  {
+    "index": 195,
+    "source": "采收的是果园里的专业的果农。",
+    "reference": "The professional fruit grower is harvesting in the orchard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The harvesting is carried out by professional fruit farmers in the orchard."
+  },
+  {
+    "index": 196,
+    "source": "正在手术的是医院里临床经验最丰富的医生。",
+    "reference": "It is the doctor with the most clinical experience in the hospital that is operating.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The doctor currently performing the surgery is the most clinically experienced physician in the hospital."
+  },
+  {
+    "index": 197,
+    "source": "正在手术的是患上了严重疾病的病人。",
+    "reference": "It is a patient with a serious illness that is undergoing surgery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The patient undergoing surgery is the one suffering from a severe illness."
+  },
+  {
+    "index": 198,
+    "source": "调研乡镇的经济。",
+    "reference": "Investigate the economy of townships.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conduct research on the economy of townships and villages."
+  },
+  {
+    "index": 199,
+    "source": "调研乡镇的经济学家。",
+    "reference": "The economist who investigate the township.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Economists researching the economy of townships."
+  },
+  {
+    "index": 200,
+    "source": "记录实验的整个过程。",
+    "reference": "Record the entire process of the experiment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Document the entire process of the experiment."
+  },
+  {
+    "index": 201,
+    "source": "记录实验的生物学家。",
+    "reference": "The biologist who records the experiment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A biologist who documents experiments."
+  },
+  {
+    "index": 202,
+    "source": "削苹果的刀。",
+    "reference": "The knife that cut apples.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "an apple-peeling knife"
+  },
+  {
+    "index": 203,
+    "source": "削苹果的皮。",
+    "reference": "Cut the skin of the apple.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Peel the skin off the apple."
+  },
+  {
+    "index": 204,
+    "source": "修理木头桌子的桌脚。",
+    "reference": "Repair the table legs of the wooden table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Repair the legs of the wooden table."
+  },
+  {
+    "index": 205,
+    "source": "修理木头桌子的锯子。",
+    "reference": "The saw that is used to repair the wooden table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The saw for repairing the wooden table."
+  },
+  {
+    "index": 206,
+    "source": "三位学校的实验员。",
+    "reference": "Three laboratory staff at the school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three school laboratory technicians."
+  },
+  {
+    "index": 207,
+    "source": "三所学校的实验员。",
+    "reference": "Laboratory staff at three schools.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lab technicians from three schools"
+  },
+  {
+    "index": 208,
+    "source": "五件房屋里的家具。",
+    "reference": "Five furnitures in the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Five pieces of furniture in the house."
+  },
+  {
+    "index": 209,
+    "source": "五栋房屋里的家具。",
+    "reference": "Furniture in five houses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The furniture in the five houses."
+  },
+  {
+    "index": 210,
+    "source": "十台商场里的电视机。",
+    "reference": "Ten TVs in the shopping mall.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ten televisions in the shopping mall."
+  },
+  {
+    "index": 211,
+    "source": "十家商场里的电视机。",
+    "reference": "TVs in ten shopping malls.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Television sets in ten shopping malls"
+  },
+  {
+    "index": 212,
+    "source": "六把房间里的椅子。",
+    "reference": "Six chairs in the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Six chairs in the room."
+  },
+  {
+    "index": 213,
+    "source": "六间房间里的椅子。",
+    "reference": "Chairs in six rooms.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "the chairs in six rooms"
+  },
+  {
+    "index": 214,
+    "source": "参观了百年宫殿。",
+    "reference": "Visited the century-old palace.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Visited the century-old palace."
+  },
+  {
+    "index": 215,
+    "source": "参观了五分钟宫殿。",
+    "reference": "Visited the palace for five minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Visited the palace for five minutes."
+  },
+  {
+    "index": 216,
+    "source": "连续写了2天家庭作业。",
+    "reference": "I Wrote homework for 2 days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I did homework for two days in a row."
+  },
+  {
+    "index": 217,
+    "source": "连续写了2本家庭作业。",
+    "reference": "I wrote 2 homework assignments.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Continuously wrote two homework exercise books."
+  },
+  {
+    "index": 218,
+    "source": "画了4天画。",
+    "reference": "Drew paintings for 4 days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Spent four days painting."
+  },
+  {
+    "index": 219,
+    "source": "画了4幅画。",
+    "reference": "Drew four paintings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Painted four paintings."
+  },
+  {
+    "index": 220,
+    "source": "嫌疑人害怕的情绪。",
+    "reference": "Suspects's feeling of alarm.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The suspect's fear."
+  },
+  {
+    "index": 221,
+    "source": "嫌疑人害怕的场景。",
+    "reference": "The scene in which the suspect was scared.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The scene the suspect fears."
+  },
+  {
+    "index": 222,
+    "source": "口味独特的食物。",
+    "reference": "Food of a unique taste.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "uniquely flavored food"
+  },
+  {
+    "index": 223,
+    "source": "北方独特的食物。",
+    "reference": "Unique food in the north.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Unique northern foods."
+  },
+  {
+    "index": 224,
+    "source": "销售迅速的商品。",
+    "reference": "Goods that was sold fast.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Fast-selling products"
+  },
+  {
+    "index": 225,
+    "source": "销售昂贵的商品。",
+    "reference": "Selling expensive goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sell expensive goods."
+  },
+  {
+    "index": 226,
+    "source": "闻起来美味的粥。",
+    "reference": "Porridge that smells delicious.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The porridge smells delicious."
+  },
+  {
+    "index": 227,
+    "source": "品尝美味的粥。",
+    "reference": "Taste delicious porridge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Savor the delicious porridge."
+  },
+  {
+    "index": 228,
+    "source": "摸起来舒服的沙发。",
+    "reference": "A sofa that feels comfortable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A sofa that feels comfortable to the touch."
+  },
+  {
+    "index": 229,
+    "source": "选购舒服的沙发。",
+    "reference": "Choose a comfortable sofa.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Choose a comfortable sofa."
+  },
+  {
+    "index": 230,
+    "source": "买卖便宜的货物。",
+    "reference": "Buy and sell cheap goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Buy and sell cheap goods."
+  },
+  {
+    "index": 231,
+    "source": "买卖方便的货物。",
+    "reference": "Goods that is bought and sold conveniently.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Convenient goods for buying and selling."
+  },
+  {
+    "index": 232,
+    "source": "他考第一名太好了。",
+    "reference": "It's wonderful that he takes the first place.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It's wonderful that he came first in the exam."
+  },
+  {
+    "index": 233,
+    "source": "他考成绩太好了。",
+    "reference": "His test score is very good.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His exam results are excellent."
+  },
+  {
+    "index": 234,
+    "source": "鼓励的是这种行为。",
+    "reference": "This behavior is encouraged.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is encouraged is this type of behavior."
+  },
+  {
+    "index": 235,
+    "source": "鼓励的是鼓励师。",
+    "reference": "It's the encourage teachers that encourage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What encourages is the encourager."
+  },
+  {
+    "index": 236,
+    "source": "嘉奖的是这种英勇的行为。",
+    "reference": "It's the heroic acts that are awarded.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being commended is this heroic act."
+  },
+  {
+    "index": 237,
+    "source": "嘉奖的是颁奖嘉宾。",
+    "reference": "The guests are awarding.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being honored is the award presenter."
+  },
+  {
+    "index": 238,
+    "source": "严打的是偷窃行为。",
+    "reference": "Theft is strictly cracked down.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The crackdown targets theft."
+  },
+  {
+    "index": 239,
+    "source": "严打的是久经训练的特警。",
+    "reference": "It is the well-trained special polices that strictly crack down.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones being severely cracked down on are the long-trained special police officers."
+  },
+  {
+    "index": 240,
+    "source": "调查的是这桩案件。",
+    "reference": "The case was investigated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is this case that is being investigated."
+  },
+  {
+    "index": 241,
+    "source": "调查的是来自省里的特聘刑侦专家。",
+    "reference": "The investigation was conducted by a special criminal investigation expert from the province.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The investigation is being conducted by specially appointed criminal investigation experts from the provincial level."
+  },
+  {
+    "index": 242,
+    "source": "查处的是大量走私物品。",
+    "reference": "A large number of smuggled goods are investigated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A significant amount of smuggled goods was confiscated."
+  },
+  {
+    "index": 243,
+    "source": "查处的是缉拿走私物品的警官。",
+    "reference": "The police officers who seize the smuggled goods is investigating.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones being investigated are the officers responsible for seizing smuggled goods."
+  },
+  {
+    "index": 244,
+    "source": "研究的是国际知名数学难题。",
+    "reference": "The internationally renowned mathematical problem is studied.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The research focuses on internationally renowned mathematical problems."
+  },
+  {
+    "index": 245,
+    "source": "研究的是国际知名数学家。",
+    "reference": "It is the internationally renowned mathematicians who study.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The research focuses on internationally renowned mathematicians."
+  },
+  {
+    "index": 246,
+    "source": "装修房子的卧室。",
+    "reference": "Renovate the bedroom of the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Renovate the bedroom of the house."
+  },
+  {
+    "index": 247,
+    "source": "装修房子的工人。",
+    "reference": "Workers decorating the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Workers renovating houses"
+  },
+  {
+    "index": 248,
+    "source": "研究代码的程序员。",
+    "reference": "The programmer who studies the code.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A programmer who researches code."
+  },
+  {
+    "index": 249,
+    "source": "研究代码的细节问题。",
+    "reference": "Study the details of the code.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Analyze the detailed issues in the code."
+  },
+  {
+    "index": 250,
+    "source": "变革整个世界的伟人。",
+    "reference": "The great people who transformed the entire world.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A great man who transformed the entire world."
+  },
+  {
+    "index": 251,
+    "source": "变革整个世界的格局。",
+    "reference": "Transforming the pattern of the entire world.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Transform the global landscape."
+  },
+  {
+    "index": 252,
+    "source": "解决这道数学难题的关键人物。",
+    "reference": "The key person to solve this mathematical problem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The key figure in solving this mathematical problem."
+  },
+  {
+    "index": 253,
+    "source": "解决这道数学难题的部分内容。",
+    "reference": "Solve part of this math problem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Solving part of this mathematical problem."
+  },
+  {
+    "index": 254,
+    "source": "调查交通事故的交警。",
+    "reference": "The traffic police who investigated the traffic accidents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Traffic police investigating traffic accidents."
+  },
+  {
+    "index": 255,
+    "source": "调查交通事故的起因。",
+    "reference": "Investigate the cause of traffic accidents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Investigate the causes of traffic accidents."
+  },
+  {
+    "index": 256,
+    "source": "喜欢旅游的过程。",
+    "reference": "Like the process of travel.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Enjoying the process of traveling."
+  },
+  {
+    "index": 257,
+    "source": "喜欢旅游的旅行家们。",
+    "reference": "Travellers who like to travel.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Travelers who love traveling."
+  },
+  {
+    "index": 258,
+    "source": "两套橱柜里的衣服。",
+    "reference": "Two sets of clothes in the cupboard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The clothes in two cabinets."
+  },
+  {
+    "index": 259,
+    "source": "两个橱柜里的衣服。",
+    "reference": "Clothes in two cupboards.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The clothes in the two wardrobes."
+  },
+  {
+    "index": 260,
+    "source": "三把桌上的雨伞。",
+    "reference": "Three umbrellas on the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three umbrellas on the table."
+  },
+  {
+    "index": 261,
+    "source": "三张桌上的雨伞。",
+    "reference": "Umbrellas on the three tables.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The umbrellas on three tables."
+  },
+  {
+    "index": 262,
+    "source": "四根蛋糕上的蜡烛。",
+    "reference": "Four candles on the cake.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Four candles on the cake."
+  },
+  {
+    "index": 263,
+    "source": "四个蛋糕上的蜡烛。",
+    "reference": "Candles on four cakes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The candles on the four cakes."
+  },
+  {
+    "index": 264,
+    "source": "五场比赛中的冠军。",
+    "reference": "The champions in five games.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "the champion of the five matches"
+  },
+  {
+    "index": 265,
+    "source": "五位比赛中的冠军。",
+    "reference": "Five champions of the competitions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "the five champions in the competition"
+  },
+  {
+    "index": 266,
+    "source": "六把库房里的步枪。",
+    "reference": "Six rifles in the warehouse.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Six rifles in the warehouse."
+  },
+  {
+    "index": 267,
+    "source": "六个库房里的步枪。",
+    "reference": "Rifles in six warehouses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Rifles in the six warehouses."
+  },
+  {
+    "index": 268,
+    "source": "两张演唱会的门票。",
+    "reference": "Two tickets for the concert.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "two concert tickets"
+  },
+  {
+    "index": 269,
+    "source": "两场演唱会的门票。",
+    "reference": "Tickets for two concerts.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tickets for two concerts."
+  },
+  {
+    "index": 270,
+    "source": "学校经验重足的老师。",
+    "reference": "Teachers with a lot of experience at school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "a teacher with ample school experience"
+  },
+  {
+    "index": 271,
+    "source": "学校配置充足的老师。",
+    "reference": "The school is fully equipped with teachers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The school is equipped with an adequate number of teachers."
+  },
+  {
+    "index": 272,
+    "source": "军队配备精良的武器。",
+    "reference": "The army is equipped with sophisticated weapons.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The military is equipped with sophisticated weaponry."
+  },
+  {
+    "index": 273,
+    "source": "军队装备精良的战士。",
+    "reference": "Soldiers equipped with sophisticated weapons in the army.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The army's well-equipped soldiers."
+  },
+  {
+    "index": 274,
+    "source": "解释清楚问题。",
+    "reference": "Explain the problem clearly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Explain the problem clearly."
+  },
+  {
+    "index": 275,
+    "source": "解释复杂问题。",
+    "reference": "Explain complex issues.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Explain complex issues."
+  },
+  {
+    "index": 276,
+    "source": "继承发展传统文化。",
+    "reference": "Inherit and develop traditional culture.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Inherit and develop traditional culture."
+  },
+  {
+    "index": 277,
+    "source": "继承绘画传统文化。",
+    "reference": "Inherit the traditional culture of painting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Inherit and carry forward traditional painting culture."
+  },
+  {
+    "index": 278,
+    "source": "卖掉了猎人的狗。",
+    "reference": "Sold the hunter's dog.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The hunter's dog was sold."
+  },
+  {
+    "index": 279,
+    "source": "卖掉了狗的猎人。",
+    "reference": "The hunter who sold the dog.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The hunter who sold the dog."
+  },
+  {
+    "index": 280,
+    "source": "伤害了别人的话语。",
+    "reference": "Words that hurt others.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Words that hurt others."
+  },
+  {
+    "index": 281,
+    "source": "伤害了别人的感情。",
+    "reference": "It hurts the feelings of others.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hurt someone's feelings."
+  },
+  {
+    "index": 282,
+    "source": "感动了父母的小孩。",
+    "reference": "The child who touched the parents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The child who moved the parents."
+  },
+  {
+    "index": 283,
+    "source": "感动了父母的内心。",
+    "reference": "Touched the parents' heart.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Touched the hearts of the parents."
+  },
+  {
+    "index": 284,
+    "source": "点燃了内心的复仇火焰。",
+    "reference": "Ignited the inner revenge flame.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ignited the flame of vengeance within."
+  },
+  {
+    "index": 285,
+    "source": "点燃了内心的温暖画面。",
+    "reference": "The picture that illuminates the heart.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ignites the warm images within the heart."
+  },
+  {
+    "index": 286,
+    "source": "维修了房间的窗户。",
+    "reference": "Repaired the windows of the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The window in the room was repaired."
+  },
+  {
+    "index": 287,
+    "source": "维修了房间的工人。",
+    "reference": "The worker who repaired the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The worker who repaired the room."
+  },
+  {
+    "index": 288,
+    "source": "审判的是一个法官。",
+    "reference": "The trial was conducted by a judge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one presiding over the trial is a judge."
+  },
+  {
+    "index": 289,
+    "source": "审判的是一个罪犯。",
+    "reference": "A criminal was brought to trial.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person being tried is a criminal."
+  },
+  {
+    "index": 290,
+    "source": "教导的是我的老师。",
+    "reference": "My teacher is teaching.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one teaching is my teacher."
+  },
+  {
+    "index": 291,
+    "source": "教导的是热爱学习的学生。",
+    "reference": "Students who love learning are taught.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The students being taught are those who love learning."
+  },
+  {
+    "index": 292,
+    "source": "喜欢这篇文章的文笔。",
+    "reference": "Like the writing of this article.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I like the writing style of this article."
+  },
+  {
+    "index": 293,
+    "source": "喜欢这篇文章的文艺青年。",
+    "reference": "Literary youths who like this article.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The literary youth who appreciate this article."
+  },
+  {
+    "index": 294,
+    "source": "倾听动人音乐的歌词。",
+    "reference": "Listen to the lyrics of moving music.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Listen to the lyrics of moving music."
+  },
+  {
+    "index": 295,
+    "source": "倾听动人音乐的听众。",
+    "reference": "Listeners listening to moving music.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Listeners listening to moving music."
+  },
+  {
+    "index": 296,
+    "source": "欣赏园林的动人风景。",
+    "reference": "Admire the beautiful scenery of the garden.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Appreciate the enchanting scenery of the garden."
+  },
+  {
+    "index": 297,
+    "source": "欣赏园林的游客。",
+    "reference": "Tourists admiring the garden.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Visitors appreciating the classical gardens."
+  },
+  {
+    "index": 298,
+    "source": "漫步在太空的空间站。",
+    "reference": "Walk through the space station in outerspace.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Walking in the space station in space."
+  },
+  {
+    "index": 299,
+    "source": "漫步在太空的宇航员。",
+    "reference": "Astronaut walking through space.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "An astronaut walking in space."
+  },
+  {
+    "index": 300,
+    "source": "破坏的是历史古迹。",
+    "reference": "What was destroyed were historical monuments.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was the historical sites that were destroyed."
+  },
+  {
+    "index": 301,
+    "source": "破坏的是没素质的游客。",
+    "reference": "It is poorly educated tourists who destroy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones causing the damage are the uncivilized tourists."
+  },
+  {
+    "index": 302,
+    "source": "屠杀的是当地的保护动物。",
+    "reference": "Local protected animals were killed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The animals slaughtered were the local protected species."
+  },
+  {
+    "index": 303,
+    "source": "屠杀的是贪婪的偷猎者。",
+    "reference": "The greedy poachers were killing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who carried out the massacre are the greedy poachers."
+  },
+  {
+    "index": 304,
+    "source": "踩踏花园的花朵。",
+    "reference": "Trampling the flowers in the garden.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Trample on the flowers in the garden."
+  },
+  {
+    "index": 305,
+    "source": "踩踏花园的游客。",
+    "reference": "Tourists trampling the garden.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tourists trampling the garden."
+  },
+  {
+    "index": 306,
+    "source": "围剿土匪的老巢。",
+    "reference": "Siege the bandits' lair.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Surround and eliminate the bandits' stronghold."
+  },
+  {
+    "index": 307,
+    "source": "围剿土匪的正规军。",
+    "reference": "A regular army Sieging bandits.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The regular army suppressing the bandits."
+  },
+  {
+    "index": 308,
+    "source": "攻占的是叛军的地盘。",
+    "reference": "It was rebel territory that was captured.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What was captured was the territory of the rebel forces."
+  },
+  {
+    "index": 309,
+    "source": "攻占的是正规军队。",
+    "reference": "The regular army was capturing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The attackers were the regular army."
+  },
+  {
+    "index": 310,
+    "source": "维修的是修车师傅。",
+    "reference": "The repairman is repairing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who repairs is the car mechanic."
+  },
+  {
+    "index": 311,
+    "source": "维修的是破旧的小汽车。",
+    "reference": "What was repaired was a worn out car.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being repaired is the old and dilapidated car."
+  },
+  {
+    "index": 312,
+    "source": "援助的是扶贫的志愿者们。",
+    "reference": "Volunteers who aid the poor are assisting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones providing assistance are the volunteers engaged in poverty alleviation."
+  },
+  {
+    "index": 313,
+    "source": "援助的是贫困地区的老人。",
+    "reference": "Assistance is provided to the elderly in poor areas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The elderly in impoverished areas are the ones receiving assistance."
+  },
+  {
+    "index": 314,
+    "source": "援助偏远地区的留守儿童。",
+    "reference": "Assisting left-behind children in remote areas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Support left-behind children in remote areas."
+  },
+  {
+    "index": 315,
+    "source": "援助偏远地区的热心志愿者。",
+    "reference": "Enthusiastic volunteers who provide assistance in remote areas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Enthusiastic volunteers providing aid to remote areas."
+  },
+  {
+    "index": 316,
+    "source": "预测的是下一场比赛结果。",
+    "reference": "The prediction is the result of the next game.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The prediction pertains to the outcome of the next match."
+  },
+  {
+    "index": 317,
+    "source": "预测的是这边著名的占卜师。",
+    "reference": "The famous diviner here is predicting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The prediction was made by the renowned fortune-teller here."
+  },
+  {
+    "index": 318,
+    "source": "占卜未来的运势。",
+    "reference": "Predicting the fortune in future.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Divine future fortunes."
+  },
+  {
+    "index": 319,
+    "source": "占卜未来的占卜师。",
+    "reference": "Diviner predicting the future.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A diviner who foretells the future."
+  },
+  {
+    "index": 320,
+    "source": "计算员工工资的总数。",
+    "reference": "Calculate the total salary of employees.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Calculate the total employee salaries."
+  },
+  {
+    "index": 321,
+    "source": "计算员工工资的会计。",
+    "reference": "An accountant who calculates the salary of employees.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The accountant who calculates employee salaries."
+  },
+  {
+    "index": 322,
+    "source": "创建党派的人士。",
+    "reference": "People who create parties.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Individuals who founded a political party"
+  },
+  {
+    "index": 323,
+    "source": "创建党派的党章。",
+    "reference": "Create the party charter of the party.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Establish the party constitution."
+  },
+  {
+    "index": 324,
+    "source": "演奏乐曲的高潮部分。",
+    "reference": "The climax of the the playing music.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Play the climax of the musical piece."
+  },
+  {
+    "index": 325,
+    "source": "演奏乐曲的钢琴家。",
+    "reference": "Pianist playing music.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The pianist performing the musical piece."
+  },
+  {
+    "index": 326,
+    "source": "演奏的是贝多芬大调。",
+    "reference": "What was Performed is Beethoven major.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The piece being performed is in a major key by Beethoven."
+  },
+  {
+    "index": 327,
+    "source": "演奏的是贝多芬。",
+    "reference": "Beethoven is playing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Beethoven is being performed."
+  },
+  {
+    "index": 328,
+    "source": "竞选的是班长。",
+    "reference": "The election campaign is for electing the monitor",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The position being campaigned for is class monitor."
+  },
+  {
+    "index": 329,
+    "source": "竞选的是班上的学生。",
+    "reference": "The students in class are running for the office.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The candidates are students from the class."
+  },
+  {
+    "index": 330,
+    "source": "收藏的是汉朝文物。",
+    "reference": "The collection is the cultural relics of the Han Dynasty.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The collection consists of Han Dynasty artifacts."
+  },
+  {
+    "index": 331,
+    "source": "收藏的是汉朝文物收藏家。",
+    "reference": "Cultural relic collectors of the Han Dynasty collect it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The collector specializes in Han Dynasty artifacts."
+  },
+  {
+    "index": 332,
+    "source": "射击的是百米外的靶子。",
+    "reference": "What is shooted is a target hundred meters away.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The shooting target is 100 meters away."
+  },
+  {
+    "index": 333,
+    "source": "射击的是职业狙击手。",
+    "reference": "A professional sniper is shooting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The shooter was a professional sniper."
+  },
+  {
+    "index": 334,
+    "source": "击中靶子的十环。",
+    "reference": "Hit the ten ring of the target.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hit the ten ring of the target."
+  },
+  {
+    "index": 335,
+    "source": "击中靶子的射手。",
+    "reference": "Archer hitting the target.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The archer who hit the target."
+  },
+  {
+    "index": 336,
+    "source": "一条平原上的河流。",
+    "reference": "A river on the plain.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A river on the plain."
+  },
+  {
+    "index": 337,
+    "source": "一块平原上的河流。",
+    "reference": "Rivers on a plain.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A river on a plain."
+  },
+  {
+    "index": 338,
+    "source": "两盏屋子里的台灯。",
+    "reference": "Two table lamps in the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Two table lamps in the room."
+  },
+  {
+    "index": 339,
+    "source": "两间屋子里的台灯。",
+    "reference": "Table lamps in two rooms.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The table lamps in the two rooms."
+  },
+  {
+    "index": 340,
+    "source": "三瓶桌上的矿泉水。",
+    "reference": "Three bottles of mineral water on the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three bottles of mineral water on the table."
+  },
+  {
+    "index": 341,
+    "source": "三张桌上的矿泉水。",
+    "reference": "Mineral water on three tables.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Mineral water on three tables."
+  },
+  {
+    "index": 342,
+    "source": "四张考试的试卷。",
+    "reference": "Four papers of the exam.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Four exam papers."
+  },
+  {
+    "index": 343,
+    "source": "四门考试的试卷。",
+    "reference": "Papers of four exams.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Exam papers for four subjects"
+  },
+  {
+    "index": 344,
+    "source": "五双抽屉里的袜子。",
+    "reference": "Five pairs of socks in a drawer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Five pairs of socks in the drawer."
+  },
+  {
+    "index": 345,
+    "source": "五个抽屉里的袜子。",
+    "reference": "Socks in five drawers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Socks in five drawers."
+  },
+  {
+    "index": 346,
+    "source": "六颗瓶子中的药丸。",
+    "reference": "Six pills in the bottle.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The pills in the six bottles."
+  },
+  {
+    "index": 347,
+    "source": "六只瓶子中的药丸。",
+    "reference": "Pills in six bottles.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Six bottles of pills."
+  },
+  {
+    "index": 348,
+    "source": "欣赏了几小时的古村落。",
+    "reference": "Admired the ancient village for hours.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Admired the ancient village for several hours."
+  },
+  {
+    "index": 349,
+    "source": "欣赏了几百年前的古村落。",
+    "reference": "Admire the ancient village hundreds of years ago.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Appreciated the ancient village that dates back hundreds of years."
+  },
+  {
+    "index": 350,
+    "source": "学习了五小时外语课程。",
+    "reference": "Learned foreign language course for five hours.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Studied foreign language courses for five hours."
+  },
+  {
+    "index": 351,
+    "source": "学习了五门外语课程。",
+    "reference": "Learned five foreign language courses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I have studied five foreign language courses."
+  },
+  {
+    "index": 352,
+    "source": "我写了六张字帖。",
+    "reference": "I wrote six copybooks.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I wrote six sheets of calligraphy practice."
+  },
+  {
+    "index": 353,
+    "source": "我写了六天字帖。",
+    "reference": "I wrote copybooks for six days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I practiced calligraphy templates for six days."
+  },
+  {
+    "index": 354,
+    "source": "弹奏了一首美妙的音乐。",
+    "reference": "Played a wonderful piece of music.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A beautiful piece of music was played."
+  },
+  {
+    "index": 355,
+    "source": "弹奏了一天美妙的音乐。",
+    "reference": "Played wonderful music for a day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Wonderful music was played all day."
+  },
+  {
+    "index": 356,
+    "source": "检查枪支的子弹。",
+    "reference": "Check bullets of the gun.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Check the bullets in the firearm."
+  },
+  {
+    "index": 357,
+    "source": "检查枪支的警察。",
+    "reference": "Police checking guns.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The police officer inspecting the firearm."
+  },
+  {
+    "index": 358,
+    "source": "补助的是家庭贫困的学生。",
+    "reference": "Subsidies are given to students from poor families.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The subsidies are intended for students from impoverished families."
+  },
+  {
+    "index": 359,
+    "source": "补助的是国家机构。",
+    "reference": "Subsidies are provided by state agencies.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the state institutions that provide the subsidies."
+  },
+  {
+    "index": 360,
+    "source": "三位考场的老师聚在一起聊天。",
+    "reference": "The three teachers in the examination room got together to chat.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three invigilators at the examination venue gathered together to chat."
+  },
+  {
+    "index": 361,
+    "source": "三间考场的老师聚在一起聊天。",
+    "reference": "Teachers from the three examination rooms got together to chat.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teachers from three examination rooms gathered together to chat."
+  },
+  {
+    "index": 362,
+    "source": "救援的是受灾群众。",
+    "reference": "The relief was for the victims.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those being rescued are the disaster-affected people."
+  },
+  {
+    "index": 363,
+    "source": "救援的是消防队员。",
+    "reference": "The rescuers were firefighters.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The rescuers are the firefighters."
+  },
+  {
+    "index": 364,
+    "source": "学习课本的文章。",
+    "reference": "Study articles of the textbook .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Study the articles in the textbook."
+  },
+  {
+    "index": 365,
+    "source": "学习课本的学生。",
+    "reference": "Students studying textbooks.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Students studying textbooks."
+  },
+  {
+    "index": 366,
+    "source": "建造城市的高楼。",
+    "reference": "Build tall buildings in the city.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Build tall buildings in the city."
+  },
+  {
+    "index": 367,
+    "source": "建造城市的工人。",
+    "reference": "Workers building a city.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Workers who build the city."
+  },
+  {
+    "index": 368,
+    "source": "我看了十天报纸。",
+    "reference": "I read newspapers for ten days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I read the newspaper for ten days."
+  },
+  {
+    "index": 369,
+    "source": "我看了十份报纸。",
+    "reference": "I read ten newspapers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I read ten newspapers."
+  },
+  {
+    "index": 370,
+    "source": "三家医院的医生坐在一起开会。",
+    "reference": "Doctors from three hospitals are sitting together for a meeting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Doctors from three hospitals sat together for a meeting."
+  },
+  {
+    "index": 371,
+    "source": "三位医院的医生坐在一起开会。",
+    "reference": "Three doctors of the hospital sat together for a meeting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three hospital doctors are sitting together for a meeting."
+  },
+  {
+    "index": 372,
+    "source": "表演认真的节目。",
+    "reference": "Perform a show seriously.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Perform a serious program."
+  },
+  {
+    "index": 373,
+    "source": "表演有趣的节目。",
+    "reference": "Perform interesting shows.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Perform entertaining shows."
+  },
+  {
+    "index": 374,
+    "source": "学习用心的课程。",
+    "reference": "Learn lessons attentivly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Study conscientiously designed courses."
+  },
+  {
+    "index": 375,
+    "source": "学习简单的课程。",
+    "reference": "Learn simple lessons.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Study simple courses."
+  },
+  {
+    "index": 376,
+    "source": "购买艰难的禁运品。",
+    "reference": "Buy embargoes toughly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Purchase hard-to-obtain contraband."
+  },
+  {
+    "index": 377,
+    "source": "购买稀有的禁运品。",
+    "reference": "Buy rare embargoes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Purchase rare contraband."
+  },
+  {
+    "index": 378,
+    "source": "卖邻居作业本。",
+    "reference": "Sell exercise books to neighbors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sell the neighbor's exercise book."
+  },
+  {
+    "index": 379,
+    "source": "卖多余作业本。",
+    "reference": "Sell extra exercise books.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sell surplus exercise books."
+  },
+  {
+    "index": 380,
+    "source": "送领导礼物。",
+    "reference": "Send gifts to leader.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Giving a gift to the supervisor."
+  },
+  {
+    "index": 381,
+    "source": "送成年礼物。",
+    "reference": "Send adult gifts.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Give a coming-of-age gift."
+  },
+  {
+    "index": 382,
+    "source": "天上的鸟和鱼都有共同的祖先。",
+    "reference": "Birds and fish in the sky have common ancestors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Birds in the sky and fish share a common ancestor."
+  },
+  {
+    "index": 383,
+    "source": "天上的云和雨交织在一起。",
+    "reference": "The clouds and rain in the sky are intertwined.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The clouds and rain in the sky are intertwined together."
+  },
+  {
+    "index": 384,
+    "source": "学校里的老师和警察都属于公职人员。",
+    "reference": "The teachers in the school and police are public officials.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teachers in schools and police officers are both public servants."
+  },
+  {
+    "index": 385,
+    "source": "学校里的老师和学生都和睦相处。",
+    "reference": "Teachers and students in the school live in harmony.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teachers and students in the school all get along harmoniously."
+  },
+  {
+    "index": 386,
+    "source": "空气中的氧气和水缺一不可。",
+    "reference": "Oxygen in the air and water are indispensable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Neither oxygen nor water in the air can be dispensed with."
+  },
+  {
+    "index": 387,
+    "source": "空气中的氧气和二氧化碳缺一不可。",
+    "reference": "Both oxygen and carbon dioxide in the air are indispensable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Both oxygen and carbon dioxide in the air are indispensable."
+  },
+  {
+    "index": 388,
+    "source": "两扇屋里的用玻璃制造的窗。",
+    "reference": "Two windows made by glass in the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Two glass-made windows inside the room."
+  },
+  {
+    "index": 389,
+    "source": "两座屋里的窗。",
+    "reference": "The windows in two houses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The windows in the two houses."
+  },
+  {
+    "index": 390,
+    "source": "五道考试的题目。",
+    "reference": "Five questions for the exam.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The five exam questions."
+  },
+  {
+    "index": 391,
+    "source": "三次考试的题目。",
+    "reference": "Questions for three exams.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The questions from the three exams."
+  },
+  {
+    "index": 392,
+    "source": "两条书上的定理。",
+    "reference": "Two theorem in the book.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Two theorems from the book."
+  },
+  {
+    "index": 393,
+    "source": "两本书上的定理。",
+    "reference": "The theorem in two books.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The theorems in the two books."
+  },
+  {
+    "index": 394,
+    "source": "四头屠宰场的牛。",
+    "reference": "Four cattle in a slaughterhouse.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Four head of cattle from the slaughterhouse."
+  },
+  {
+    "index": 395,
+    "source": "四座屠宰场的牛。",
+    "reference": "The cattle in four slaughterhouses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Cattle from four slaughterhouses."
+  },
+  {
+    "index": 396,
+    "source": "两副药店的中药。",
+    "reference": "Two chinese medicines in the pharmacy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Two doses of traditional Chinese medicine from the pharmacy."
+  },
+  {
+    "index": 397,
+    "source": "两所药店的中药。",
+    "reference": "Chinese medicine in two pharmacies.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Traditional Chinese medicine from two pharmacies."
+  },
+  {
+    "index": 398,
+    "source": "一本书店的书。",
+    "reference": "A book in the bookstore.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A book from the bookstore."
+  },
+  {
+    "index": 399,
+    "source": "两家书店的书。",
+    "reference": "The Books in two bookstores.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "the books from the two bookstores"
+  },
+  {
+    "index": 400,
+    "source": "夹带的是考生。",
+    "reference": "It is the examinee who carry something.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The examinees were the ones smuggling."
+  },
+  {
+    "index": 401,
+    "source": "夹带的是试卷。",
+    "reference": "What is carried is the test paper.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The concealed items were examination papers."
+  },
+  {
+    "index": 402,
+    "source": "进行交易的是一个象牙。",
+    "reference": "They are two rich man who is trading.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The item being traded is an ivory."
+  },
+  {
+    "index": 403,
+    "source": "进行交易的是两个富翁。",
+    "reference": "What is traded is the ivory.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The transaction was conducted by two millionaires."
+  },
+  {
+    "index": 404,
+    "source": "品味的是一个精彩的故事。",
+    "reference": "What is tasted is a wonderful story.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being savored is a wonderful story."
+  },
+  {
+    "index": 405,
+    "source": "品味的是一个路边的老爷爷。",
+    "reference": "An old grandfather by the side of the road is tasting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one savoring it is an old man by the roadside."
+  },
+  {
+    "index": 406,
+    "source": "讲解的是这个古老建筑物的历史。",
+    "reference": "What is explained is the history of this ancient building.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The explanation focuses on the history of this ancient building."
+  },
+  {
+    "index": 407,
+    "source": "讲解的是一个很专业的导游。",
+    "reference": "It is a very professional tour guide who is explaining.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one giving the explanation is a highly professional tour guide."
+  },
+  {
+    "index": 408,
+    "source": "截取的是一段视频。",
+    "reference": "What is intercepted is a video.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The captured content is a video clip."
+  },
+  {
+    "index": 409,
+    "source": "截取的是正在寻找图片的同学。",
+    "reference": "The classmates who are looking for pictures are intercepting it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The captured ones are students who are searching for images."
+  },
+  {
+    "index": 410,
+    "source": "计算的是一道比较困难的物理题目。",
+    "reference": "What is being calculated ia a difficult physical problem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being calculated is a relatively difficult physics problem."
+  },
+  {
+    "index": 411,
+    "source": "计算的是我们班上的数学课代表。",
+    "reference": "The math class representative in our class is calculating.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one handling the calculations is our class's mathematics representative."
+  },
+  {
+    "index": 412,
+    "source": "指挥的是一场重要的足球比赛。",
+    "reference": "What is being conducted is an important football match.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being directed is an important football match."
+  },
+  {
+    "index": 413,
+    "source": "指挥的是一个专业的足球教练。",
+    "reference": "A professional football coach is conducting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one in charge is a professional football coach."
+  },
+  {
+    "index": 414,
+    "source": "领导的是重大工程项目。",
+    "reference": "What is led is the major engineering projects.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leadership is responsible for major engineering projects."
+  },
+  {
+    "index": 415,
+    "source": "领导的是这个国家的领导人。",
+    "reference": "The leader of this country is leading.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who leads is the leader of this country."
+  },
+  {
+    "index": 416,
+    "source": "比试的是数学能力。",
+    "reference": "What is competed is the mathematical ability.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The contest tests mathematical ability."
+  },
+  {
+    "index": 417,
+    "source": "比试的是两个数学天才。",
+    "reference": "Two math geniuses have a competition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The contest is between two mathematical geniuses."
+  },
+  {
+    "index": 418,
+    "source": "雕刻的是一个木匠。",
+    "reference": "A carpenter is carving.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The carving depicts a carpenter."
+  },
+  {
+    "index": 419,
+    "source": "雕刻的是一块大理石。",
+    "reference": "What is carved is a piece of marble.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What is being carved is a piece of marble."
+  },
+  {
+    "index": 420,
+    "source": "检查课本的领导。",
+    "reference": "It is leader who is checking the textbook.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leader inspecting the textbooks."
+  },
+  {
+    "index": 421,
+    "source": "检查课本的价格。",
+    "reference": "Check the price of the textbook.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Check the price of the textbook."
+  },
+  {
+    "index": 422,
+    "source": "吃鱼的尾巴。",
+    "reference": "Eat the tail of the fish.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Eating the tail of the fish."
+  },
+  {
+    "index": 423,
+    "source": "吃鱼的顾客。",
+    "reference": "It is the customers who are eating the fish.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Customers eating fish."
+  },
+  {
+    "index": 424,
+    "source": "讨论数学的公式。",
+    "reference": "Discuss mathematical formulas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Discuss mathematical formulas."
+  },
+  {
+    "index": 425,
+    "source": "讨论数学的会议。",
+    "reference": "It is a meeting to discuss mathematics.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A conference discussing mathematics."
+  },
+  {
+    "index": 426,
+    "source": "抹桌子的毛巾。",
+    "reference": "The towel is used for wiping the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "a towel for wiping tables"
+  },
+  {
+    "index": 427,
+    "source": "抹桌子的桌脚。",
+    "reference": "Wipe the table legs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Wipe the table legs."
+  },
+  {
+    "index": 428,
+    "source": "迷失道路的方向。",
+    "reference": "Lost the direction of the road.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lost the direction of the road."
+  },
+  {
+    "index": 429,
+    "source": "迷失道路的游客。",
+    "reference": "The tourists who lost the road.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tourists who have lost their way."
+  },
+  {
+    "index": 430,
+    "source": "揭露真相的谜底。",
+    "reference": "Reveal the mystery of the truth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The answer that reveals the truth."
+  },
+  {
+    "index": 431,
+    "source": "揭露真相的记录。",
+    "reference": "It is a record that reveals the turth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A record exposing the truth."
+  },
+  {
+    "index": 432,
+    "source": "记录现实的场景。",
+    "reference": "Record realistic scenes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Document real scenes"
+  },
+  {
+    "index": 433,
+    "source": "记录现实的影片。",
+    "reference": "It is a film that record the reality.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Films that document reality."
+  },
+  {
+    "index": 434,
+    "source": "遮住脸的面纱。",
+    "reference": "The veil can be used to cover face.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The veil that covers the face."
+  },
+  {
+    "index": 435,
+    "source": "遮住脸的青春痘。",
+    "reference": "Cover the acne in face.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Acne covering the face."
+  },
+  {
+    "index": 436,
+    "source": "讲解题目的解决方法。",
+    "reference": "Explain the solution of the problem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Explain the solution to the problem."
+  },
+  {
+    "index": 437,
+    "source": "讲解题目的老师。",
+    "reference": "The teacher is explaining the problem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A teacher who explains problems."
+  },
+  {
+    "index": 438,
+    "source": "检索货物的清单。",
+    "reference": "Retrieve a list of goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Retrieve the inventory list."
+  },
+  {
+    "index": 439,
+    "source": "检索货物的领导人。",
+    "reference": "The leader who is retrieving the goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leader responsible for retrieving the goods."
+  },
+  {
+    "index": 440,
+    "source": "视察私营公司的政府工作人员。",
+    "reference": "It is the government staff who is inspecting the private company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Government officials inspecting private companies."
+  },
+  {
+    "index": 441,
+    "source": "视察私营公司的运转情况。",
+    "reference": "Inspect the operation of the private company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Inspect the operations of private companies."
+  },
+  {
+    "index": 442,
+    "source": "搭建快速的舞台。",
+    "reference": "The stage that was built fast.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Build a rapid stage."
+  },
+  {
+    "index": 443,
+    "source": "搭建闪亮的舞台。",
+    "reference": "Build a brightly lit stage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Build a shining stage."
+  },
+  {
+    "index": 444,
+    "source": "培养细心的细菌。",
+    "reference": "The bacteria that is cultivated carefully .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Cultivate careful bacteria."
+  },
+  {
+    "index": 445,
+    "source": "培养细小的细菌。",
+    "reference": "Cultivate tiny bacteria.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Culture tiny bacteria."
+  },
+  {
+    "index": 446,
+    "source": "批阅马虎的文件。",
+    "reference": "The documents that are reviewed carelessly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Review carelessly prepared documents."
+  },
+  {
+    "index": 447,
+    "source": "批阅重要的文件。",
+    "reference": "Review important documents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Review important documents"
+  },
+  {
+    "index": 448,
+    "source": "拆除缓慢的建筑。",
+    "reference": "The building that was demolished slowly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Demolish the slow-progressing buildings."
+  },
+  {
+    "index": 449,
+    "source": "拆除破旧的建筑。",
+    "reference": "Demolish the dilapidated building.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Demolish the dilapidated buildings."
+  }
+]

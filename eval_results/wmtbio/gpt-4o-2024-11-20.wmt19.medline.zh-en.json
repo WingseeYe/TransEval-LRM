@@ -1,0 +1,1946 @@
+[
+  {
+    "index": 0,
+    "source": "2011年由国际肺癌研究协会（International Association for the Study of Lung Cancer, IASLC）、美国胸科学会（American Thoracic Society, ATS）和欧洲呼吸学会（European Respiratory Society, ERS）发表的肺腺癌国际多学科分类共识意见，首次提出了分别适用于手术切除标本、小活检及细胞学的分类方法，不再使用细支气管肺泡癌的名称，新增原位腺癌和微浸润性腺癌的命名，对浸润性腺癌提倡全面而详细的组织学诊断模式等。",
+    "reference": "The international multidisciplinary classification of lung adenocarcinoma sponsored by International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society in 2011, addresses the classification which is appropriate for resection specimens, small biopsies and cytology, respectively for the first time. For resection specimens, new concepts are introduced such as adenocarcinoma in situ (AIS) and minimally invasive adenocarcinoma (MIA); Invasive adenocarcinomas are recommended to be classified by comprehensive histologic pattern.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In 2011, the International Association for the Study of Lung Cancer (IASLC), the American Thoracic Society (ATS), and the European Respiratory Society (ERS) published an international multidisciplinary classification consensus for lung adenocarcinoma. This was the first time classification methods specifically applicable to surgical resection specimens, small biopsies, and cytology were proposed. The term 'bronchioloalveolar carcinoma' was no longer used, and new terms such as 'adenocarcinoma in situ' and 'minimally invasive adenocarcinoma' were introduced. For invasive adenocarcinoma, a comprehensive and detailed histological diagnostic model was advocated."
+  },
+  {
+    "index": 1,
+    "source": "随着临床应用的深入，病理和临床医师对新分类的理解和应用在某些方面尚存在一定的困惑。",
+    "reference": "During the clinical practice, pathologists and clinicians have some confusions in understanding and application of to the new guideline to some extent.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "With the deepening of clinical applications, pathologists and clinicians still have certain confusions regarding the understanding and application of the new classification in some aspects."
+  },
+  {
+    "index": 2,
+    "source": "本文对这一肺腺癌的国际多学科分类新标准进行解读并就临床实践中所应该注意的问题进行分析和讨论。",
+    "reference": "This paper will interpret this new guideline, discuss and analyze the issues that need to be noticed in clinical application.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article interprets the new international multidisciplinary classification standards for lung adenocarcinoma and analyzes and discusses the issues that should be noted in clinical practice."
+  },
+  {
+    "index": 3,
+    "source": "用中医头针疗法对一名6岁脑瘫患儿进行治疗。",
+    "reference": "A 6-year-old patient with cerebral palsy was treated with Chinese scalp acupuncture.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Treat a 6-year-old child with cerebral palsy using traditional Chinese medicine scalp acupuncture therapy."
+  },
+  {
+    "index": 4,
+    "source": "每周对语言I区，语言II区，运动区域，足运动和感受区域以及平衡区域进行一次针灸，之后隔周进行一次针灸，共进行15次治疗。",
+    "reference": "The Speech I, Speech II, Motor, Foot motor and sensory, and Balance areas were stimulated once a week, then every other week for 15 sessions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Acupuncture is performed once a week on Language Area I, Language Area II, the motor area, the foot motor and sensory area, and the balance area, followed by acupuncture every other week, for a total of 15 treatments."
+  },
+  {
+    "index": 5,
+    "source": "在每次头针治疗之后，患者的构音困难、运动失调，以及腿部、臂部和手部无力症状得到显著改善，15次治疗之后，患者完全康复。",
+    "reference": "His dysarthria, ataxia, and weakness of legs, arms, and hands showed significant improvement from each scalp acupuncture treatment, and after 15 sessions, the patient had recovered completely.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After each scalp acupuncture treatment, the patient's articulation difficulties, ataxia, and weakness in the legs, arms, and hands showed significant improvement. After 15 treatments, the patient fully recovered."
+  },
+  {
+    "index": 6,
+    "source": "该病例证明，中医头针疗法在治疗儿童脑瘫方面能够取得令人满意的效果。",
+    "reference": "This case report demonstrates that Chinese scalp acupuncture can satisfactorily treat a child with cerebral palsy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This case demonstrates that Chinese scalp acupuncture therapy can achieve satisfactory results in treating cerebral palsy in children."
+  },
+  {
+    "index": 7,
+    "source": "当前仍需要进一步的研究和临床试验，对头针疗法在治疗脑瘫方面的潜在价值进行更充分的开发和利用。",
+    "reference": "More research and clinical trials are needed so that the potential of scalp acupuncture to treat cerebral palsy can be fully explored and utilized.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Further research and clinical trials are still needed to more fully develop and utilize the potential value of scalp acupuncture therapy in the treatment of cerebral palsy."
+  },
+  {
+    "index": 8,
+    "source": "然而，在皮肤淋巴瘤的治疗过程中，人们对该疗法的使用、有效性和安全性知之甚少。",
+    "reference": "However, little is known about its use, effectiveness, and safety in the treatment of cutaneous lymphoma.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, during the treatment of cutaneous lymphoma, little is known about the use, effectiveness, and safety of this therapy."
+  },
+  {
+    "index": 9,
+    "source": "病例报告：两名原发性皮肤B-细胞淋巴瘤患者（pT2bcNxM0滤泡中心和pT2acNxM0边缘区域）取消或推迟推荐的常规治疗，并接受高剂量、可引起发热的槲寄生疗法；通过瘤内、皮下和静脉注射方式进行组合给药，其中一名患者还接受了全身过热疗法。",
+    "reference": "CASE REPORT Two patients with primary cutaneous B-cell lymphoma (pT2bcNxM0 follicle center and pT2ac-NxM0 marginal zone) either declined or postponed recommended conventional treatment and received high-dose, fever-inducing mistletoe treatment; a combination of intratumoral, subcutaneous, and intravenous application was given; and one patient also underwent whole-body hyperthermia.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Case report: Two patients with primary cutaneous B-cell lymphoma (pT2bcNxM0 follicle center and pT2acNxM0 marginal zone) canceled or delayed the recommended standard treatment and received high-dose, fever-inducing mistletoe therapy; a combination of intratumoral, subcutaneous, and intravenous administration was used, and one patient also underwent whole-body hyperthermia therapy."
+  },
+  {
+    "index": 10,
+    "source": "这两名患者在分别接受12.98g 和 4.63g累积剂量的槲寄生提取物治疗后，分别在12个月和8个月后淋巴瘤出现退化。",
+    "reference": "The lymphoma regressed over a period of 12 and 8 months, respectively, and after administration of a cumulative dose of 12.98 g and 4.63 g mistletoe extract, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After receiving cumulative doses of 12.98g and 4.63g of mistletoe extract treatment, these two patients experienced lymphoma regression after 12 months and 8 months, respectively."
+  },
+  {
+    "index": 11,
+    "source": "迄今为止，即在开始治疗的3年半之后，患者病情正处于缓解期。",
+    "reference": "The patients are in remission to date, 3.5 years after commencement of treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "So far, that is, three and a half years after starting treatment, the patient's condition is in remission."
+  },
+  {
+    "index": 12,
+    "source": "在整个观察期期间，两名患者都未接受常规癌症治疗。",
+    "reference": "Neither patient received conventional cancer treatment during the entire observation period.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "During the entire observation period, neither patient received conventional cancer treatment."
+  },
+  {
+    "index": 13,
+    "source": "人智医学是一种综合性的多模式治疗体系，它建立在对人类与大自然，以及对病症和治疗的整体理解之上。",
+    "reference": "Anthroposophic medicine is an integrative multimodal treatment system based on a holistic understanding of man and nature and of disease and treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Anthroposophic medicine is a comprehensive multi-modal treatment system built upon a holistic understanding of humans and nature, as well as of illnesses and treatments."
+  },
+  {
+    "index": 14,
+    "source": "其基础为四层构成力概念和三重人体体质模型。",
+    "reference": "It builds on a concept of four levels of formative forces and on the model of a three-fold human constitution.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Its foundation is the concept of four-layer structural forces and the three-tier human body constitution model."
+  },
+  {
+    "index": 15,
+    "source": "在大型医院以及实际的医疗实践中，人智医学与传统医学是结合在一起使用的。",
+    "reference": "Anthroposophic medicine is integrated with conventional medicine in large hospitals and medical practices.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In large hospitals and actual medical practice, anthroposophic medicine is used in combination with traditional medicine."
+  },
+  {
+    "index": 16,
+    "source": "它采用从植物、矿物和动物中提取的药物；采用艺术疗法、精神疗法和节律性按摩；采用咨询、心理治疗和特种护理技术，比如外用搽剂等。",
+    "reference": "It applies medicines derived from plants, minerals, and animals; art therapy, eurythmy therapy, and rhythmical massage; counseling; psychotherapy; and specific nursing techniques such as external embrocation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It uses medicines extracted from plants, minerals, and animals; employs art therapy, psychotherapy, and rhythmic massage; and utilizes counseling, psychological therapy, and specialized care techniques, such as external applications like ointments."
+  },
+  {
+    "index": 17,
+    "source": "人智医疗由医生、治疗师和护士提供。",
+    "reference": "Anthroposophic healthcare is provided by medical doctors, therapists, and nurses.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Human Intelligence Medical Care is provided by doctors, therapists, and nurses."
+  },
+  {
+    "index": 18,
+    "source": "一项卫生技术评估报告及其最近的更新文档列举了 265 项针对人智医学效用和效益的临床研究。",
+    "reference": "A Health-Technology Assessment Report and its recent update identified 265 clinical studies on the efficacy and effectiveness of anthroposophic medicine.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A health technology assessment report and its recent update documents listed 265 clinical studies on the medical utility and benefits of anthroposophic medicine."
+  },
+  {
+    "index": 19,
+    "source": "其研究结果被阐述为这种疗法具有压倒性的正面优势。",
+    "reference": "The outcomes were described as predominantly positive.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The research findings were described as showing overwhelming positive benefits of this therapy."
+  },
+  {
+    "index": 20,
+    "source": "这些研究以及其他各种特定的安全性研究并没有发现其重大的风险，而是提示具有很好的耐受性。",
+    "reference": "These studies as well as a variety of specific safety studies found no major risk but good tolerability.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These studies, along with various other specific safety studies, have not identified significant risks but rather suggest good tolerability."
+  },
+  {
+    "index": 21,
+    "source": "经济分析也发现它具有有利的成本构成。",
+    "reference": "Economic analyses found a favorable cost structure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Economic analysis also found that it has a favorable cost structure."
+  },
+  {
+    "index": 22,
+    "source": "人智医疗在患者报告中获得了很高的满意度。",
+    "reference": "Patients report high satisfaction with anthroposophic healthcare.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "RenZhi Medical has received high satisfaction in patient reports."
+  },
+  {
+    "index": 23,
+    "source": "作为生活护理的一部分，营养疗法是 2 型糖尿病患者的推荐疗法。",
+    "reference": "Nutrition therapy as part of lifestyle care is recommended for people with type 2 diabetes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "As part of life care, nutritional therapy is a recommended treatment for patients with type 2 diabetes."
+  },
+  {
+    "index": 24,
+    "source": "然而，大多数糖尿病患者并不遵守此疗法准则。",
+    "reference": "However, most people with diabetes do not follow this guideline.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, most diabetes patients do not adhere to this therapeutic guideline."
+  },
+  {
+    "index": 25,
+    "source": "改变饮食习惯涉及到获得知识以及掌握实践技能，如购物、做饭和储藏食物。",
+    "reference": "Changing eating habits involves obtaining knowledge and building practical skills such as shopping, meal preparation, and food storage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Changing dietary habits involves acquiring knowledge and mastering practical skills, such as shopping, cooking, and storing food."
+  },
+  {
+    "index": 26,
+    "source": "就像健身教练利用自己的特殊健身知识提高教导的有效性，受过健康教练培训的认证厨师或许可将烹饪知识与教练结合起来，以改善客户的食物选择和生活方式。",
+    "reference": "Just as fitness coaches use their specific knowledge base in fitness to enhance the effectiveness of their coaching, credentialed chefs trained as health coaches might combine their culinary expertise with coaching in order to improve clients' food choices and lifestyles.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Just as fitness trainers use their specialized fitness knowledge to enhance the effectiveness of their teaching, certified chefs trained as health coaches may combine culinary knowledge with coaching to improve clients' food choices and lifestyles."
+  },
+  {
+    "index": 27,
+    "source": "本报告记录了一名 55 岁的单身独居白人男性医生的病例，该病例最近被诊断为 2 型糖尿病，有慢性压力、久坐行为及不良饮食习惯。",
+    "reference": "This report documents the case of a 55-year-old white male physician, single and living alone, who was recently diagnosed with type 2 diabetes and reported chronic stress, sedentary behavior, and unhealthy eating habits.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This report documents the case of a 55-year-old single, white male doctor living alone, who was recently diagnosed with type 2 diabetes, along with chronic stress, sedentary behavior, and poor dietary habits."
+  },
+  {
+    "index": 28,
+    "source": "患者参加了为期 8 周的厨师教练计划，由受过健康教练 培训的厨师通过 Skype 提供一对一的 30 分钟教练课程。",
+    "reference": "He participated in a chef coaching program of 8 weekly one-on-one 30-minute coaching sessions via Skype delivered by a chef trained as a health coach.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The patient participated in an 8-week chef coaching program, which included 30-minute one-on-one coaching sessions provided via Skype by chefs trained in health coaching."
+  },
+  {
+    "index": 29,
+    "source": "在前五节课时，患者的目标主要是烹饪技巧；不过，在成功实现这些目标后，患者更进一步地将目标扩展到其他生活领域，特别是运动和劳逸结合。",
+    "reference": "During the first five meetings, the patient's goals were primarily culinary; however, with his success in accomplishing these goals, the patient progressed and expanded his goals to include other lifestyle domains, specifically exercise and work-life balance.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "During the first five sessions, the patient's goals primarily focused on cooking skills; however, after successfully achieving these goals, the patient further expanded their objectives to other areas of life, particularly exercise and work-life balance."
+  },
+  {
+    "index": 30,
+    "source": "计划结束时，患者改善了营养和运动习惯，增强了进一步改善自我护理的信心，并改善了 HbA1c（从 8.8% 降低至 6.7% ；正常值为 <6.5%）等健康参数。",
+    "reference": "At the end of the program, the patient had improved both his nutritional and exercise habits, his confidence in further self-care improvement, and his health parameters such as HgA1c (8.8% to 6.7%; normal <6.5%).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "By the end of the program, the patient had improved their nutrition and exercise habits, gained confidence in further enhancing self-care, and improved health parameters such as HbA1c (reduced from 8.8% to 6.7%; normal value is <6.5%)."
+  },
+  {
+    "index": 31,
+    "source": "我们的结论是，厨师教练有可能帮助糖尿病患者改善其实际烹饪技巧并通过实际应用改善其饮食，此外，有可能帮助他们整体改善自我护理。",
+    "reference": "We conclude that chef coaching has the potential to help people with diabetes improve their practical culinary skills and implement them so that they eat better and, further, has the potential to help them improve their overall self-care.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Our conclusion is that chef coaches may help diabetic patients improve their practical cooking skills and enhance their diet through practical application. Additionally, they may assist in overall improvement of their self-care."
+  },
+  {
+    "index": 32,
+    "source": "我们打算进一步发展厨师教练，并根据其实施结果评估其应用潜力。",
+    "reference": "We intend to further develop chef coaching and assess its potential as we learn from its implementation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We plan to further develop chef coaching and evaluate its application potential based on the implementation results."
+  },
+  {
+    "index": 33,
+    "source": "心率变异性 (HRC)（在相邻心跳之间的时间间隔的变化）是相互依存的调节系统的一种紧急特性，在不同时段内发生，以适应环境和心理挑战。",
+    "reference": "Heart rate variability, the change in the time intervals between adjacent heartbeats, is an emergent property of interdependent regulatory systems that operates on different time scales to adapt to environmental and psychological challenges.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Heart rate variability (HRV) (the variation in time intervals between adjacent heartbeats) is an emergent property of interdependent regulatory systems, occurring over different time periods to adapt to environmental and psychological challenges."
+  },
+  {
+    "index": 34,
+    "source": "这篇文章简要回顾了心脏的神经调节，在心率变异性的极低频率节奏机制方面，提供了一些新的观点。",
+    "reference": "This article briefly reviews neural regulation of the heart and offers some new perspectives on mechanisms underlying the very low frequency rhythm of heart rate variability.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article briefly reviews the neural regulation of the heart and provides some new perspectives on the mechanisms of very low-frequency rhythms in heart rate variability."
+  },
+  {
+    "index": 35,
+    "source": "在健康风险和生理及心理自我调节能力评估讨论的背景下解读 HRV 节律。",
+    "reference": "Interpretation of heart rate variability rhythms in the context of health risk and physiological and psychological self-regulatory capacity assessment is discussed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Interpret HRV rhythms in the context of discussions on health risks and the assessment of physiological and psychological self-regulation capabilities."
+  },
+  {
+    "index": 36,
+    "source": "伴有心血管系统输入功能的更高级的大脑中枢集成输入的脊髓和延髓心血管监管中心，通过交感和副交感神经传出通路调节心率和血压。",
+    "reference": "The cardiovascular regulatory centers in the spinal cord and medulla integrate inputs from higher brain centers with afferent cardiovascular system inputs to adjust heart rate and blood pressure via sympathetic and parasympathetic efferent pathways.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The spinal cord and medullary cardiovascular regulatory centers, integrated with higher brain centers that include input from the cardiovascular system, regulate heart rate and blood pressure through sympathetic and parasympathetic efferent pathways."
+  },
+  {
+    "index": 37,
+    "source": "我们还讨论了先天性心脏神经系统和心脏大脑连接通路，借以传入信息并可以影响皮质下区，皮质前区和运动皮质区的活动。",
+    "reference": "We also discuss the intrinsic cardiac nervous system and the heart-brain connection pathways, through which afferent information can influence activity in the subcortical, frontocortical, and motor cortex areas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We also discussed the congenital cardiac nervous system and the heart-brain connection pathways, which transmit incoming information and can influence the activities of the subcortical region, prefrontal cortex, and motor cortex."
+  },
+  {
+    "index": 38,
+    "source": "此外，审查了使用实时的 HRV 反馈以提高自我调节能力。",
+    "reference": "In addition, the use of real-time HRV feedback to increase self-regulatory capacity is reviewed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In addition, the use of real-time HRV feedback to enhance self-regulation ability was examined."
+  },
+  {
+    "index": 39,
+    "source": "我们的结论是，心脏节律的特征在于在更长的时段上既有复杂性又有稳定性，这反映出这些内部自我调节系统的生理和心理功能状态。",
+    "reference": "We conclude that the heart's rhythms are characterized by both complexity and stability over longer time scales that reflect both physiological and psychological functional status of these internal self-regulatory systems.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Our conclusion is that the characteristics of heart rhythm lie in having both complexity and stability over longer periods, reflecting the physiological and psychological functional states of these internal self-regulating systems."
+  },
+  {
+    "index": 40,
+    "source": "胃食管反流病（Gastroesophageal Reflux Disease，GERD）与哮喘之间的关系虽然在成人中非常明确，但在儿科年龄组中则不甚明确。",
+    "reference": "The association between gastroesophageal reflux disease (GERD) and asthma, although well established in adults, is less strong in the pediatric age group.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The relationship between Gastroesophageal Reflux Disease (GERD) and asthma is very clear in adults, but not well-defined in the pediatric age group."
+  },
+  {
+    "index": 41,
+    "source": "质子泵疗法的好处在各年龄段有限。",
+    "reference": "Benefits of proton pump therapy are limited across age ranges.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The benefits of proton pump therapy are limited across all age groups."
+  },
+  {
+    "index": 42,
+    "source": "尽管有关对哮喘和 GERD 两者使用补充治疗的文献越来越多，但重点关注对 GERD-哮喘关系的治疗好处的研究很少。",
+    "reference": "While there is a growing body of literature on the use of complementary treatments for both asthma and GERD, few studies have focused on treatment benefits for the GERD-asthma association.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Although there is an increasing amount of literature on the use of complementary therapies for both asthma and GERD, studies focusing on the therapeutic benefits for the GERD-asthma relationship are rare."
+  },
+  {
+    "index": 43,
+    "source": "我们介绍了一位罹患哮喘和 GERD 的 2 岁男孩的病例，他对吸入式低剂量糖皮质激素、β 模拟疗法和 6 周质子泵抑制剂疗程无反应。",
+    "reference": "We present the case of a 2-year-old boy with asthma and GERD who was not responding to inhaled, low-dose corticosteroids, beta-mimetic therapy, and a 6-week course of proton pump inhibitor treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We presented the case of a 2-year-old boy with asthma and GERD who did not respond to inhaled low-dose corticosteroids, β-agonist therapy, and a 6-week course of proton pump inhibitors."
+  },
+  {
+    "index": 44,
+    "source": "我们注意到，对他使用健胃散联合颠茄草粉口服制剂（一种含有洋甘菊、颠茄草、铋和亚锑酸盐的人智学药物）时，症状逐渐消失。",
+    "reference": "We noted a gradual disappearance of symptoms when he was given an oral preparation of Pulvis stomachicus cum Belladonna, an anthroposophic medication containing Matricaria recutita, Atropa belladonna, bismuth, and antimonite.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We noticed that when he was treated with a combination of Stomach Powder and Belladonna Herb oral preparation (an anthroposophic medicine containing chamomile, belladonna herb, bismuth, and antimonite), the symptoms gradually disappeared."
+  },
+  {
+    "index": 45,
+    "source": "洋甘菊和铋已知具有胃部保护特性，颠茄草含有具有支气管舒张作用的抗胆碱能药物。",
+    "reference": "Matricaria recutita and bismuth have known gastric protective properties, and Atropa belladonna contains anticholinergic agents that have a bronchodilatory effect.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Chamomile and bismuth are known to have stomach-protective properties, and belladonna herb contains anticholinergic drugs with bronchodilatory effects."
+  },
+  {
+    "index": 46,
+    "source": "这些补充药物似乎有望缓解 GERD 相关哮喘的症状。",
+    "reference": "These complementary medications appear promising in terms of relieving the symptoms of GERD-associated asthma.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These supplementary medications seem promising in alleviating symptoms of GERD-related asthma."
+  },
+  {
+    "index": 47,
+    "source": "圆圈舞派生自民间舞蹈传统，现在风靡全球。",
+    "reference": "Circle dance, which derives from the tradition of folk dances, is practised worldwide.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Circle dance originated from folk dance traditions and is now popular worldwide."
+  },
+  {
+    "index": 48,
+    "source": "本文探讨对于参与者而言它的意义所在。",
+    "reference": "This article explores the meanings participants attribute to it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article explores its significance for the participants."
+  },
+  {
+    "index": 49,
+    "source": "对来自英国圆圈舞群体的39名学员、教师和网络教师培训计划组织者进行了深入采访。",
+    "reference": "In-depth interviews with 39 participants, teachers and coordinators of teacher training programmes from the circle dance network in the United Kingdom were undertaken.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In-depth interviews were conducted with 39 participants, teachers, and online teacher training program organizers from the UK circle dance community."
+  },
+  {
+    "index": 50,
+    "source": "应用建构基础理论法，建立了圆圈舞学员、教师和组织者这几个大类。",
+    "reference": "Applying a constructivist grounded theory approach, major categories, representing respectively the experiences of circle dance participants, teachers and coordinators, were developed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "By applying the foundational theory of construction, the major categories of circle dance participants, teachers, and organizers were established."
+  },
+  {
+    "index": 51,
+    "source": "本文集中讨论第一大类，这一类被称为“我不能想象生活中没有它”，涉及到22个舞者的经历。",
+    "reference": "This article specifically focuses on the first major category, termed \"I can't imagine life without it\", which relates to the experience of 22 dancers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article focuses on the first major category, which is referred to as 'I can't imagine life without it,' involving the experiences of 22 dancers."
+  },
+  {
+    "index": 52,
+    "source": "从休闲角度来看，研究揭示了参与者如何通过参加跳圆圈舞而产生一种意义感和满足感, 也揭示了这种休闲活动对人们福祉的潜在作用。",
+    "reference": "From an occupational perspective, the study reveals how participants realise a sense of meaning and satisfaction through engagement in circle dance and the potential contribution of this occupation to well-being.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "From a leisure perspective, the study reveals how participants derive a sense of meaning and satisfaction through participating in circle dancing, and also highlights the potential role of this leisure activity in people's well-being."
+  },
+  {
+    "index": 53,
+    "source": "在每个国家建立稳健的卫生基础设施是应对全球性卫生突发事件最有效的长期准备战略。",
+    "reference": "A robust health infrastructure in every country is the most effective long-term preparedness strategy for global health emergencies.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Establishing robust healthcare infrastructure in every country is the most effective long-term preparedness strategy for addressing global health emergencies."
+  },
+  {
+    "index": 54,
+    "source": "这不仅包括卫生系统及其人力资源,而且还包括各国有关卫生的法律基础设施: 赋予权力、义务并且有时限制政府和民间活动的法律和政策。",
+    "reference": "This includes not only health systems and their human resources, but also countries' legal infrastructure for health: the laws and policies that empower, obligate and sometimes limit government and private action.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This not only includes the health system and its human resources but also the legal infrastructure related to health in various countries: laws and policies that empower, obligate, and sometimes restrict government and civil activities."
+  },
+  {
+    "index": 55,
+    "source": "法律也是促进卫生和卫生防护的重要工具。",
+    "reference": "The law is also an important tool in health promotion and protection.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Law is also an important tool for promoting health and health protection."
+  },
+  {
+    "index": 56,
+    "source": "从政策的制定、执行,到科学评估法律对卫生的影响——公共卫生专业人员在卫生法律中发挥重要的作用。",
+    "reference": "Public health professionals play important roles in health law - from the development of policies, through their enforcement, to the scientific evaluation of the health impact of laws.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "From the formulation and implementation of policies to the scientific evaluation of the impact of laws on health, public health professionals play an important role in health law."
+  },
+  {
+    "index": 57,
+    "source": "成员国必须将其国家卫生法律和法规传达给世界卫生组织。",
+    "reference": "Member States are already mandated to communicate their national health laws and regulations to the World Health Organization (WHO).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Member states must communicate their national health laws and regulations to the World Health Organization."
+  },
+  {
+    "index": 58,
+    "source": "在本文中,我们建议世界卫生组织凭借其权威性和公信力在成员国中支持卫生法律领域的能力建设,并且使国家法律更加便于查阅、了解、监控和评估。",
+    "reference": "In this paper we propose that WHO has the authority and credibility to support capacity-building in the area of health law within Member States, and to make national laws easier to access, understand, monitor and evaluate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In this article, we propose that the World Health Organization leverage its authority and credibility to support capacity building in the field of health law among member states, and to make national laws more accessible, understandable, monitorable, and evaluable."
+  },
+  {
+    "index": 59,
+    "source": "我们认为应强力主张捐助方为公共卫生法律中心或部门提供经费,使这些中心或部门配备足够的工作人员,与区域内的同行稳健地联网并且融入世界卫生组织的主要工作中。",
+    "reference": "We believe a strong case can be made to donors for the funding of a public health law centre or unit, that has adequate staffing, is robustly networked with its regional counterparts and is integrated into the main work of WHO.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We believe that strong advocacy should be made for donors to provide funding for public health law centers or departments, enabling these centers or departments to be adequately staffed, establish robust networks with peers in the region, and integrate into the core work of the World Health Organization."
+  },
+  {
+    "index": 60,
+    "source": "这些部门或中心的任务将是在世界卫生组织的整个工作范围内确定与整合公共卫生法律中的科学与法律专业知识(包括技术和程序知识),并且开展和促进全球卫生政策监督。",
+    "reference": "The mission of the unit or centre would be to define and integrate scientific and legal expertise in public health law, both technical and programmatic, across the work of WHO, and to conduct and facilitate global health policy surveillance.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The tasks of these departments or centers will be to identify and integrate scientific and legal expertise (including technical and procedural knowledge) in public health law across the entire scope of the World Health Organization's work, as well as to conduct and promote global health policy monitoring."
+  },
+  {
+    "index": 61,
+    "source": "方法：利用TaqMan探针、特异性引物、鼠白血病反转录酶、T7-RNA聚合酶及PCR底物等建立TMA 扩增体系。",
+    "reference": "Methods: TMA system was established with TaqMan probes, specific primers, moloney murine leukemia virus (MMLV) reverse transcriptase, T7 RNA polymerase, and reaction substrates.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: Establish a TMA amplification system using TaqMan probes, specific primers, murine leukemia reverse transcriptase, T7 RNA polymerase, and PCR substrates."
+  },
+  {
+    "index": 62,
+    "source": "通过扩增一组10倍梯度稀释的HIV RNA转录标准品，评价TMA 体系的灵敏性。",
+    "reference": "The sensitivity of TMA was evaluated by amplifying a group of 10-fold diluted HIV RNA standards which were transcribed in vitro.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "By amplifying a set of 10-fold gradient-diluted HIV RNA transcription standards, evaluate the sensitivity of the TMA system."
+  },
+  {
+    "index": 63,
+    "source": "收集60例HIV感染患者的血浆，同时采用TMA试剂与Cobas Amplicor HIV-1 Monitor 1.5版试剂进行检测，比较两种方法的阳性检出率，并利用线性回归和Bland-Altman法分析两种技术的相关性和一致性。",
+    "reference": "A total of 60 plasma of HIV infected patients were measured by TMA and Cobas Amplicor HIV-1 Monitor test to observe the positive rate. The correlation and concordance of the above two technologies were investigated by linear regression and Bland-Altman analysis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Collect plasma samples from 60 HIV-infected patients, simultaneously using TMA reagents and Cobas Amplicor HIV-1 Monitor version 1.5 reagents for testing, compare the positive detection rates of the two methods, and analyze the correlation and agreement of the two techniques using linear regression and the Bland-Altman method."
+  },
+  {
+    "index": 64,
+    "source": "结果：成功建立了TMA 扩增体系，这种技术可以检测低至10 copies/mL 的HIV转录标准品。",
+    "reference": "Results: TMA system was established successfully and HIV RNA transcribed standards at concentration of equal or more than 10 copies/mL could be detected by TMA technology.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: Successfully established the TMA amplification system, which can detect HIV transcription standards as low as 10 copies/mL."
+  },
+  {
+    "index": 65,
+    "source": "对其中46 份TMA 检测和Cobas检测均有定量结果的血浆进行线性回归分析，两种技术有非常好的相关性(r=0.997，P<0.001)。",
+    "reference": "Linear regression was used for 46 samples which were positively detected by both TMA and Cobas reagents and showed an excellent correlation between the two reagents (r=0.997, P<0.001).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A linear regression analysis was performed on plasma samples with quantitative results from both 46 TMA tests and Cobas tests, showing a very strong correlation between the two techniques (r=0.997, P<0.001)."
+  },
+  {
+    "index": 66,
+    "source": "Bland-Altman分析显示两种检测方法定量Lg差值平均值为0.02，44份(95.7%)样本在95%的一致性界限内。",
+    "reference": "Bland-Altma analysis revealed that the mean different value of HIV RNA levels for denary logarithm was 0.02. Forty-four samples were included in 95% of credibility interval of concordance.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Bland-Altman analysis shows that the mean quantitative log difference between the two detection methods is 0.02, with 44 samples (95.7%) falling within the 95% limits of agreement."
+  },
+  {
+    "index": 67,
+    "source": "结论：TMA 技术具有高灵敏性潜能。",
+    "reference": "Conclusion: TMA system has the potential of high sensitivity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: TMA technology has the potential for high sensitivity."
+  },
+  {
+    "index": 68,
+    "source": "TMA 与real-time RT-PCR 检测血浆中HIV RNA具有非常好的相关性与一致性。",
+    "reference": "TMA and real-time RT-PCR keep an excellent correlation and consistency in detecting HIV RNA.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "TMA and real-time RT-PCR show very good correlation and consistency in detecting HIV RNA in plasma."
+  },
+  {
+    "index": 69,
+    "source": "目的：探讨前列腺素E2(prostaglandin E2，PGE2)对脂多糖(lipopolysaccharide，LPS)诱导的小鼠腹腔巨噬细胞高迁移率族蛋白1(high mobility group box-1 protein，HMGB1)表达的影响及其可能的机制。",
+    "reference": "To explore the effect of prostaglandin E2 (PGE2) on the expression of high mobility group box-1 protein (HMGB1) in peritoneal macrophages of septic mice and its possible mechanisms.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To explore the effect of prostaglandin E2 (PGE2) on the expression of high mobility group box-1 protein (HMGB1) in peritoneal macrophages of mice induced by lipopolysaccharide (LPS) and its possible mechanisms."
+  },
+  {
+    "index": 70,
+    "source": "方法：运用常规方法提取、培养小鼠腹腔巨噬细胞；采用LPS诱导小鼠腹腔巨噬细胞构建炎症模型；使用PGE2和前列腺素E受体(prostaglandin E receptor，EP)激动剂 、RNAi技术下调巨噬细胞EP4受体表达、抑制性表达DN.CREB质粒处理LPS诱导的小鼠腹腔巨噬细胞，并通过Western印迹测定HMGB1表达水平。",
+    "reference": "Methods: The mouse peritoneal macrophages were isolated and cultured by conventional methods.The model of inflammation was established by using lipopolysaccharide (LPS) to incubate with mouse peritoneal macrophages. The PGE2, prostaglandin E receptor (EP) 4 agonist, EP4 RNAi, and DN.CREB inhibitory plasmid were used to interfere with the LPS-treated mouse peritoneal macrophage. The levels of HMGB1 was determined by Western blot.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Methods: Conventional methods were used to extract and culture mouse peritoneal macrophages; an inflammation model was constructed by inducing mouse peritoneal macrophages with LPS; PGE2 and prostaglandin E receptor (EP) agonists were used, RNAi technology was applied to downregulate the expression of EP4 receptors in macrophages, and LPS-induced mouse peritoneal macrophages were treated with a dominant-negative CREB plasmid (DN.CREB). The expression level of HMGB1 was determined by Western blot analysis."
+  },
+  {
+    "index": 71,
+    "source": "目的 比较硫辛酸联合依帕司他与硫辛酸治疗糖尿病周围神经病变(DPN)患者的临床疗效。",
+    "reference": "Objective To compare the clinical effectiveness of lipoic acid combined with epalrestat versus lipoic acid in treating diabetic peripheral neuropathy(DPN).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To compare the clinical efficacy of lipoic acid combined with epalrestat versus lipoic acid alone in the treatment of diabetic peripheral neuropathy (DPN) patients."
+  },
+  {
+    "index": 72,
+    "source": "方法 收集2016年2月以前CNKI、CBM、维普、万方、PubMed等数据库中硫辛酸联合依帕司他对比硫辛酸治疗DPN的临床试验资料,采用Cochrane系统及Jadad评分对文章进行质量评估,RevMan5.3软件对多项研究结果的总体效应进行Meta分析。",
+    "reference": "Methods Randomized controlled trials(RCTs) and clinical controlled trials on lipoic acid versus epalrestat for DPN before February 2016 were searched through five databases:CNKI,CBM,VIP,Wanfang,and PubMed. The quality of the included trials were assessed using Cochrane software and Jadad scores. Data were analyzed with Review Manager 5.3 software.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Methods: Clinical trial data on the combination of lipoic acid and epalrestat compared to lipoic acid alone for the treatment of DPN were collected from databases such as CNKI, CBM, VIP, Wanfang, and PubMed prior to February 2016. The quality of the articles was assessed using the Cochrane system and Jadad scoring, and a meta-analysis of the overall effects of multiple study results was conducted using RevMan 5.3 software."
+  },
+  {
+    "index": 73,
+    "source": "结果 共纳入9项研究。",
+    "reference": "Results Nine studies were included in the analysis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A total of 9 studies were included."
+  },
+  {
+    "index": 74,
+    "source": "Meta分析结果显示:硫辛酸显效率明显低于硫辛酸联合依帕司他[RR=0.58,95% CI(0.47,0.71),P<0.00001],正中运动神经传导速度[WMD=-4.94,95% CI(-7.41,-2.46),P<0.0001]、腓总运动神经传导速度[WMD=-5.08,95% CI(-7.68,-2.49),P=0.0001]、正中感觉神经传导速度[WMD=-4.24,95% CI(-6.20,-2.29),P<0.0001]和腓总感觉神经传导速度[WMD=-3.66,95% CI(-5.02,-2.31),P<0.00001]也明显低于联合用药。",
+    "reference": "Meta analysis showed that the lipoic aid monotherapy was significantly inferior to lipoic acid-epalerestat combination therapy [RR=0.58,95%Cl(0.47,0.71),P<0.00001]. Inferiority of the lipoic acid monotherapy was also shown in nerve conduction velocity with WMDs of-4.94 [95%Cl(-7.41,-2.46),P<0.0001] for median motor nerve conduction velocity(MNCV),-5.08 [95%Cl(-7.68,-2.49),P=0.0001] for peroneal MNCV,-4.24 [95%Cl(-6.20,-2.29),P<0.0001] for median sensory nerve conduction velocity(SNCV),and-3.66 [95%Cl(-5.02,-2.31),P<0.00001] for peroneal SNCV.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The meta-analysis results show that the efficacy of lipoic acid is significantly lower than that of lipoic acid combined with epalrestat [RR=0.58, 95% CI (0.47, 0.71), P<0.00001]. The median motor nerve conduction velocity [WMD=-4.94, 95% CI (-7.41, -2.46), P<0.0001], common peroneal motor nerve conduction velocity [WMD=-5.08, 95% CI (-7.68, -2.49), P=0.0001], median sensory nerve conduction velocity [WMD=-4.24, 95% CI (-6.20, -2.29), P<0.0001], and common peroneal sensory nerve conduction velocity [WMD=-3.66, 95% CI (-5.02, -2.31), P<0.00001] are also significantly lower than those of the combined therapy."
+  },
+  {
+    "index": 75,
+    "source": "敏感性分析显示结果稳健。",
+    "reference": "Sensitivity analysis showed that the results were robust.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sensitivity analysis shows robust results."
+  },
+  {
+    "index": 76,
+    "source": "但纳入研究存在设计报道简单、主观指标少、随访时间短等问题。",
+    "reference": "However,the included trials were limited by simple design,few subjective indicators,and short follow-up time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, the studies included have issues such as simple design reporting, few subjective indicators, and short follow-up periods."
+  },
+  {
+    "index": 77,
+    "source": "结论 硫辛酸联合依帕司他可提高显效率,增加正中或腓总神经的运动神经传导速度和感觉神经传导速度。",
+    "reference": "Conclusions Lipoic acid combined with epalrestat is better than lipoic acid alone in the treatment of DPN,as well as the MNCV and SNCV of median or peroneal nerve.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: The combination of lipoic acid and epalrestat can improve the efficiency rate and increase the motor nerve conduction velocity and sensory nerve conduction velocity of the median or common peroneal nerve."
+  },
+  {
+    "index": 78,
+    "source": "为丰富产紫杉醇植物内生真菌资源库，从曼地亚红豆杉Taxus media 茎中分离得到一株产紫杉醇的内生真菌TMS-26。",
+    "reference": "To enrich the resource pool of endophytic fungi from plants which produce taxol, a taxol-producing endophytic fungus TMS-26 was isolated from the stem of Taxus Media.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To enrich the resource bank of paclitaxel-producing endophytic fungi, a paclitaxel-producing endophytic fungus, TMS-26, was isolated from the stem of Taxus media."
+  },
+  {
+    "index": 79,
+    "source": "通过对TMS-26 的发酵提取物进行高效液相色谱分析，发现其具有与紫杉醇标准品 (4.545 min)相近的色谱特征峰。",
+    "reference": "The result of high performance liquid chromatography (HPLC) showed that TMS-26 extract exhibited similar chromatographic peaks and retention time (4.545 min) with authentic taxol.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Through high-performance liquid chromatography analysis of the fermentation extract of TMS-26, it was found to have chromatographic characteristic peaks similar to those of the paclitaxel standard (4.545 min)."
+  },
+  {
+    "index": 80,
+    "source": "进一步通过液质联用仪检测发现，内生真菌TMS-26 的发酵提取物中具有与紫杉醇标准品((M+Na)+=876) 相近的质谱特征峰，表明内生真菌TMS-26 能够产生紫杉醇。",
+    "reference": "Then mass spectrometry (MS) analysis further confirmed that TMS-26 extracts contained the same mass peaks with authentic taxol ((M+Na)+=876). These indicated that the isolated endophytic fungus TMS-26 can produce taxol.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Further detection using a liquid chromatography-mass spectrometry (LC-MS) instrument revealed that the fermentation extract of the endophytic fungus TMS-26 exhibited mass spectrometry characteristic peaks similar to those of the paclitaxel standard ((M+Na)+=876), indicating that the endophytic fungus TMS-26 is capable of producing paclitaxel."
+  },
+  {
+    "index": 81,
+    "source": "数百万人口，尤其是中低收入国家的人们，往往由于负担不起而无法获得足够有效的药品。",
+    "reference": "Millions of people, particularly in low- and middle-income countries, lack access to effective pharmaceuticals, often because they are unaffordable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hundreds of millions of people, especially those in low- and middle-income countries, often cannot access adequate and effective medicines due to unaffordability."
+  },
+  {
+    "index": 82,
+    "source": "世界贸易组织 (WTO) 2001 年部长级会议通过了关于《与贸易相关的知识产权协议》(TRIPS) 和公共卫生的《多哈宣言》。",
+    "reference": "The 2001 Ministerial Conference of the World Trade Organization (WTO) adopted the Doha Declaration on the TRIPS (Trade-Related Aspects of Intellectual Property Rights) Agreement and Public Health.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The World Trade Organization (WTO) adopted the Doha Declaration on the TRIPS Agreement and Public Health at its 2001 Ministerial Conference."
+  },
+  {
+    "index": 83,
+    "source": "该宣言审视了知识产权对新药开发和药品价格的影响。",
+    "reference": "The declaration recognized the implications of intellectual property rights for both new medicine development and the price of medicines.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The declaration examines the impact of intellectual property on new drug development and drug prices."
+  },
+  {
+    "index": 84,
+    "source": "该宣言概述了 WTO 成员为确保所有人都可获得药品而采取的措施，即 TRIPS 灵活性措施。",
+    "reference": "The declaration outlined measures, known as TRIPS flexibilities, that WTO Members can take to ensure access to medicines for all.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The declaration outlines the measures taken by WTO members to ensure access to medicines for all, namely the TRIPS flexibility measures."
+  },
+  {
+    "index": 85,
+    "source": "这些措施包括药品专利强制许可和最不发达国家药品流转措施。",
+    "reference": "These measures include compulsory licensing of medicines patents and the least-developed countries pharmaceutical transition measure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These measures include compulsory licensing of drug patents and pharmaceutical circulation measures for the least developed countries."
+  },
+  {
+    "index": 86,
+    "source": "本研究的目的是记录 2001 年至 2016 年间使用 TRIPS 灵活性措施获取价格较低的非专利药品的情况。",
+    "reference": "The aim of this study was to document the use of TRIPS flexibilities to access lower-priced generic medicines between 2001 and 2016.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The purpose of this study is to document the use of TRIPS flexibility measures to obtain lower-priced non-patented medicines from 2001 to 2016."
+  },
+  {
+    "index": 87,
+    "source": "总计确认了 89 个国家 176 个可能使用 TRIPS 灵活性措施的案例：100 (56.8%) 例涉及强制许可或公共非商业使用许可证，40 (22.7%) 例援引了最不发达国家的医药流转措施。",
+    "reference": "Overall, 176 instances of the possible use of TRIPS flexibilities by 89 countries were identified: 100 (56.8%) involved compulsory licences or public noncommercial use licences and 40 (22.7%) involved the least-developed countries pharmaceutical transition measure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A total of 89 countries and 176 cases of potential use of TRIPS flexibilities were identified: 100 cases (56.8%) involved compulsory licenses or public non-commercial use licenses, and 40 cases (22.7%) invoked pharmaceutical circulation measures for least developed countries."
+  },
+  {
+    "index": 88,
+    "source": "其余案例为：1 例平行进口；3 例研究异常；和 32 例非专利相关措施。",
+    "reference": "The remainder were: 1 case of parallel importation; 3 research exceptions; and 32 non-patent-related measures.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The remaining cases are: 1 case of parallel import; 3 cases of research anomalies; and 32 cases of non-patent-related measures."
+  },
+  {
+    "index": 89,
+    "source": "在 176 个案例中，有 152 (86.4%) 例得以执行。",
+    "reference": "Of the 176 instances, 152 (86.4%) were implemented.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Out of 176 cases, 152 (86.4%) were executed."
+  },
+  {
+    "index": 90,
+    "source": "它们涵盖了治疗 14 种不同疾病的药品。",
+    "reference": "They covered products for treating 14 different diseases.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They cover medications for treating 14 different diseases."
+  },
+  {
+    "index": 91,
+    "source": "但是，有 137 (77.8%) 例涉及用于人类免疫缺陷病毒感染和获得性免疫缺陷综合征或相关疾病的药品。",
+    "reference": "However, 137 (77.8%) concerned medicines for human immunodeficiency virus infection and acquired immune deficiency syndrome or related diseases.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, there were 137 cases (77.8%) involving drugs used for human immunodeficiency virus infection and acquired immunodeficiency syndrome or related diseases."
+  },
+  {
+    "index": 92,
+    "source": "我们发现 TRIPS 灵活性措施的使用比通常假定的更为频繁。",
+    "reference": "The use of TRIPS flexibilities was found to be more frequent than is commonly assumed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We found that the use of TRIPS flexibility measures is more frequent than commonly assumed."
+  },
+  {
+    "index": 93,
+    "source": "鉴于当今各国在获取高价专利药品方面所面临的问题，TRIPS 灵活性措施中提供的获取低成本通用药品药物的实用性合法途径变得越来越重要。",
+    "reference": "Given the problems faced by countries today in procuring high-priced, patented medicines, the practical, legal pathway provided by TRIPS flexibilities for accessing lower-cost generic equivalents is increasingly important.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Given the challenges faced by countries today in accessing expensive patented medicines, the practical and legal pathways provided by TRIPS flexibility measures for obtaining low-cost generic drugs are becoming increasingly important."
+  },
+  {
+    "index": 94,
+    "source": "玉米赤霉烯酮 (Zearalenone，ZEN) 及衍生物是一类主要由镰刀菌属的真菌产生的非甾体雌激素类真菌毒素，广泛存在于玉米、大麦、小麦和高粱等谷物饲料及其副产品中，严重危害牲畜及人类健康，迫切需要相关的技术对ZEN 进行降解脱毒。",
+    "reference": "Zearalenone (ZEN) and its derivatives are non-steroidal estrogenic mycotoxins mainly produced by Fusarium species. They are widely distributed in grain feeds originated from maize, barley, wheat and sorghum, causing serious harm to animal and human health. Currently, there is a pressing need of an efficient technology for ZEN degradation and detoxification.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Zearalenone (ZEN) and its derivatives are a class of non-steroidal estrogenic mycotoxins primarily produced by fungi of the Fusarium genus. They are widely present in cereal feeds such as corn, barley, wheat, and sorghum, as well as their by-products, posing serious threats to livestock and human health. There is an urgent need for relevant technologies to degrade and detoxify ZEN."
+  },
+  {
+    "index": 95,
+    "source": "IFN-λ1 是Ⅲ型干扰素家族的一个成员，具有与Ⅰ型干扰素相似的功能。",
+    "reference": "IFN-λ1 is a member of a new family of interferons called type Ⅲ IFNs with similar functions to type ⅠIFNs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "IFN-λ1 is a member of the type III interferon family and has functions similar to type I interferons."
+  },
+  {
+    "index": 96,
+    "source": "此前，我们已经从毕赤酵母表达获得了可溶性重组人干扰素-λ1。",
+    "reference": "Previously we obtained recombinant soluble human rhIFN-λ1 from Pichia pastoris.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Previously, we had obtained soluble recombinant human interferon-λ1 expressed from Pichia pastoris."
+  },
+  {
+    "index": 97,
+    "source": "然而，毕赤酵母表达中的高糖基化带来了免疫原性，影响了蛋白质的生产纯化效率。",
+    "reference": "However, the hyper-glycosylation from P. pastoris brings immunogenicity and low purification recovery rate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, the high glycosylation in Pichia pastoris expression introduces immunogenicity, affecting the efficiency of protein production and purification."
+  },
+  {
+    "index": 98,
+    "source": "为了克服这个缺点，文中构建了一种干扰素突变体 (rhIFN-λ1-Nm)，定点突变潜在糖基化位点。",
+    "reference": "To overcome this disadvantage, in this study, we constructed an rhIFN-λ1 mutant (rhIFN-λ1-Nm) devoid of the potential N-glycosylation sites by site-directed mutagenesis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To overcome this drawback, the article constructed an interferon mutant (rhIFN-λ1-Nm) with site-directed mutation at potential glycosylation sites."
+  },
+  {
+    "index": 99,
+    "source": "AOX1 启动子与α 因子信号序列存在的情况下，用甲醇诱导成功地实现了rhIFN-λ1-Nm 在毕赤酵母GS115 胞外分泌表达。",
+    "reference": "rhIFN-λ1-Nm was successfully expressed and secreted extracellularly in P. pastoris (GS115) using methanol inducible AOX1 promoter with α-mating factor signal sequence.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In the presence of the AOX1 promoter and the α-factor signal sequence, rhIFN-λ1-Nm was successfully expressed extracellularly in Pichia pastoris GS115 through methanol induction."
+  },
+  {
+    "index": 100,
+    "source": "我们分析了雌激素受体阳性乳腺癌（n=11）和非乳腺癌（n=17）的绝经前女性乳房皮下脂肪组织中雌激素浓度和雌激素调节酶的基因表达。",
+    "reference": "We analyzed estrogen concentrations and gene expression of estrogen-regulating enzymes in breast subcutaneous adipose tissue in premenopausal women with (n = 11) and without (n = 17) estrogen receptor-positive breast cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We analyzed the estrogen concentration and gene expression of estrogen-regulating enzymes in the subcutaneous adipose tissue of premenopausal women with estrogen receptor-positive breast cancer (n=11) and non-breast cancer (n=17)."
+  },
+  {
+    "index": 101,
+    "source": "雌酮（E1）是绝经前乳腺脂肪组织中主要的雌激素, 脂肪组织中E1和CYP19A1的mRNA表达与BMI呈正相关。",
+    "reference": "Estrone (E1) was the predominant estrogen in premenopausal breast adipose tissue, and E1 and mRNA expression of CYP19A1 in adipose tissue correlated positively with BMI.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Estrone (E1) is the main estrogen in premenopausal breast adipose tissue, and the mRNA expression of E1 and CYP19A1 in adipose tissue is positively correlated with BMI."
+  },
+  {
+    "index": 102,
+    "source": "脂肪组织中雌二醇（E2）浓度在月经周期中波动, 与血清浓度相似。",
+    "reference": "Adipose tissue estradiol (E2) concentrations fluctuated during the menstrual cycle, similarly to the serum concentrations.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The concentration of estradiol (E2) in adipose tissue fluctuates during the menstrual cycle, similar to its serum concentration."
+  },
+  {
+    "index": 103,
+    "source": "乳腺癌女性脂肪组织中E1（1519 vs. 3244, p<.05）和E2（404 vs. 889 pmol/kg, p<.05）水平在卵泡期低于黄体期, 而在对照组女性中无显著差异。",
+    "reference": "In women with breast cancer median adipose tissue E1 (1519 vs. 3244, p < .05) and E2 (404 vs. 889 pmol/kg, p < .05) levels were lower in the follicular than in the luteal phase whereas in control women no significant differences were observed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In women with breast cancer, the levels of E1 (1519 vs. 3244, p<.05) and E2 (404 vs. 889 pmol/kg, p<.05) in adipose tissue are lower during the follicular phase than the luteal phase, whereas no significant differences are observed in the control group."
+  },
+  {
+    "index": 104,
+    "source": "在卵泡期, HSD17B1的mRNA表达（中位数0.06；四分位数间距0.05-0.07 vs. 0.17；0.03-0.2, p=.010）和CYP19A1的mRNA表达 (0.08；0.07 - 0.14 vs. 0.22；0.09-0.54, p=.025)在乳腺癌患者中低于对照组。",
+    "reference": "In the follicular phase, mRNA expressions of HSD17B1 (median 0.06; interquartile range 0.05-0.07 vs. 0.17; 0.03-0.2, p = .010) and CYP19A1 (0.08; 0.07-0.14 vs. 0.22; 0.09-0.54, p = .025) were lower in women with breast cancer than in controls.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "During the follicular phase, the mRNA expression of HSD17B1 (median 0.06; interquartile range 0.05-0.07 vs. 0.17; 0.03-0.2, p=.010) and CYP19A1 (0.08; 0.07-0.14 vs. 0.22; 0.09-0.54, p=.025) was lower in breast cancer patients compared to the control group."
+  },
+  {
+    "index": 105,
+    "source": "总之, 在月经周期中, 脂肪组织中E1和E2浓度的变化以及雌激素调节CYP19A1和HSD17B1的变化可能与乳腺癌女性局部雌激素代谢紊乱有关。",
+    "reference": "In conclusion, the changes in adipose tissue E1 and E2 concentrations and the estrogen-regulating CYP19A1 and HSD17B1 during the menstrual cycle may be related to dysfunctional local estrogen metabolism in women with breast cancer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In short, during the menstrual cycle, changes in the concentrations of E1 and E2 in adipose tissue, as well as estrogen-regulated changes in CYP19A1 and HSD17B1, may be related to local estrogen metabolism disorders in women with breast cancer."
+  },
+  {
+    "index": 106,
+    "source": "丙型肝炎病毒感染的治疗任重而道远。",
+    "reference": "The elimination of hepatitis C virus(HCV) infection is still a long way to go.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The treatment of hepatitis C virus infection is a long and challenging journey."
+  },
+  {
+    "index": 107,
+    "source": "直接抗病毒药物（DAAs）通过靶向丙型肝炎病毒的复制过程，使彻底治愈丙型肝炎成为可能，同时治疗方案也变得规范、简单。",
+    "reference": "Direct-acting antiviral agents (DAAs) can make HCV completely cured by targeting various stages of its replication life cycle and meanwhile standardize and simplify the treatment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Direct-acting antiviral agents (DAAs) target the replication process of the hepatitis C virus, making it possible to completely cure hepatitis C, while also standardizing and simplifying the treatment regimen."
+  },
+  {
+    "index": 108,
+    "source": "但专科医生在选择抗病毒方案时，仍应充分考虑那些影响药物疗效及安全性的相关因素。",
+    "reference": "However, those relative factors may affect efficacy and safety should be considered by specialties in choosing the suitable regimens.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, specialist doctors should still fully consider the relevant factors that affect the efficacy and safety of the medication when selecting an antiviral treatment plan."
+  },
+  {
+    "index": 109,
+    "source": "近年来，基因工程技术发展迅速，许多重组蛋白得以表达。",
+    "reference": "In recent years, gene engineering is developing rapidly and many recombinant proteins have been expressed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In recent years, genetic engineering technology has developed rapidly, enabling the expression of many recombinant proteins."
+  },
+  {
+    "index": 110,
+    "source": "其中利用植物生物反应器表达特异药物蛋白为人类一些重要疾病的预防和治疗提供了新途径。",
+    "reference": "The use of plant bioreactor to express specific pharmaceutical proteins provides a new way for the prevention and treatment of some important diseases in human beings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The use of plant bioreactors to express specific pharmaceutical proteins provides a new approach for the prevention and treatment of some important human diseases."
+  },
+  {
+    "index": 111,
+    "source": "植物叶绿体遗传转化和表达系统成为目前植物生物反应器的研究热点。",
+    "reference": "Nowadays, chloroplast genetic transformation and expression system has become a research hotspot in plant bioreactor.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Chloroplast genetic transformation and expression systems in plants have become a current research hotspot in plant bioreactors."
+  },
+  {
+    "index": 112,
+    "source": "很多重要药用蛋白质在植物叶绿体中表达成功。",
+    "reference": "Many important pharmaceutical proteins have been successfully expressed in plant chloroplasts.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Many important medicinal proteins have been successfully expressed in plant chloroplasts."
+  },
+  {
+    "index": 113,
+    "source": "烟草作为高等植物叶绿体转化模式植物，在疫苗抗原、抗体等药物蛋白和其他重要重组蛋白表达方面取得显著进展。",
+    "reference": "As a chloroplast transformation model of higher plants, tobacco has made significant progress in the expression of pharmaceutical proteins, such as vaccine antigens, antibodies, and other important recombinant proteins.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tobacco, as a model plant for chloroplast transformation in higher plants, has made significant progress in the expression of vaccine antigens, antibodies, and other important recombinant proteins."
+  },
+  {
+    "index": 114,
+    "source": "高等植物叶绿体遗传转化也为叶绿体基因的表达和调控机制的研究提供新的技术和方法。",
+    "reference": "Chloroplast genetic transformation in higher plants also provides new techniques and methods for the study of chloroplast gene expression and regulation mechanisms.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The genetic transformation of higher plant chloroplasts also provides new technologies and methods for studying the expression and regulatory mechanisms of chloroplast genes."
+  },
+  {
+    "index": 115,
+    "source": "文中从叶绿体遗传转化原理、载体构建、重组蛋白和重要药物蛋白在叶绿体中的表达以及重组蛋白表达对植物代谢和性状影响等多个角度，对高等植物叶绿体遗传转化体系研究的新进展进行了综述，以期为叶绿体表达平台的开发和重要药用蛋白质的表达提供新思路。",
+    "reference": "In order to provide a new idea for the development of chloroplast expression platform and the expression of important pharmaceutical proteins, this review outlined the progress of chloroplast genetic transformation system in higher plants, including the chloroplast transformation principle, vector construction, expression of recombinant proteins and important pharmaceutical proteins, and the effects of recombinant proteins expression on plant metabolism and traits.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The article reviews the latest advancements in the research of chloroplast genetic transformation systems in higher plants from multiple perspectives, including the principles of chloroplast genetic transformation, vector construction, the expression of recombinant proteins and important pharmaceutical proteins in chloroplasts, and the impact of recombinant protein expression on plant metabolism and traits. The aim is to provide new ideas for the development of the chloroplast expression platform and the expression of important medicinal proteins."
+  },
+  {
+    "index": 116,
+    "source": "研发具备多种生物学活性、体内降解与新骨生成完美适配、能完全重建生理状态下骨组织的骨修复材料是未来研究重点。",
+    "reference": "Research and development of bone repair materials with multiple biological activities, in vivo degradation property that perfectly fit for new bone formation, and ability of complete reconstruction of bone tissue in physiological state are the focus of future research.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Developing bone repair materials with multiple biological activities, perfect compatibility with in vivo degradation and new bone formation, and the ability to fully restore bone tissue under physiological conditions is a key focus of future research."
+  },
+  {
+    "index": 117,
+    "source": "目的：探讨尾状叶巨块型肝癌(直径≥10 cm)行单纯全尾状叶切除手术的可行性及疗效。",
+    "reference": "To explore the feasibility and efficacy of isolated caudate lobe resection for caudate lobe in huge hepatocellular carcinoma(10 cm or larger in diameter).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To explore the feasibility and efficacy of performing isolated total caudate lobe resection for massive caudate lobe hepatocellular carcinoma (diameter ≥10 cm)."
+  },
+  {
+    "index": 118,
+    "source": "方法：回顾性分析2001年1月至2011年12月27例单纯全尾状叶切除的巨块型肝癌患者的临床资料。",
+    "reference": "Methods: Clinical data of 27 patients with hepatocellular carcinoma larger than 10 cm who underwent isolated caudate lobe resection from January 2001 to December 2011 were retrospectively analyzed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: A retrospective analysis of the clinical data of 27 patients with massive hepatocellular carcinoma who underwent isolated caudate lobe resection from January 2001 to December 2011."
+  },
+  {
+    "index": 119,
+    "source": "术后1，3，5年的总生存率分别是80.2%，52.1%，27.1%。",
+    "reference": "Overall survival rates at 1, 3, and 5 years were 80.2%, 52.1%, and 27.1%, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The overall survival rates at 1, 3, and 5 years after surgery are 80.2%, 52.1%, and 27.1%, respectively."
+  },
+  {
+    "index": 120,
+    "source": "结论：尾状叶巨块型肝癌行单纯全尾状叶切除安全有效。",
+    "reference": "Conclusion: Isolated caudate lobe resection is safe and effective for caudate lobe huge hepatocellular carcinoma.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: Pure total caudate lobe resection for massive caudate lobe hepatocellular carcinoma is safe and effective."
+  },
+  {
+    "index": 121,
+    "source": "2015年6月，笔者单位收治1例马方综合征双手蜘蛛样指伴畸形挛缩患儿。",
+    "reference": "A Marfan syndrome child with contractural arachnodactyly deformity of both hands was admitted to our unit in June 2015.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In June 2015, our institution admitted a pediatric patient with Marfan syndrome presenting with spider-like fingers on both hands accompanied by deformity and contracture."
+  },
+  {
+    "index": 122,
+    "source": "对该患儿的左、右手中指和环指均采用连续\"Z\"字瓣＋\"V－Y\"成形术来减轻手指掌侧皮肤牵张，松解挛缩。",
+    "reference": "The left and right middle fingers and ring fingers of the child received the continuous \" Z\" skin flap and \" V-Y\" plasty to reduce the palmar tension on the skin and release the contracture.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For this child, the middle and ring fingers of both the left and right hands were treated using continuous 'Z' flap plus 'V-Y' plasty to alleviate palmar skin tension and release contractures."
+  },
+  {
+    "index": 123,
+    "source": "由于治疗方案选择失当，以及轻视了马方综合征的基础病变对该手术治疗的影响，术后患儿右手中指缺血坏死并截指，远期并发指端膨隆和阵发性神经源性疼痛；其余手术3指皮瓣局部坏死，瘢痕愈合。",
+    "reference": "Due to the improper therapeutic strategy and the underestimation of effect of underlying lesions of Marfan syndrome on the therapeutic strategy, the right middle finger of child was with ischemic necrosis and amputated, and the finger tip was accompanied with distension and paroxysmal neuropathic pain at a specified future date. The skin flaps of the other three surgical fingers were with local necrosis and scar healing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Due to the improper selection of treatment plans and underestimating the impact of the underlying pathological changes of Marfan syndrome on the surgical treatment, the patient experienced ischemic necrosis and amputation of the middle finger of the right hand after surgery, along with long-term complications such as fingertip swelling and paroxysmal neurogenic pain. Additionally, local necrosis of the skin flap occurred in the other three operated fingers, resulting in scar healing."
+  },
+  {
+    "index": 124,
+    "source": "出院后，患儿继发远侧指间关节僵硬等严重并发症。",
+    "reference": "The child was complicated by distal interphalangeal joints stiffness and some serious complications post-discharge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After being discharged from the hospital, the child developed severe complications such as stiffness in the distal interphalangeal joints."
+  },
+  {
+    "index": 125,
+    "source": "结合本病例，类似疾病不推荐行Ⅰ期手术治疗。",
+    "reference": "Combined with this case, the similar disorders are not recommended to carry out one-stage operation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Based on this case, similar diseases are not recommended for stage I surgical treatment."
+  },
+  {
+    "index": 126,
+    "source": "Von Hippel-Lindau(VHL)综合征是一种罕见的常染色体显性遗传性疾病，胰腺是易被累及的腹部器官之一，包括胰腺单纯性囊肿、浆液性囊腺瘤及神经内分泌肿瘤等。",
+    "reference": "Von Hippel-Lindau(VHL) syndrome is a rare autosomal dominant hereditary disease, and pancreas is one of the frequently involved intra-abdominal organs, including simple pancreatic cysts, pancreatic serous cystadenomas and neuroendocrine neoplasmas.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Von Hippel-Lindau (VHL) syndrome is a rare autosomal dominant hereditary disease, and the pancreas is one of the abdominal organs prone to involvement, including simple pancreatic cysts, serous cystadenomas, and neuroendocrine tumors."
+  },
+  {
+    "index": 127,
+    "source": "VHL综合征相关胰腺神经内分泌肿瘤(VHL-pNEN)多无功能，但有恶变倾向，治疗措施包括定期随访、手术治疗及药物治疗等。",
+    "reference": "Most of the VHL-related pancreatic neuroendocrine neoplasmas (VHL-pNEN)were non-functional, but they still have a tendency to be malignant. Treatment options for VHL-pNEN include regular follow-up, surgical resection, and medication therapy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Pancreatic neuroendocrine tumors associated with VHL syndrome (VHL-pNEN) are often non-functional but have a tendency for malignancy. Treatment measures include regular follow-up, surgical treatment, and medication, among others."
+  },
+  {
+    "index": 128,
+    "source": "VHL-pNEN的恶性程度较散发型pNEN低，预后亦较好，应慎重选择手术治疗。",
+    "reference": "When compared with sporadic pNEN, the malignant degree of VHL-pNEN is lower, with a better prognosis, so the surgical treatment should be carefully considered.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The malignancy of VHL-pNEN is lower than that of sporadic pNEN, and the prognosis is also better, so surgical treatment should be chosen cautiously."
+  },
+  {
+    "index": 129,
+    "source": "手术指征包括肿瘤最大径≥3 cm、肿瘤倍增时间<500 d、VHL基因发生3号外显子突变、影像学检查疑有恶性表现、功能性pNEN病灶等。",
+    "reference": "The indications of surgery for VHL-pNEN include big primary lesions (≥3 cm), fast tumor doubling time (<500 days), VHL gene mutation on exon 3, malignant manifestations on imaging findings, and functional pNEN lesions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Surgical indications include a maximum tumor diameter ≥3 cm, tumor doubling time <500 days, exon 3 mutation of the VHL gene, imaging findings suggestive of malignancy, functional pNEN lesions, etc."
+  },
+  {
+    "index": 130,
+    "source": "手术方式应尽可能保留有功能的胰腺实质。",
+    "reference": "The function-preserving approach should be performed to keep the functional pancreatic parenchyma as much as possible.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The surgical approach should aim to preserve as much functional pancreatic tissue as possible."
+  },
+  {
+    "index": 131,
+    "source": "即使无法根治切除的恶性pNEN患者，积极的内科治疗仍可能使患者获得长期生存。",
+    "reference": "Even for patients with a late stage malignancy that cannot be radically resected, active medication therapy may still lead to a long-term survival.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Even if malignant pNEN patients with unresectable conditions cannot be completely cured, active medical treatment may still enable them to achieve long-term survival."
+  },
+  {
+    "index": 132,
+    "source": "食品用纳米材料的安全性评价是保障、监管、维护人群健康的重要基础。",
+    "reference": "The safety assessment of nanomaterials in food is essential for safeguarding supervision and maintaining public health.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The safety assessment of nanomaterials used in food is an important foundation for ensuring, regulating, and safeguarding public health."
+  },
+  {
+    "index": 133,
+    "source": "然而，中国尚未建立国家层面的纳米材料安全性评估程序，也无特定的评估程序用于食品用纳米材料的毒理学和安全性评估，因而制约了食品安全保障和监管。",
+    "reference": "However, there are still no safety assessment procedures for nanomaterials established in national-level in China and no specific toxicology and safety assessment procedures about nanomaterials for food, too. These factors lead to restriction on food safety protection and supervision.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "However, China has not yet established a national-level safety assessment program for nanomaterials, nor does it have specific assessment procedures for the toxicology and safety evaluation of nanomaterials used in food, thereby constraining food safety assurance and regulation."
+  },
+  {
+    "index": 134,
+    "source": "现有纳米材料安全性评价方法主要借助于传统的毒理学评价方法，由高剂量向低剂量，由实验动物至人外推，这些不确定性制约了准确地评估纳米材料的安全性，也制约了科学有效的评估程序和监管措施的制定。",
+    "reference": "Current methods of evaluating the safety of nanomaterials mainly rely on traditional toxicological assessment that are extrapolated based on animal experiment from high doses to low doses and from animals to humans. These uncertainties restrict the accuracy of safety assessment for nanomaterials and also limit the development of scientific and effective evaluation procedures and regulatory measures.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The current methods for evaluating the safety of nanomaterials mainly rely on traditional toxicological assessment approaches, extrapolating from high doses to low doses and from experimental animals to humans. These uncertainties limit the accurate assessment of nanomaterial safety and hinder the development of scientific and effective evaluation procedures and regulatory measures."
+  },
+  {
+    "index": 135,
+    "source": "本文综述了目前亟待解决的关键问题，包括食品用纳米材料一般情况，以及相关的暴露评估与评估方法，意图建立与21世纪毒性测试愿景和战略目标相一致的、针对食品用纳米材料的毒性测试方法。",
+    "reference": "Currently, the key issues need to be solved including exposure assessment and evaluation methods of nanomaterials in food and the established methods of the toxicity test for nanomaterials that are consistent with the objectives of toxicity test in the 21st century vision and strategy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article reviews the key issues that urgently need to be addressed, including the general situation of nanomaterials used in food, as well as related exposure assessments and evaluation methods, with the aim of establishing toxicity testing methods for food-use nanomaterials that align with the vision and strategic goals of 21st-century toxicity testing."
+  },
+  {
+    "index": 136,
+    "source": "另外，本文综述了我国和若干发达国家或组织当前对食品用纳米材料的管理规定、毒性测试现状和存在的问题，以期为未来食品用纳米材料的安全性评价程序的建立提供科学依据。",
+    "reference": "In this article, we reviewed current administrative regulatory, situations, and existing issues of food nanomaterials either in China or some developed countries in order to provide a scientific basis in establishing safety assessment procedures for nanomaterials in food in the future.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In addition, this article reviews the current management regulations, toxicity testing status, and existing issues regarding food-grade nanomaterials in China and several developed countries or organizations, aiming to provide a scientific basis for establishing safety evaluation procedures for food-grade nanomaterials in the future."
+  },
+  {
+    "index": 137,
+    "source": "全球一体化增加了传染病国际传播的风险，各国面对输入性传染病的预防控制压力日益增加。",
+    "reference": "The process of globalization increases the risk of global transmission of infectious diseases, resulting in pressure for country's prevention and control of imported infectious disease.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Global integration has increased the risk of international transmission of infectious diseases, and countries are facing growing pressure to prevent and control imported infectious diseases."
+  },
+  {
+    "index": 138,
+    "source": "对输入与本地传播风险进行评估后，在输入前开展预防传入和常规防控，在输入后进行应急控制是目前主要的防控思路。",
+    "reference": "Based on the risk assessment of disease importation and local transmission, a strategy that conducting importation prevention and routine prevention and control before the importation of disease and taking emergency control measures after the importation of disease was developed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After assessing the risk of imported cases and local transmission, the main prevention and control strategy currently involves implementing measures to prevent importation and routine control before cases are imported, and conducting emergency control after importation."
+  },
+  {
+    "index": 139,
+    "source": "参与全球统一行动，援助疫区国家，主动消除输入风险已成为重要防控策略。",
+    "reference": "In addition, it is important to take part in global infectious disease response action, aid the countries with outbreak or epidemic to actively decrease the risk of disease importation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Participating in global coordinated actions, assisting countries in epidemic-affected areas, and proactively eliminating import risks have become important prevention and control strategies."
+  },
+  {
+    "index": 140,
+    "source": "死亡时间推断相关研究在法医学领域中有着极为重要的地位和意义，一直是法医病理学实践中亟待解决的重大问题之一。",
+    "reference": "The researches on postmortem interval （PMI） estimation are very important and meaningful in forensic science. PMI estimation is also an important issue that must be solved in practice of forensic pathology.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Research on the estimation of time of death holds an extremely important position and significance in the field of forensic science and has always been one of the major issues urgently needing resolution in forensic pathology practice."
+  },
+  {
+    "index": 141,
+    "source": "传统的方法与手段存在许多缺陷，新方法的引入势在必行。",
+    "reference": "There are many defects existing in traditional methods for PMI estimation, so it is imperative to introduce new pathways.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Traditional methods and approaches have many shortcomings, and the introduction of new methods is imperative."
+  },
+  {
+    "index": 142,
+    "source": "随着各种新技术的涌现，关于死亡时间推断的研究有着从简单到复杂的趋势，数据量也随之不断增长。",
+    "reference": "With the emergence of various new technologies, the researches on PMI estimation have a tendency from simple to complex with a growth of data.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "With the emergence of various new technologies, research on determining the time of death has shown a trend from simplicity to complexity, accompanied by a continuous increase in the amount of data."
+  },
+  {
+    "index": 143,
+    "source": "本文首先总结了既往死亡时间推断的方法，最后对基于大数据人工智能算法在法医学死亡时间推断研究中的应用进行了展望。",
+    "reference": "The present review firstly summarizes a series of methods used for PMI estimation, and then gives an outlook for the application of artificial intelligence algorithms in this field.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article first summarizes previous methods for estimating the time of death and finally provides an outlook on the application of big data and artificial intelligence algorithms in forensic research on time of death estimation."
+  },
+  {
+    "index": 144,
+    "source": "缺血性肝炎，也称为缺氧性肝炎或休克肝，是指在没有任何已知的急性肝炎病因的情况下，肝细胞出现损伤，表现为急性、短暂的转氨酶水平升高（高于正常值的20倍）。 该病的发病率为2.5%～10%，住院病死率大于50%。",
+    "reference": "Ischemic hepatitis, also known as hypoxic hepatitis or shock liver, refers to liver cell damage without any known cause of acute hepatitis, and is characterized by transient elevation of transaminase levels (20 times higher than normal value).The incidence of the disease is about 2.5% to 10%, and the hospital mortality rate is greater than 50%.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ischemic hepatitis, also known as hypoxic hepatitis or shock liver, refers to liver cell injury in the absence of any known causes of acute hepatitis, characterized by acute and transient elevations in transaminase levels (more than 20 times the normal value). The incidence of this condition is 2.5% to 10%, and the in-hospital mortality rate exceeds 50%."
+  },
+  {
+    "index": 145,
+    "source": "当前研究认为该病的危险因素较多，包括全身性低血压、低心输出量、败血症及呼吸窘迫等，但最终会表现为肝细胞功能障碍，即肝衰竭。",
+    "reference": "Current research suggests that there are many risk factors for the disease, including systemic hypotension, low cardiac output, sepsis and respiratory distress, but eventually it will manifest as hepatocyte dysfunction.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Current research suggests that this disease has multiple risk factors, including systemic hypotension, low cardiac output, sepsis, and respiratory distress, but it ultimately manifests as hepatocellular dysfunction, namely liver failure."
+  },
+  {
+    "index": 146,
+    "source": "低血压是其高死亡率主要的原因，治疗的关键是纠正血液动力学障碍问题。",
+    "reference": "Unfortunately, the mortality rate related with hypotension is high, and the key to treatment is to correct hemodynamic disorders.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Low blood pressure is the main cause of its high mortality rate, and the key to treatment is addressing hemodynamic disorders."
+  },
+  {
+    "index": 147,
+    "source": "现就缺血性肝炎的病因、机制、临床表现等方面的研究进展作以综述。",
+    "reference": "This article reviews the research progress in the etiology, mechanism and clinical manifestations of ischemic hepatitis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article provides a review of the research progress on the causes, mechanisms, and clinical manifestations of ischemic hepatitis."
+  },
+  {
+    "index": 148,
+    "source": "北京积水潭医院烧伤科与中国烧伤外科一样已走过60年的光辉历程，60年来，笔者科室从无到有、从弱到强，不断创新，在几代人的努力下，取得了一个又一个不凡的业绩。",
+    "reference": "The Department of Burns of Beijing Jishuitan Hospital has gone through 60 years of glorious course as well as Chinese burn surgery. Over the past 60 years, our department developed from scratch, from weak to strong, with continuous innovation. Under the efforts of several generations, remarkable achievements have been made one after another.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Burn Department of Beijing Jishuitan Hospital, like China's burn surgery field, has gone through a glorious 60-year journey. Over the past 60 years, our department has grown from nothing to something, from weak to strong, continuously innovating, and under the efforts of several generations, has achieved one remarkable accomplishment after another."
+  },
+  {
+    "index": 149,
+    "source": "本文从危重烧伤救治、创面修复、电烧伤治疗、皮瓣移植、突发事件患者抢救5个方面重点介绍了笔者科室为烧伤医学所做出的贡献。",
+    "reference": "This article mainly introduces the contribution of our department to burn medicine from five aspects as follows: critical burn treatment, wound repair, electric burn treatment, flap transplantation, and emergency rescue.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article focuses on the contributions made by the author's department to burn medicine in five key areas: critical burn care, wound repair, electrical burn treatment, flap transplantation, and emergency patient rescue."
+  },
+  {
+    "index": 150,
+    "source": "21世紀是全球化資訊、科技、知識運用與創新發展的時代。",
+    "reference": "The 21st century is an era of information, technology, knowledge application, innovation, and globalization.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The 21st century is an era of globalization, information, technology, knowledge application, and innovative development."
+  },
+  {
+    "index": 151,
+    "source": "教育的重心不僅是傳授知識，更是跨領域、跨國際知識運用與創新的延伸。",
+    "reference": "The purpose of education is not only to provide knowledge but also to extend knowledge across many disciplines and national and ethnic boundaries.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The focus of education is not only on imparting knowledge but also on extending cross-disciplinary and international knowledge application and innovation."
+  },
+  {
+    "index": 152,
+    "source": "教育需要引導學生擴大學習內涵的深度與廣度，進一步與國際接軌。",
+    "reference": "Education requires teachers to guide students to expand the depth and breadth of their learning and to make global connections.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Education needs to guide students to expand the depth and breadth of their learning content, further aligning with international standards."
+  },
+  {
+    "index": 153,
+    "source": "行政院於2017年也提出技職教育白皮書，書中明確指出教育人才必須具備創新思考與實踐及跨領域整合能力。",
+    "reference": "The Executive Yuan's 2017 white paper on vocational education stresses that people in the technical and vocational education fields must adopt innovative thinking, be innovative in practice, and be prepared to engage in interdisciplinary collaboration.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In 2017, the Executive Yuan also proposed the White Paper on Technical and Vocational Education, which clearly stated that educational talents must possess innovative thinking, practical skills, and interdisciplinary integration capabilities."
+  },
+  {
+    "index": 154,
+    "source": "創意思考教學更要將知識的傳遞運用Z世代年輕人喜歡的學習方式，引導學生將已學習的知識加以延伸。",
+    "reference": "Thus, teachers should make full use of these products to connect with their students, and creative teaching should promote knowledge transfer by using learning styles that Z-generation students prefer and by guiding students to extend their learned knowledge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Creative thinking teaching should incorporate the learning methods favored by Generation Z young people to facilitate knowledge transfer, guiding students to extend the knowledge they have already learned."
+  },
+  {
+    "index": 155,
+    "source": "教育的競爭力也是國家競爭力的指標，提升競爭力的方式之一可以先從瞭解他人的經驗開始。",
+    "reference": "Education quality is a key indicator of national competitiveness. One way to improve competitiveness is to begin by understanding the experience of others.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The competitiveness of education is also an indicator of a nation's competitiveness, and one way to enhance competitiveness can start by understanding the experiences of others."
+  },
+  {
+    "index": 156,
+    "source": "本專欄邀請臺灣護理教師分享其創意教學與國際競賽的經驗，期許能引起讀者有不同的創新思維。",
+    "reference": "This column invites nursing educators to share their experiences in creative teaching and international competition, with articles hopefully inspiring readers to explore and develop their own innovative thinking.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This column invites nursing educators from Taiwan to share their experiences in creative teaching and international competitions, hoping to inspire readers with different innovative ideas."
+  },
+  {
+    "index": 157,
+    "source": "前牙区种植成功的标准不仅仅在于保证较高的种植体存留率，还需要提供持久而稳定的美学效果。",
+    "reference": "In the anterior tooth zone, the criteria of successful implant restoration is not only to ensure a high survival rate of implant, but also to provide long-lasting and stable aesthetic outcomes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The standard for successful implantation in the anterior tooth region is not only to ensure a high survival rate of the implants but also to provide long-lasting and stable aesthetic results."
+  },
+  {
+    "index": 158,
+    "source": "尽管前牙即刻种植能获得与前牙延期种植相似的种植体存留率并且可以显著缩短治疗时间，但前牙即刻种植也容易出现牙龈退缩、龈乳头缺失、种植体平台暴露等美学并发症。",
+    "reference": "As for the rehabilitation of anterior teeth, immediate implant placement might achieve a survival rate similar to those of delayed implant placement and significantly reduce treatment time, whereas several aesthetic complications such as gingival recession, loss of interdental papilla, exposure of implant margin could also occur.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Although immediate implantation of anterior teeth can achieve a similar implant survival rate to delayed implantation and significantly shorten treatment time, immediate implantation of anterior teeth is also prone to aesthetic complications such as gingival recession, loss of papilla, and exposure of the implant platform."
+  },
+  {
+    "index": 159,
+    "source": "因此，如何有效避免或处理前牙即刻种植的美学并发症是前牙即刻种植中亟待解决的问题。",
+    "reference": "Therefore, an important issue need to be solved is that how to avoid or handle the aesthetic complications of immediate implant placement of anterior teeth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Therefore, how to effectively avoid or manage aesthetic complications in immediate anterior tooth implantation is an urgent issue to be addressed in immediate anterior tooth implantation."
+  },
+  {
+    "index": 160,
+    "source": "本文主要针对前牙即刻种植美学并发症的临床表现、可能的发生原因及应对措施进行阐述与讨论。",
+    "reference": "This article mainly discusses the clinical features, possible etiologies and handling methods of aesthetics complications in rehabilitation of anterior teeth using immediate implant placement.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article primarily elaborates on and discusses the clinical manifestations, possible causes, and countermeasures of aesthetic complications in immediate anterior tooth implantation."
+  },
+  {
+    "index": 161,
+    "source": "方法：选择中南大学湘雅二医院胸外科住院治疗的51例ESCC患者及55例健康体检者血清标本作为研究对象。",
+    "reference": "Methods: Fifty-one patients with ESCC and 55 healthy subjects from Department of Cardiothoracic Surgery, Second Xiangya Hospital, Central South Unicersity were selected for this study.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: Select serum samples from 51 ESCC patients hospitalized in the Department of Thoracic Surgery at the Second Xiangya Hospital of Central South University and 55 healthy individuals undergoing physical examinations as research subjects."
+  },
+  {
+    "index": 162,
+    "source": "采用实时定量聚合酶链式反应(real-time quantitative polymerase chain reaction，RT-qPCR)测定血清标本miRNA-183表达水平；采用χ2检验及相关分析检测血清miRNA-183水平与ESCC临床及病理指标间的关联；采用受试者工作特征(receiver operating characteristic，ROC)曲线分析miRNA-183及其联合癌胚抗原(carcinoembryonic antigen，CEA)对ESCC的诊断效率。",
+    "reference": "Real-time quantitative polymerase chain reaction (RT-qPCR) was used to determine the level of miRNA-183 in serum samples. Chi-square test and correlation analysis were used to investigate the relationship between serum miRNA-183 level and clinical and pathological parameters of ESCC. Diagnostic efficiency of miRNA-183 and combined carcinoembryonic antigen (CEA) examination for ESCC was analyzed by receiver operating characteristic (ROC) curve.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The expression level of miRNA-183 in serum samples was determined using real-time quantitative polymerase chain reaction (RT-qPCR); the association between serum miRNA-183 levels and clinical and pathological indicators of ESCC was analyzed using χ2 tests and correlation analysis; the diagnostic efficiency of miRNA-183 and its combination with carcinoembryonic antigen (CEA) for ESCC was evaluated using receiver operating characteristic (ROC) curve analysis."
+  },
+  {
+    "index": 163,
+    "source": "结果：1)MiR-183在健康体检者和ESCC患者中的相对表达量为(2.03±0.96)和(4.47±1.54)，两者之间差异有统计学意义(t=9.700，P<0.01)。",
+    "reference": "Results: 1) The levels of miR-183 in the patients with ESCC (4.47±1.54) were elevated compared with that in the healthy subjects (2.03±0.96), with significant difference (t=9.700, P<0.01).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: 1) The relative expression levels of MiR-183 in healthy individuals and ESCC patients were (2.03±0.96) and (4.47±1.54), respectively, with a statistically significant difference between the two groups (t=9.700, P<0.01)."
+  },
+  {
+    "index": 164,
+    "source": "2)ESCC患者血清miR-183相对表达量在不同的肿瘤恶性程度分期中的差异有统计学意义(χ2=4.049；P<0.01)；在不同性别、年龄、吸烟与否、饮酒与否、肿瘤部位、肿瘤直径、淋巴结转移、浸润深度、分化程度上差异均无统计学意义(均P>0.05)；miR-183的相对表达量与血清CEA表达无关(P>0.05)。",
+    "reference": "2) The levels of serum miR-183 in ESCC patients were significantly different among patients with different TNM stages (χ2=4.049, P<0.01), which was not affected by gender, age, smoking, drinking, tumor location, tumor diameter, lymph node metastasis, depth of invasion and differentiation (all P>0.05). The levels of miR-183 were not associated with the serum CEA levels (P>0.05).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The relative expression level of serum miR-183 in ESCC patients shows a statistically significant difference across different tumor malignancy stages (χ2=4.049; P<0.01); however, there are no statistically significant differences in terms of gender, age, smoking status, alcohol consumption, tumor location, tumor diameter, lymph node metastasis, depth of invasion, or degree of differentiation (all P>0.05). The relative expression level of miR-183 is not related to serum CEA expression (P>0.05)."
+  },
+  {
+    "index": 165,
+    "source": "3)采用ROC曲线分析，以miR-183相对表达量4.502为诊断ESCC的最佳临界值，灵敏度为78.9%，特异度为76.2%，ROC曲线下面积(area under the curve，AUC)为0.762，95%置信区间为0.830~0.922。",
+    "reference": "3) When the ROC curve analysis was used to diagnose ESCC with the optimal cutoff value of 4.502 for miR-183, the sensitivity, the specificity, the area under the curve (AUC) and 95% confidence interval was 78.9%, 76.2%, 0.762 and 0.830-0.922, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "3) Using ROC curve analysis, the optimal cutoff value for diagnosing ESCC was determined to be a relative expression level of miR-183 at 4.502, with a sensitivity of 78.9%, specificity of 76.2%, and an area under the curve (AUC) of 0.762, with a 95% confidence interval of 0.830~0.922."
+  },
+  {
+    "index": 166,
+    "source": "联合检测血清miR-183与CEA诊断ESCC，灵敏度为82.3%，特异性为92.6%，AUC为0.877，95%置信区间为0.814~0.935。",
+    "reference": "When combined detection of serum miR-183 and CEA was used to diagnose ESCC, the sensitivity, specificity, AUC and 95% confidence interval was 82.3%, 92.6%, 0.877 and 0.814-0.935, respectively.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Combined detection of serum miR-183 and CEA for diagnosing ESCC shows a sensitivity of 82.3%, specificity of 92.6%, AUC of 0.877, and a 95% confidence interval of 0.814~0.935."
+  },
+  {
+    "index": 167,
+    "source": "结论：ESCC患者血清miRNA-183水平出现上调，血清miRNA-183与CEA联合测定可提高对ESCC的诊断效率。",
+    "reference": "Conclusion: Serum miRNA-183 levels in ESCC patients may be increased, which can improve the diagnostic efficiency of ESCC when combined with CEA.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: The serum miRNA-183 level is elevated in ESCC patients, and the combined detection of serum miRNA-183 and CEA can improve the diagnostic efficiency for ESCC."
+  },
+  {
+    "index": 168,
+    "source": "血清miRNA-183水平与肿瘤TNM分期有关，这有助于肿瘤病情进展判断和疗效预测。",
+    "reference": "Serum miRNA-183 levels is related with tumor TNM stage, which contributes to the judgment of tumor progression and efficacy prediction.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The serum miRNA-183 level is related to the tumor TNM staging, which helps in assessing tumor progression and predicting treatment efficacy."
+  },
+  {
+    "index": 169,
+    "source": "目的：探讨原发性脑内淋巴瘤的磁共振成像(magnetic resonance imaging，MRI)特征，提高对该病的诊断及鉴别诊断能力。",
+    "reference": "To investigate the magnetic resonance imaging (MRI) features for primary brain lymphoma and improve its diagnosis and differential diagnosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To explore the magnetic resonance imaging (MRI) characteristics of primary intracerebral lymphoma and improve the ability to diagnose and differentiate this disease."
+  },
+  {
+    "index": 170,
+    "source": "方法：回顾性分析经术后病理确诊的14例原发性脑内淋巴瘤的临床资料及MRI表现。",
+    "reference": "Methods: The clinical and MRI data from 14 patients with primary brain lymphoma were retrospectively reviewed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: A retrospective analysis of the clinical data and MRI findings of 14 cases of primary intracerebral lymphoma confirmed by postoperative pathology."
+  },
+  {
+    "index": 171,
+    "source": "结果：14例患者中男5例，女9例，年龄(55±8)岁；9例为单发，5例多发(病灶2~6个)，共26个病灶。",
+    "reference": "Results: Fourteen patients, including 5 males and 9 females, were (55±8) years old. There were 9 patients with single lesion and 5 patients with multiple lesions (2-6 lesions). A total of 26 lesions were identified.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Results: Among the 14 patients, there were 5 males and 9 females, with an average age of (55±8) years; 9 cases were single lesions, and 5 cases were multiple lesions (2~6 lesions), with a total of 26 lesions."
+  },
+  {
+    "index": 172,
+    "source": "病灶均位于幕上，包括大脑半球、基底节、胼胝体等，多数位于脑组织深部。",
+    "reference": "All lesions located in supratentorium, such as the cerebral hemisphere, the basal ganglia, and the corpus callosum. Most of them deeply located in the brain.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The lesions are all located supratentorially, including the cerebral hemispheres, basal ganglia, corpus callosum, etc., with most situated in the deep brain tissue."
+  },
+  {
+    "index": 173,
+    "source": "病灶T1加权成像(T1-weighted image，T1WI)多呈等或稍低信号，T2加权成像(T2-weighted image，T2WI)多呈等或稍高信号，弥散加权成像(disffusion-weighted imaging，DWI)多呈高或稍高信号。",
+    "reference": "The lesions presented slightly low or equal signal on T1-weighted image (T1WI), slightly high or equal signal on T2-weighted image (T2WI), and slightly high or equal signal on disffusion-weighted imaging (DWI), in which 2 lesions showed central necrosis and 2 lesions included hemorrhage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Lesions on T1-weighted imaging (T1WI) mostly appear as isointense or slightly hypointense signals, on T2-weighted imaging (T2WI) mostly as isointense or slightly hyperintense signals, and on diffusion-weighted imaging (DWI) mostly as hyperintense or slightly hyperintense signals."
+  },
+  {
+    "index": 174,
+    "source": "全部病灶表现出明显的强化影，其中团块状强化的病灶有23个，环形强化的病灶有3个。",
+    "reference": "All of them showed significant enhancement, 3 of them showed annular enhancement, and the rest showed nodular and mass enhancement.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "All lesions showed significant enhancement, including 23 lesions with mass-like enhancement and 3 lesions with ring-like enhancement."
+  },
+  {
+    "index": 175,
+    "source": "病灶周围形成的水肿严重程度不一，其中20个属于重度，4个中度，2个轻度。",
+    "reference": "The degree of para-tumorous edema for different lesions was different, including 20 lesions with marked edema, 4 with moderate edema, and 2 with slight edema.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The severity of the edema formed around the lesions varies, with 20 being severe, 4 moderate, and 2 mild."
+  },
+  {
+    "index": 176,
+    "source": "方法：报告1例病理确诊为异位嗜铬细胞瘤并多发淋巴结及肺转移的患者资料。",
+    "reference": "Methods: A case of paraganglioma of testis with multiple lymph node and lung metastasis were reported.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: Report on the case of a patient pathologically diagnosed with ectopic pheochromocytoma along with multiple lymph node and lung metastases."
+  },
+  {
+    "index": 177,
+    "source": "结果：患者有典型的血压升高症状，血儿茶酚胺及尿香草扁桃酸值显著升高。",
+    "reference": "Results: The patient presented with high blood pressure, high level of catecholamine, and urinary vanillylmandelic acid.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: The patient exhibits typical symptoms of elevated blood pressure, with significantly increased levels of blood catecholamines and urinary vanillylmandelic acid."
+  },
+  {
+    "index": 178,
+    "source": "广东省人民医院于1960年成立烧伤治疗专业组，是我国较早建立烧伤科的医院之一。",
+    "reference": "Guangdong General Hospital set up burn treatment specialist group in 1960. It was one of the hospitals which set up the department of burns in the early time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Guangdong Provincial People's Hospital established a specialized burn treatment team in 1960, making it one of the earliest hospitals in China to set up a burn department."
+  },
+  {
+    "index": 179,
+    "source": "58年来，广东省人民医院烧伤外科共救治烧伤患者2万余例，总体救治成功率98.58%，位居国内外前列。",
+    "reference": "In the past 58 years, Department of Burn Surgery in Guangdong General Hospital has treated more than 20 000 burn patients, with overall success rate of 98.58%, standing at the global frontier.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Over the past 58 years, the Burn Surgery Department of Guangdong Provincial People's Hospital has treated more than 20,000 burn patients, achieving an overall treatment success rate of 98.58%, ranking among the top domestically and internationally."
+  },
+  {
+    "index": 180,
+    "source": "58年来在陈华德教授、赖文教授等学科带头人的带领下，经过全体同仁的不懈努力，笔者科室由一个单纯的烧伤治疗专业组，发展成为广东省临床重点专科、百级层流烧伤病房样板单位、广东省医学会烧伤学分会第二届和第三届专业委员会主任委员单位、国家药物临床试验基地，并为华南地区广大人民提供高质量的烧伤救治服务。",
+    "reference": "In the past 58 years, under the leadership of professors Chen Huade and Lai Wen and through the unremitting efforts of the colleagues, our department has developed from a burn treatment specialist group to the key clinical specialty of Guangdong province, sample unit of hundred level of laminar burn care ward, unit of chairman of the second and third committees of the Burn Branch of Guangdong Medical Association, the base of the National Good Clinical Practice, and has provided high level of burn treatment service for people in South China.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Over the past 58 years, under the leadership of academic leaders such as Professor Chen Huade and Professor Lai Wen, and through the tireless efforts of all colleagues, our department has grown from a simple burn treatment team into a key clinical specialty in Guangdong Province, a model unit for Class 100 laminar flow burn wards, the chair unit of the second and third professional committees of the Burn Society of the Guangdong Medical Association, a national drug clinical trial base, and a provider of high-quality burn treatment services for the people of South China."
+  },
+  {
+    "index": 181,
+    "source": "由中国医师协会烧伤科医师分会主办的\"中国医师协会烧伤科医师分会2018年年会\"于2018年11月16—18日在广东省广州市顺利召开，300余名烧伤科医师代表出席了本次会议。",
+    "reference": "The 2018 Academic Annual Meeting of the Society of Burn Surgery of Chinese Medical Doctor Association, sponsored by the Chinese Medical Doctor Association, was successfully held in Guangzhou, Guangdong province from November 16th to 18th, 2018. More than 300 representatives of burn surgery attended the meeting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The '2018 Annual Meeting of the Burn Surgery Physicians Branch of the Chinese Medical Doctor Association,' organized by the Burn Surgery Physicians Branch of the Chinese Medical Doctor Association, was successfully held in Guangzhou, Guangdong Province, from November 16 to 18, 2018. More than 300 representatives of burn surgery physicians attended the meeting."
+  },
+  {
+    "index": 182,
+    "source": "会议紧密结合临床实际需求，以院士讲座、专题报告、专题讨论和疑难、复杂病例讨论为主。",
+    "reference": "The content of the meeting included academician lectures, special reports, seminar, difficult and complex case discussions, which were closely related to clinical needs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The conference closely aligns with the actual clinical needs, focusing on academician lectures, special reports, thematic discussions, and discussions of challenging and complex cases."
+  },
+  {
+    "index": 183,
+    "source": "针对我国烧伤专科的发展现状和面临挑战、烧伤专科医师培养的现状和问题等，特别邀请了相关专家做专题报告和进行讨论。",
+    "reference": "In response to the development status and challenges of burn specialty and the status and problems of the training of burn specialist in China, special experts were invited to make special reports and discussions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In response to the current state of development and challenges faced by burn specialty in our country, as well as the current situation and issues in the training of burn specialists, relevant experts were specially invited to give thematic reports and conduct discussions."
+  },
+  {
+    "index": 184,
+    "source": "会议期间召开了中国医师协会烧伤科医师分会换届选举大会，选举产生了第四届委员会，彭毅志教授当选会长。",
+    "reference": "During the meeting, a general election meeting of the Society of Burn Surgery of Chinese Medical Doctor Association was held, the fourth committee was elected, and professor Peng Yizhi was elected as the president.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "During the conference, the re-election meeting of the Burn Surgery Physicians Branch of the Chinese Medical Doctor Association was held, and the fourth committee was elected. Professor Peng Yizhi was elected as the president."
+  },
+  {
+    "index": 185,
+    "source": "肝门部胆管癌是胆道外科治疗难度最大的恶性肿瘤之一。",
+    "reference": "Hilar cholangiocarcinoma is one of the most difficult malignant tumors to treat in the biliary system.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hilar cholangiocarcinoma is one of the most challenging malignant tumors to treat in biliary surgery."
+  },
+  {
+    "index": 186,
+    "source": "在日本，过去的30余年间该疾病的5年生存率从32.5%升至67.1%。",
+    "reference": "In Japan, 5-year survival rate of the disease has increased from 32.5% to 67.1% during the past 30 years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In Japan, over the past 30 years, the 5-year survival rate for this disease has increased from 32.5% to 67.1%."
+  },
+  {
+    "index": 187,
+    "source": "本文对该诊治体系的历史沿革、现状及尚存的问题进行简要介绍。",
+    "reference": "The present review intends to report the history, current status and remaining bottlenecks of the diagnosis and treatment system of hilar cholangiocarcinoma in Japan as follows.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article provides a brief introduction to the historical evolution, current status, and existing issues of the diagnostic and treatment system."
+  },
+  {
+    "index": 188,
+    "source": "目的：探讨微小RNA(micro RNA，miR)-21对香烟烟雾提取物(cigarette smoke extract，CSE)诱导的巨噬细胞自噬、增殖和凋亡的影响。",
+    "reference": "To explore the effects of miR-21 on macrophage autophagy, proliferation and apoptosis induced by cigarette smoke extract (CSE).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To explore the effects of microRNA (miR)-21 on autophagy, proliferation, and apoptosis of macrophages induced by cigarette smoke extract (CSE)."
+  },
+  {
+    "index": 189,
+    "source": "方法：实验分为对照组、CSE干预巨噬细胞组(CSE组)、miR-21抑制剂+CSE干预巨噬细胞组(miR-21抑制剂+CSE组)。",
+    "reference": "Methods: The cells was divided into a control group, a CSE interventine macrophage group (CSE group), and a miR-21 inhibitor+CSE intervention macrophage group (miR-21 inhibitor+CSE group).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: The experiment was divided into the control group, the CSE-intervened macrophage group (CSE group), and the miR-21 inhibitor + CSE-intervened macrophage group (miR-21 inhibitor + CSE group)."
+  },
+  {
+    "index": 190,
+    "source": "采用实时聚合酶链反应(real-time PCR)检测3组巨噬细胞miR-21表达水平，Western印迹、MTT试验及流式细胞术检测miR-21抑制剂对巨噬细胞自噬、增殖及凋亡的影响。",
+    "reference": "The expression of miR-21 in the 3 groups was detected by real-time PCR. The effects of miR-21 inhibitor on macrophage autophagy, proliferation and apoptosis were detected by Western blot, MTT assay and flow cytometry.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Real-time polymerase chain reaction (real-time PCR) was used to detect the expression levels of miR-21 in three groups of macrophages. Western blotting, MTT assay, and flow cytometry were used to examine the effects of miR-21 inhibitors on macrophage autophagy, proliferation, and apoptosis."
+  },
+  {
+    "index": 191,
+    "source": "结果：与对照组相比，CSE组miR-21表达和自噬水平均增加，差异有统计学意义(均P<0.05)。",
+    "reference": "Results: Compared with the control group, the levels of miR-21 and autophagy in the CSE group were significantly increased (both P<0.05).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: Compared with the control group, the CSE group showed increased miR-21 expression and autophagy levels, with statistically significant differences (all P<0.05)."
+  },
+  {
+    "index": 192,
+    "source": "MiR-21抑制剂+CSE组miR-21的表达量较CSE组明显降低(P<0.05)。",
+    "reference": "The expression of miR-21 in the miR-21 inhibitor+CSE group was significantly lower than that in the CSE group (P<0.05).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The expression level of miR-21 in the MiR-21 inhibitor + CSE group was significantly lower than that in the CSE group (P<0.05)."
+  },
+  {
+    "index": 193,
+    "source": "结论：CSE可通过影响巨噬细胞miR-21的表达及自噬水平而使巨噬细胞的自噬和凋亡增加，增殖减少。",
+    "reference": "Conclusion: CSE intervention macrophage increase the autophagy and apoptosis of macrophages, decrease the cell proliferation by affecting the expression of miR-21 and the level of autophagy in macrophages.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: CSE can increase autophagy and apoptosis in macrophages and reduce their proliferation by influencing the expression of miR-21 and the level of autophagy in macrophages."
+  },
+  {
+    "index": 194,
+    "source": "方法：回顾性纳入2012至2017年经病理证实的130例脑胶质瘤患者，基于磁共振增强T1加权相二维图像提取的共41个影像学特征。",
+    "reference": "Methods: A total of 130 glioma patients with confirmed pathological diagnosis were selected retrospectively from 2012 to 2017. Forty one imaging features were extracted from each subjects based on 2-dimension magnetic resonance T1 weighted imaging with contrast-enhancement.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: Retrospectively included 130 cases of brain glioma patients pathologically confirmed from 2012 to 2017, with a total of 41 radiological features extracted based on two-dimensional images of magnetic resonance enhanced T1-weighted phase."
+  },
+  {
+    "index": 195,
+    "source": "建立人工神经网络并进行特征选择以得到最优化的神经网络模型，随机抽取一半病例的影像学特征数据对神经网络进行训练，并用另一半特征数据对训练完成后的神经网络进行胶质瘤分级效果验证。",
+    "reference": "An artificial neural network model was created and optimized according to the performance of feature selection. The training dataset was randomly selected half of the whole dataset, and the other half dataset was used to verify the performance of the neural network for glioma grading.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Establish an artificial neural network and perform feature selection to obtain an optimized neural network model. Randomly select half of the case imaging feature data to train the neural network, and use the other half of the feature data to validate the glioma grading performance of the trained neural network."
+  },
+  {
+    "index": 196,
+    "source": "对神经网络重复进行100次训练和验证，将结果进行平均。",
+    "reference": "The training-verification process was repeated for 100 times and the performance was averaged.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Perform training and validation on the neural network 100 times repeatedly, and average the results."
+  },
+  {
+    "index": 197,
+    "source": "结果：经过特征选择后的神经网络模型共选取5个特征作为输入特征，神经网络对脑胶质瘤分级的平均准确率为90.32%，平均敏感度为87.86%，平均特异度为92.49%，受试者操作曲线的曲线下面积为0.9486。",
+    "reference": "Results: A total of 5 imaging features were selected as the ultimate input features for the neural network. The mean accuracy of the neural network for glioma grading was 90.32%, with a mean sensitivity at 87.86% and a mean specificity at 92.49%. The area under the curve of receiver operating characteristic curve was 0.9486.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Result: After feature selection, the neural network model selected a total of 5 features as input features. The average accuracy of the neural network in grading gliomas was 90.32%, the average sensitivity was 87.86%, the average specificity was 92.49%, and the area under the receiver operating characteristic curve was 0.9486."
+  },
+  {
+    "index": 198,
+    "source": "结论：人工神经网络作为一种人工智能方法，对脑胶质瘤分级具有较高的准确性，为脑胶质瘤的无创性术前分级提供了可行的辅助手段。",
+    "reference": "Conclusion: As a technique of artificial intelligence, neural network can reach a relatively high accuracy for the grading of glioma and provide a non-invasive and promising computer-aided diagnostic process for the pre-operative grading of glioma.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: Artificial neural networks, as a method of artificial intelligence, have high accuracy in grading gliomas and provide a feasible auxiliary means for non-invasive preoperative grading of gliomas."
+  },
+  {
+    "index": 199,
+    "source": "目的：研究药物性肝衰竭(drug-induced liver failure，DILF)患者的预后影响因素，并构建其logistic回归模型(logistic regression model，LRM)。",
+    "reference": "To explore the prognostic factors for patients with drug-induced liver failure (DILF) and construct a logistic regression model (LRM).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objective: To study the prognostic factors affecting patients with drug-induced liver failure (DILF) and to construct their logistic regression model (LRM)."
+  },
+  {
+    "index": 200,
+    "source": "方法：回顾性分析2009年1月至2018年1月在中南大学湘雅医院、湘雅二医院及湘雅三医院感染病科收治的183例DILF患者的临床资料，根据其预后分为好转组(n=67)及无效组(n=116)。",
+    "reference": "Methods: A retrospective analysis of clinical data was performed in 183 hospitalized patients, who were diagnosed with DILF in Xiangya Hospital, the Second Xiangya Hospital and the Third Xiangya Hospital, Central South University from January 2009 to January 2018. The patients were divided into an improved group (n=67) and an ineffective group (n=116) according to their prognosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Method: A retrospective analysis was conducted on the clinical data of 183 DILF patients admitted to the Department of Infectious Diseases at Xiangya Hospital, Xiangya Second Hospital, and Xiangya Third Hospital of Central South University from January 2009 to January 2018. Based on their prognosis, they were divided into an improvement group (n=67) and an ineffective group (n=116)."
+  },
+  {
+    "index": 201,
+    "source": "使用单因素分析对年龄，Tbil，SCr，PT及并发症等可能的预后影响因素进行初筛，基于单因素分析结果，进一步使用多因素分析筛选出独立的预后因素并构建LRM模型。",
+    "reference": "Univariate analysis was performed to screen for possible prognostic factors such as age, Tbil, SCr, PT and complications. According to the results of univariate analysis, the multivariate analysis was performed to determine the independent prognostic factors and construct a LRM.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Using univariate analysis to preliminarily screen potential prognostic factors such as age, Tbil, SCr, PT, and complications, and based on the results of univariate analysis, further using multivariate analysis to identify independent prognostic factors and construct an LRM model."
+  },
+  {
+    "index": 202,
+    "source": "将LRM模型与终末期肝病(model for end-stage liver disease，MELD)模型进行比较，采用受试者工作曲线(receiver operating characteristic curve，ROC)评估LRM模型和MELD模型的预测价值，比较两模型间ROC曲线下面积(area under the ROC curve，AUC)及总正确率等参数的优劣，并使用独立样本进行验证。",
+    "reference": "The LRM was compared with the model for end-stage liver disease (MELD), the predictive value of LRM and MELD was evaluated by receiver operating characteristic curve (ROC), the parameters such as area under the ROC (AUC) and total accuracy were compared between the 2 models and verified by another independent sample.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The LRM model was compared with the model for end-stage liver disease (MELD), and the predictive value of the LRM and MELD models was assessed using the receiver operating characteristic curve (ROC). The advantages and disadvantages of parameters such as the area under the ROC curve (AUC) and overall accuracy between the two models were compared, and independent samples were used for validation."
+  },
+  {
+    "index": 203,
+    "source": "结果：单因素分析提示：年龄，临床分型，肝性脑病，肝肾综合征，WBC计数，天门冬氨酸转氨酶/谷丙氨酸转氨酶(aspartic acid transaminase/glutarine transaminase，AST/ALT)比值，Tbil，SCr，PT和甲胎蛋白(alpha-fetoprotein，AFP)等指标在两组间的差异均有统计学意义(均P<0.05)。",
+    "reference": "Results: According to univariate analysis, there was significant differences in age, clinical type, hepatic encephalopathy, hepatorenal syndrome, WBC count, the ratio of aspartic acid transaminase (AST) to glutamine transaminase (ALT) (AST/ALT), Tbil, SCr, PT and alpha-fetoprotein (AFP) between the 2 groups (all P<0.05).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Results: Univariate analysis indicated that age, clinical classification, hepatic encephalopathy, hepatorenal syndrome, WBC count, aspartic acid transaminase/glutamic pyruvic transaminase (AST/ALT) ratio, Tbil, SCr, PT, and alpha-fetoprotein (AFP) showed statistically significant differences between the two groups (all P<0.05)."
+  },
+  {
+    "index": 204,
+    "source": "多因素分析提示：AFP，PT，AST/ALT比值，肝性脑病和肝肾综合征为DILF患者独立的预后影响因素，可用于构建LRM模型。",
+    "reference": "Multivariate analysis revealed that: AFP, PT, AST/ALT, hepatic encephalopathy and hepatorenal syndrome were independent prognostic factors for DILF, which could be applied to constructing a LRM.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Multivariate analysis suggests that AFP, PT, AST/ALT ratio, hepatic encephalopathy, and hepatorenal syndrome are independent prognostic factors for DILF patients and can be used to construct an LRM model."
+  },
+  {
+    "index": 205,
+    "source": "LRM模型和MELD模型的AUC分别为0.917(95% CI：0.876~0.959)和0.709(95% CI：0.633~0.786)，总正确率分别为86.7%和68.3%，差异有统计学意义(P<0.05)。",
+    "reference": "The AUC of LRM and MELD was 0.917 (95% CI 0.876 to 0.959) and 0.709 (95% CI 0.633 to 0.786) respectively, the total accuracy rate of prediction for the LRM and the MELD was 86.7% and 68.3% respectively, there was significant difference in AUC and total accuracy rate between the LRM and the MELD (P<0.05).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The AUCs of the LRM model and the MELD model were 0.917 (95% CI: 0.876~0.959) and 0.709 (95% CI: 0.633~0.786), respectively, with overall accuracies of 86.7% and 68.3%, respectively. The difference was statistically significant (P<0.05)."
+  },
+  {
+    "index": 206,
+    "source": "结论：AFP，PT，AST/ALT比值，肝性脑病和肝肾综合征为DILF患者独立的预后影响因素；LRM模型能较准确地预测DILF患者的短期预后，其应用价值优于MELD模型。",
+    "reference": "Conclusion: AFP, PT, AST/ALT, hepatic encephalopathy and hepatorenal syndrome were independent prognostic factors for DILF; the LRM can well predict the prognosis in the DILF patients, which is superior to the MELD.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Conclusion: AFP, PT, AST/ALT ratio, hepatic encephalopathy, and hepatorenal syndrome are independent prognostic factors for DILF patients; the LRM model can more accurately predict the short-term prognosis of DILF patients, and its application value is superior to the MELD model."
+  },
+  {
+    "index": 207,
+    "source": "本文論述長照個案口腔健康照護的三大理念：口腔狀況與全身健康的關聯性、口腔照護與吞嚥困難、口腔健康與水化程度，從而提出長照機構口腔健康照護策略，期使引發長照夥伴們對口腔健康的重視，及落實長照個案的口腔健康照護。",
+    "reference": "Oral health impacts the physical and psychological comfort and the quality of life of clients in long-term care.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article discusses the three main concepts of oral health care for long-term care cases: the relationship between oral conditions and overall health, oral care and swallowing difficulties, and oral health and hydration levels. It then proposes oral health care strategies for long-term care institutions, aiming to raise awareness among long-term care partners about the importance of oral health and to implement oral health care for long-term care cases."
+  },
+  {
+    "index": 208,
+    "source": "",
+    "reference": "The programs to prevent or delay disability care advocated under Taiwan's Long-Term Care Plan 2.0 address oral health care, highlighting the importance of oral health care for clients in long-term care.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please provide the Chinese sentence for translation."
+  },
+  {
+    "index": 209,
+    "source": "",
+    "reference": "This article discusses three concepts of oral health care for clients who are in long-term care. These include: the relationship between oral conditions and general health, oral care and dysphagia, and oral health and hydration. In addition, oral health care strategies for long-term care facilities are discussed. It is hoped that this article will encourage long-term care practitioners to pay close attention to the issue of oral health and to implement appropriate oral health care for their long-term-care clients.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please provide the Chinese sentence for translation."
+  },
+  {
+    "index": 210,
+    "source": "遗传代谢性肝病临床表型差异显著，尽管每种疾病的发病率不高，由于疾病谱广，总体受累人群并不少见，临床应予重视。",
+    "reference": "The clinical phenotype of genetic liver disease is significantly different. Although the incidence of disease is low, because of the wide spectrum of diseases, the overall affected population is not rare. Therefore, clinical concern is a matter of alarm.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hereditary metabolic liver diseases exhibit significant differences in clinical phenotypes. Although the incidence of each disease is not high, due to the broad spectrum of diseases, the overall affected population is not uncommon and should be given clinical attention."
+  },
+  {
+    "index": 211,
+    "source": "这类疾病临床罕见，相对认识不足，临床误诊问题较为突出，现以临床实践过程中所遇到的问题为出发点，探讨一下遗传代谢性肝病的临床基因诊断。",
+    "reference": "Additionally, these diseases rarity in clinical practice has covered the recognition, causing increased problem of clinical misdiagnosis. In accordance with the problems encountered in clinical practice of our hospital, we explore the clinical diagnosis of genetic liver disease.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This type of disease is clinically rare and relatively underrecognized, with clinical misdiagnosis being a prominent issue. Starting from the problems encountered in clinical practice, this discusses the clinical genetic diagnosis of hereditary metabolic liver diseases."
+  },
+  {
+    "index": 212,
+    "source": "目前全球已有超过30万人植入人工耳蜗，随着植入适应证的放宽，植入时、植入后如何良好保留患者的残余听力和内耳原有微结构及功能，如何安全有效地借助药物减轻术后炎性反应和纤维化、保留残余听力、减少毛细胞和螺旋神经节细胞的凋亡等已成为该领域的研究热点。",
+    "reference": "Nowadays, more than 300 000 deaf people around the world benefit from cochlea implantation. With the extension of cochlear implantation indications, it has become a research focus for how to apply the anti-inflammatory and anti-fibrotic drugs safely and effectively to better retain residual hearing, as well as to protect hair cells and the spiral ganglion cells from apoptosis.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Currently, more than 300,000 people worldwide have received cochlear implants. With the relaxation of implantation indications, how to effectively preserve patients' residual hearing and the original microstructure and function of the inner ear during and after implantation, how to safely and effectively use medication to reduce postoperative inflammatory responses and fibrosis, preserve residual hearing, and reduce apoptosis of hair cells and spiral ganglion cells have become research hotspots in this field."
+  },
+  {
+    "index": 213,
+    "source": "本文将内耳局部给药方法分为鼓室内直接给药、鼓室内缓释载体给药、耳蜗内给药和人工耳蜗植入电极的修饰四大类，并分别就其研究结果及前沿进展做一综述。",
+    "reference": "In this review, the methods of topical drug delivery to the inner ear are divided into four categories: transtympanic injection of liquid solutions, tympanic implantation of drug delivery systems, intracochlear injection and modified implant electrode. The results in each category and up to date progress are reviewed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article categorizes local drug delivery methods to the inner ear into four main types: direct intratympanic administration, intratympanic sustained-release carrier administration, intracochlear administration, and modification of cochlear implant electrodes. It also provides a review of the research findings and recent advancements for each category."
+  },
+  {
+    "index": 214,
+    "source": "SIRT7 是哺乳动物Sirtuins 家族中的一员，定位于核仁，是一种高度特异性的H3K18Ac (组蛋白H3 的乙酰化18 位赖氨酸残基) 去乙酰化酶。",
+    "reference": "As a member of the Sirtuins family in mammals, SIRT7 locates in nucleus and is a highly specific H3K18Ac (acetylated lysine 18 of histone H3) deacetylase.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "SIRT7 is a member of the mammalian Sirtuins family, located in the nucleolus, and is a highly specific H3K18Ac (acetylation of lysine 18 on histone H3) deacetylase."
+  },
+  {
+    "index": 215,
+    "source": "近年来的研究发现SIRT7 可通过多种途径参与调控核糖体RNA 转录、细胞代谢、细胞应激以及DNA 损伤修复等生理过程。",
+    "reference": "Recent studies showed that SIRT7 could participate in the ribosomal RNA transcription, cell metabolism, cell stress and DNA damage repair through various signaling pathways.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Recent studies have found that SIRT7 can participate in regulating physiological processes such as ribosomal RNA transcription, cellular metabolism, cellular stress, and DNA damage repair through various pathways."
+  },
+  {
+    "index": 216,
+    "source": "此外，SIRT7 还与衰老、心脏疾病及脂肪肝等密切相关。",
+    "reference": "In addition, SIRT7 is also closely related with aging, heart disease and fatty liver.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In addition, SIRT7 is also closely related to aging, heart diseases, and fatty liver."
+  },
+  {
+    "index": 217,
+    "source": "特别是SIRT7 在多种肿瘤如肝癌、胃癌、乳腺癌、膀胱癌、结直肠癌、胰腺癌和头颈鳞状细胞癌等发生发展中起着重要的调节作用。",
+    "reference": "In particular, SIRT7 plays important roles in the regulation of initiation and development of various tumors, such as liver cancer, gastric cancer, breast cancer, bladder cancer, colorectal cancer, and head/neck squamous cell carcinoma.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Especially, SIRT7 plays an important regulatory role in the occurrence and development of various tumors such as liver cancer, gastric cancer, breast cancer, bladder cancer, colorectal cancer, pancreatic cancer, and head and neck squamous cell carcinoma."
+  },
+  {
+    "index": 218,
+    "source": "文中综述了SIRT7 的细胞及分子生物学作用，并系统总结了其在人类疾病中的研究现状。",
+    "reference": "This review describes the cellular and molecular functions of SIRT7, and systematically summarizes recent progress of SIRT7 in human disease.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The article summarizes the cellular and molecular biological functions of SIRT7 and systematically reviews its current research status in human diseases."
+  },
+  {
+    "index": 219,
+    "source": "猪圆环病毒2 型编码的ORF4 蛋白是近年来发现的新蛋白。",
+    "reference": "A novel protein encoded by the open reading frame 4 (ORF4) was recently discovered in porcine circovirus type 2 (PCV2).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ORF4 protein encoded by Porcine circovirus type 2 is a newly discovered protein in recent years."
+  },
+  {
+    "index": 220,
+    "source": "本研究首先构建了带双标签的真核表达载体pCMV-N-Flag-GST，再将ORF4 基因插入该载体中，形成pCMV-N-Flag-GST-ORF4。",
+    "reference": "In the present study, the ORF4 was inserted into the multiple cloning site of pCMV-N-Flag-GST, yielding recombinant plasmid pCMV-N-Flag-GST-ORF4.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This study first constructed the eukaryotic expression vector pCMV-N-Flag-GST with dual tags, and then inserted the ORF4 gene into this vector to form pCMV-N-Flag-GST-ORF4."
+  },
+  {
+    "index": 221,
+    "source": "将质粒转染293T 细胞表达ORF4 后，通过GST Pull-down 试验捕获细胞内潜在与ORF4 互作的蛋白库。",
+    "reference": "The recombinant plasmid was transfected into 293T cells and the intracellular interaction complex of ORF4 were enriched and separated by GST pull-down and SDS-PAGE, sequentially.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After transfecting plasmids into 293T cells to express ORF4, a GST pull-down assay was used to capture the intracellular protein library potentially interacting with ORF4."
+  },
+  {
+    "index": 222,
+    "source": "经SDS-PAGE 分离及银染后，对所得的特异性条带进行质谱鉴定，筛选出5 个与ORF4 潜在互作的蛋白，包括丝氨酸/苏氨酸蛋白磷酸酶6 催化亚基、α 心肌蛋白、β 肌动蛋白、SEC-14 样蛋白5 和肌球蛋白myosin 9。",
+    "reference": "The potential interacting proteins of PCV2 ORF4 were stained with silver and identified by mass spectrometry (MS). Finally, five candidate ORF4-interacting proteins, including Serine/threonine-protein phosphatase 6 catalytic subunit, alpha cardiac muscle 1, actin, SEC14-like protein 5 and myosin 9 were identified.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After separation by SDS-PAGE and silver staining, the specific bands obtained were subjected to mass spectrometry identification, resulting in the selection of 5 proteins potentially interacting with ORF4. These include serine/threonine-protein phosphatase 6 catalytic subunit, α-cardiac actin, β-actin, SEC14-like protein 5, and myosin 9."
+  },
+  {
+    "index": 223,
+    "source": "上述研究结果为深入揭示ORF4 在病毒感染细胞过程中发挥的作用提供新的思路与方向。",
+    "reference": "These results would benefit a better understanding of the biological function of ORF4 in PCV2 infected cells.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The above research results provide new ideas and directions for further revealing the role of ORF4 in the process of viral infection in cells."
+  },
+  {
+    "index": 224,
+    "source": "聚3- 羟基丁酸乳酸酯[Poly(3-hydroxybutyrate-co-lactate) ， P(3HB-co-LA)] ， 属于聚羟基脂肪酸酯(Polyhydroxyalkanoates，PHA) 家族的一员，是一种具有良好生物相容性和可降解性的天然高分子生物材料。",
+    "reference": "Poly(3-hydroxybutyrate-co-lactate) [P(3HB-co-LA)] belongs to the polyhydroxyalkanoates (PHA) family and possesses promising properties including biocompatibility and biodegradability.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Poly(3-hydroxybutyrate-co-lactate) [P(3HB-co-LA)] belongs to the family of Polyhydroxyalkanoates (PHA). It is a natural polymer biomaterial with good biocompatibility and biodegradability."
+  },
+  {
+    "index": 225,
+    "source": "文中通过在大肠杆菌中引入来源于富养罗尔斯通氏菌Ralstonia eutropha 的β-酮硫解酶、乙酰乙酰CoA 还原酶、来源于丙酸梭菌Clostridium propionicum 的丙酰CoA 转移酶突变体以及荧光假单胞菌Pseudomonas fluorescens strain 2P24 来源的PHA 合成酶突变体等异源酶，成功实现了一步法利用葡萄糖合成P(3HB-co-LA)，其中乳酸组分的摩尔百分比达到1.6%，聚合物含量为83.9 wt%。",
+    "reference": "In this study, we directly synthesized P(3HB-co-LA) with glucose by introducing the β-ketothiolase and acetoacetyl-CoA reductase from Ralstonia eutropha, the engineered propionate CoA transferase from Clostridium propionicum and the engineered polyhydroxyalkanoate synthase from Pseudomonas fluorescens strain 2P24 into Escherichia coli. The polymer content was 83.9% (W/W), and the molar percentage of lactate reached 1.6%.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The text describes the successful one-step synthesis of P(3HB-co-LA) from glucose by introducing heterologous enzymes into Escherichia coli, including β-ketothiolase and acetoacetyl-CoA reductase from Ralstonia eutropha, a mutant propionyl-CoA transferase from Clostridium propionicum, and a mutant PHA synthase from Pseudomonas fluorescens strain 2P24. The molar percentage of the lactate component reached 1.6%, and the polymer content was 83.9 wt%."
+  },
+  {
+    "index": 226,
+    "source": "在此基础上，通过敲除辅酶Q8 合成所需的黄素异戊烯基转移酶基因 (ubiX) 来弱化呼吸链水平，从而增强乳酸积累，并进一步缺失乳酸脱氢酶基因 (dld) 以减少乳酸在发酵后期转化成丙酮酸，最终将P(3HB-co-LA) 中乳酸组分的摩尔百分比提高至14.1%，而聚合物含量为81.7 wt%。",
+    "reference": "On this basis, in order to accumulate lactate, we reduced the activity of respiratory chain by deleting the ubiX gene, which is involved in the synthesis of coenzyme Q8. Moreover, we removed the dld gene to avoid the conversion of lactate to pyruvate during the fermentation. With these manipulations, the molar percentage of lactate in the polymer was improved to 14.1%, with an 81.7% (W/W) of polymer content.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On this basis, the respiratory chain level was weakened by knocking out the flavin prenyltransferase gene (ubiX) required for coenzyme Q8 synthesis, thereby enhancing lactic acid accumulation. Furthermore, the lactate dehydrogenase gene (dld) was deleted to reduce the conversion of lactic acid to pyruvate in the later stages of fermentation. Ultimately, the molar percentage of the lactic acid component in P(3HB-co-LA) was increased to 14.1%, while the polymer content reached 81.7 wt%."
+  },
+  {
+    "index": 227,
+    "source": "上述实验结果表明，采用弱化呼吸链水平策略可有效提高聚合物中乳酸组分的摩尔百分比，从而提供了一种改变生物合成聚合物中单体组分含量的新思路。",
+    "reference": "The test results indicated that the strategy of reducing the activity of respiratory chain effectively increased the lactate units in the polymer, and it contributed a new approach to change the content of monomer components in the polymer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The above experimental results indicate that adopting a strategy to weaken the respiratory chain level can effectively increase the molar percentage of lactic acid components in the polymer, thereby providing a new approach to altering the monomer component content in biosynthetic polymers."
+  },
+  {
+    "index": 228,
+    "source": "转运核糖核酸 (tRNA) 是蛋白质合成过程中重要参与成分之一，为了探索稀有密码子对应的tRNA (稀少tRNA) 丰度改变对外源基因表达量的影响，文中构建了毕赤酵母稀少tRNA 基因与外源基因共表达体系。",
+    "reference": "Translocation ribonucleic acid (tRNA) is one of the important components in protein synthesis. In order to explore the effect of the changes of tRNAs corresponding to rare codons (rarity tRNAs) on the expression of exogenous genes, the co-expression system of rare tRNA gene and exogenous gene in Pichia pastoris was constructed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Transfer RNA (tRNA) is one of the important components involved in protein synthesis. To explore the impact of changes in the abundance of rare codon-corresponding tRNA (rare tRNA) on the expression levels of exogenous genes, this study constructed a co-expression system of rare tRNA genes and exogenous genes in Pichia pastoris."
+  },
+  {
+    "index": 229,
+    "source": "首先在GFP 基因中添加由4 个连续脯氨酸稀有密码子CCG 组成的阻遏区，结果显示该GFP 基因的表达量明显降低。",
+    "reference": "The expression of GFP in P. pastoris can be greatly reduced when a repressor region composed of four continuous proline rare codon CCG was added into the GFP gene.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "First, an inhibitory region consisting of four consecutive proline rare codons (CCG) was added to the GFP gene, and the results showed that the expression level of this GFP gene was significantly reduced."
+  },
+  {
+    "index": 230,
+    "source": "然后将带有阻遏区的GFP 基因和tRNAProCCG基因顺次连接于pPIC9K 载体上，在毕赤酵母GS115 中共表达，结果使GFP表达量提高了4.9%；另将带有阻遏区的GFP 基因和tRNAProCCG基因分别连接于pPIC9K 和pFLDα 载体，在毕赤酵母GS115 中共表达，GFP 表达量最高提高了12.5%；应用同样方式将tRNAProCCG基因与NFATc3T-GFP 融合基因共表达，其表达量提高了21.3%。",
+    "reference": "The expression amount of the repressed GFP could be increased about 4.9% when tRNAProCCG gene was cointegrated to the 3' of the repressed GFP gene through pPIC9K to the genome of P. pastoris GS115. Meanwhile, the expression amount of the repressed GFP increased about 12.5% by integrating the repressed GFP gene and tRNAProCCG gene to the genome of P. pastoris GS115 through pPIC9K and pFLDα, respectively. Using the same method, NFATc3T-GFP fusion gene and tRNAProCCG gene were co-expressed in P. pastoris GS115 resulting in 21.3% increased of the expression amount of NFATc3T-GFP fusion protein.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Then, the GFP gene with the repressor region and the tRNAProCCG gene were sequentially linked to the pPIC9K vector and co-expressed in Pichia pastoris GS115, resulting in a 4.9% increase in GFP expression. Additionally, the GFP gene with the repressor region and the tRNAProCCG gene were separately linked to the pPIC9K and pFLDα vectors and co-expressed in Pichia pastoris GS115, achieving a maximum increase of 12.5% in GFP expression. Using the same method, the tRNAProCCG gene was co-expressed with the NFATc3T-GFP fusion gene, leading to a 21.3% increase in its expression."
+  },
+  {
+    "index": 231,
+    "source": "可见，tRNAProCCG在毕赤酵母GS115 中确为稀少tRNA，通过共表达tRNAProCCG基因可显著提高带有连续该密码子的外源基因表达量，并且，文中构建的共表达体系将同样适用于其他稀少tRNA 基因的筛选和验证。",
+    "reference": "In conclusion, tRNAProCCG gene has been confirmed to be a kind of rare tRNAs in P. pastoris GS115. Through co-expression of tRNAProCCG gene and heterologous genes which containing the continuous rare codon CCG, the expression of the repressed heterologous genes could be increased significantly. Furthermore, this co-expression system would contribute to screening and determining the other rare tRNAs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is evident that tRNAProCCG is indeed a rare tRNA in Pichia pastoris GS115. Co-expression of the tRNAProCCG gene can significantly enhance the expression level of exogenous genes containing consecutive codons. Moreover, the co-expression system constructed in this study will also be applicable for the screening and validation of other rare tRNA genes."
+  },
+  {
+    "index": 232,
+    "source": "防御素是一类富含精氨酸和半胱氨酸的内源性阳离子抗菌肽，是软体动物抵御各种病原微生物侵染的重要免疫因子。",
+    "reference": "Defensins are endogenous cationic antimicrobial peptides rich in arginine and cysteine residues. They are important immune factors resisting pathogenic bacteria infection for mollusks.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Defensins are a type of endogenous cationic antimicrobial peptide rich in arginine and cysteine, and they serve as an important immune factor for mollusks to resist infections by various pathogenic microorganisms."
+  },
+  {
+    "index": 233,
+    "source": "太平洋牡蛎防御素 (Crassostrea gigas defensin，CgD) 近羧基端的43 个氨基酸残基构成了其成熟肽区域，决定了CgD 的生物学活性。",
+    "reference": "The 43 amino acid residues near the carboxyl terminal for Crassostrea gigas defensin (CgD) form its mature peptide region, responsible for the biological activity of CgD.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The mature peptide region of the Pacific oyster defensin (Crassostrea gigas defensin, CgD) is composed of 43 amino acid residues near the carboxyl terminus, which determines the biological activity of CgD."
+  },
+  {
+    "index": 234,
+    "source": "抑菌试验结果显示分别含重组蛋白CgDH⁺和重组蛋白CgDH⁻的培养液上清对金黄色葡萄球菌Staphylococcus aureus 和铜绿假单孢菌Pseudomonas aeruginosa 都具有抑菌活性，表明重组蛋白中6×His 标签的存在与否并不影响其生物学活性。",
+    "reference": "Antimicrobial assay showed that the culture medium supernatant containing recombinant CgDH⁺ and recombinant CgDH-, respectively, had activities against Staphylococcus aureus and Pseudomonas aeruginosa, indicating that the existence of 6×His tag in the recombinant proteins do not affect their biological activities.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The results of the antibacterial test showed that the culture supernatants containing recombinant protein CgDH⁺ and recombinant protein CgDH⁻ both exhibited antibacterial activity against Staphylococcus aureus and Pseudomonas aeruginosa, indicating that the presence or absence of the 6×His tag in the recombinant protein does not affect its biological activity."
+  },
+  {
+    "index": 235,
+    "source": "甲状腺肿瘤是目前最常见的疾病，而甲状腺手术日益增多。",
+    "reference": "Thyroid tumors are one of the most common diseases, and the thyroidectomy surgery increases.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Thyroid tumors are currently the most common disease, and thyroid surgeries are increasingly on the rise."
+  },
+  {
+    "index": 236,
+    "source": "现今日间手术已成为外科手术新的趋势，那么日间手术是否适宜甲状腺手术？本文通过对医院、医生、手术、患者等方面探讨，分析其安全性。",
+    "reference": "The outpatient surgery is the new trend in clinic. Is it suited for the thyroidectomy? In this article, we will analyse the setting of hospital, surgeon, surgery, patients, and so on, to prove the safety for the outpatient thyroidectomy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Nowadays, daytime surgery has become a new trend in surgical procedures, so is daytime surgery suitable for thyroid surgery? This article explores aspects such as hospitals, doctors, surgeries, and patients to analyze its safety."
+  },
+  {
+    "index": 237,
+    "source": "在前期工作中发现，截短的轮状病毒VP4*蛋白 (aa 26–476) 在大肠杆菌中能够以可溶形式表达，且在小鼠模型中具有较高的免疫原性和免疫保护性。",
+    "reference": "In previous studies, we found that truncated rotavirus VP4* (aa 26-476) could be expressed in soluble form in Escherichia coli and confer high protection against rotavirus in the mouse mode.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In the preliminary work, it was found that the truncated rotavirus VP4* protein (aa 26–476) could be expressed in a soluble form in Escherichia coli and exhibited high immunogenicity and immune protection in a mouse model."
+  },
+  {
+    "index": 238,
+    "source": "本研究通过颗粒化进一步提高VP4*蛋白的免疫保护性。",
+    "reference": "In this study, we further improved the immunogenicity of VP4* by polymerization.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This study further enhances the immunoprotective properties of the VP4* protein through granulation."
+  },
+  {
+    "index": 239,
+    "source": "综上所述，VP4*高聚体的研究为轮状病毒基因工程亚单位疫苗的研制提供了更广阔的思路。",
+    "reference": "In summary, the study in VP4* polymers provides a new strategy for the development of recombinant rotavirus vaccines.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In summary, the study of VP4* oligomers provides broader insights for the development of rotavirus genetic engineering subunit vaccines."
+  },
+  {
+    "index": 240,
+    "source": "为探讨27nt-miRNA 对间充质干细胞向血管平滑肌细胞分化影响，构建27nt-miRNA 过表达、反义序列Anti-27nt-miRNA 以及阴性对照的表达质粒，慢病毒包装后分别转染人脐带间充质干细胞 (hUCMSC)，加入Ⅳ型胶原诱导hUCMSC 定向分化为血管平滑肌细胞。",
+    "reference": "To investigate the effect of 27nt-miRNA on the differentiation of mesenchymal stem cells into vascular smooth muscle cells. The highly expression plasmids of 27nt-miRNA and anti-27nt-miRNA, and negative control plasmids were constructed, packaged with lentivirus and transfected into human umbilical cord mesenchymal stem cells (hUCMSCs). Collagen IV was added to induce hUCMSCs differentiation into blood vessel smooth muscle cells (VSMCs).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To investigate the effect of 27nt-miRNA on the differentiation of mesenchymal stem cells into vascular smooth muscle cells, expression plasmids for 27nt-miRNA overexpression, antisense sequence Anti-27nt-miRNA, and a negative control were constructed. After lentiviral packaging, they were transfected into human umbilical cord mesenchymal stem cells (hUCMSC), and type IV collagen was added to induce the directed differentiation of hUCMSC into vascular smooth muscle cells."
+  },
+  {
+    "index": 241,
+    "source": "经检测，27nt-miRNA 过表达分化组与阴性对照组相比，细胞活力下降20.48% (P<0.05)，SMA mRNA、SM22α mRNA及其蛋白质表达量明显升高 (P<0.05)；而Anti-27nt-miRNA 分化组细胞活力上升了18.07% (P<0.05)，SMA mRNA、SM22α mRNA 及其蛋白质表达量下降 (P<0.05)。",
+    "reference": "Compared with the negative control group, the viability of the 27nt-miRNA overexpression group was decreased by 20.48% (P<0.05), and the expression of SMA mRNA and SM22α mRNA and protein was significantly increased (P<0.05); the viability of Anti-27nt-miRNA group was increased 18.07% (P<0.05), and the expression of SMA mRNA and SM22α mRNA and protein was decreased (P<0.05).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "According to the analysis, compared to the negative control group, the 27nt-miRNA overexpression differentiation group showed a 20.48% decrease in cell viability (P<0.05), with significant increases in the expression levels of SMA mRNA, SM22α mRNA, and their proteins (P<0.05). In contrast, the Anti-27nt-miRNA differentiation group exhibited an 18.07% increase in cell viability (P<0.05), accompanied by decreases in the expression levels of SMA mRNA, SM22α mRNA, and their proteins (P<0.05)."
+  },
+  {
+    "index": 242,
+    "source": "综上所述，27nt-miRNA 能够促进间充质干细胞向血管平滑肌细胞分化，并且抑制分化后的细胞活力。",
+    "reference": "In summary, 27nt-miRNA promotes mesenchymal stem cells differentiation into vascular smooth muscle cells and inhibits cells viability.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In summary, 27nt-miRNA can promote the differentiation of mesenchymal stem cells into vascular smooth muscle cells and inhibit the viability of the differentiated cells."
+  }
+]

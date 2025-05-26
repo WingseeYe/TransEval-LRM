@@ -1,0 +1,4026 @@
+[
+  {
+    "index": 0,
+    "source": "The min purpose of Chinese education is to teach the science and technology needed to made China into a modern socialist nation.",
+    "reference": "中国教育的主要目的是教授所需的科技知识以把中国变成现代化的社会主义国家。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国教育的主要目的是教授科学技术，以将中国建设成为现代化的社会主义国家。"
+  },
+  {
+    "index": 1,
+    "source": "In many places a computer does the work of a million persons, and so it is widely used in any branch of science and technology- nuclear physics, electrical engineering, mechanical engineering, and the like.",
+    "reference": "在很多地方，计算机能做数百万人的工作，因此它被广泛地应用在各个科技领域——核物理、电气工程、机械工程等等。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在许多地方，一台计算机能完成百万人的工作量，因此它被广泛应用于科学技术的各个分支——核物理、电气工程、机械工程等等。"
+  },
+  {
+    "index": 2,
+    "source": "When a wire is broken by bending it back and forth rapidly, some of the work is transformed into heat and the wire gets hot.",
+    "reference": "当把导线快速地（通过）来回弯曲折断时，部分功就转换成热，所以导线变热。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当通过快速反复弯曲使金属丝断裂时，部分功转化为热，金属丝会变热。"
+  },
+  {
+    "index": 3,
+    "source": "When the moon changes it position, so do the orientation of the tide-generating forces and the position of the equilibrium tide.",
+    "reference": "当月亮的位置改变时，引潮力的取向和平衡潮的位置也改变了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当月亮位置变化时，引潮力的方向与平衡潮的位置也随之改变。"
+  },
+  {
+    "index": 4,
+    "source": "The water vapor will change from its invisible state to condense into visible moisture when the dew point temprature is reched.",
+    "reference": "当露点温度达到时，水气将从其看不见的状态凝结成可见的水分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当达到露点温度时，水蒸气将从其不可见状态凝结成可见的水分。"
+  },
+  {
+    "index": 5,
+    "source": "When a user requests a set of resources, it must be determined whether the allocation of these resources will leave the system in safe state.",
+    "reference": "当用户要求一组资源时，必须确定这些资源的分配是否会让系统处于安全状态。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当用户请求一组资源时，必须确定这些资源的分配是否会让系统保持在安全状态。"
+  },
+  {
+    "index": 6,
+    "source": "As the number of users sharing the segment increases, so does the difficulty of finding an acceptable segment number.",
+    "reference": "当合同程序段的用户数目增加时，查找可接受的程序段的号码的困难也增加。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着共享该段的用户数量增加，找到一个可接受的段号的难度也随之上升。"
+  },
+  {
+    "index": 7,
+    "source": "The aire pressure begins falling accordingly as a typhoon comes near.",
+    "reference": "随着台风的临近，气压开始下降。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着台风临近，气压开始相应下降。"
+  },
+  {
+    "index": 8,
+    "source": "While they are waiting in the ready queue, the I/O devices are idle.",
+    "reference": "当它们在就绪队列中等待时，输入／输出装置则空闲着。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当它们在就绪队列中等待时，I/O设备处于空闲状态。"
+  },
+  {
+    "index": 9,
+    "source": "At the same time the waves are fanning out, they are also separating by wavelength, a process known as dispersion.",
+    "reference": "当这些波向外扩散时，它们也在按波长分开，这一过程叫频散。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在波浪向外扩散的同时，它们也在按波长分离，这一过程被称为色散。"
+  },
+  {
+    "index": 10,
+    "source": "Current stars flowing at the very moment when we close the circuit.",
+    "reference": "当我们一接通线路，电流马上就开始出现。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "就在我们闭合电路的瞬间，电流开始流动。"
+  },
+  {
+    "index": 11,
+    "source": "Meteorlogy entered a period of rapid advance about the time the Bjerknes' cyclone model appeared.",
+    "reference": "大约在Bjerknes的气旋模型问世前后，气象学进入了一个迅速发展的时期。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "气象学在比耶克尼斯气旋模型出现前后进入了一个快速发展的时期。"
+  },
+  {
+    "index": 12,
+    "source": "While in the form of radiation, the energy may travel a tremendous distance before being absorbed or changed back into heat.",
+    "reference": "当能量以辐射能形式存在时，可以在经过很长距离后，才被吸收或转化为热。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当能量以辐射形式存在时，它可能在传播极远的距离后才被吸收或重新转化为热能。"
+  },
+  {
+    "index": 13,
+    "source": "When moving over land, a typhoon is gradually decreased in severity.",
+    "reference": "当台风在陆地上移动时，其猛烈性逐渐减弱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当台风经过陆地时，其强度会逐渐减弱。"
+  },
+  {
+    "index": 14,
+    "source": "It is only when particles are close enough to exert relatively large forces on one another that they are able to set each other into this type of vibration.",
+    "reference": "只有当粒子紧密到能够相互施加较大的力时，它们才能使彼此产生这样的振动。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "只有当粒子之间的距离足够近，能够相互施加较大的力时，它们才能使彼此进入这种类型的振动。"
+  },
+  {
+    "index": 15,
+    "source": "Only when its melting-point temperature is reached does iron start to pass into a liquid.",
+    "reference": "只有当熔点温度达到时，铁才开始变成液体。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "只有当达到铁的熔点时，它才开始转变为液态。"
+  },
+  {
+    "index": 16,
+    "source": "Only if the component vectors are on a straight line will the length of the vector for the sum be equal to the sum of the lengths of these components or to thier difference.",
+    "reference": "只有当几个分矢量在一直线上，那么表示其和的矢量长度才会等于这些分量的长度和或它们的差。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "只有当各分量向量位于同一直线上时，其向量和的长度才会等于这些分量的长度之和或它们的差。"
+  },
+  {
+    "index": 17,
+    "source": "Whenever occasion arises intensive observations are to be done to get the information on the fine structure of the atmospheric event.",
+    "reference": "每当必要时，应该进行加密观测以便获得这一大气事件的细微结构的资料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每当机会出现时，都应进行密集观测以获取有关大气事件精细结构的信息。"
+  },
+  {
+    "index": 18,
+    "source": "Whenever a wave moves out from a source in uniform medium, it travels in straight lines.",
+    "reference": "每当波从均匀介质中的波源移出时，它都呈现直线传播。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每当波从均匀介质中的波源向外传播时，它总是沿直线行进。"
+  },
+  {
+    "index": 19,
+    "source": "Each time the current changes directions, a period of no current, known as slack water, intervenes.",
+    "reference": "每当潮流改变方向时，中间都有一段叫做平潮的无潮流阶段。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每次电流改变方向时，都会出现一段无电流的间隔期，称为平潮。"
+  },
+  {
+    "index": 20,
+    "source": "As a rule, the temperature in the troposhere decreases steadily with increasing altitude until the tropopause is reached.",
+    "reference": "通常对流层温度直到对流层顶都是随高度增加而不断地减小的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通常来说，在对流层中，温度随着高度的增加而稳步下降，直至达到对流层顶。"
+  },
+  {
+    "index": 21,
+    "source": "The jetstream was not fully recognized as a meteorological entity until 1949.",
+    "reference": "直到1949年急流才作为一种气象实体现象为人们充分认识到。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "直到1949年，急流才被完全确认为一种气象实体。"
+  },
+  {
+    "index": 22,
+    "source": "The seeds did not start germinating until late March becasue of a long spell of drought.",
+    "reference": "由于一段很长时间的干旱直到３月下旬这些种子才开始发芽。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于长时间的干旱，这些种子直到三月下旬才开始发芽。"
+  },
+  {
+    "index": 23,
+    "source": "Not until August 1974 did the expeditionary obervations begin.",
+    "reference": "直到1974年8月考察（探险）活动才开始。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "直到1974年8月，远征观察才开始。"
+  },
+  {
+    "index": 24,
+    "source": "A piece of metal left in the sun rises in temperature until it loses heat at the same rate at while it absorbs heat.",
+    "reference": "一片放在阳光下的金属，其温度要上升到它吸收热量和失去热量的速率相等时才停止。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一块金属在阳光下温度会上升，直到其散热速率与吸热速率相等。"
+  },
+  {
+    "index": 25,
+    "source": "In the simplest case, we start the requested I/O and wait until it iscomplete before returning control to the user program.",
+    "reference": "在最简单的情况下，我们启动一个I/O请求，且一直等到它实现再（才）使控制器返回到用户程序。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在最简单的情况下，我们启动所请求的I/O操作，并等待其完成，然后将控制权返回给用户程序。"
+  },
+  {
+    "index": 26,
+    "source": "The weather remained the same until after June.",
+    "reference": "那种天气一直维持到６月以后。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "天气一直保持不变，直到六月过后。"
+  },
+  {
+    "index": 27,
+    "source": "By the time witer begins, coastal waters are thoroughly mixed, with virtually no temperature or salinity differences between surface and bottom waters.",
+    "reference": "到冬季快要开始的时候，沿岸的海水已经彻底混合，表层和底层的水几乎没有什么温度差和盐度差了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "冬季开始时，沿岸水域已充分混合，表层与底层的水温及盐度几乎不存在差异。"
+  },
+  {
+    "index": 28,
+    "source": "If there is a page fault, all the old values are written back into memory before the trap occurs.",
+    "reference": "如果有页面错误，则在自陷中断产生之前，所有原来的数值都要写回存储器。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果发生页面错误，所有旧值会在陷阱发生前被写回内存。"
+  },
+  {
+    "index": 29,
+    "source": "Such observations must be processed before we can utilize them.",
+    "reference": "在我们能应用这些观测资料之前，它们必须进行处理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些观察结果必须经过处理，我们才能加以利用。"
+  },
+  {
+    "index": 30,
+    "source": "But thirty years were to elapse before suitable instruments were available to allow adetailed and systematic investigation.",
+    "reference": "但是竟然过了３０年才出现了适用的仪器让我们对之进行细微的系统的考察。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，三十年过去了，才出现了合适的工具，使得详细而系统的研究成为可能。"
+  },
+  {
+    "index": 31,
+    "source": "It was a few years before a breakthrough was made in this field.",
+    "reference": "过了几年在这一领域才有了突破。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "几年后，该领域才取得了突破。"
+  },
+  {
+    "index": 32,
+    "source": "Small objects such as dust particles and water droplets fall only small distances before losing most of their acceleration.",
+    "reference": "向尘埃和小水滴这种小物体只下降很短距离就失去它们的大部分加速度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "诸如尘埃颗粒和水滴等小物体在失去大部分加速度之前仅下落很短的距离。"
+  },
+  {
+    "index": 33,
+    "source": "Ship may have to wait for days before finding a time when incoming waves and tidal currents are right, permitting them to enter the harbor with safety.",
+    "reference": "船只必须等待多日才能等到合适的波和潮流，从而使得它们能安全地进港。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "船舶可能不得不等待数日，直到遇到合适的海浪和潮汐时机，才能安全进入港口。"
+  },
+  {
+    "index": 34,
+    "source": "After the concept of temperature became understood, there were many years of scientific development before the read nature of hest was established.",
+    "reference": "在人们理解了温度的概念以后，又经过多年的科学研究确定了热的真正性质。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在温度的概念被理解之后，又经过多年的科学发展，热的本质才得以确立。"
+  },
+  {
+    "index": 35,
+    "source": "Even after air masses move far from their original breeding ground source, they may still be recognized by their characteristics.",
+    "reference": "即使在气团远离其原来的生成源地以后，它们仍然可根据其属性而被识别出来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "即使气团远离其最初的发源地，仍可通过其特征被识别出来。"
+  },
+  {
+    "index": 36,
+    "source": "Since the computer came into being science and technology have made great advances.",
+    "reference": "自计算机问世以来，科学技术已取得巨大进展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "自从计算机问世以来，科学技术取得了巨大进步。"
+  },
+  {
+    "index": 37,
+    "source": "Cold fog dispersal has been an operational success in the U.S. since 1963.",
+    "reference": "美国自1963年以来，冷雾消散在实际操作上一直是成功的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "自1963年以来，冷雾消散技术在美国的实际应用中取得了成功。"
+  },
+  {
+    "index": 38,
+    "source": "Fog dispersal research has since followed the line.",
+    "reference": "自那时以来消雾研究一直遵循这个方向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此后，消雾研究便沿着这一方向展开。"
+  },
+  {
+    "index": 39,
+    "source": "It is only since the 1980s that much attention has been given to the phenomenon.",
+    "reference": "只是从80年代以来，人们才很重视这一现象。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "直到20世纪80年代，这一现象才得到广泛关注。"
+  },
+  {
+    "index": 40,
+    "source": "As soon as the tropopause is reached, temperature stops decreasing with height.",
+    "reference": "一达到对流层，温度就停止随高度上升。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一旦到达对流层顶，温度便停止随高度上升而下降。"
+  },
+  {
+    "index": 41,
+    "source": "The study of electricity had hardly begun when Franklin, in 1752, conducted his dangerous kite experiment in a thunderstorm, founding the science of atmospheric electricity.",
+    "reference": "电学研究刚一开始，富兰克林就于1752年在雷暴云中进行了危险的风筝试验，从而奠定了大气电学的基础。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对电的研究几乎还未开始，富兰克林就在1752年冒着雷雨进行了他那危险的风筝实验，由此奠定了大气电学的基础。"
+  },
+  {
+    "index": 42,
+    "source": "The data had no sooner been charted than analysis was started.",
+    "reference": "资料刚在图上填完，分析就开始了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "数据刚被制成图表，分析就立即开始了。"
+  },
+  {
+    "index": 43,
+    "source": "Sprinkling creates water particles in the air that reduce outgoing radiation, but plant temperature declines immediately on cessation of the operation.",
+    "reference": "喷洒在空气中产生小水滴，它们使射出辐射减小，但是喷洒一停止，植物本身温度立刻下降。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "喷灌会在空气中产生水粒子，这些水粒子能减少向外辐射的热量，但一旦停止操作，植物温度会立即下降。"
+  },
+  {
+    "index": 44,
+    "source": "Upon reaching this level, temperature no longer increases with altitude.",
+    "reference": "一达到这个高度，气温就不再随高度上升。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "达到这一高度后，温度不再随海拔升高而增加。"
+  },
+  {
+    "index": 45,
+    "source": "Once the cold water enters the flack, the vapor pressure falls quickly.",
+    "reference": "一旦冷水进入长颈瓶，水气压就迅速下降。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一旦冷水进入烧瓶，蒸汽压力迅速下降。"
+  },
+  {
+    "index": 46,
+    "source": "Once common functions are written in assembly language they could then be copied into a new program without having to be written again.",
+    "reference": "一旦用汇编语言来编写公用程序，它们就不必重新书写而可被复制到新的程序中去。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一旦常用函数用汇编语言编写完成，它们便可以被复制到新程序中，无需再次编写。"
+  },
+  {
+    "index": 47,
+    "source": "In our experiment, heavy rain was received shortly after the plots were (had been) drilled.",
+    "reference": "在我们的试验中，这几块地条播后不久就下了大雨。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在我们的实验中，地块刚完成播种不久便遭遇了暴雨。"
+  },
+  {
+    "index": 48,
+    "source": "It was found that on light clays, no-till planting may begin 1—2dayss sooner after rain than conventional planting.",
+    "reference": "人们发现在淡色粘土地里，雨后免耕栽种可比常规栽种早一两天。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究发现，在轻质黏土上，免耕种植可比传统种植在雨后提前1至2天开始。"
+  },
+  {
+    "index": 49,
+    "source": "Even in such a system, gross statistical divergence of two nearly identical initial states will occur, sometimes in a week.",
+    "reference": "即使在这样一个系统中，近乎相同的两初始状态有时在一周后在总体统计上也会发生差异。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "即使在这样一个系统中，两个几乎完全相同的初始状态也会出现显著的统计差异，有时甚至在一周内就会发生。"
+  },
+  {
+    "index": 50,
+    "source": "As far back as 1920s attention was directed towards the problem.",
+    "reference": "早在20年代，人们就注意这一问题了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "早在20世纪20年代，人们的注意力就被引向了这个问题。"
+  },
+  {
+    "index": 51,
+    "source": "First comes a gradual change in water level, the forerunner, a few hours ahead of the storm’s arrival.",
+    "reference": "首先出现水位的逐渐变化，这是风暴到达前几小时的先兆。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "首先出现的是水位的逐渐变化，这是风暴来临前几小时的先兆。"
+  },
+  {
+    "index": 52,
+    "source": "Prior to the 1960s knowledge of the atmosphere above about 30 km was based largely on inferences from ground-based observations.",
+    "reference": "在60年代以前，人们关于30公里左右以上的高空大气知识主要是根据地基观测推断得到的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在20世纪60年代之前，人们对约30公里以上大气的认识主要基于地面观测的推断。"
+  },
+  {
+    "index": 53,
+    "source": "Even today, specific forecasts are only made for the period of 3 to 5 days in advance.",
+    "reference": "即使今天也只能对未来3—5天的天气作出具体的预报。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "即使在今天，具体的天气预报也仅能提前3到5天做出。"
+  },
+  {
+    "index": 54,
+    "source": "The 500-hPa height field shows a well-developed blocking high over the Gulf of Alaska, which lasts another seven days.",
+    "reference": "500百帕高度场表明，在阿拉斯加海湾上空有一发展得很好的阻塞高压，后来它又持续了7天",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "500百帕高度场显示阿拉斯加湾上空有一个发展良好的阻塞高压，这一现象将持续七天。"
+  },
+  {
+    "index": 55,
+    "source": "Such averages are usually taken over a period of time, such as an hour, a day, a month, or a year.",
+    "reference": "这种平均值通常是对一段时间如1小时，1天，1月，1年所取的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此类平均值通常是在一段时间内计算的，例如一小时、一天、一个月或一年。"
+  },
+  {
+    "index": 56,
+    "source": "The experiment was conducted in the summer of 1977.",
+    "reference": "该试验于1977年夏进行。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该实验于1977年夏季进行。"
+  },
+  {
+    "index": 57,
+    "source": "In early spring when temperature is too low to favor the growth and development of the plants so that they have to remain in the greenhouse.",
+    "reference": "在早春此时气温很低，不利于这些植物的生长发育，因此它们还必须留在温室中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "初春时节，气温过低不利于植物的生长发育，因此它们不得不留在温室中。"
+  },
+  {
+    "index": 58,
+    "source": "During periods of light winds or reduced river flow coastal current often become so weak as to be barely discernible.",
+    "reference": "在淡淡轻风或河道流量减小时，海岸流变得很弱，几乎看不出来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在风力微弱或河流流量减少的时期，沿岸洋流往往会变得非常微弱，几乎难以察觉。"
+  },
+  {
+    "index": 59,
+    "source": "During the 19th century, the theories of tidal and acoustic gravity oscillations were subjects of great interest.",
+    "reference": "在19世纪，潮汐振荡和声重力振荡的理论曾经是饶有兴趣的课题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在19世纪，潮汐和声重力振荡的理论曾是备受关注的研究课题。"
+  },
+  {
+    "index": 60,
+    "source": "How often observations are made, and how widely they are spaced, depend on the scale of the atmospheric events about which information is desired.",
+    "reference": "隔多久进行一次观测，这些测值（代表台站）相距多远取决于所要取得资料的大气事件的尺度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观测的频率以及观测点的分布广度，取决于所需了解的大气现象的规模。"
+  },
+  {
+    "index": 61,
+    "source": "Periods of precipitation are referred to as the “active” monsoon, and the lulls in between are called monsoon “break”.",
+    "reference": "有降水发生的时期叫做季风活跃期，而它们之间的静息期叫做季风中断。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "降水期被称为季风的“活跃”期，而期间的间歇则称为季风的“中断”期。"
+  },
+  {
+    "index": 62,
+    "source": "Such currents may form, disappear, or change flow direction within a matter of hours or days.",
+    "reference": "这样一些洋流的形成、消失或改变流向可能发生在大约几小时或几天内。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这样的水流可能在几小时或几天内形成、消失或改变流向。"
+  },
+  {
+    "index": 63,
+    "source": "The weather will be hot and dry from now on till the end of August for this region.",
+    "reference": "这一地区天气从现在到8月底将是炎热干燥的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "从现在起到八月底，该地区的天气将会炎热干燥。"
+  },
+  {
+    "index": 64,
+    "source": "Spring tides occur every two weeks, usually within a few days of the new and full moon.",
+    "reference": "春潮每间隔1周出现1次，通常出现在离开新月和满月几天之内。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "大潮每两周发生一次，通常在新月和满月后的几天内出现。"
+  },
+  {
+    "index": 65,
+    "source": "These vortices developed within 30 minutes or so of each other.",
+    "reference": "这些涡旋的产生彼此相隔半小时左右。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些涡旋彼此在约30分钟内相继形成。"
+  },
+  {
+    "index": 66,
+    "source": "In a time-sharing system, it is very important that each user get a share of the CPU at regular intervals.",
+    "reference": "在分时系统中，重要的是每一用户每隔（固定）一段时间可使用中心处理装置。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在分时系统中，确保每个用户都能定期获得CPU的使用份额至关重要。"
+  },
+  {
+    "index": 67,
+    "source": "These stations may report weather intervals of an hour or even less to warn of approaching weather dangers.",
+    "reference": "这些台站可以1小时或不到1小时报告1次天气以警告（人们注意）危险天气的临近。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些站点可能会以一小时甚至更短的时间间隔报告天气情况，以预警即将到来的天气危险。"
+  },
+  {
+    "index": 68,
+    "source": "Plants were measured for height of the tallest leaf at monthly intervals from May to September.",
+    "reference": "从5月到9月每月测量植物最高叶的高度1次",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "从五月到九月，每月测量一次植物的最高叶片高度。"
+  },
+  {
+    "index": 69,
+    "source": "The dataset consists of twice daily 500-hPa height analyses from the U.S. National Meteorological Center for the 20 winters 1962/1963 through 1981/1982.",
+    "reference": "所用资料集为美国国家气象中心关于1962/1963到1981/1982期间20个冬季的一天两次的500百帕高度场分析资料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该数据集包含美国国家气象中心提供的1962/1963年至1981/1982年共20个冬季期间每日两次的500百帕高度分析数据。"
+  },
+  {
+    "index": 70,
+    "source": "The observation was made at 0630 local time, February 15, 1984.",
+    "reference": "该观测于1984年2月15日地方时6:30进行的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观测于1984年2月15日当地时间0630时进行。"
+  },
+  {
+    "index": 71,
+    "source": "The project will be completed by mid-December.",
+    "reference": "这个项目要到12月中才能完成。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该项目将于十二月中旬完成。"
+  },
+  {
+    "index": 72,
+    "source": "There appears small high in the west on day 10.",
+    "reference": "第十天在其西部出现了一个小高压。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第10天，西方出现小范围高气压。"
+  },
+  {
+    "index": 73,
+    "source": "The observation was carried out one month less two days.",
+    "reference": "观测进行时期为一个月差两天。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观察进行了一个月差两天。"
+  },
+  {
+    "index": 74,
+    "source": "In the meantime the sky is turning clear.",
+    "reference": "与此同时，天空开始晴朗起来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "与此同时，天空正逐渐放晴。"
+  },
+  {
+    "index": 75,
+    "source": "It rains more often than not during this season.",
+    "reference": "在这个季节经常有雨。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这个季节经常下雨。"
+  },
+  {
+    "index": 76,
+    "source": "These circulation anomalies have long been recognized.",
+    "reference": "这些环流异常早就为人们所认识。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些循环异常早已被认识到。"
+  },
+  {
+    "index": 77,
+    "source": "This plot will be prepared sometime next month.",
+    "reference": "这块地将在下个月某个时候整治。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这块地将于下个月的某个时候准备好。"
+  },
+  {
+    "index": 78,
+    "source": "It takes 23 hours, 56 minutes and 4 and a fraction of a second for the earth to complete one rotation.",
+    "reference": "地球完成一次自转需要23小时56分钟4秒多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "地球自转一周需要23小时56分4秒多一点。"
+  },
+  {
+    "index": 79,
+    "source": "For the 24—hour period following 1300 February 14, air temperature dropped 4.6℃.",
+    "reference": "在2月14日13时以后的24小时，气温下降了4。6℃。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在2月14日1300时之后的24小时内，气温下降了4.6℃。"
+  },
+  {
+    "index": 80,
+    "source": "The past decade has been a rapid expansion of our empirical knowledge of the observed circulation anomalies.",
+    "reference": "过去的10年曾是关于观测获得的环流异常现象的经验知识的大丰收的10年。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "过去十年间，我们对观测到的环流异常的经验知识迅速扩展。"
+  },
+  {
+    "index": 81,
+    "source": "The day of the onset of blocking is defined as day zero, and the time is then measured relative to this day zero, thus, day -2 represents the time of two day prior to the onset; day +2 two days subsequent.",
+    "reference": "阻塞开始之日定为零日，其它日子相对于这一天而确定。这样-2天表示在阻塞开始之前两天，+2天表示在阻塞开始后两天。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将开始阻断的那一天定义为第零天，时间便相对于这个第零天进行计算，因此，第-2天表示开始前两天的时间；第+2天则表示开始后两天。"
+  },
+  {
+    "index": 82,
+    "source": "The research involves atmospheric conditions at few levels above the ground.",
+    "reference": "此项研究涉及地面之上若干层次的大气状态。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该研究涉及地面以上几个高度的大气条件。"
+  },
+  {
+    "index": 83,
+    "source": "Individual jet maxima are frequently found at the tips of deep low-pressure troughs.",
+    "reference": "某些急流其最大风速中心常发现位于深低压槽的底端。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "单独的急流最大值常常出现在深低压槽的尖端。"
+  },
+  {
+    "index": 84,
+    "source": "Another high-vale center is at the eastern fringe of the plateau.",
+    "reference": "另一高值中心在高原东边缘上。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "另一个高价值中心位于高原的东部边缘。"
+  },
+  {
+    "index": 85,
+    "source": "Weather is determined by the simultaneous occurrence of several meteorological elements at a geographical locality or over broad areas of the earth.",
+    "reference": "天气是由在某一地理位置或者地球表面上广袤地区同时出现的若干气象要素的综合作用所决定的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "天气是由地理位置上或地球广阔区域内几种气象要素同时出现所决定的。"
+  },
+  {
+    "index": 86,
+    "source": "Reportedly, 1986 No.3 typhoon is being generated over the western North Pacific.",
+    "reference": "据报道，1986年3号台风在西北太平洋生成。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据报道，1986年第3号台风正在西北太平洋上生成。"
+  },
+  {
+    "index": 87,
+    "source": "Standard temperature observations are made in thermometer shelters about 5 feet above the ground.",
+    "reference": "标准气温测定是在离地面5英尺左右的百叶箱中进行的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "标准温度观测是在离地面约5英尺高的百叶箱中进行的。"
+  },
+  {
+    "index": 88,
+    "source": "Above the troposphere is the stratosphere, followed by the ionosphere and capped by the exosphere.",
+    "reference": "在对流层上是平流层，接着是电离层，最上层是外逸层。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对流层之上是平流层，接着是电离层，最外层则由外大气层所覆盖。"
+  },
+  {
+    "index": 89,
+    "source": "Meteorologists have divided the atmosphere into various shells or layers, laid one atop the other.",
+    "reference": "气象学家把大气分成不同的层，它们依次相叠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "气象学家将大气层划分为不同的壳层或层次，这些层次彼此叠加。"
+  },
+  {
+    "index": 90,
+    "source": "The boundary on the cold air side is often ill-defined, especially near the surface.",
+    "reference": "冷空气一侧的边界常常十分模糊，特别是在地表附近。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "冷空气一侧的边界通常不明确，尤其是在近地面处。"
+  },
+  {
+    "index": 91,
+    "source": "The cispacific SST was a little higher than before.",
+    "reference": "太平洋这侧的海面温度比以前稍高一些。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "环太平洋海表温度较之前略有升高。"
+  },
+  {
+    "index": 92,
+    "source": "Close to the ground, wind speed increases quickly with height.",
+    "reference": "靠近地面，风速随高度迅速增大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "靠近地面时，风速随高度迅速增加。"
+  },
+  {
+    "index": 93,
+    "source": "The maximum wind speed is centered around 35oN, 120oE",
+    "reference": "最大风速中心位于35oN,120oE",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最大风速中心位于北纬35度、东经120度附近"
+  },
+  {
+    "index": 94,
+    "source": "A few contributions have appeared on this subject at home and abroad.",
+    "reference": "这一课题已有一些论文在国内外发表了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国内外关于这一主题已有一些研究成果发表。"
+  },
+  {
+    "index": 95,
+    "source": "Meteorological science and technology have grown to the extent that behaviors of the atmosphere could be monitored on a global basis.",
+    "reference": "气象科学和技术已发展到可在全球范围内监测大气特性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "气象科技已发展到能够对大气行为进行全球监测的程度。"
+  },
+  {
+    "index": 96,
+    "source": "For the first few thousand feet above sea level the rate of pressure decrease is in the neighbourhood of 1 inch of pressure for each 900 to 1000 ft.",
+    "reference": "在离海面几千英尺高度上（在拔海高度数千英尺以下）气压递减率大约是每900到1000英尺高度下降1英寸汞柱左右。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在海平面以上最初的几千英尺范围内，气压下降的速率大约为每上升900至1000英尺，气压降低1英寸。"
+  },
+  {
+    "index": 97,
+    "source": "In this case, steady precipitation may extend over a long distance ahead of the front.",
+    "reference": "在这种情形下，稳定性降水可在锋前向前延伸很长一段距离。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这种情况下，稳定的降水可能会在锋面前延伸很长一段距离。"
+  },
+  {
+    "index": 98,
+    "source": "It is known that local weather can be affected within a few days by meteorological conditions thousands of miles away (from here).",
+    "reference": "大家知道当地天气在几天内可以受到（离此）几千英里以外的气象条件的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "众所周知，几千英里外的气象条件可以在几天内影响当地的天气。"
+  },
+  {
+    "index": 99,
+    "source": "These temporary observation posts were all within 10 km of the city.",
+    "reference": "这些临时测点均位于离城１０公里以内。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些临时观察哨所都位于城市10公里范围内。"
+  },
+  {
+    "index": 100,
+    "source": "Buoys are developed 20 miles off the coast.",
+    "reference": "在离海岸２００英里的海中布设浮标站网。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "浮标在离海岸20英里的地方被布设。"
+  },
+  {
+    "index": 101,
+    "source": "The maximum is about 400 hPa in a 3 km distance from the center toward the south.",
+    "reference": "最大值在离开此中心向南３公里处的４００百帕左右高度上",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最大值约为400百帕，位于距中心向南3公里处。"
+  },
+  {
+    "index": 102,
+    "source": "Strong westerlies, at times, have been observed near the tropopause over Recife, Brasil, approximately 9o from the equator.",
+    "reference": "强大的西风气流有时曾在离赤道大约9个纬度的巴西Recife上空的对流层顶附近观测到过。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在巴西累西腓附近的对流层顶，偶尔会观测到强烈的西风，该地距离赤道大约9度。"
+  },
+  {
+    "index": 103,
+    "source": "The trade wind cell is, on the average, confined to 30 degrees poleward of the equator.",
+    "reference": "平均来说，信风圈限于离赤道（向极地方向）30度的纬度带里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "平均而言，信风带局限于赤道向极地方向30度的范围内。"
+  },
+  {
+    "index": 104,
+    "source": "At this stage sea-level westerlies are strong and zonal in character and they lie poleward of their normal position.",
+    "reference": "在这一阶段海平面上西风气流很强且属纬向性的，它较正常位置偏向极地（北半球上偏北或南半球偏南）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在此阶段，海平面西风带强劲且呈纬向分布，其位置较正常情况更偏向极地。"
+  },
+  {
+    "index": 105,
+    "source": "The figure shows that the maximum precipitation occurred to the east of Indonesia.",
+    "reference": "此图表面最大降水出现在印尼之东。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该图显示，最大降水量出现在印度尼西亚以东地区。"
+  },
+  {
+    "index": 106,
+    "source": "For a time, surface and subsurface current are in opposite directions; flow is seaward at the surface and landward near the bottom.",
+    "reference": "在一个时期，表层和次表层的水流方向相反；表层水流向外海方向流动，靠近底层的水流则向陆地方向流动。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有一段时间，表层和次表层的水流方向相反；表层的水流向海，而靠近底部的水流向陆。"
+  },
+  {
+    "index": 107,
+    "source": "For example, the artificial modification of rain at New York City may suggest a seeding activity just a few miles upwind of the metropolis.",
+    "reference": "比如说，对纽约市进行人工降雨可能意味着在该市上风不过几英里处进行一次撒播作业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，在纽约市进行的人工降雨改造可能表明在这座大都市上风方向仅几英里处进行了播云活动。"
+  },
+  {
+    "index": 108,
+    "source": "in the first stage the jet stream lies well to the north and it takes a general west-east direction.",
+    "reference": "在第一阶段急流远在其北且一般为由西向东的方向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在第一阶段，急流位于偏北的位置，并大致呈自西向东的方向流动。"
+  },
+  {
+    "index": 109,
+    "source": "The analyzed low-pressure center at the surface was located ~8 km east of the mesocyclone.",
+    "reference": "所分析的地面低压中心位于中（尺度）气旋之东约8公里处。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "分析得出的地面低压中心位于中气旋以东约8公里处。"
+  },
+  {
+    "index": 110,
+    "source": "In all experiments there is at 300 km of sea to the west and 100 km of sea to the east.",
+    "reference": "在这些试验中，西面离海至少300公里，东面离海至少100公里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在所有实验中，西侧有300公里的海域，东侧有100公里的海域。"
+  },
+  {
+    "index": 111,
+    "source": "The moon moves from a position 28.5o north of the equator to as much south of it.",
+    "reference": "月亮从赤道以北28.5o的位置运行到赤道以南28.5o的位置。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "月球从赤道以北28.5度的位置移动到赤道以南相同距离的位置。"
+  },
+  {
+    "index": 112,
+    "source": "Within this area is a double minimum in pressure with one center collocated with the vorticity maximum and the other about 3 km farther north.",
+    "reference": "在这一区域内有一对最小气压中心，一个与最大涡度中心相重合，另一个则在更向北3公里左右处。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该区域内存在一个气压的双重最低点，其中一个中心与涡度最大值重合，另一个则位于其北约3公里处。"
+  },
+  {
+    "index": 113,
+    "source": "The monitoring station is just across the river from the power plant.",
+    "reference": "监测站与位于河对岸的发电厂正对峙（隔河相对）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "监测站就在发电厂的河对岸。"
+  },
+  {
+    "index": 114,
+    "source": "For research purpose, network with stations speed only 1/10 to 1 miles apsrt have been maintained for limited period in small areas.",
+    "reference": "为了研究需要，在短时间内在小范围一直保持台站间彼此相距仅0.1到1英里的台站网。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "出于研究目的，在小型区域内短期维持了站点间距仅为1/10至1英里的低速网络。"
+  },
+  {
+    "index": 115,
+    "source": "During the experiment, moisture was measured twice a day at 20-cm intervals between 0 and 80 cm of the soil.",
+    "reference": "在试验中一天两次对0—80cm土壤层每20cm处进行湿度测定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在实验期间，每天两次测量土壤0至80厘米深度范围内、每隔20厘米的湿度。"
+  },
+  {
+    "index": 116,
+    "source": "Following the treatment, cotton seeds were planted by hand in the third week of june 1983, at 75-cm row spacing with three rows of plants per plot.",
+    "reference": "在进行这种处理后， 在1983年6月第三周把棉花种子用手种上，行距为75cm，每块地种三行。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "处理结束后，于1983年6月的第三周手工播种棉花种子，行距为75厘米，每个小区种植三行。"
+  },
+  {
+    "index": 117,
+    "source": "Slopes orientated differently receive direct solar radiation in different amounts.",
+    "reference": "朝向不同的山坡接收到的直接太阳辐射量是不同的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不同朝向的斜坡接收到的直接太阳辐射量不同。"
+  },
+  {
+    "index": 118,
+    "source": "On the diagram, propagation is manifested as a coherent line of cloudiness sloping in one direction or another.",
+    "reference": "在这张图上，传播表现为向某一方向倾斜的相互密合的云带的形成。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在图表上，传播表现为一条连贯的云带，向某一方向倾斜。"
+  },
+  {
+    "index": 119,
+    "source": "From just the entrance, in the southern part of the bay, up to a second slack water area, about midway up the bay, tidal currents are ebbing.",
+    "reference": "在海湾的南部，从紧靠入口处内侧直到第二平潮区，其间距离大约是到海湾的一半，潮流正在回落。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "从海湾南部仅入口处开始，直至海湾中部约第二个静水区，潮水正在退去。"
+  },
+  {
+    "index": 120,
+    "source": "The anomalously warm water can exist for a long distance along the equator at least as far west as Canton Island (172oW, 3oS).",
+    "reference": "异常温暖的海水可沿赤道向西长距离延伸，至少可到坎吨岛(172oW, 3oS)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "异常温暖的海水可以沿着赤道向西延伸很长一段距离，至少远至坎顿岛（西经172度，南纬3度）。"
+  },
+  {
+    "index": 121,
+    "source": "The easternmost longitude of the 35℃ isotherm is 140oE",
+    "reference": "35℃的等温线的最东经度是140oE。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "35℃等温线的最东经度为东经140度"
+  },
+  {
+    "index": 122,
+    "source": "The ‘wave’ properties of macroscopic matter are not apparent because the wavelength is undetectably small.",
+    "reference": "宏观物质的波动特性不明显，因为其波长很短，难以被察觉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "宏观物质的‘波动’特性并不明显，因为其波长小到无法检测。"
+  },
+  {
+    "index": 123,
+    "source": "The book remains at rest or, in physical terminology, in static equilibrium not because there are no forces acting on it but because the forces which do act on it annul one another.",
+    "reference": "此书处于静止，或者用物理术语来讲处于静力平衡，并不是因为没有力作用在它上面，而是因为作用其上的力彼此互相抵消。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这本书保持静止，或者用物理学术语来说，处于静态平衡状态，并非因为没有力作用于它，而是因为作用在它上面的力相互抵消了。"
+  },
+  {
+    "index": 124,
+    "source": "As no machine ever runs without some friction, overcoming the force wastes work.",
+    "reference": "因为没有一台机器可以无摩擦地运转，所以克服摩擦力只是白费功夫。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "正如没有任何机器能在完全没有摩擦的情况下运转，克服这种力会消耗功。"
+  },
+  {
+    "index": 125,
+    "source": "Since the operator had more experience with mounting tape than a programmer, setup time was reduced.",
+    "reference": "鉴于操作员比程序员有更多的安装磁盘的经验，所以（由操作员进行的）安装时间就减少了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于操作员在使用安装胶带方面比程序员更有经验，因此安装时间得以缩短。"
+  },
+  {
+    "index": 126,
+    "source": "As friction is always present, it naturally causes losses in all types of machines, since because of friction; part of useful mechanical energy is lost in the form of useless heat.",
+    "reference": "由于摩擦总是存在，所以很自然，部分有用的机械能会因摩擦以无用的热的形式失去，所以摩擦使所有的机器均产生（能量）损失。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于摩擦总是存在，它自然会导致所有类型的机器产生损耗，因为摩擦会使部分有用的机械能以无用的热能形式损失掉。"
+  },
+  {
+    "index": 127,
+    "source": "Since a magnetic field associated with the current in a coil, any change in that current alters the magnetic field around it.",
+    "reference": "因为磁场与线圈内的电流有关，所以电流的任何变化都会引起它周围磁场的变化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于线圈中的电流会产生磁场，因此电流的任何变化都会改变其周围的磁场。"
+  },
+  {
+    "index": 128,
+    "source": "In summer people feel sticky in that relative humidity is quite high.",
+    "reference": "夏季人们感到皮肤粘乎乎的是因为相对湿度很高。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "夏天时，由于相对湿度较高，人们会感到身上黏糊糊的。"
+  },
+  {
+    "index": 129,
+    "source": "The output power can never equal the input power, for there are always losses.",
+    "reference": "输出功率决不可能等于输入功率因为总有损耗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "输出功率永远不可能等于输入功率，因为总会存在损耗。"
+  },
+  {
+    "index": 130,
+    "source": "Theoretically at least we should be able to copy these mechanisms found in nature, for all biological organisms are in part actually electrical systems.",
+    "reference": "至少在理论上我们应该能够模仿在自然界发现的这些机制，因为在所有生物组织中有一部分实际上是电系统。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "至少在理论上，我们应该能够复制自然界中发现的这些机制，因为所有生物有机体在一定程度上实际上都是电气系统。"
+  },
+  {
+    "index": 131,
+    "source": "Because of the high cost of these early computers, idle time was undesirable.",
+    "reference": "由于这些早期计算机价格高昂，所以（出现）闲置时间是人们所不期望的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于这些早期计算机成本高昂，闲置时间是不可取的。"
+  },
+  {
+    "index": 132,
+    "source": "The energy possessed by an object by virtue of its motion is called kinetic energy, or energy of motion.",
+    "reference": "物体由于运动而具有的能量叫动能。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "物体由于其运动而具有的能量被称为动能，即运动能量。"
+  },
+  {
+    "index": 133,
+    "source": "In the cloudless night ground temperature decreases on account of the heat lost to the space.",
+    "reference": "在无云夜间地面温度由于其热量散失到空间而下降。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在无云的夜晚，地面温度因热量散失到太空而降低。"
+  },
+  {
+    "index": 134,
+    "source": "The high yields overall are attributed mainly to good seedbed structure and a manual precision seeding.",
+    "reference": "总的来说，这些高产量主要是由于适宜的苗床结构和精细的手工播种。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "总体高产主要归功于良好的苗床结构和人工精准播种。"
+  },
+  {
+    "index": 135,
+    "source": "In view of the importance of the plateau to the weather and climate over broad areas, a scientific investigation was carried out a few years ago.",
+    "reference": "鉴于这一高原对广大地区的天气和气候的重要性所以在数年前曾进行过一次科学考察。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "鉴于高原对广大地区天气和气候的重要性，几年前进行了一次科学考察。"
+  },
+  {
+    "index": 136,
+    "source": "The decrease in intensity due to absorption is called damping and a wave whose intensity decreases for this reason is called a damped wave.",
+    "reference": "由于被吸收而强度减低叫做阻尼，而由于这一原因其强度减小的波叫做阻尼波。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于吸收而导致的强度减弱被称为阻尼，因此强度减弱的波被称为阻尼波。"
+  },
+  {
+    "index": 137,
+    "source": "Cooling is readily interpreted as due to the fact that work is done against the attractive forces between molecules.",
+    "reference": "冷却很容易被解释为是由于为了克服分子之间引力而做功的结果。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "冷却现象很容易被解释为是由于需要克服分子间引力做功所致。"
+  },
+  {
+    "index": 138,
+    "source": "The pressure increase out of control was at the bottom of the explosion.",
+    "reference": "失去控制的气压增长是这一爆炸的根本原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "压力失控性增加是爆炸的根本原因。"
+  },
+  {
+    "index": 139,
+    "source": "Too small spacing among the plant stands is causative of the crop failure.",
+    "reference": "植株间间隔太小是作物歉收的原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "植株间距过小是导致作物歉收的原因。"
+  },
+  {
+    "index": 140,
+    "source": "It is because the ground loses heat to the air.",
+    "reference": "这是因为地表把热量输送给空气的缘故。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是因为地面将热量传递给了空气。"
+  },
+  {
+    "index": 141,
+    "source": "It was not that the deficiency in fertilizer was responsible for the crop failure.",
+    "reference": "不是因为肥料不足才造成作物歉收的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "并非肥料不足导致了作物歉收。"
+  },
+  {
+    "index": 142,
+    "source": "The farming was done intensively for no other reason than a bumper crop.",
+    "reference": "正是为了丰收的缘故，耕作才作得十分精细。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如此密集的耕作，无非是为了获得丰收。"
+  },
+  {
+    "index": 143,
+    "source": "By reason that the machine did not run properly, the operator had to stop it for checking.",
+    "reference": "由于机器不能正常运行，操作人员只得停车检查。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于机器运行不正常，操作员不得不停机检查。"
+  },
+  {
+    "index": 144,
+    "source": "For reason given above the scheme should be redesigned.",
+    "reference": "鉴于上述原因，此方案应重新设计。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基于上述原因，该方案应重新设计。"
+  },
+  {
+    "index": 145,
+    "source": "Seeing that there is often poor visibility, the site chosen as an airport is not appropriate.",
+    "reference": "鉴于这里能见度经常欠佳，所以选为机场是不适当的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "鉴于能见度常常不佳，所选场地并不适合作为机场。"
+  },
+  {
+    "index": 146,
+    "source": "The crop did not grow well what with species and what with non-uniform top application of fertilizer, according to an agronomist.",
+    "reference": "这片庄稼长得不好据一位农学家看一方面是由于品种，另一方面是由于追肥不匀。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据一位农学家称，作物长势不佳，一方面是因为品种问题，另一方面是由于肥料表施不均匀。"
+  },
+  {
+    "index": 147,
+    "source": "Frozen at around -35℃, mercury is not used in thermometers where extremely low temperature may be expected.",
+    "reference": "由于水银在-35℃左右时发生冰冻，所以在极端低温可能出现的地区它不用于制作温度计。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于水银在约-35℃时会冻结，因此在可能出现极低温度的地方，温度计中不使用水银。"
+  },
+  {
+    "index": 148,
+    "source": "Reportedly the yield per acre has been 30% increased insomuch as modern agricultural technologies are practiced in this hilly region.",
+    "reference": "根据报道由于现代农业技术在那丘陵地区的实行，每亩产量已增加30%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据报道，由于在这个丘陵地区应用了现代农业技术，每亩产量已提高了30%。"
+  },
+  {
+    "index": 149,
+    "source": "Vast stretches of oceans appeal to us much the rather because their profundity is difficult of access.",
+    "reference": "辽阔的海洋因其深奥难以理解才更引起我们的浓厚兴趣。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "浩瀚无垠的海洋之所以更吸引我们，正是因为其深邃难以触及。"
+  },
+  {
+    "index": 150,
+    "source": "Tidal currents cause mixing between layer, so that the waters become only moderately stratified.",
+    "reference": "潮流可引起各层海水之间发生混合，所以水体只能有一种适度的分层。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "潮汐流导致各水层之间的混合，使得水体仅呈现中等程度的分层。"
+  },
+  {
+    "index": 151,
+    "source": "As a result, much of the energy is lost to air.",
+    "reference": "结果其中大部分能量散失于空气中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，大部分能量都散失到空气中。"
+  },
+  {
+    "index": 152,
+    "source": "Conditions of rotation and heat transfer in the earth’s atmosphere are such that irregular waves of the characteristics described above will form.",
+    "reference": "地球大气（随地球）的自转和在其中的热输送状况结果导致具有以上所描述的特征的不规则波的形成。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "地球大气中的旋转和热传递条件使得上述特征的不规则波将形成。"
+  },
+  {
+    "index": 153,
+    "source": "Our normalization is such that the curves in Fig. 3 can be regarded as probability distributions.",
+    "reference": "我们的标准化处理使得图3中的曲线可以被看作概率分布曲线。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们的归一化处理使得图3中的曲线可被视为概率分布。"
+  },
+  {
+    "index": 154,
+    "source": "The dynamic response to the heating imbalance is such as to converge heat into the upper troposphere of the desert regions.",
+    "reference": "对这一加热不平衡的动力学响应结果导致热在这沙漠地带的对流层上部辐合。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对加热不平衡的动态响应导致热量向沙漠区域的对流层上层汇聚。"
+  },
+  {
+    "index": 155,
+    "source": "Wind increased sharply with the result that evaporation went up remarkably.",
+    "reference": "风明显增大结果蒸发明显增强。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "风力急剧增强，导致蒸发量显著上升。"
+  },
+  {
+    "index": 156,
+    "source": "Release of the heat of fusion is believed to alter the pressure gradient in such a way as to diminish the destructive winds near the storm center.",
+    "reference": "人们认为融解热的释放可以改变气压梯度，结果减小风暴中心附近的破坏性风力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据信，融合热的释放会以某种方式改变压力梯度，从而减弱风暴中心附近的破坏性风力。"
+  },
+  {
+    "index": 157,
+    "source": "The rotated principal components express the variability in the data in terms of geographically local components in a manner that the results appear to be consistent with our dynamical perception of atmospheric variability.",
+    "reference": "旋转主分量使用各局地地区的分量来表示资料在数值的变率，因而所得到的结果看来与我们关于大气变化的动力学概念一致。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "旋转后的主成分以地理上局部成分的方式表达了数据中的变异性，其结果似乎与我们对于大气变异性的动力学感知相一致。"
+  },
+  {
+    "index": 158,
+    "source": "The roughly 365-day year is the result of the earth traveling around the sun in one period.",
+    "reference": "365天左右的1年是地球围绕太阳转动一个周期的结果。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "大约365天为一年的周期是地球绕太阳公转一周的结果。"
+  },
+  {
+    "index": 159,
+    "source": "If lines, called isanomals, are drawn on a world, joining places of equal thermal anomaly, an isanomalous map is the result.",
+    "reference": "如果在一世界图上把有相同温度异常的地点以等异常（等距平）线画出来，结果就得到一张气温异常图。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果在地图上绘制称为等异常线的线条，连接具有相同温度异常的地点，结果便是一张等异常线图。"
+  },
+  {
+    "index": 160,
+    "source": "If put together and heated to 25℃ at constant pressure, these substances will result in a new compound.",
+    "reference": "如果把这些物质放在一起并在常压下加热到25℃，则结果会产生一种新的化合物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果在恒压下将这些物质混合并加热至25℃，将会生成一种新的化合物。"
+  },
+  {
+    "index": 161,
+    "source": "Heating makes the molecules of a material move faster, increasing the rate of evaporation.",
+    "reference": "加热使物质中分子运动加快，从而加速蒸发率。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "加热会使材料的分子运动加快，从而增加蒸发速率。"
+  },
+  {
+    "index": 162,
+    "source": "During the passage of a thunderstorm pressure has pronounced change.",
+    "reference": "在雷暴过境时，气压有着明显变化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在雷暴经过期间，气压有明显变化。"
+  },
+  {
+    "index": 163,
+    "source": "Under conventional till, crop response to spring soil water content was considerably greater than under zero till.",
+    "reference": "在常规耕作条件下，春季作物对土壤水份含量的响应要比免耕地大得多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在传统耕作条件下，作物对春季土壤含水量的响应明显高于免耕条件。"
+  },
+  {
+    "index": 164,
+    "source": "Evidently some of these questions are rather too difficult to answer.",
+    "reference": "显然，其中有些问题稍有点难以回答。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "显然，其中一些问题过于复杂，难以回答。"
+  },
+  {
+    "index": 165,
+    "source": "The circulation of the free atmosphere is predominantly (largely) zonal and only to a slight extent (to a less degree) meridional.",
+    "reference": "自由大气中环流主要是纬向的，经向性很弱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "自由大气的环流主要是（很大程度上）纬向的，只有很小程度（较少部分）是经向的。"
+  },
+  {
+    "index": 166,
+    "source": "These problems have been dealt with in considerable detail.",
+    "reference": "这些问题已相当详细地作了讨论。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些问题已经得到了相当详细的处理。"
+  },
+  {
+    "index": 167,
+    "source": "Surf height depends on the height and steepness of the waves offshore, and to a certain extent on the offshore bottom topography.",
+    "reference": "拍岸浪的高度取决于近岸的高度和陡度，另外，在某种程度上还取决于近岸的洋底地形特征。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "浪高取决于近海波浪的高度和陡度，并在一定程度上受近海底地形的影响。"
+  },
+  {
+    "index": 168,
+    "source": "On the whole, marine organisms are cold-blooded, meaning that their internal temperatures are essentially uniform with the environment.",
+    "reference": "总的来说，海洋生物是冷血动物，即是说，它们的体温与周围环境基本上是一致的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "总的来说，海洋生物是冷血动物，这意味着它们的体温与环境温度基本一致。"
+  },
+  {
+    "index": 169,
+    "source": "It is important to bear in mind that the extreme temperatures are largely independent of advection, for they develop mostly in rather stagnant air.",
+    "reference": "重要的是要记住，极端温度与平流基本无关，因为它们主要是在相当静止的空气中形成的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "重要的是要记住，极端温度在很大程度上与平流无关，因为它们主要是在相当静止的空气中形成的。"
+  },
+  {
+    "index": 170,
+    "source": "The eigenperiods, for the most part, are influenced by the mean winds in the lowest three scale heights.",
+    "reference": "固有周期在最低的三个大气标高高度上多半会受到平均风的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "特征周期在很大程度上受到最低三个尺度高度内平均风的影响。"
+  },
+  {
+    "index": 171,
+    "source": "His forecast of the event is found entirely successful.",
+    "reference": "他对这一天气事件的预报是完全成功的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他对该事件的预测被证明是完全成功的。"
+  },
+  {
+    "index": 172,
+    "source": "In order to utilize heat to the best advantage, it is necessary to know the laws that govern heat transfer.",
+    "reference": "为了最大限度地使用热，有必要弄懂支配热传输的几条定律。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了最大限度地利用热量，有必要了解支配热传递的规律。"
+  },
+  {
+    "index": 173,
+    "source": "A 10% reduction of wind speed was observed, however, the reduction is well within the natural wind variability of the storm.",
+    "reference": "曾观测到风速减小10%的情形，然而这一减小量完全落在风暴中的风的自然变率范围内。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观测到风速降低了10%，然而，这一降幅完全处于风暴的自然风速变化范围内。"
+  },
+  {
+    "index": 174,
+    "source": "Large temperature and salinity changes occur in shallow, partially isolated coastal waters, a degree of variability well beyond anything observed in the open ocean.",
+    "reference": "温度和盐度的显著变化出现在浅的、部分属孤立的沿岸海水中，它远远超过公海中观测到的任何因子呈现的变化程度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在浅层、部分封闭的沿海水域中，温度和盐度会发生巨大变化，这种变化的程度远超出在开阔海洋中观察到的任何情况。"
+  },
+  {
+    "index": 175,
+    "source": "These creatures travel in sea as fast as anything.",
+    "reference": "这些动物在海中行动极快。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些生物在海中游动的速度极快。"
+  },
+  {
+    "index": 176,
+    "source": "The idea here is to locate in the weather records conditions that are as analogous to the current conditions as possible.",
+    "reference": "这里的设想是，在天气记录中确定（找出）一些尽可能与当前条件相似的条件（指天气事件）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此处的想法是在天气记录中定位与当前条件尽可能相似的状况。"
+  },
+  {
+    "index": 177,
+    "source": "Accordingly, the owners of these machines have wanted to get as much computation done as possible.",
+    "reference": "所以，计算机的拥有者一直想进行尽可能多的运算。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，这些机器的所有者希望尽可能多地完成计算任务。"
+  },
+  {
+    "index": 178,
+    "source": "They needed high utilization to get as much as they could from their investment.",
+    "reference": "他们需要（使用其计算机达到）高的利用率，以便从他们投资中获得尽可能多的效益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们需要高利用率以从投资中获取尽可能多的回报。"
+  },
+  {
+    "index": 179,
+    "source": "A radiosonde is free to rise to as great an elevation as possible.",
+    "reference": "无线电探空仪可以自由地上升到尽可能高的高度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "无线电探空仪可以自由上升至尽可能高的高度。"
+  },
+  {
+    "index": 180,
+    "source": "The time series of temperature are expected to be the longest possible so as to examine various modes of oscillation periods.",
+    "reference": "人们希望温度的时间系列尽可能地长，以便能研究各种波的振荡周期。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "温度时间序列应尽可能长，以便考察各种振荡周期的模式。"
+  },
+  {
+    "index": 181,
+    "source": "That tsunami was so strong as to destroy a number of ships berthed and buildings ashore.",
+    "reference": "那次海啸如此之强，以致毁灭了若干停泊的船只和岸上建筑物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那次海啸如此强烈，以至于摧毁了多艘停泊的船只和岸上的建筑物。"
+  },
+  {
+    "index": 182,
+    "source": "The temperature is so low that the greenhouse is to be heated to maintain the appropriate condition.",
+    "reference": "温度如此之低，以至温度需要加热才能维持合适的温度条件。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "温度如此之低，以至于需要给温室加热以维持适宜的条件。"
+  },
+  {
+    "index": 183,
+    "source": "After some time of uninterrupted fall, the body is moving so rapidly that the drag of the air is as great as the weight of the body, so that there is no acceleration.",
+    "reference": "经过一些时间的自由降落后，落体运动得很快，以至空气拽力（阻力）与落体的重量相等，于是就没有加速度了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "经过一段时间的自由落体运动后，物体的下落速度变得极快，以致空气阻力与物体重量相等，此时便不再有加速度。"
+  },
+  {
+    "index": 184,
+    "source": "The plant is found at such altitude as to be within roughly 200 m distance of the snowline.",
+    "reference": "这种植物生长地如此之高，以至离雪线只有约200米。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该植物生长的海拔高度大致位于雪线附近200米范围内。"
+  },
+  {
+    "index": 185,
+    "source": "Even for the most simplified models there are such a vast number of calculations to be performed that they could only be used after the advent of high-speed computer.",
+    "reference": "即使对最简单的模式来说，也有如此大量的计算要进行，以至（因而）它们在高速计算机问世后才能应用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "即使对于最简化的模型，也有大量的计算需要执行，以至于只有在高速计算机出现后才可能使用它们。"
+  },
+  {
+    "index": 186,
+    "source": "Some of the air particles, particularly the atoms of the lighter gases, travel fast enough to escape from the air ocean.",
+    "reference": "（在大气最高层）有些空气微粒，特别是较轻气体的原子，运动足够快，以至能从空气海洋（大气圈）中逃逸出来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "部分空气粒子，尤其是较轻气体的原子，运动速度足够快，以至于能够逃离这片空气的海洋。"
+  },
+  {
+    "index": 187,
+    "source": "The train is fast enough that we can cover the distance in less than one hour.",
+    "reference": "这班火车很快，所以我们可用不到一小时通过这段距离。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这列火车速度足够快，我们可以在不到一小时的时间内到达目的地。"
+  },
+  {
+    "index": 188,
+    "source": "These regions seem too dry to be suitable for farming.",
+    "reference": "这些地区看来太干燥而不适合农业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些地区似乎过于干燥，不适合耕作。"
+  },
+  {
+    "index": 189,
+    "source": "In figure 5, there is a total external fragmentation of 26K, a space that is too small for any request.",
+    "reference": "在图5中，有一个总数为26K的外存储残片，这是一个空间，它太小不能满足任何作业要求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在图5中，总外部碎片为26K，这一空间对于任何请求来说都太小了。"
+  },
+  {
+    "index": 190,
+    "source": "To a greater extent than was formerly thought to be the case the monsoons appear to be in the nature of various kinds and degrees of modification of the general planetary wind system.",
+    "reference": "季风看来具有受行星总风系的不同性质和不同程度的影响，这比以往更为可信。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "季风在更大程度上似乎是全球行星风系各种类型和程度上的变化，这一认识比以往所认为的更为深入。"
+  },
+  {
+    "index": 191,
+    "source": "When air is cooled to a point at which the air’s capacity to hold more water vapor is zero, saturation is reached.",
+    "reference": "当空气进一步冷却到容纳更多水汽的能力为零（的那一点）时，饱和状态就达到了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当空气冷却至其容纳更多水蒸气的能力为零时，即达到饱和状态。"
+  },
+  {
+    "index": 192,
+    "source": "The applications of electricity have grown to the extent where most of us lead ‘electrified’ lives.",
+    "reference": "电的应用已发展到可使大多数人享受电气化的生活。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "电力的应用已发展到我们大多数人过着‘电气化’生活的程度。"
+  },
+  {
+    "index": 193,
+    "source": "The aim of the field experiment was to investigate to what extent such a system could prevent soil degradation resulting from very intensive crop rotations.",
+    "reference": "此次田间试验的目的，是研究这一方法能在多大程度上防止由于精细的作物轮作所产生的土壤退化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该田间试验的目的是探究此类系统能在多大程度上防止因高度集约化轮作导致的土壤退化。"
+  },
+  {
+    "index": 194,
+    "source": "The sample temperature was controlled by a Chromel_Alumel thermocouple with a precision on the order of 0.1℃.",
+    "reference": "样品温度用Chromel-Alumel热电偶控制，其精度在0.1℃左右。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "样品温度由精度约为0.1℃的铬镍-铝镍热电偶控制。"
+  },
+  {
+    "index": 195,
+    "source": "At present, even the actual line parameters of the individual absorption line can only be determined to within 10%. Hence, the values are not expected to be more accurate than 10%.",
+    "reference": "目前甚至个别吸收线的实际线参数精度也只能确定到10%以内，因此不要期望这些值的精度优于10%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目前，即便是单个吸收线的实际线路参数也只能确定在10%的误差范围内。因此，这些数值的精确度预计不会超过10%。"
+  },
+  {
+    "index": 196,
+    "source": "For the most part roads in the mountain area have a slope under 2 in 7.",
+    "reference": "在大部分情况下，该山区道路在16度以下。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "山区道路的坡度大多在7比2以下。"
+  },
+  {
+    "index": 197,
+    "source": "The wind directed inward around the center makes angles of 20o to 40o with the isobars.",
+    "reference": "围绕中心向内吹的风与等压线构成20o--40o的夹角。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "风向中心内偏转，与等压线呈20度至40度的夹角。"
+  },
+  {
+    "index": 198,
+    "source": "A mercurial barometer has a glass tube a little more than 30 inches long.",
+    "reference": "水银气压表有一长30英寸多一点的玻璃管。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "水银气压计有一根略长于30英寸的玻璃管。"
+  },
+  {
+    "index": 199,
+    "source": "On the average the continental shelf is about 70 km wide. One much of the Pacific Coast it is relatively narrows, only a few tens of kilometers across.",
+    "reference": "平均来说，大陆架约为70公里宽，在部分太平洋海岸其大陆架较窄，只有几十公里宽。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "大陆架平均宽度约为70公里。在太平洋沿岸的大部分地区，大陆架相对较窄，仅有几十公里宽。"
+  },
+  {
+    "index": 200,
+    "source": "During the course of a freezing season, sea ice may form at the surface up to thickness of 2 meters at the high latitudes.",
+    "reference": "在严寒季节，在高纬度可在海面形成厚度达2米的海冰。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在严寒季节期间，高纬度地区的海面可能会形成厚度达2米的海冰。"
+  },
+  {
+    "index": 201,
+    "source": "In typical cases the zone is about 3000 ft (1 km) in depth and 100 miles (100-200 km) in width, with a slop of approximately 1/100.",
+    "reference": "在典型情况下，锋区大约3000英尺厚，100英里宽，坡度大约是1/1000。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在典型情况下，该区域的深度约为3000英尺（1公里），宽度为100英里（100-200公里），坡度大约为1/100。"
+  },
+  {
+    "index": 202,
+    "source": "ONE of the oddest things about Homo sapiens is that he is alone.",
+    "reference": "有关智人的最奇怪的事情之一就是他们在人类的进化史上十分孤独。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "智人最奇怪的一点莫过于他是孤独的。"
+  },
+  {
+    "index": 203,
+    "source": "Though storytellers have filled the world with imaginary hominids-from woodland pixies to mountain giants-no sign of the real thing has ever been seen.",
+    "reference": "尽管故事家们想象出了许多人种来丰富这个世界，从森林里的小精灵到山上的巨人等等，但人们却从未找到能证明这些人种真实存在的迹象。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管说书人用各种想象中的类人生物——从林间精灵到山岳巨人——填满了这个世界，但现实中却从未有人真正见过它们的踪迹。"
+  },
+  {
+    "index": 204,
+    "source": "But that was not true in the past.",
+    "reference": "但从过去来看，这样的说法并不正确。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但过去并非如此。"
+  },
+  {
+    "index": 205,
+    "source": "As recently as 40,000 years ago there were three other species of human on Earth: Neanderthals in Europe, the \"hobbits\" of Flores, in Indonesia, and a recently discovered and still mysterious group of creatures called the Denisovans, who lived in Central Asia.",
+    "reference": "早在4万年前，地球上还存在另外三个人种：欧洲的尼安德塔人，印度尼西亚佛洛里斯岛上的\"霍比特人\"，以及最近才发现的一个叫丹尼索瓦人的神秘人种，该人种曾居住在亚洲中部。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "就在4万年前，地球上还存在着另外三种人类：欧洲的尼安德特人、印度尼西亚弗洛里斯岛的“霍比特人”，以及一个最近发现但仍充满神秘的群体——生活在亚洲的丹尼索瓦人。"
+  },
+  {
+    "index": 206,
+    "source": "And now there is evidence that similar diversity existed earlier in human history, a little under 2m years ago, in Africa.",
+    "reference": "而现在，人们在非洲又找到了另一个人种存在的证据，该人种在人类进化史上出现的时间更早，距今约不到200万年。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而现在有证据表明，类似的多样性在更早的人类历史中就已存在，大约200万年前在非洲。"
+  },
+  {
+    "index": 207,
+    "source": "This evidence, just published in Nature, has been provided by a team led by Meave Leakey of the Turkana Basin Institute in Nairobi, Kenya. Dr Leakey is a member of an illustrious palaeontological clan.",
+    "reference": "这些发表在《自然》杂志上的证据是由肯尼亚首都内罗毕的图尔卡纳盆地研究所的一个研究小组提供的。该研究小组的领导人米芙•利基来自一个著名的古生物学研究家族，",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这一证据刚刚发表在《自然》杂志上，由肯尼亚内罗毕图尔卡纳盆地研究所的米芙·利基领导的团队提供。利基博士是著名的古生物学家族的一员。"
+  },
+  {
+    "index": 208,
+    "source": "The problem with studying humanity's fossil record is that it is so sparse: a jawbone here; a braincase there.",
+    "reference": "研究人类化石记录最大的问题是资源稀缺，总是这儿一块颚骨，那儿一块头骨。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究人类化石记录的问题在于其极为稀少：这里一块颌骨，那里一个脑壳。"
+  },
+  {
+    "index": 209,
+    "source": "Often, it is difficult to know if different bones have come from the same species or not.",
+    "reference": "而且研究者通常很难分辨它们是否来自同一人种。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通常，很难判断不同的骨头是否来自同一物种。"
+  },
+  {
+    "index": 210,
+    "source": "Even multiple examples of the same type of bone can mislead. What looks like two species might actually be the male and the female of one.",
+    "reference": "即便是同一人种，不同样本也会给人带来误导，两块看起来像是来自不同人种的骨头实际上可能分属于同一人种的男性和女性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "即便是同一类型骨骼的多个样本也可能产生误导。看似属于两个物种的骨骼，实际上可能只是同一物种的雄性和雌性个体。"
+  },
+  {
+    "index": 211,
+    "source": "Such confusion has bedevilled the interpretation of the human fossils found near Lake Turkana.",
+    "reference": "这种极易混淆的情况一直困扰着那些想要解读图尔卡纳湖附近人类化石的研究者们。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这种困惑一直困扰着对在图尔卡纳湖附近发现的人类化石的解释。"
+  },
+  {
+    "index": 212,
+    "source": "Some palaeontologists see a single, variable species called Homo habilis.",
+    "reference": "有一些古生物学家认为人种是单一的，即只有能人一种，其他人种都是能人的变异体。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一些古生物学家认为存在一个单一且多变的物种，称为能人。"
+  },
+  {
+    "index": 213,
+    "source": "The new fossils found by Dr Leakey and her team (which includes a third Leakey generation in the form of her daughter, Louise) may, however, help clear up what is going on.",
+    "reference": "而利基博士与她的团队（该团队成员还包括利基家族的第三代人，即利基的女儿路易斯）最新发现的人类化石或许可以帮忙理清这些人种之间的关系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，利基博士及其团队（其中包括她的女儿路易丝，作为利基家族的第三代成员）发现的新化石可能有助于澄清事情的真相。"
+  },
+  {
+    "index": 214,
+    "source": "One of the new specimens, known as KMN-ER 62000, has a face like the type specimen of Homo rudolfensis (the fossil that defines the species, if species it turns out to be), though it seems to be from an adolescent, whereas the type specimen is an adult.",
+    "reference": "这些新发现的样本中有一个被标为KMN-ER 62000的新样本，其脸型与卢尔多夫人样本（该化石是用来鉴别卢尔多夫人人种的一个样本，如果研究者能用此种方式辨认出样本属于卢尔多夫人种）的脸型相似，尽管62000样本看起来像是来自一个青少年，而卢尔多夫人化石样本则属于一个成年人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "新标本中的一件编号为KMN-ER 62000，其面部特征与鲁道夫人（Homo rudolfensis）的模式标本（即定义该物种的化石，假设其确实构成独立物种）相似，但该标本似乎来自一名青少年，而模式标本则为成年个体。"
+  },
+  {
+    "index": 215,
+    "source": "Crucially, 62000 has a reasonably well-preserved upper jaw, which the type specimen lacks.",
+    "reference": "关键是，62000样本拥有一个保存相当完好的上颌，而这正是这一类型的样本所缺少的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "关键的是，62000号标本的上颌骨保存得相当完好，而模式标本则缺少这一部分。"
+  },
+  {
+    "index": 216,
+    "source": "A computer reconstruction (see diagram) suggests this upper jaw meshes well with the second of Dr Leakey's discoveries, a lower jaw (KMN-ER 60000).",
+    "reference": "一张电脑重建图（见上图）显示这一上颌与利基博士发现的第二个人种的一个下颌样本（KMN-ER 60000）十分吻合。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "计算机重建（见图表）显示，这块上颌骨与利基博士的第二个发现——一块下颌骨（KMN-ER 60000）吻合良好。"
+  },
+  {
+    "index": 217,
+    "source": "She is not suggesting they are from the same individual, since they are of different ages, but they seem to come from the same species, namely Homo rudolfensis.",
+    "reference": "由于两块骨头分属两个年龄不同的人，因此利基博士并不认为这两块骨头是来自同一个人的，但看起来这两块骨头的主人属于同一人种，即卢尔多夫人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她并未暗示这些化石来自同一个体，因为它们属于不同年龄段，但它们似乎源自同一物种，即鲁道夫人。"
+  },
+  {
+    "index": 218,
+    "source": "Equally significantly, a different computer reconstruction shows that the upper jaw of 62000 does not match another famous fossil from the area, known as KMN-ER 1802.",
+    "reference": "同样重要的是，另一张电脑重建图显示，62000样本的上颌与KMN-ER 1802样本并不吻合。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "同样重要的是，另一项计算机重建显示，62000号化石的上颌与该地区另一著名的化石KMN-ER 1802并不匹配。"
+  },
+  {
+    "index": 219,
+    "source": "This was found in 1973 and had previously been thought likely to be the lower jaw of rudolfensis.",
+    "reference": "KMN-ER 1802这块有名的样本化石同样来自这个地区，1973年人们发现它时曾认为这块下颌骨可能属于卢尔多夫人种。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是在1973年被发现的，之前曾被认为很可能是鲁道夫人的下颌骨。"
+  },
+  {
+    "index": 220,
+    "source": "What 1802 actually is, is now obscure.",
+    "reference": "现在人们仍旧无法弄清1802样本到底属于哪个人种。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1802年的真实含义，如今已难以考证。"
+  },
+  {
+    "index": 221,
+    "source": "It is too different from what this chain of reasoning suggests was the shape of Homo rudolfensis to be explained by sexual dimorphism, unless the sexes differed in this species in ways not seen in any other primate.",
+    "reference": "这一推理链认为它是卢尔多夫人，并以人种的两性差异来解释其外形差异；但这一差异实在太大，除非这一人种的两性差异在其他灵长类动物中见所未见方能自圆其说。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它与这一推理链所暗示的鲁道夫人种形态差异过大，无法仅用性二态性来解释，除非该物种两性间的差异方式在任何其他灵长类中都未曾出现过。"
+  },
+  {
+    "index": 222,
+    "source": "But its previous attribution was made because it does not look much like Homo habilis either.",
+    "reference": "但之前人们之所以将其归为卢尔多夫人种是因为它看起来也并不像是能人的下颌。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但之前将其归为此类是因为它看起来也不太像能人。"
+  },
+  {
+    "index": 223,
+    "source": "It seems then that at least two, and possibly three species of Homo were stalking the east-African savannah a little under 2m years ago: habilis, rudolfensis and something as yet unnamed.",
+    "reference": "这样看起，在距今不到200万年前，曾有三个人种在东非大草原上生活过：能人，卢尔多夫人，以及一个尚未被命名的人种。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "看来，大约200万年前，至少有2种，甚至可能是3种人属物种在东非大草原上活动：能人、鲁道夫人，以及一种尚未命名的物种。"
+  },
+  {
+    "index": 224,
+    "source": "The intertwining history of the human family and the Leakey family has just become even more complicated.",
+    "reference": "利基家族一直都致力于研究人类大家族的历史，现在二者之间的关系交织在一起，使历史更加复杂了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人类家族与利基家族交织的历史刚刚变得更加复杂。"
+  },
+  {
+    "index": 225,
+    "source": "Watching a film that makes you laugh is good for your heart, according to a study.",
+    "reference": "有研究显示，看一部能让您开心、乐呵呵的片子对身心都有好处，特别是心血管健康方面。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一项研究表明，观看能让你发笑的电影对心脏有益。"
+  },
+  {
+    "index": 226,
+    "source": "Researchers found watching a movie or programme that produces laughter has a positive effect on vascular function and is opposite to that observed after watching a war or horror film that causes mental stress。",
+    "reference": "据悉，一部能使人发笑的电影可以对人体的血管起到优化作用，这是相对看了战争片以及惊悚片后的比较而言的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究人员发现，观看能引发笑声的电影或节目对血管功能有积极影响，这与观看引发精神紧张的战争或恐怖片后观察到的效果相反。"
+  },
+  {
+    "index": 227,
+    "source": "In the study volunteers watched segments of a funny film - such as There's Something About Mary starring Cameron Diaz - on one day and on another day watched the opening segment of the stressful war film Saving Private Ryan。",
+    "reference": "在实验中，研究员让志愿者看了喜剧片演的《关于玛丽的一切 》以及战争片《拯救大兵瑞恩》，在观察志愿者观看影片后的反映进行分析对比。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这项研究中，志愿者们一天观看了搞笑电影片段——例如卡梅隆·迪亚兹主演的《我为玛丽狂》——另一天则观看了紧张压抑的战争电影《拯救大兵瑞恩》的开场片段。"
+  },
+  {
+    "index": 228,
+    "source": "Lead investigator Dr Michael Miller from the University of Maryland School of Medicine in the U.S. said that when the volunteers watched the stressful film, their blood vessel lining developed a potentially unhealthy response called vasoconstriction, reducing blood flow. He said this finding confirms previous studies, which suggested there was a link between mental stress and the narrowing of blood vessels。",
+    "reference": "领衔实验的研究员Dr Michael Miller 说：“在实验中，当志愿者观看惊悚片时，他们的血管收缩呈现不健康的反映，比如--减小血管直径使供给某区域的血流减少，换句话来说就是血流量减少速度过快。这证明了先前实验的结论--精神压力大与血管收缩之间有直接的联系。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "美国马里兰大学医学院的首席研究员迈克尔·米勒博士表示，当志愿者们观看这部令人紧张的电影时，他们的血管内膜出现了一种潜在的不健康反应，称为血管收缩，导致血流减少。他指出，这一发现证实了先前的研究，即心理压力与血管狭窄之间存在关联。"
+  },
+  {
+    "index": 229,
+    "source": "However, after watching the funny movie, the blood vessel lining expanded. Overall, more than 300 measurements were made with a 30 to 50 per cent difference in blood vessel diameter between the laughter and mental stress phases. Dr Miller said: 'The take-home message here is that laughter is great for your heart。",
+    "reference": "与之相反，在观看完喜剧片之后，志愿者的“血管直径”与观看惊悚片后相比，呈现30%到50%的差异，结论证明，乐观的心态、经常大笑有益心血管健康。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，在观看了这部搞笑电影后，血管内壁扩张了。总体而言，研究人员进行了超过300次测量，发现在笑与精神紧张两个阶段，血管直径存在30%至50%的差异。米勒博士表示：‘这里的关键信息是，笑对心脏非常有益。’"
+  },
+  {
+    "index": 230,
+    "source": "The time of year a baby is born can shape what profession they will embark on in later life, a new study has suggested。",
+    "reference": "一项新研究表明，婴儿出生的月份会影响他将来从事的职业方向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一项新研究指出，婴儿出生的季节可能会影响他们日后从事的职业。"
+  },
+  {
+    "index": 231,
+    "source": "Being born in a certain month appears to indicate the statistical likelihood of what job a person will end up with, the study by the Office for National Statistics found。",
+    "reference": "英国国家统计局的研究发现，有数据显示，出生在哪个月将影响其未来从事的职业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "英国国家统计局的研究发现，出生在特定的月份似乎能统计预示一个人最终会从事何种职业的可能性。"
+  },
+  {
+    "index": 232,
+    "source": "Researchers have uncovered that the month in which babies are born could also affect everything from intelligence to length of life。",
+    "reference": "研究人员发现，婴儿出生的月份还会对从智力到寿命的各个方面产生影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究人员发现，婴儿出生的月份还可能影响从智力到寿命长短等各个方面。"
+  },
+  {
+    "index": 233,
+    "source": "A child born December is more likely to become a dentist while someone whose birthday falls in January will tend to a debt collector, they found。",
+    "reference": "他们发现，十二月出生的小孩将来更可能成为一名牙医，而生日在一月份的小孩则更可能成为一名收债人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们发现，12月出生的孩子更有可能成为牙医，而生日在1月的人则倾向于成为收债员。"
+  },
+  {
+    "index": 234,
+    "source": "A February birth appears to increase the chances of being an artist while March babies appear to go on to become pilots。",
+    "reference": "出生在二月份的小孩成为艺术家的几率更高，而三月份出生的宝宝似乎更可能成为飞行员。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "二月出生的人似乎更有可能成为艺术家，而三月出生的人则更倾向于成为飞行员。"
+  },
+  {
+    "index": 235,
+    "source": "Meanwhile, April and May are said to have a fairly even spread of professions, births in the summer months mean a much lower chance of becoming a high-earning football player, doctor or dentist。",
+    "reference": "此外，四月和五月出生的小孩从事各类职业的几率都比较均等，在夏天出生的小孩成为高收入的足球运动员、医生或牙医的几率要低得多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "与此同时，四月和五月出生的人职业分布相当均匀，而夏季月份出生的人成为高收入足球运动员、医生或牙医的几率则要低得多。"
+  },
+  {
+    "index": 236,
+    "source": "The study was derived by researchers who analysed the birth months of people in 19 separate occupations using information from the last census, the Daily Mail reported。",
+    "reference": "据《每日邮报》报道，研究人员分析了从事19类不同职业的人的出生月份，从而得出这一结论。该研究采用了来自上一次人口普查的信息。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据《每日邮报》报道，这项研究是由研究人员通过分析上一次人口普查中19种不同职业人群的出生月份得出的。"
+  },
+  {
+    "index": 237,
+    "source": "Although these trends may be difficult to explain, correlations between birth months and specific health problems have a scientific basis。",
+    "reference": "尽管这些趋向性也许难以解释，但是出生月份和特定健康问题之间的关联却是有科学根据的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管这些趋势可能难以解释，但出生月份与特定健康问题之间的关联确实有其科学依据。"
+  },
+  {
+    "index": 238,
+    "source": "Spring babies are at greater risk of illnesses including schizophrenia, Alzheimer’s disease, asthma and autism。",
+    "reference": "春天出生的小孩患精神分裂症、老年痴呆症、哮喘和自闭症等疾病的风险会更大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "春季出生的婴儿患精神分裂症、阿尔茨海默病、哮喘和自闭症等疾病的风险更高。"
+  },
+  {
+    "index": 239,
+    "source": "They may also be less clever than classmates born in other parts of the year。",
+    "reference": "他们可能也会不如其他月份出生的同学聪明。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们也可能不如那些在一年中其他时间出生的同学聪明。"
+  },
+  {
+    "index": 240,
+    "source": "Many people say that they probably came to this planet and altered our DNA and other genetic forms while we were still primitives?",
+    "reference": "很多人说，或许当我们还处在原始人时代的时候，他们就从外星来到地球改变我们的DNA和其他遗传形式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "许多人认为，他们可能在我们还处于原始阶段时就来到了这个星球，并改变了我们的DNA及其他遗传形态。"
+  },
+  {
+    "index": 241,
+    "source": "Where do humans get all technology from?",
+    "reference": "地球人是如何获取所有的技术的？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人类的所有技术从何而来？"
+  },
+  {
+    "index": 242,
+    "source": "and how about those crop circles all around the world?",
+    "reference": "还有那些出现在世界各国的“麦田怪圈”是怎么回事？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么世界各地那些麦田怪圈又是怎么回事呢？"
+  },
+  {
+    "index": 243,
+    "source": "Surely we are not alone, but I think they are good beings because if they were evil they would had eliminated us from along time ago, (with all the technology they posses)",
+    "reference": "显然地球人在宇宙中并不孤单，但是我认为外星人也是善良的。因为如果他们是邪恶的，他们可能在很早以前就消灭我们了（以他们所拥有的先进技术不费吹灰之力）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们绝非孤独，但我认为他们是善良的存在，因为若他们心存恶意，凭借所拥有的科技，早该将我们消灭殆尽。"
+  },
+  {
+    "index": 244,
+    "source": "Also our ancestors were devoted to some strange gods, building pyramids and all that stuff just to please them.",
+    "reference": "同时，我们的祖先也信奉着一些奇怪的“神灵”，通过建造金字塔等一些活动来取悦于他们。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们的祖先也曾虔诚地供奉一些奇异的神明，建造金字塔之类的东西，仅仅是为了取悦他们。"
+  },
+  {
+    "index": 245,
+    "source": "There is evidence of Egyptians and Mayans drawings of little men pointing to the moon with suits and shuttles.",
+    "reference": "有埃及人和玛雅人绘制的图画为证，画面上渺小的人类用飞行器指着月球。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有证据表明，埃及人和玛雅人曾绘制过身穿宇航服、指向月球的小人以及航天器的图画。"
+  },
+  {
+    "index": 246,
+    "source": "How come they knew so much about astronomy at that time?",
+    "reference": "在那个时代他们是如何得知这些航天知识的？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们当时怎么对天文学了解这么多？"
+  },
+  {
+    "index": 247,
+    "source": "It's not believable that we come from chimpazees.",
+    "reference": "我们从黑猩猩进化而来不令人信服。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们是从黑猩猩进化而来的说法令人难以置信。"
+  },
+  {
+    "index": 248,
+    "source": "If that were true where does white and chinese people come from.",
+    "reference": "如果这是真实的，那么白种人和中国人是从哪里进化而来？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果这是真的，那么白人和中国人是从哪里来的。"
+  },
+  {
+    "index": 249,
+    "source": "They don't look anything alike to those creatures.",
+    "reference": "因为他们一点也不像有大猩猩的基因啊。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们看起来和那些生物一点也不像。"
+  },
+  {
+    "index": 250,
+    "source": "How come humans know the age of our planet we are talking about billions and that number is not small.",
+    "reference": "人类又是怎么得知地球十亿年的年龄的（十亿这个数字可真是不小啊）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人类是如何知道我们星球的年龄的？我们谈论的是数十亿年，这个数字可不小。"
+  },
+  {
+    "index": 251,
+    "source": "Supposedly we didn't exist back then.",
+    "reference": "而按照推测，十亿年前我们根本不存在啊。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据说那时候我们还不存在。"
+  },
+  {
+    "index": 252,
+    "source": "What an enigma!",
+    "reference": "这是多么的奇妙！",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "真是个谜啊！"
+  },
+  {
+    "index": 253,
+    "source": "According to the effects of colors on the human body and emotions, certain colors are selected to exert direct effects on the mind and emotions via eyes.",
+    "reference": "根据颜色对人们身心的不同作用，可以选择特定的颜色通过眼睛对人们的情绪施加影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "根据颜色对人体和情绪的影响，选择特定颜色通过视觉直接作用于心理和情绪。"
+  },
+  {
+    "index": 254,
+    "source": "This is the so-called pleasing the eyes and refreshing the mind.",
+    "reference": "这就是所谓的养眼养心。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这就是所谓的赏心悦目、心旷神怡。"
+  },
+  {
+    "index": 255,
+    "source": "Besides, the color tones, color temperatures, etc. may also be used to regulate emotions。",
+    "reference": "另外，色调、色温也可以用于调节情绪。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，色调、色温等也可用于调节情绪。"
+  },
+  {
+    "index": 256,
+    "source": "The method, under the guidance of the theory of \"the five colors corresponding to the five zang organs and five emotions\", is used to arrange the colors of the patient's living surroundings such as living rooms, utensils, furnishings, clothes, quilts, window curtains and lights as well as the dresses of doctors and nurses of rehabilitation according to the requirements.",
+    "reference": "具体的方法是根据“五色-五脏-五情绪”理论，将住所、餐具、家具、服饰、棉被、窗帘、灯具甚至参与治疗的医生、护士的穿着等病人日常生活密切接触的东西按要求设为需要的颜色。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该方法在“五色对应五脏五情”理论的指导下，按照要求对患者的生活环境（如客厅、器具、摆设、衣物、被褥、窗帘和灯光）以及康复医生和护士的着装进行色彩布置。"
+  },
+  {
+    "index": 257,
+    "source": "Colors and their indications are as follows。",
+    "reference": "各种颜色的作用如下：",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "颜色及其含义如下。"
+  },
+  {
+    "index": 258,
+    "source": "Warm colors",
+    "reference": "暖色",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "暖色调"
+  },
+  {
+    "index": 259,
+    "source": "Red and orange, with warm feeling, possess the actions of making people excited and joyful.",
+    "reference": "红色和橙色，使人感觉温暖，兴奋和愉悦。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "红色和橙色，带有温暖的感觉，具有使人兴奋和愉悦的作用。"
+  },
+  {
+    "index": 260,
+    "source": "The colors are applicable to depression, depressive psychosis, lethargy, dementia, etc。",
+    "reference": "这些颜色用于治疗抑郁、抑郁性精神病、嗜睡症、痴呆症等。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些颜色适用于抑郁、抑郁性精神病、嗜睡、痴呆等症状。"
+  },
+  {
+    "index": 261,
+    "source": "Cold colors",
+    "reference": "冷色",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "冷色调"
+  },
+  {
+    "index": 262,
+    "source": "Among indigo blue, blue , purple and green have the actions of cooling, tranquilizing and making people restrained.",
+    "reference": "靛蓝色、蓝色、紫色和绿色能使人冷静、镇定、克制。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在靛蓝、蓝色、紫色和绿色中，具有使人冷静、安宁和克制的作用。"
+  },
+  {
+    "index": 263,
+    "source": "Cold colors are applicable to dysphoria, irascibility, insomnia, terror and fear as well as mania, epilepsy, etc。",
+    "reference": "冷色用于治疗狂躁、易怒、失眠、恐惧、癫痫等。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "冷色调适用于烦躁不安、易怒、失眠、恐怖与恐惧以及躁狂、癫痫等症状。"
+  },
+  {
+    "index": 264,
+    "source": "Joyful colors",
+    "reference": "令人愉悦的颜色",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "欢乐的色彩"
+  },
+  {
+    "index": 265,
+    "source": "Red and pink make people happy and have the action of restraining grief. The colors are applicable to people with low spirits, susceptibility to grief and cry，and depression。",
+    "reference": "红色和粉色使人愉悦，有节哀的作用。用于情绪低落、对悲伤过敏以及抑郁的治疗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "红色和粉色能使人快乐，并具有抑制悲伤的作用。这些颜色适用于情绪低落、易悲易泣及抑郁的人群。"
+  },
+  {
+    "index": 266,
+    "source": "Sad colors",
+    "reference": "令人忧郁的颜色",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "忧郁的色彩"
+  },
+  {
+    "index": 267,
+    "source": "Black is mainly applied or white may also be used to restrict anger. Both colors are applicable to susceptibility to anger, overjoy, etc。",
+    "reference": "除了抑制愤怒。黑色和白色还可以治疗对愤怒、狂喜过敏等。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "黑色主要用于抑制愤怒，白色亦可使用。这两种颜色均适用于易怒、狂喜等情绪的控制。"
+  },
+  {
+    "index": 268,
+    "source": "Fearful color",
+    "reference": "令人恐惧的颜色",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "令人恐惧的颜色"
+  },
+  {
+    "index": 269,
+    "source": "Black has the action of restricting overjoy. The color is applicable to mania, endless laughing, etc。",
+    "reference": "黑色用于抑制狂喜，对狂躁、笑病也有效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "黑色具有抑制狂喜的作用。该颜色适用于躁狂、无止境的笑等情况。"
+  },
+  {
+    "index": 270,
+    "source": "Anxious colors",
+    "reference": "令人紧张的颜色",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "焦虑的色彩"
+  },
+  {
+    "index": 271,
+    "source": "Yellow, light blue and light green possess the actions of restricting fear and benefiting thinking. The colors are applicable to terror, fear, distraction, etc。",
+    "reference": "黄色、浅蓝和浅绿有缓解恐惧，激发思维的作用。可治疗恐惧、注意力分散等症状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "黄色、浅蓝色和浅绿色具有抑制恐惧和有益思维的作用。这些颜色适用于恐怖、恐惧、注意力分散等情况。"
+  },
+  {
+    "index": 272,
+    "source": "Anger and other strong emotions can trigger potentially deadly heart rhythms in certain vulnerable people, US researchers said on Monday.",
+    "reference": "周一美国调查人员声明，对于某些虚弱的人群，生气和其他强烈的情绪可能会引发潜在的致命的心脏疾病。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "美国研究人员周一表示，愤怒和其他强烈情绪可能在某些易感人群中引发潜在致命的心律失常。"
+  },
+  {
+    "index": 273,
+    "source": "Previous studies have shown that earthquakes, war or even the loss of a World Cup Soccer match can increase rates of death from sudden cardiac arrest, in which the heart stops circulating blood.",
+    "reference": "之前的研究已经表明，地震、战争、甚至输了一场世界杯都会增加突发心搏停止而死的机率，在这种情况下心脏停止了供血循环。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "先前的研究表明，地震、战争甚至世界杯足球赛的失利都可能增加心源性猝死的发生率，这种情况下心脏会停止血液循环。"
+  },
+  {
+    "index": 274,
+    "source": "\"It's definitely been shown in all different ways that when you put a whole population under a stressor that sudden death will increase,\" said Dr. Rachel Lampert of Yale University in New Haven, Connecticut, whose study appears in the Journal of the American College of Cardiology.\"Our study starts to look at how does this really affect the electrical system of the heart,\" Lampert said.",
+    "reference": "耶鲁大学的Rachel Lampert博士说：“不同研究证实了当你处在一个压力过强的群体时，突然死亡的可能性将会增加，”她的研究发表在美国心脏病学院的期刊上。Lampert博士讲到：“我们的研究着手寻找它怎样影响心脏系统。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "“确实已有多种方式表明，当整个人群承受压力时，猝死率会上升，”位于康涅狄格州纽黑文的耶鲁大学的蕾切尔·兰珀特博士说道，其研究发表在《美国心脏病学会杂志》上。“我们的研究开始探讨这究竟如何影响心脏的电系统，”兰珀特表示。"
+  },
+  {
+    "index": 275,
+    "source": "She and colleagues studied 62 patients with heart disease and implantable heart defibrillators or ICDs that can detect dangerous heart rhythms or arrhythmias and deliver an electrical shock to restore a normal heart beat.",
+    "reference": "她和她的研究团队研究了62例有心脏病和植入心脏的患者，发现了异常的心律或心律不齐的现象，并通过电击来恢复患者正常的心跳。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她和同事研究了62名患有心脏病并植入心脏除颤器（ICD）的患者，这些设备能够检测危险的心律或心律失常，并通过电击恢复正常心跳。"
+  },
+  {
+    "index": 276,
+    "source": "\"These were people we know already had some vulnerability to arrhythmia,\" Lampert said in a telephone interview.",
+    "reference": "Lampert博士在一次电话采访中讲到：“我们的这些研究对象有心率不齐的现象。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "拉姆珀特在电话采访中表示：'这些人是我们已知对心律不齐有一定脆弱性的人群。'"
+  },
+  {
+    "index": 277,
+    "source": "Patients in the study took part in an exercise in which they recounted a recent angry episode while Lampert's team did a test called T-Wave Alternans that measures electrical instability in the heart.",
+    "reference": "在这次研究中的患者参加了一项实验，这实验中要求这些患者回忆最近一次的发怒的情形。这个实验，Lampert的团队将其命名为T波变换实验，它是用来测量心电流的不稳定的现象。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究中的患者参与了一项练习，他们在其中回忆了最近一次愤怒的经历，同时Lampert的团队进行了一项名为T波交替的测试，该测试用于测量心脏的电不稳定性。"
+  },
+  {
+    "index": 278,
+    "source": "Lampert said the team specifically asked questions to get people to relive the angry episode.",
+    "reference": "Lampert博士说团队特别询问了一些问题来缓解这些发怒的情形。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "兰珀特表示，团队特意提出了一些问题，旨在让人们重新体验那段愤怒的插曲。"
+  },
+  {
+    "index": 279,
+    "source": "\"We found in the lab setting that yes, anger did increase this electrical instability in these patients,\" she said.",
+    "reference": "“我们发现在实验室里，发怒增加了这些患者的心电流的不稳定。”她说",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她在实验室环境中发现，愤怒确实增加了这些患者的电不稳定性。"
+  },
+  {
+    "index": 280,
+    "source": "Next, they followed patients for three years to see which patients later had a cardiac arrest and needed a shock from their implantable defibrillator.",
+    "reference": "接下来，他们连续追踪这些患者长达三年之久，检查哪些病人有心搏停止或者移植体内的电震发生器震动的状况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "接下来，他们对患者进行了为期三年的跟踪观察，以了解哪些患者后来发生了心脏骤停，并需要植入式除颤器进行电击治疗。"
+  },
+  {
+    "index": 281,
+    "source": "\"The people who had the highest anger-induced electrical instability were 10 times more likely than everyone else to have an arrhythmia in follow-up,\" she said.",
+    "reference": "Lampert博士说，“那些有着最高的生气引发的心电流不稳定是其他患者患心率不齐机率的10倍。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她说：“那些因愤怒导致心电不稳定性最高的人，在后续随访中出现心律失常的几率是其他人的10倍。”"
+  },
+  {
+    "index": 282,
+    "source": "Lampert said the study suggests that anger can be deadly, at least for people who are already vulnerable to this type of electrical disturbance in the heart.",
+    "reference": "Lampert博士说这项研究表明发怒是致命的，至少对于那些已经有心电流不稳定的人群是致命的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "兰珀特表示，这项研究表明愤怒可能是致命的，至少对于那些心脏已经容易受到此类电干扰影响的人来说是如此。"
+  },
+  {
+    "index": 283,
+    "source": "\"It says yes, anger really does impact the heart's electrical system in very specific ways that can lead to sudden death,\" she said.",
+    "reference": "“这证明发怒将会导致心电流体系在某种情况下致使突然的死亡。”她说。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她说：“研究表明，愤怒确实会以非常具体的方式影响心脏的电系统，这可能导致猝死。”"
+  },
+  {
+    "index": 284,
+    "source": "Each and every one of us is responsible for the greenhouse gases we emit in our daily actions and choices.",
+    "reference": "我们每个人都应该对自己每天的生活和选择所产生的温室气体负责。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们每一个人都对自己日常行为和选择中所排放的温室气体负有责任。"
+  },
+  {
+    "index": 285,
+    "source": "Therefore, combating climate change is going to take the combined efforts of everyone on the planet.",
+    "reference": "因此，防止气候变化需要地球上的每个人共同来努力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，应对气候变化需要地球上每个人的共同努力。"
+  },
+  {
+    "index": 286,
+    "source": "The average household carbon footprint in China is 2.41 tons of carbon dioxide annually.",
+    "reference": "在中国，平均每户每年的碳排放量是2.41吨二氧化碳。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国的家庭平均碳足迹为每年2.41吨二氧化碳。"
+  },
+  {
+    "index": 287,
+    "source": "That's enough to fill half an Olympic swimming pool.",
+    "reference": "这足够填充半个奥运游泳池了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这足以填满半个奥运会标准游泳池。"
+  },
+  {
+    "index": 288,
+    "source": "Surprised? Well, here's how you can work to reduce it:",
+    "reference": "吃惊么？好吧，就让我们来看看减少碳排放量的方法吧。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "惊讶吗？好吧，以下是你可以努力减少它的方法："
+  },
+  {
+    "index": 289,
+    "source": "Take showers rather than baths and reduce your shower time by two minutes. This will save water and give you an extra two minutes in bed.",
+    "reference": "建议采用喷头淋浴而非浴缸。缩短两分钟洗澡时间，省水同时为自己多争取两分钟睡眠时间。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "选择淋浴而非泡澡，并将淋浴时间缩短两分钟。这样既能节约用水，又能让你在床上多待两分钟。"
+  },
+  {
+    "index": 290,
+    "source": "Don't purchase unnecessary clothes, and be careful about the materials you buy.",
+    "reference": "不要购买不需要的衣物，对衣物料子的选择要谨慎。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不要购买不必要的衣服，并注意你所购买衣物的材质。"
+  },
+  {
+    "index": 291,
+    "source": "Wool and cotton fabrics have a really high greenhouse gas impact.",
+    "reference": "羊毛和棉织品生产时排放的温室气体更多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "羊毛和棉织物的温室气体影响非常高。"
+  },
+  {
+    "index": 292,
+    "source": "Manmade fibers such as polyester are a better choice.",
+    "reference": "人造纤维，例如伸缩尼龙就是个更好的选择。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人造纤维，如聚酯纤维，是更好的选择。"
+  },
+  {
+    "index": 293,
+    "source": "There's no point having the heat up high while the wind's blowing in under the door or sneaking in through the window.",
+    "reference": "门底或窗户缝进风时，没必要提高室内温度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "门底下有风灌进来或是从窗户缝隙钻进来时，把暖气开得再高也没用。"
+  },
+  {
+    "index": 294,
+    "source": "Reseal all window frames to keep the heat in.",
+    "reference": "再密封一下窗户缝就可以留住热气了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "重新密封所有窗框以保持室内温暖。"
+  },
+  {
+    "index": 295,
+    "source": "Try to buy high-quality, long-lasting products even though they may cost a little more.",
+    "reference": "尽量买高质量，寿命长的商品，尽管这可能会有一点贵。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽量购买高质量、耐用的产品，尽管它们可能会贵一些。"
+  },
+  {
+    "index": 296,
+    "source": "A laptop is more efficient than a desktop, and a small screen TV is better than a big flat-screen.",
+    "reference": "笔记本电脑比台式电脑效率更高，小屏幕电视比宽屏电视要好。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "笔记本电脑比台式机更高效，小屏幕电视比大平板电视更好。"
+  },
+  {
+    "index": 297,
+    "source": "Only turn the water heater on when necessary, and adjust temperature controls to avoid overheating.",
+    "reference": "热水器不用就别开，控制温度不要过热。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "仅在必要时开启热水器，并调节温控装置以避免过热。"
+  },
+  {
+    "index": 298,
+    "source": "Put a lid on a pan when boiling water.",
+    "reference": "烧水时把壶盖盖好。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "烧水时给锅盖上盖子。"
+  },
+  {
+    "index": 299,
+    "source": "When using the washing machine, be sure there's a full load and turn the temperature down if it's not really grubby.",
+    "reference": "使用洗衣机时，确认满载，如果衣服不是很脏就把温度调低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "使用洗衣机时，确保满载衣物，如果衣物不是特别脏，就调低温度。"
+  },
+  {
+    "index": 300,
+    "source": "The greediest home device along with the washing machine is the fridge.",
+    "reference": "和洗衣机一样位列\"最贪婪\"家电的就是电冰箱了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "与洗衣机并列最耗电的家用设备是冰箱。"
+  },
+  {
+    "index": 301,
+    "source": "Make sure it's as efficient as possible by keeping it out of direct sunlight and away from the oven or heater.",
+    "reference": "电冰箱要避免太阳直射，远离微波炉或加热器，尽量保证它的工作效率。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "确保将其置于避免阳光直射且远离烤箱或加热器的地方，以尽可能提高效率。"
+  },
+  {
+    "index": 302,
+    "source": "Don't put food in when it's still warm.",
+    "reference": "另外，切记不要把热的食物放进冰箱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "食物还热的时候不要放进去。"
+  },
+  {
+    "index": 303,
+    "source": "This is obvious, but essential: switch off all appliances when you're not using them. This includes lights.",
+    "reference": "这一点很明显也很重要：不使用时，关掉所有电器，包括灯。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是显而易见却又至关重要的一点：不使用时请关闭所有电器，包括电灯。"
+  },
+  {
+    "index": 304,
+    "source": "Conserve energy by using efficient light bulbs.",
+    "reference": "使用节能灯泡节省能源。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过使用高效灯泡来节约能源。"
+  },
+  {
+    "index": 305,
+    "source": "They use about one-third of the energy of normal bulbs and last 10 times as long.",
+    "reference": "它们的耗电量仅是普通灯泡的三分之一，持续时间却是后者的10倍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们消耗的能量约为普通灯泡的三分之一，而使用寿命却是普通灯泡的十倍。"
+  },
+  {
+    "index": 306,
+    "source": "Only print things out when necessary, and print double-sided and reduce the margins.",
+    "reference": "取消不必要的打印工作，纸张两面都可打印，尽量减少页边空白。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "仅在必要时打印，并采用双面打印且缩小页边距。"
+  },
+  {
+    "index": 307,
+    "source": "Take your own mug and cutlery to work.",
+    "reference": "在单位尽量使用自己的杯子和餐具。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "带上你自己的杯子和餐具去上班。"
+  },
+  {
+    "index": 308,
+    "source": "This saves throwing away disposable cups and containers--but that could be outweighed by washing your cutlery.",
+    "reference": "这能减少一次性杯子和餐具的废弃量--但是，这就意味着洗餐具要消耗很多水。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这样做可以避免丢弃一次性杯子和容器——但清洗餐具可能会抵消这一好处。"
+  },
+  {
+    "index": 309,
+    "source": "So, pay attention to how you use water when washing your dishes.",
+    "reference": "因此，洗餐具时要注意用水方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，洗碗时请注意用水方式。"
+  },
+  {
+    "index": 310,
+    "source": "Find out what the recycling options are in your area.",
+    "reference": "了解身边的回收利用设施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "了解你所在地区的回收选项有哪些。"
+  },
+  {
+    "index": 311,
+    "source": "Then make sure you keep items such as paper and plastic bottles separate so that they can be recycled.",
+    "reference": "然后，确保把纸张、塑料瓶等物品分开以方便回收。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后确保将纸张和塑料瓶等物品分开存放，以便回收利用。"
+  },
+  {
+    "index": 312,
+    "source": "There are places where you can recycle electronic appliances and batteries. Make sure you find them.",
+    "reference": "也有回收电器、电池的地方，确保你能找到它们。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有些地方可以回收电子设备和电池，请务必找到这些地方。"
+  },
+  {
+    "index": 313,
+    "source": "Look for reusable, recyclable, biodegradable items and remember to carry your reusable shopping bags!",
+    "reference": "使用可再用、可循环、可降解物品。记得使用可再用的购物袋。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "寻找可重复使用、可回收、可生物降解的物品，并记得携带你的可重复使用购物袋！"
+  },
+  {
+    "index": 314,
+    "source": "Each week, choose one day when you don't eat meat.",
+    "reference": "每周有一天吃素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每周选择一天不吃肉。"
+  },
+  {
+    "index": 315,
+    "source": "Meat uses up lots of energy because it takes a long time to produce.",
+    "reference": "由于烹饪肉类耗时较长，所以耗能更多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "肉类消耗大量能源，因为其生产过程耗时较长。"
+  },
+  {
+    "index": 316,
+    "source": "Only buy the amount of food you need and if there are leftovers, get creative.",
+    "reference": "只买适量的食物，如有剩饭要富有创新精神。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "只购买你所需的食物量，如果有剩菜，不妨发挥创意加以利用。"
+  },
+  {
+    "index": 317,
+    "source": "For instance, make them into a soup.",
+    "reference": "例如：将剩菜做成汤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，把它们做成汤。"
+  },
+  {
+    "index": 318,
+    "source": "Ask to take food home from restaurants if there's some left, but remember to take your own container to avoid using a disposable carton.",
+    "reference": "在餐厅吃饭，如有剩饭一定要打包。但切记要适用自己的饭盒，避免用一次性饭盒。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果在餐厅有剩菜，可以要求打包带走，但记得自带容器，避免使用一次性餐盒。"
+  },
+  {
+    "index": 319,
+    "source": "Food production eats up lots of energy.",
+    "reference": "食品生产耗能巨大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "食品生产消耗大量能源。"
+  },
+  {
+    "index": 320,
+    "source": "When you buy food, go local rather than imported, and get fresh vegetables instead of frozen.",
+    "reference": "买食品时，请尽量选择当地食品而非进口食品，买新鲜蔬菜而不是冷冻食品。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "购买食物时，选择本地而非进口的，并且挑选新鲜蔬菜而非冷冻的。"
+  },
+  {
+    "index": 321,
+    "source": "It's a tall order: Over the next few decades, the world will need to wean itself from dependence on fossil fuels and drastically reduce greenhouse gases.",
+    "reference": "这是一个离谱的要求：在今后几十年里，世界需要逐步摆脱对化石燃料的依赖，显著减少温室气体。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一项艰巨的任务：在未来几十年里，世界需要摆脱对化石燃料的依赖，并大幅减少温室气体排放。"
+  },
+  {
+    "index": 322,
+    "source": "Current technology will take us only so far; major breakthroughs are required.",
+    "reference": "目前的技术只能让我们走到这一步了，我们需要拥有重大的技术突破。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现有技术只能带我们走这么远；需要重大突破。"
+  },
+  {
+    "index": 323,
+    "source": "What might those breakthroughs be?",
+    "reference": "这些突破可能是些什么？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些突破可能会是什么呢？"
+  },
+  {
+    "index": 324,
+    "source": "Here's a look at five technologies that, if successful, could radically change the world energy picture.",
+    "reference": "本文列出了五项技术，如果成功，它们将会大大改变世界的能源格局。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "以下是五种技术的概览，如果它们取得成功，将可能彻底改变全球能源格局。"
+  },
+  {
+    "index": 325,
+    "source": "They present enormous opportunities.",
+    "reference": "这些技术能带来巨大的机遇。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们提供了巨大的机会。"
+  },
+  {
+    "index": 326,
+    "source": "The ability to tap power from space, for instance, could jump-start whole new industries.",
+    "reference": "例如，从太空获取能量的技术可能迅速催生全新的产业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，从太空获取能源的能力可能会催生全新的产业。"
+  },
+  {
+    "index": 327,
+    "source": "Technology that can trap and store carbon dioxide from coal-fired plants would rejuvenate older ones.",
+    "reference": "从火电厂捕获和储存二氧化碳的技术可能会令较为老旧的电厂重获新生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "能够捕获并存储燃煤电厂二氧化碳的技术将使老旧电厂焕发新生。"
+  },
+  {
+    "index": 328,
+    "source": "Success isn't assured, of course.",
+    "reference": "当然，这些技术并不一定能取得成功。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当然，成功并非必然。"
+  },
+  {
+    "index": 329,
+    "source": "The technologies present difficult engineering challenges, and some require big scientific leaps in lab-created materials or genetically modified plants.",
+    "reference": "它们目前都面临着不少难题，一些技术需要在实验室创造的材料和或转基因植物方面实现一些重大突破。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些技术带来了艰巨的工程挑战，其中一些需要在实验室制造材料或转基因植物方面实现重大的科学飞跃。"
+  },
+  {
+    "index": 330,
+    "source": "And innovations have to be delivered at a cost that doesn't make energy much more expensive.",
+    "reference": "而且，创新的成本不能让能源变得太贵。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且创新必须以不使能源成本大幅上升的价格实现。"
+  },
+  {
+    "index": 331,
+    "source": "If all of that can be done, any one of these technologies could be a game-changer.",
+    "reference": "如果能做到这一切，其中任何一项技术都可以改变游戏规则。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果这一切都能实现，那么其中任何一项技术都可能成为改变游戏规则的关键。"
+  },
+  {
+    "index": 332,
+    "source": "SPACE-BASED SOLAR POWER",
+    "reference": "太空利用太阳能",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "天基太阳能发电"
+  },
+  {
+    "index": 333,
+    "source": "For more than three decades, visionaries have imagined tapping solar power where the sun always shines -- in space.",
+    "reference": "30多年来，梦想家就一直设想在太阳永远能照耀到的地方──太空中──利用太阳能。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "三十多年来，有远见的人们一直梦想着在阳光永驻的地方——太空中利用太阳能。"
+  },
+  {
+    "index": 334,
+    "source": "If we could place giant solar panels in orbit around the Earth, and beam even a fraction of the available energy back to Earth, they could deliver nonstop electricity to any place on the planet.",
+    "reference": "如果我们能在环绕地球的轨道上安置巨大的太阳能电池板，将其中哪怕是一小部分的可用能源传回地球，它们可以向地球上的任何地方提供不间断的电力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我们能将巨大的太阳能电池板安置在地球轨道上，并将哪怕一小部分可用能量传回地球，它们就能为地球上的任何地方提供不间断的电力。"
+  },
+  {
+    "index": 335,
+    "source": "The technology may sound like science fiction, but it's simple: Solar panels in orbit about 22,000 miles up beam energy in the form of microwaves to earth, where it's turned into electricity and plugged into the grid.",
+    "reference": "这项技术听起来可能像是科幻小说，但其实很简单：在22,000英里之外的太阳能电池板将能源以微波的形式传回地球，然后转化为电力并进入到电网中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这项技术听起来可能像科幻小说，但其实很简单：位于约22,000英里高空的轨道上的太阳能板，以微波形式将能量传输到地球，然后转化为电能并接入电网。"
+  },
+  {
+    "index": 336,
+    "source": "(The low-powered beams are considered safe.)",
+    "reference": "（低能量的光束被认为是安全的。）",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "低功率光束被认为是安全的。"
+  },
+  {
+    "index": 337,
+    "source": "A ground receiving station a mile in diameter could deliver about 1,000 megawatts -- enough to power on average about one million U.S. homes.",
+    "reference": "直径1英里的地面接收站可以提供约1,000兆瓦电力，足以供应平均约100万户美国家庭的使用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一个直径为一英里的地面接收站可提供约1000兆瓦的电力——足以平均供应约一百万美国家庭的用电需求。"
+  },
+  {
+    "index": 338,
+    "source": "The cost of sending solar collectors into space is the biggest obstacle, so it's necessary to design a system lightweight enough to require only a few launches.",
+    "reference": "将太阳能收集器送至太空的成本是最大的障碍，因此有必要设计重量足够轻，可以减少发射次数的系统。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将太阳能收集器送入太空的成本是最大的障碍，因此有必要设计一个足够轻便的系统，只需几次发射即可完成。"
+  },
+  {
+    "index": 339,
+    "source": "A handful of countries and companies aim to deliver space-based power as early as a decade from now.",
+    "reference": "已经有些国家和公司希望最早在未来10年内提供这种太空电力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "少数几个国家和公司计划最早在十年后实现太空能源输送。"
+  },
+  {
+    "index": 340,
+    "source": "ADVANCED CAR BATTERIES",
+    "reference": "高级汽车电池",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "先进汽车电池"
+  },
+  {
+    "index": 341,
+    "source": "Electrifying vehicles could slash petroleum use and help clean the air (if electric power shifts to low-carbon fuels like wind or nuclear).",
+    "reference": "电动汽车可以降低石油消耗量，有助于空气清洁（如果电力来自于风能和原子能等低碳燃料的话）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "车辆电气化可以大幅减少石油消耗，并有助于净化空气（前提是电力转向风能或核能等低碳燃料）。"
+  },
+  {
+    "index": 342,
+    "source": "But it's going to take better batteries.",
+    "reference": "但它需要使用更好的电池。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但这需要更好的电池。"
+  },
+  {
+    "index": 343,
+    "source": "Lithium-ion batteries, common in laptops, are favored for next-generation plug-in hybrids and electric vehicles.",
+    "reference": "笔记本电脑中常用的锂离子电池是下一代充电式混合动力车和电动车的理想之选。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "笔记本电脑中常见的锂离子电池，因其优势被下一代插电式混合动力车和电动汽车所青睐。"
+  },
+  {
+    "index": 344,
+    "source": "They're more powerful than other auto batteries, but they're expensive and still don't go far on a charge; the Chevy Volt, a plug-in hybrid coming next year, can run about 40 miles on batteries alone.",
+    "reference": "它们比其它汽车电池的电力更充足，但也更贵，不过充电后的行驶距离仍不够远；将于明年上市雪佛兰(Chevy) Volt混合动力车凭电池可行驶约40英里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们比其他汽车电池更强大，但价格昂贵且单次充电续航里程仍然有限；即将于明年推出的插电式混合动力车雪佛兰Volt，仅靠电池就能行驶约40英里。"
+  },
+  {
+    "index": 345,
+    "source": "Ideally, electric cars will get closer to 400 miles on a charge.",
+    "reference": "理想情况下，电动车充电一次最好能行驶近400英里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "理想情况下，电动汽车一次充电可以行驶接近400英里。"
+  },
+  {
+    "index": 346,
+    "source": "While improvements are possible, lithium-ion's potential is limited.",
+    "reference": "尽管仍有改进的空间，但锂离子电池的潜力有限。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管还有改进的空间，但锂离子电池的潜力有限。"
+  },
+  {
+    "index": 347,
+    "source": "One alternative, lithium-air, promises 10 times the performance of lithium-ion batteries and could deliver about the same amount of energy, pound for pound, as gasoline.",
+    "reference": "作为一种替代产品，锂空气电池的性能是锂离子电池的10倍，可以提供与汽油同等的能量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一种替代方案，锂空气电池，其性能有望达到锂离子电池的十倍，并且按重量计算，其能量输出可与汽油相媲美。"
+  },
+  {
+    "index": 348,
+    "source": "A lithium-air battery pulls oxygen from the air for its charge, so the device can be smaller and more lightweight.",
+    "reference": "锂空气电池从空气中吸收氧气充电，因此这种电池可以更小、更轻。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "锂空气电池从空气中获取氧气进行充电，因此这种设备可以更小巧轻便。"
+  },
+  {
+    "index": 349,
+    "source": "A handful of labs are working on the technology, but scientists think that without a breakthrough they could be a decade away from commercialization.",
+    "reference": "不少实验室都在研究这种技术，但科学家认为，如果没有重大突破，要想实现商用可能还需要10年。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "少数实验室正在研究这项技术，但科学家们认为，如果没有突破性进展，可能还需十年才能实现商业化。"
+  },
+  {
+    "index": 350,
+    "source": "UTILITY STORAGE",
+    "reference": "电力储存技术",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "实用存储"
+  },
+  {
+    "index": 351,
+    "source": "Everybody's rooting for wind and solar power. How could you not?",
+    "reference": "所有人都在支持风能和太阳能技术，你怎能置身事外？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每个人都在为风能和太阳能加油打气。你怎么能例外呢？"
+  },
+  {
+    "index": 352,
+    "source": "But wind and solar are use-it-or-lose-it resources.",
+    "reference": "但风能和太阳能是那种要么利用要么流失的资源。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但风能和太阳能属于不用即浪费的资源。"
+  },
+  {
+    "index": 353,
+    "source": "To make any kind of difference, they need better storage.",
+    "reference": "要改变现状，它们需要更好的储存技术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了有所改变，他们需要更好的存储。"
+  },
+  {
+    "index": 354,
+    "source": "Scientists are attacking the problem from a host of angles -- all of which are still problematic.",
+    "reference": "科学家正在从诸多角度应对这个问题，但各个方面都面临难题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "科学家们正从多个角度着手解决这一问题——然而所有这些方法目前仍存在问题。"
+  },
+  {
+    "index": 355,
+    "source": "One, for instance, uses power produced when the wind is blowing to compress air in underground chambers; the air is fed into gas-fired turbines to make them run more efficiently.",
+    "reference": "举例来说，一项技术是通过风能将地下洞穴内的空气压缩产生电能；将空气输送至燃气涡轮机以提高燃烧功效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，有一种方法利用风力发电时产生的能量来压缩地下储气室中的空气；这些空气被输入燃气轮机，以提高其运行效率。"
+  },
+  {
+    "index": 356,
+    "source": "One of the obstacles: finding big, usable, underground caverns.",
+    "reference": "这其中面临的一个障碍是：要寻找到大空间以及可用的地下洞穴。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "障碍之一：寻找大型、可用、地下洞穴。"
+  },
+  {
+    "index": 357,
+    "source": "Similarly, giant batteries can absorb wind energy for later use, but some existing technologies are expensive, and others aren't very efficient.",
+    "reference": "类似的，还有能够吸收风能待日后使用的巨型电池，但当前的一些技术成本昂贵，其他技术则不是很有效率。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "同样地，巨型电池可以储存风能以供后续使用，但现有的一些技术成本高昂，而另一些则效率不高。"
+  },
+  {
+    "index": 358,
+    "source": "While researchers are looking at new materials to improve performance, giant technical leaps aren't likely.",
+    "reference": "尽管研究人员正在寻找新材料以提高性能，但要出现显著技术飞跃的可能性不大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管研究人员正在探索新材料以提升性能，但巨大的技术飞跃不太可能出现。"
+  },
+  {
+    "index": 359,
+    "source": "Lithium-ion technology may hold the greatest promise for grid storage, where it doesn't have as many limitations as for autos.",
+    "reference": "锂离子技术可能是电网存储前景最好的技术，在这个领域内该技术不会面临像在汽车业中那样多的限制。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "锂离子技术可能在电网存储领域展现出最大的潜力，因为相较于汽车应用，它在电网存储中的限制要少得多。"
+  },
+  {
+    "index": 360,
+    "source": "As performance improves and prices come down, utilities could distribute small, powerful lithium-ion batteries around the edge of the grid, closer to customers.",
+    "reference": "随着性能提高和价格降低，公共事业机构可能会向电网边缘，较为靠近用户的地方输送小体积大容量的锂离子电池。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着性能提升和价格下降，公用事业公司可以在电网边缘、更靠近客户的地方部署小型且功能强大的锂离子电池。"
+  },
+  {
+    "index": 361,
+    "source": "There, they could store excess power from renewables and help smooth small fluctuations in power, making the grid more efficient and reducing the need for backup fossil-fuel plants.",
+    "reference": "这样，这些锂离子电池可以从可再生能源中存储多余的能源，有助于平抑电能供应的小波动，提高电网的效率，降低对备用火电厂的需求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在那里，它们可以储存来自可再生能源的多余电力，并帮助平抑电力的小幅波动，从而提高电网效率，减少对备用化石燃料发电厂的需求。"
+  },
+  {
+    "index": 362,
+    "source": "And utilities can piggy-back on research efforts for vehicle batteries.",
+    "reference": "公用事业机构可以利用汽车电池的研究成果。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "公用事业公司可以借助车辆电池的研究成果来发展自身。"
+  },
+  {
+    "index": 363,
+    "source": "CARBON CAPTURE AND STORAGE",
+    "reference": "碳捕捉和储存技术",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "碳捕集与封存"
+  },
+  {
+    "index": 364,
+    "source": "Keeping coal as an abundant source of power means slashing the amount of carbon dioxide it produces.",
+    "reference": "继续将煤炭作为一种主要的能源意味着需要努力去降低碳燃烧生成的二氧化碳。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将煤炭作为丰富的能源来源意味着需要大幅削减其产生的二氧化碳量。"
+  },
+  {
+    "index": 365,
+    "source": "That could mean new, more efficient power plants.",
+    "reference": "这可能意味着要建设更高效的新发电厂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这可能意味着新的、更高效的发电厂。"
+  },
+  {
+    "index": 366,
+    "source": "But trapping C02 from existing plants -- about two billion tons a year -- would be the real game-changer.",
+    "reference": "但从当前的电厂捕捉二氧化碳（每年大约为20亿吨）可能是一个真正能够改变游戏规则的技术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但从现有工厂中捕获二氧化碳——每年约20亿吨——才是真正改变局面的关键。"
+  },
+  {
+    "index": 367,
+    "source": "Techniques for modest-scale CO2 capture exist, but applying them to big power plants would reduce the plants' output by a third and double the cost of producing power.",
+    "reference": "目前已经出现了小规模的二氧化碳捕捉技术，但如果将这些技术用于大型发电厂会导致发电量减少三分之一，并导致发电成本增长一倍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "小规模二氧化碳捕获技术已经存在，但将其应用于大型发电厂会使电厂产量减少三分之一，并使发电成本翻倍。"
+  },
+  {
+    "index": 368,
+    "source": "So scientists are looking into experimental technologies that could cut emissions by 90% while limiting cost increases.",
+    "reference": "因此，科学家正在寻找既能够将碳排放量降低90%，又能限制成本增长的试验性技术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，科学家们正在研究一些实验性技术，这些技术可以将排放量减少90%，同时限制成本的增长。"
+  },
+  {
+    "index": 369,
+    "source": "Nearly all are in the early stages, and it's too early to tell which method will win out.",
+    "reference": "几乎所有技术目前都处于初步阶段，目前断言哪种方法能够最终胜出还为时过早。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "几乎所有都处于早期阶段，现在判断哪种方法会胜出还为时过早。"
+  },
+  {
+    "index": 370,
+    "source": "One promising technique burns coal and purified oxygen in the form of a metal oxide, rather than air; this produces an easier-to-capture concentrated stream of CO2 with little loss of plant efficiency.",
+    "reference": "一个前景看好的技术是以金属氧化物的形式燃烧煤炭和纯净氧，而不是在空气中燃烧；这种方法会产生较容易捕捉的二氧化碳集中气流，几乎不会影响电厂的效率。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一项颇具前景的技术是以金属氧化物的形式燃烧煤炭和纯氧，而非空气；这种方法产生了一种更易于捕获的高浓度二氧化碳流，且几乎不会降低工厂效率。"
+  },
+  {
+    "index": 371,
+    "source": "The technology has been demonstrated in small-scale pilots, and will be tried in a one-megawatt test plant next year.",
+    "reference": "这种技术已经在小规模试点项目中进行了展示，明年将用于一个装机容量为一百万瓦的试验电厂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该技术已在小型试点项目中得到验证，并将在明年的一座百万瓦级试验工厂中进行测试。"
+  },
+  {
+    "index": 372,
+    "source": "But it might not be ready for commercial use until 2020.",
+    "reference": "但2020年之前，这种技术可能还难以投入商用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但可能要到2020年才能投入商业使用。"
+  },
+  {
+    "index": 373,
+    "source": "NEXT-GENERATION BIOFUELS",
+    "reference": "下一代生物燃料",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "下一代生物燃料"
+  },
+  {
+    "index": 374,
+    "source": "One way to wean ourselves from oil is to come up with renewable sources of transportation fuel.",
+    "reference": "一个令我们逐步摆脱对石油依赖的途径就是研制出可再生的运输燃料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "摆脱对石油依赖的一种方法是开发可再生的交通燃料来源。"
+  },
+  {
+    "index": 375,
+    "source": "That means a new generation of biofuels made from nonfood crops.",
+    "reference": "这意味着从非食品作物中研制出新一代的生物燃料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这意味着新一代生物燃料将由非粮食作物制成。"
+  },
+  {
+    "index": 376,
+    "source": "Researchers are devising ways to turn lumber and crop wastes, garbage and inedible perennials like switchgrass into competitively priced fuels.",
+    "reference": "研究人员正在想办法将木材、作物废料、垃圾以及柳枝稷等不可食用植物转化为具有价格优势的燃料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究人员正在设计方法，将木材、农作物废料、垃圾以及柳枝稷等不可食用的多年生植物转化为价格具有竞争力的燃料。"
+  },
+  {
+    "index": 377,
+    "source": "But the most promising next-generation biofuel comes from algae.",
+    "reference": "但前景最为看好的新一代生物燃料来自于藻类。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但最有前途的下一代生物燃料来自藻类。"
+  },
+  {
+    "index": 378,
+    "source": "Algae grow fast, consume carbon dioxide and can generate more than 5,000 gallons a year per acre of biofuel, compared with 350 gallons a year for corn-based ethanol.",
+    "reference": "藻类生长迅速，会消耗二氧化碳，一英亩藻类每年可以生成超过5,000加仑的生物燃料，而一英亩玉米每年只能生产350加仑的乙醇。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "藻类生长迅速，消耗二氧化碳，每英亩每年可生产超过5000加仑的生物燃料，而玉米乙醇每英亩年产量仅为350加仑。"
+  },
+  {
+    "index": 379,
+    "source": "Algae-based fuel can be added directly into existing refining and distribution systems.",
+    "reference": "藻类燃料可以直接添加进当前的提炼和分销系统。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基于藻类的燃料可以直接添加到现有的精炼和分销系统中。"
+  },
+  {
+    "index": 380,
+    "source": "in theory, the U.S. could produce enough of it to meet all of the nation's transportation needs.",
+    "reference": "理论上来说，美国可以生产大量的藻类燃料，足以满足美国所有的交通运输需求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "理论上，美国可以生产足够的量来满足全国所有的交通需求。"
+  },
+  {
+    "index": 381,
+    "source": "But it's early.",
+    "reference": "但现在还为时过早。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但现在还为时过早。"
+  },
+  {
+    "index": 382,
+    "source": "Dozens of companies have begun pilot projects and small-scale production.",
+    "reference": "数十家公司已经开始了试点项目和小规模生产。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "数十家公司已开始试点项目和小规模生产。"
+  },
+  {
+    "index": 383,
+    "source": "But producing algae biofuels in quantity means finding reliable sources of inexpensive nutrients and water, managing pathogens that could reduce yield, and developing and cultivating the most productive algae strains.",
+    "reference": "但量产藻类燃料意味着要寻找到可靠的、价格低廉的养分和水资源，控制可能导致减产的病原体，研发和培育产量最高的藻株。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但大规模生产藻类生物燃料意味着需要找到可靠且成本低廉的营养物质和水源，管理可能降低产量的病原体，以及开发和培育最高产的藻类品种。"
+  },
+  {
+    "index": 384,
+    "source": "Hungry prehistoric hunters, not climate change, drove elephants and wooly mammoths to extinction during the Pleistocene era, new research suggests.",
+    "reference": "在约一万年前的更新世，大象和猛犸象从地球上许多地区大量消失。一项新研究表明，导致这场灭绝的并不是气候剧变，而是饥饿的史前猎人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "新研究表明，在更新世时期，是饥饿的史前猎人而非气候变化导致大象和猛犸象走向灭绝。"
+  },
+  {
+    "index": 385,
+    "source": "One slips on so-so earnings – only $7bn in quarterly profits. The other jumps 3 per cent on a deal that will hurt its bottom line.",
+    "reference": "一只股票因企业盈利表现一般而下滑——季度利润只有70亿美元。另一只股票则因一笔将会损害公司利润的交易而上涨3%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一家公司因业绩平平——季度利润仅为70亿美元——而股价下滑。另一家公司则因一项将损害其利润的交易而股价跃升3%。"
+  },
+  {
+    "index": 386,
+    "source": "It isn’t hard to see that the latter, Lenovo, has more market momentum than Samsung Electronics.",
+    "reference": "不难看出，后者——联想比三星电子的市场势头更强劲。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不难看出，后者联想比三星电子拥有更强的市场势头。"
+  },
+  {
+    "index": 387,
+    "source": "Both make consumer electronics and tech hardware, from Lenovo’s new server business to Samsung’s chips.",
+    "reference": "从联想的新服务器业务，到三星的芯片业务，两家公司都生产消费者电子产品和科技硬件。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "两家公司都生产消费电子品和技术硬件，从联想的新服务器业务到三星的芯片。"
+  },
+  {
+    "index": 388,
+    "source": "Might Lenovo become the next Samsung?",
+    "reference": "联想会成为下一个三星吗？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "联想会成为下一个三星吗？"
+  },
+  {
+    "index": 389,
+    "source": "On a size basis, the comparison is still a bit ridiculous.",
+    "reference": "从规模上看，这样的比较仍有些可笑。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "从规模上看，这种比较仍然有点荒谬。"
+  },
+  {
+    "index": 390,
+    "source": "Samsung’s market capitalisation is $160bn; Lenovo’s, $14bn.",
+    "reference": "三星的市值是1600亿美元；联想则是140亿美元。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "三星的市值为1600亿美元；联想的市值为140亿美元。"
+  },
+  {
+    "index": 391,
+    "source": "Samsung’s profits last quarter were 10 times Lenovo’s for the past year.",
+    "reference": "三星在最近一个季度的利润是联想过去一年利润的10倍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "三星上一季度的利润是联想过去一年利润的十倍。"
+  },
+  {
+    "index": 392,
+    "source": "Still, Lenovo’s deal this week to buy IBM’s X86 server business demonstrates that it still has the ambition it showed when it bought Big Blue’s PC business in 2004.",
+    "reference": "不过，联想近日收购IBM x86服务器业务的交易表明，它仍具备其2004年收购“蓝色巨人”个人电脑业务时所展现的雄心壮志。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管如此，联想本周收购IBM的X86服务器业务的交易表明，它仍保持着2004年收购IBM个人电脑业务时展现出的雄心。"
+  },
+  {
+    "index": 393,
+    "source": "The relatively low price paid – half of sales – reflects the IBM unit’s swing into loss last year.",
+    "reference": "相对低廉的收购价格（相当于销售额的一半），反映了IBM该项业务去年陷入亏损。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "相对较低的收购价格——仅为销售额的一半——反映出该IBM部门去年陷入亏损。"
+  },
+  {
+    "index": 394,
+    "source": "The business will knock about 5 per cent off Lenovo’s full-year earnings per share, including the slight dilution from the shares issued to IBM.",
+    "reference": "该业务将令联想的全年每股盈利削减5%，包括向IBM发行股票后造成的轻微稀释。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这笔交易将使联想全年每股收益减少约5%，其中包括向IBM发行股票带来的轻微稀释效应。"
+  },
+  {
+    "index": 395,
+    "source": "The shares’ rise suggests that investors think it can use its lower cost structure to lift profits.",
+    "reference": "股价上涨表明，投资者认为联想能以相对较低的成本结构来提高利润。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "股价的上涨表明投资者认为该公司可以利用其较低的成本结构来提高利润。"
+  },
+  {
+    "index": 396,
+    "source": "Investors like bold tech stories.",
+    "reference": "投资者喜欢大胆的科技企业故事。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "投资者喜欢大胆的科技故事。"
+  },
+  {
+    "index": 397,
+    "source": "Samsung’s success was not born of timidity either.",
+    "reference": "三星的成功也并非来自怯懦。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "三星的成功也并非源于胆小。"
+  },
+  {
+    "index": 398,
+    "source": "It has never bought in growth as Lenovo has, but has taken risks to move up the value chain.",
+    "reference": "它从没有像联想那样通过收购来实现增长，但它曾冒风险向价值链上游转移。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它从未像联想那样通过收购来实现增长，而是选择冒险向价值链上游攀升。"
+  },
+  {
+    "index": 399,
+    "source": "One of the reasons for its unexpectedly poor earnings in the latest quarter was a Won800bn ($738m) bonus paid to employees to mark the 20th anniversary of a strategy.",
+    "reference": "三星在最近一个季度意料之外的利润下滑，其中一个原因是它向员工支付了8000亿韩元（合7.38亿美元）的奖金，以庆祝其20年前实施的一项战略。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该公司在最新季度意外盈利不佳的原因之一，是为纪念一项战略实施20周年而向员工支付的8万亿韩元（约合7.38亿美元）奖金。"
+  },
+  {
+    "index": 400,
+    "source": "Back then its chairman made a bonfire of 150,000 mobile phones – worth $50m – to make the point he wanted better.",
+    "reference": "当时三星主席将15万部手机（总值5000万美元）付之一炬，以此表达他期望打造更好产品的决心。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当时，其董事长焚烧了15万部手机——价值5000万美元——以更有效地传达他的观点。"
+  },
+  {
+    "index": 401,
+    "source": "Now Samsung is trying to push into software – a challenge for a company staffed by hardware engineers.",
+    "reference": "现在三星正试图打入软件领域——对一家由硬件工程师组成的公司来说是个挑战。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如今，三星正试图进军软件领域——对于一家以硬件工程师为主的公司来说，这是一项挑战。"
+  },
+  {
+    "index": 402,
+    "source": "Samsung’s shares have risen 20 per cent a year, compounded, for the past two decades.",
+    "reference": "过去20年里，三星股价年均复合上涨20%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "过去二十年间，三星的股票以每年20%的复合增长率上涨。"
+  },
+  {
+    "index": 403,
+    "source": "Should Lenovo follow suit, it will take it a little over a decade to reach Samsung’s present size.",
+    "reference": "联想若能实现同样的成就，它将需要10年多一点的时间达到三星目前的规模。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果联想效仿此举，将需要十多年的时间才能达到三星目前的规模。"
+  },
+  {
+    "index": 404,
+    "source": "Lenovo has momentum on its side.",
+    "reference": "势头对联想有利。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "联想正乘势而上。"
+  },
+  {
+    "index": 405,
+    "source": "But can it sustain profit growth on a foundation of low-cost manufacture of commodity hardware?",
+    "reference": "但它能否以低成本制造平价商品化的硬件为基础，维持利润增长？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但它能否在低成本制造商品硬件的基础上维持利润增长？"
+  },
+  {
+    "index": 406,
+    "source": "Samsung invested aggressively to acquire an enduring competitive advantage – scale – in chips, and from there built a hugely profitable premium phone business.",
+    "reference": "三星通过大举投资，获得了芯片领域的持久竞争优势——规模，在此基础上建立了一个利润丰厚的高端手机业务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "三星公司进行了大规模投资，以在芯片领域获得持久的竞争优势——规模效应，并由此建立了一个利润丰厚的高端手机业务。"
+  },
+  {
+    "index": 407,
+    "source": "Lenovo needs to find a similar edge.",
+    "reference": "联想需要找到类似的竞争优势。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "联想需要找到类似的优势。"
+  },
+  {
+    "index": 408,
+    "source": "Combining sales growth with cost cutting is not an innovative idea.",
+    "reference": "把销售增长和成本削减相结合，不是什么新点子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将销售增长与成本削减相结合并非创新之举。"
+  },
+  {
+    "index": 409,
+    "source": "It represents, nonetheless, a shocking return to sanity in Chinese retailing.",
+    "reference": "不过，当中国零售商开始这么做的时候，它们正不可思议地回归理智。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管如此，它标志着中国零售业令人震惊地回归理性。"
+  },
+  {
+    "index": 410,
+    "source": "The 9 per cent opening pop in Gome’s shares after it raised its profits shows the importance of the simple improvements the company has made.",
+    "reference": "国美电器(Gome)在宣布利润上升后，股价开盘跳升9%，表明该公司做出的简单改进能带来多大的改变。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国美电器在提高利润后，其股价开盘即飙升9%，这显示了公司所做出的简单改进的重要性。"
+  },
+  {
+    "index": 411,
+    "source": "Last year Gome was lossmaking.",
+    "reference": "去年，国美处于亏损状态。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "去年国美出现了亏损。"
+  },
+  {
+    "index": 412,
+    "source": "It became caught in a vicious online battle for market share in China’s electrical appliances market, the largest ecommerce sector after clothes.",
+    "reference": "它卷入了一场对中国网上家电市场的恶性争夺中。在中国，家电是仅次于服装的第二大电子商务市场。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它陷入了中国电器市场一场激烈的在线市场份额争夺战，这是仅次于服装的第二大电商领域。"
+  },
+  {
+    "index": 413,
+    "source": "Rivals such as 360 Buy, a purely online operator, had pledged zero gross margins for three years and other disrupting tactics.",
+    "reference": "在国美之前，纯电商京东商城(360 Buy)等竞争对手承诺三年内零毛利，还使出了一些其他市场干扰手段。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "诸如纯在线运营商360 Buy等竞争对手曾承诺三年内零毛利，并采取其他颠覆性策略。"
+  },
+  {
+    "index": 414,
+    "source": "Slowing sales that followed the expiry of some government subsidies hurt, too.",
+    "reference": "随着政府补贴到期，国内销售也开始放缓。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一些政府补贴到期后销售放缓也造成了不利影响。"
+  },
+  {
+    "index": 415,
+    "source": "Yet this week Gome talked of same-store sales growing by 15 per cent (above overall retail sales) and an 18 per cent gross margin – half as much again as the level of three years ago.",
+    "reference": "但国美本周宣布，2013年第四季度，其可比门店销售收入增长预期将超过15%，高于全年增幅，2013年综合毛利率预计将超过18%——再次达到三年前水平的一半。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，本周国美谈到同店销售额增长了15%（高于整体零售额），毛利率达到18%——是三年前水平的一倍半。"
+  },
+  {
+    "index": 416,
+    "source": "Granted, that still lags behind the likes of Best Buy in the US, Japan’s Yamada Denki (23 per cent) and Europe’s Darty group (32 per cent), but the size of the improvement delivered by a tactic as basic as cost-cutting is impressive.",
+    "reference": "虽然这个水平仍然落后于美国百思买(Best Buy)、日本山田电机(Yamada Denki)的23%和欧洲Darty集团的32%，但通过削减成本这类简单策略，业绩改善效果仍然惊人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "诚然，这仍落后于美国的百思买、日本的山田电机（23%）和欧洲的Darty集团（32%），但仅通过削减成本这样基础的策略就能带来如此显著的改善，着实令人印象深刻。"
+  },
+  {
+    "index": 417,
+    "source": "More gains are possible. Consider inventory turnover, where Gome managed to cut its cycle by 14 days to 56 in the first half of 2013.",
+    "reference": "国美还有更大改善空间。2013年上半年，它成功将库存周转天数降到56天，同比减少了18天。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "还有提升的空间。以库存周转为例，国美在2013年上半年成功将其周期缩短了14天，降至56天。"
+  },
+  {
+    "index": 418,
+    "source": "It said then it thought there were another eight days it could trim over the next two years.",
+    "reference": "当时国美表示，它认为未来两年还可以再减掉8天。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当时它表示，认为在未来两年内还可以再削减八天。"
+  },
+  {
+    "index": 419,
+    "source": "The company has focused on better positioning its store network and it is working: the rising sales have come on the back of less bricks-and-mortar space.",
+    "reference": "国美把注意力放在了对门店网络更好地布局上，而且此举正在见到成效：实体店数量减少之余，销售额却升上去了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该公司一直致力于更好地定位其门店网络，并且这一策略正在奏效：在实体店面面积减少的情况下，销售额却实现了增长。"
+  },
+  {
+    "index": 420,
+    "source": "The real expansion in Chinese retail will be online, where sales could rise a quarter each year to 2018, Citi estimates.",
+    "reference": "中国零售业真正的扩张将发生在互联网上。据花旗(Citi)估计，一直到2018年，中国线上零售额可能以每年25%的速度增长。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "花旗银行估计，中国零售业的真正增长将出现在线上领域，到2018年，线上销售额每年可能增长四分之一。"
+  },
+  {
+    "index": 421,
+    "source": "Gome still has to figure out how to make money from its online operations.",
+    "reference": "国美仍须思考如何从线上运营中赚钱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "国美仍需想办法从其在线业务中盈利。"
+  },
+  {
+    "index": 422,
+    "source": "But in the meantime, do not ignore its achievement in swapping a disastrous online market share battle for a steady approach to bricks and mortar.",
+    "reference": "但同时，不要忽略国美的成就——放弃一场灾难性的网络市场份额争夺战，实实在在地改善实体店业绩。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但与此同时，不要忽视它用稳健的实体店策略取代灾难性的线上市场份额争夺战所取得的成就。"
+  },
+  {
+    "index": 423,
+    "source": "Xi Guohua will not have to join any queues to get his iPhone.",
+    "reference": "奚国华用不着排队就得到了一台iPhone。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "奚国华无需排队就能拿到他的iPhone。"
+  },
+  {
+    "index": 424,
+    "source": "The China Mobile chairman was given one by Apple chief Tim Cook.",
+    "reference": "这位中国移动董事长刚得到苹果首席执行官蒂姆•库克送的一部iPhone。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国移动董事长从苹果首席执行官蒂姆·库克那里收到了一部。"
+  },
+  {
+    "index": 425,
+    "source": "Friday sees the launch of the iPhone on the Chinese network, with its mind-boggling 750m subscriber base.",
+    "reference": "本周五，中国移动版iPhone正式发售，而该公司用户总数是惊人的7.5亿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "周五，iPhone在中国网络上正式推出，其庞大的7.5亿用户群令人惊叹。"
+  },
+  {
+    "index": 426,
+    "source": "But the iPhone’s moment in the world’s biggest market comes just as the local competition is gearing up.",
+    "reference": "不过，iPhone在世界最大的市场迎来激动人心的时刻之际，正是本土竞争加剧之时。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但iPhone在全球最大市场的高光时刻，恰逢本土竞争对手正蓄势待发。"
+  },
+  {
+    "index": 427,
+    "source": "If, as Apple’s (and Samsung’s) margins suggest, even high-end smartphones are becoming less profitable, what are the likes of Huawei, Lenovo and Xiaomi thinking?",
+    "reference": "如果连高端智能手机的利润率都会下降的话——就像苹果和三星的利润率所体现的那样，那么像华为、联想和小米这样的生产商，又该作何感想呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果正如苹果（和三星）的利润率所显示的那样，连高端智能手机的利润都在下降，那么华为、联想和小米等公司又在想些什么呢？"
+  },
+  {
+    "index": 428,
+    "source": "Combined, China’s top 10 makers expect to shift more than 400m phones this year, a 50 per cent increase on 2013.",
+    "reference": "2014年，中国十大手机制造商预计总共将销售手机逾4亿部，比2013年增长50%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国前十大制造商预计今年合计将销售超过4亿部手机，较2013年增长50%。"
+  },
+  {
+    "index": 429,
+    "source": "About 440m smartphones will be sold in China in 2014, according to Credit Suisse – a 25 per cent jump.",
+    "reference": "据瑞信预测，中国今年的智能手机销量将达到约4.4亿部，同比增长25%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据瑞士信贷预测，2014年中国将售出约4.4亿部智能手机，同比增长25%。"
+  },
+  {
+    "index": 430,
+    "source": "That includes Apple, Samsung and other top-tier makers, implying the home brands must also be aiming for other emerging markets, where sales are expected to rise a third, to 470m Chinese makers often have high-end ambitions, but their bread and butter is in the low- and mid-range phones that rule emerging markets.",
+    "reference": "其中苹果、三星和其他第一梯队制造商会占据一些份额，意味着中国本土品牌也必须瞄准其他新兴市场，这些市场的手机销量预计将增加三分之一，达到4.7亿部。中国制造商往往有生产高端手机的抱负，但它们赖以为生的却是在新兴市场占主导地位的低端和中端产品。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这包括苹果、三星等顶级制造商，意味着本土品牌也必然瞄准其他新兴市场，预计这些市场的销量将增长三分之一，达到4.7亿部。中国制造商常怀高端雄心，但其立足之本仍是主导新兴市场的低端和中端手机。"
+  },
+  {
+    "index": 431,
+    "source": "Plentiful demand is one thing, making money is another.",
+    "reference": "庞大的需求是一回事，赚钱是另一回事。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "需求旺盛是一回事，赚钱又是另一回事。"
+  },
+  {
+    "index": 432,
+    "source": "Apple and Samsung profit from using their scale and brands to cut costs and demand top dollar.",
+    "reference": "苹果和三星的盈利法宝是利用规模和品牌来削减成本，并让消费者为其产品付尽可能高的价钱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "苹果和三星利用其规模和品牌优势来降低成本并获取高额利润。"
+  },
+  {
+    "index": 433,
+    "source": "Low-end phones cost far less to make.",
+    "reference": "低端手机的成本低得多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "低端手机的生产成本要低得多。"
+  },
+  {
+    "index": 434,
+    "source": "The cost of producing a so-so brand 4.7’’ screen phone could be as low as $94, Credit Suisse reckons, compared with $266 for Samsung’s Galaxy S4.",
+    "reference": "瑞信估计，生产一部4.7英寸、品牌一般的手机，最低只需94美元。相比之下，三星Galaxy S4的生产成本是266美元。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "据瑞士信贷估计，生产一部普通的4.7英寸屏幕品牌手机的成本可能低至94美元，而三星Galaxy S4的成本则为266美元。"
+  },
+  {
+    "index": 435,
+    "source": "But that cheap phone sells for $122, versus $554 for Samsung’s smash hit.",
+    "reference": "而三星这款热卖机的售价是554美元，前面那款便宜机仅售122美元。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但那款廉价手机售价122美元，而三星的热销机型则要554美元。"
+  },
+  {
+    "index": 436,
+    "source": "That is a 10 times difference in gross profit.",
+    "reference": "二者毛利相差10倍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是毛利润上的十倍差距。"
+  },
+  {
+    "index": 437,
+    "source": "Sure, commoditisation will squeeze Samsung and Apple, but it will not entirely kill their pricing power.",
+    "reference": "当然，产品大众化会挤压三星和苹果的利润，但并不会完全使其丧失定价能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当然，商品化会挤压三星和苹果的利润空间，但并不会完全剥夺它们的定价权。"
+  },
+  {
+    "index": 438,
+    "source": "If consumers happily pay premiums for cigarettes and branded water, it is not hard to see value in a strong phone brand.",
+    "reference": "既然消费者会乐于为香烟和品牌饮用水支付高价，一个强大的手机品牌的价值也就不难明白。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果消费者愿意为香烟和品牌水支付溢价，那么不难看出强大手机品牌的价值。"
+  },
+  {
+    "index": 439,
+    "source": "Chinese makers could try taking on Samsung and Apple by building rival brands – but ask HTC about the risks in that.",
+    "reference": "中国制造商可以通过建立竞争性品牌来挑战三星和苹果——但请向宏达电(HTC)请教这样做的风险。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国制造商或许可以尝试通过打造竞争品牌来挑战三星和苹果——但问问HTC就知道其中的风险了。"
+  },
+  {
+    "index": 440,
+    "source": "The jump in this year’s shipments implies they are instead seeking scale in order to squeeze suppliers and grind out profits.",
+    "reference": "今年的出货量继续大增，表明这些制造商宁愿追求规模，以便挤压供应商，榨取更多利润。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "今年出货量的激增意味着他们正转而寻求规模效应，以挤压供应商并榨取利润。"
+  },
+  {
+    "index": 441,
+    "source": "It is the better plan, but it will not make much money, either.",
+    "reference": "这是个更好的计划，但也不会让它们赚很多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是个更好的计划，但也赚不了多少钱。"
+  },
+  {
+    "index": 442,
+    "source": "‘Tron’ is a cool, if slightly scary, name for a video-game console.",
+    "reference": "对一款视频游戏机而言，“TRON”是个很酷（也许还有点吓人）的名字。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "‘Tron’作为一款电子游戏主机的名字，既酷炫又略带一丝恐怖。"
+  },
+  {
+    "index": 443,
+    "source": "It is also a 1982 Disney film about being trapped in a virtual world.",
+    "reference": "它还是一部1982年拍摄的迪斯尼电影的名字——这部电影中的主人公陷于一个虚拟世界而无法脱身。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这也是一部1982年的迪士尼电影，讲述被困在虚拟世界中的故事。"
+  },
+  {
+    "index": 444,
+    "source": "This has not stopped Huawei from launching a gaming device by that name in China, its home market, in 2014.",
+    "reference": "但这并没有阻止华为(Huawei)在2014年于中国国内市场推出了以这个名字命名的游戏设备。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这并未阻止华为于2014年在其本土市场中国推出一款同名游戏设备。"
+  },
+  {
+    "index": 445,
+    "source": "Telecoms equipment is, however, a much larger business for this ambitious, unlisted, employee-owned company, founded by an ex-military engineer. Investors in the sector’s other big players are, increasingly, trapped in Huawei’s world.",
+    "reference": "然而，对于这家由前军队工程师创立、员工持股、雄心勃勃的未上市公司来说，电信设备是一项规模大得多的业务，电信行业中其他大公司的投资者们，正越来越多地陷入了这个由华为主导的世界。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，对于这家由前军事工程师创立、员工持股且未上市的雄心勃勃的公司来说，电信设备是一个规模大得多的业务。该领域其他大型企业的投资者正日益陷入华为的世界。"
+  },
+  {
+    "index": 446,
+    "source": "Cheap consoles will help build Huawei’s brand now that it is shaking up consumer electronics in emerging markets, led by increasing sales of cheap smartphones.",
+    "reference": "在廉价智能手机销量不断增长的带动下，华为正在撼动新兴市场的消费电子产品市场，在这种背景下推出廉价游戏机将有助于华为的品牌建设。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着廉价智能手机销量的增长引领新兴市场消费电子产品的变革，廉价终端将有助于提升华为的品牌影响力。"
+  },
+  {
+    "index": 447,
+    "source": "Revealing its 2013 results on Tuesday, the company said it planned to shift 80m units this year – 30m more than last year.",
+    "reference": "华为上周曾表示，今年智能手机的目标出货量为8000万台——比去年实际出货量增长3000万台。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该公司在周二公布其2013年业绩时表示，计划今年销售8000万台设备，比去年增加3000万台。"
+  },
+  {
+    "index": 448,
+    "source": "Selling kit to carrier networks still accounted for three-quarters or so of its $40bn in revenues last year, growing decently from 2012 levels.",
+    "reference": "华为周三宣布全年业绩时称，2013年销售收入达约400亿美元，比上年有强劲增长，同时其运营商网络业务超过75%的收入来自全球排名前50的电信运营商。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "去年，向运营商网络销售设备仍占其400亿美元收入的四分之三左右，较2012年的水平有可观增长。"
+  },
+  {
+    "index": 449,
+    "source": "That should spook investors in Cisco, Alcatel-Lucent or Ericsson – for two reasons.",
+    "reference": "这应该让思科(Cisco)、阿尔卡特-朗讯(Alcatel-Lucent)或爱立信(Ericsson)的投资者感到害怕，原因有二。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这应该会让思科、阿尔卡特-朗讯或爱立信的投资者感到不安——原因有二。"
+  },
+  {
+    "index": 450,
+    "source": "First, whatever it was that battered Cisco’s business in several emerging markets towards the end of 2013, it did no harm to Huawei.",
+    "reference": "首先，临近2013年底，几个新兴市场中，所有冲击到思科业务的因素都没有影响到华为。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "首先，无论2013年底是什么打击了思科在几个新兴市场的业务，华为都未受影响。"
+  },
+  {
+    "index": 451,
+    "source": "Potential Cisco customers might be put off by the revelations about US spies snooping via private hardware and be less worried than western politicians about China peeking down Huawei’s wires.",
+    "reference": "美国间谍机构通过私人设备从事窃听活动被曝光之后，潜在顾客可能对思科心存疑虑，而这些顾客对中国通过华为产品开展窥探行为却没有西方政客那样担心。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "潜在的思科客户可能会因美国间谍通过私人硬件窥探的曝光而却步，并且不像西方政客那样担心中国通过华为设备进行窥探。"
+  },
+  {
+    "index": 452,
+    "source": "But it is more likely that Huawei is simply beating the western companies in emerging markets, just as big opportunities there (the transition to 4G) come up for grabs.",
+    "reference": "不过，更大的可能是，随着新兴市场巨大商机（即向4G平台转移）的出现，华为将在新兴市场完败西方企业。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但更有可能的是，华为只是在新兴市场上超越了西方公司，恰逢那里的大好机会（向4G的过渡）正待争夺。"
+  },
+  {
+    "index": 453,
+    "source": "Huawei’s target for dollar revenue growth is 10 per cent per year to 2017.",
+    "reference": "华为为营收设定的目标是，到2017年前每年增长10%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "华为的目标是到2017年实现美元收入每年增长10%。"
+  },
+  {
+    "index": 454,
+    "source": "Ericsson sees the equipment market growing at 3 per cent to 5 per cent.",
+    "reference": "爱立信认为电信设备市场的增长率在3%到5%之间。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "爱立信预计设备市场将以3%至5%的速度增长。"
+  },
+  {
+    "index": 455,
+    "source": "This suggests Huawei will take more share.",
+    "reference": "这意味着华为将在该市场中争取更大份额。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这表明华为将占据更多市场份额。"
+  },
+  {
+    "index": 456,
+    "source": "But Huawei does not detail which divisions will provide the growth. Nor does it say much about where its capital has, or will, come from.",
+    "reference": "不过华为并未详细说明将靠哪些部门实现这一增长，也没有透露太多有关其目前或将来资金来源的信息。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但华为并未详细说明哪些部门将推动增长，也未过多透露其资金的来源或未来来源。"
+  },
+  {
+    "index": 457,
+    "source": "Information about employees’ share ownership or future bond issues (it sold $150m in debt in Hong Kong three years ago) is scant.",
+    "reference": "而有关员工持股或未来发债的问题（该公司三年前曾在香港发行1.5亿美元的债券），该公司也说得很少。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "关于员工持股或未来债券发行的信息（三年前在香港发行了1.5亿美元债券）寥寥无几。"
+  },
+  {
+    "index": 458,
+    "source": "It is hard to know, therefore, whether Huawei’s expansion is sustainable or not.",
+    "reference": "因此，很难判断华为的扩张能不能维持下去。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，很难判断华为的扩张是否具有可持续性。"
+  },
+  {
+    "index": 459,
+    "source": "In the race to build in-car information systems, Google may be destined for the checkered flag for one simple reason: It has the killer map.",
+    "reference": "在开发车载信息系统的角逐中，谷歌公司(Google Inc.)可能会成为赢家，原因很简单：谷歌拥有地图这个杀手锏。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在构建车载信息系统的竞赛中，谷歌可能注定会拔得头筹，原因很简单：它拥有制胜的地图。"
+  },
+  {
+    "index": 460,
+    "source": "At the International CES show last week, Google and several car makers, including General Motors, launched the Open Automotive Alliance.",
+    "reference": "在上周举行的国际消费电子展上，谷歌和通用汽车等汽车企业宣布成立开放汽车联盟。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在上周的国际消费电子展上，谷歌与包括通用汽车在内的多家汽车制造商共同发起了开放汽车联盟。"
+  },
+  {
+    "index": 461,
+    "source": "This is a plan to establish Google's Android operating system as a common platform for apps in the connected car.",
+    "reference": "计划把谷歌的安卓操作系统打造成联网汽车的应用公共平台。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一项计划，旨在将谷歌的安卓操作系统确立为联网汽车中应用程序的通用平台。"
+  },
+  {
+    "index": 462,
+    "source": "That opens a new front in Google's battle with Apple, which announced plans last year to integrate its devices into car makers' dashboard control panels, and Microsoft, which developed in-car voice-activated and touch-screen technologies with Ford Motor.",
+    "reference": "至此，谷歌与苹果公司(Apple)和微软(Microsoft)之间的竞争进入了一个新的领域。苹果去年宣布计划将其产品集成到汽车仪表盘内，而微软也与福特汽车(Ford Motor)合作开发车载语音控制和触屏技术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这为谷歌与苹果及微软的竞争开辟了新战线。苹果去年宣布计划将其设备整合到汽车制造商的仪表盘控制面板中，而微软则与福特汽车合作开发了车载语音激活和触摸屏技术。"
+  },
+  {
+    "index": 463,
+    "source": "Given rivals' earlier moves, Google could be seen as having a late start.",
+    "reference": "与竞争对手早已行动相比，谷歌可能起步较晚。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "鉴于竞争对手的早期行动，谷歌可以说起步较晚。"
+  },
+  {
+    "index": 464,
+    "source": "But the open nature of Android has obvious appeal.",
+    "reference": "不过，安卓系统的开放性具有明显的吸引力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但Android的开放性显然具有吸引力。"
+  },
+  {
+    "index": 465,
+    "source": "The ability for a company to customize Android persuades even Google's rivals to use it; Amazon.com, for example, tweaked the software for its own Kindle reading device.",
+    "reference": "由于企业可以对安卓系统自定义处理，这一点甚至让谷歌的竞争对手也使用该系统；比如亚马逊(Amazon.com)，该公司就在其Kindle阅读器中推出了自己的定制版安卓系统。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "公司定制安卓系统的能力甚至说服了谷歌的竞争对手使用它；例如，亚马逊就为其Kindle阅读设备调整了这一软件。"
+  },
+  {
+    "index": 466,
+    "source": "Given vehicle development's long lead times, these are important considerations.",
+    "reference": "鉴于汽车的开发周期很长，这方面是一个企业需要考虑的重要因素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "鉴于车辆开发周期较长，这些都是重要的考虑因素。"
+  },
+  {
+    "index": 467,
+    "source": "More important may be Google's map expertise.",
+    "reference": "更为重要的或许是谷歌在地图方面的经验。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "更重要的是谷歌在地图方面的专业知识。"
+  },
+  {
+    "index": 468,
+    "source": "Having sent cars with cameras all over the world to develop its Street View capabilities, the company has created maps that are extremely accurate and up to date where others aren't.",
+    "reference": "谷歌在全球各地派出取景车提供街景(Street View)服务，其地图的精确度和更新速度为其他竞争对手难以企及。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该公司通过向全球各地派遣配备摄像头的车辆来提升其街景功能，从而绘制出了极其精准且实时更新的地图，而其他公司则未能做到这一点。"
+  },
+  {
+    "index": 469,
+    "source": "Think of the apology Apple had to issue in 2012 following criticism of a new version of its own Maps app, which was designed to replace Google's.",
+    "reference": "在这一方面，不难联想到苹果2012年为自己的地图应用向用户道歉一事，当时该公司尝试推出自己的新版地图应用以替代谷歌地图，但并没有获得用户认可。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "回想一下2012年苹果公司因新版自家地图应用受到批评而不得不发布的道歉声明，该应用原本旨在取代谷歌地图。"
+  },
+  {
+    "index": 470,
+    "source": "The popularity of Google's maps for devices running Android and Apple's iOS creates a network effect.",
+    "reference": "谷歌地图在搭载安卓和苹果iOS操作系统的设备上的受欢迎程度产生了网络效应。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "谷歌地图在运行安卓和苹果iOS的设备上广受欢迎，从而产生了网络效应。"
+  },
+  {
+    "index": 471,
+    "source": "The more people who use Google Maps, the more information Google has on factors such as traffic, and the more appealing the product becomes.",
+    "reference": "使用谷歌地图的人越多，谷歌获取的交通等信息就越丰富，其地图服务的吸引力就越大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "使用谷歌地图的人越多，谷歌就能获取更多诸如交通状况等因素的信息，该产品也就越具吸引力。"
+  },
+  {
+    "index": 472,
+    "source": "Such was the logic behind Google's purchase of Waze, a real-time traffic-information app, last year.",
+    "reference": "这也是谷歌去年收购实时交通信息应用Waze的思路所在。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这便是谷歌去年收购实时交通信息应用Waze背后的逻辑。"
+  },
+  {
+    "index": 473,
+    "source": "And don't forget a big reason for Google's interest in cartography is its autonomous vehicle program.",
+    "reference": "此外，谷歌之所以对地图服务感兴趣，一个不容忽视的重要原因是其自动驾驶汽车项目。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "别忘了，谷歌对制图学产生浓厚兴趣的一个重要原因在于其自动驾驶汽车项目。"
+  },
+  {
+    "index": 474,
+    "source": "A crash means something quite different for a car compared with a smartphone.",
+    "reference": "系统崩溃对汽车的意义与智能手机完全不同。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对于汽车和智能手机来说，'crash'一词的含义截然不同。"
+  },
+  {
+    "index": 475,
+    "source": "To minimize the potential for error, a must from both a regulatory and product-liability standpoint, a self-driving car needs a painstakingly accurate map.",
+    "reference": "就自动驾驶汽车而言，无论从监管角度还是产品可靠性角度来看，要想把可能出现的错误降到最小程度，精确的地图不可或缺。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了从法规和产品责任的角度将潜在错误降至最低，自动驾驶汽车需要一张极其精确的地图。"
+  },
+  {
+    "index": 476,
+    "source": "With a gaggle of companies demonstrating autonomous and semiautonomous vehicle technology at CES, and likely at this week's auto show in Detroit, the day when commercially available self-driving cars cruise U.S. roads looks less a futurist daydream and more a rapidly approaching reality.",
+    "reference": "许多公司都在此次消费电子展上展示了全自动和半自动汽车驾驶技术，而这也可能成为本周底特律汽车展上的一大热点，由此看来，美国公路上出现商用自动驾驶汽车似乎已不再是不切实际的空想，而越来越成为指日可待的现实。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着一群公司在CES展上展示自动驾驶和半自动驾驶车辆技术，很可能在本周底特律车展上也会如此，商用自动驾驶汽车在美国道路上行驶的日子看起来不再像是未来主义者的白日梦，而更像是一个迅速逼近的现实。"
+  },
+  {
+    "index": 477,
+    "source": "'With U.S. drivers driving 75 billion hours a year, autonomous cars are also poised to have a much greater impact on society as a whole than most people give them credit for,' Morgan Stanley said in a recent report.",
+    "reference": "摩根士丹利在最近的报告中表示，美国人一年驾驶汽车的时间为750亿小时，自动驾驶汽车对整个社会产生的影响要比多数人预期的大得多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "摩根士丹利在最近的一份报告中表示，'美国司机每年驾驶750亿小时，自动驾驶汽车对整个社会的影响将远超过大多数人的预期。'"
+  },
+  {
+    "index": 478,
+    "source": "Google's autonomous-car program is a big reason the concept is being taken so seriously within the automotive industry.",
+    "reference": "谷个的自动驾驶汽车项目也是汽车业如此重视这一概念的重要原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "谷歌的自动驾驶汽车项目是该概念在汽车行业受到如此重视的一个重要原因。"
+  },
+  {
+    "index": 479,
+    "source": "It isn't hard to envision the company licensing the technology for car makers just as right now it provides its Android operating system to smartphone manufacturers.",
+    "reference": "不难想像，未来会有一天谷歌向汽车企业提供自动驾驶技术的授权许可，就像现在其向智能手机制造商提供安卓系统授权许可一样。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不难想象，该公司会将其技术授权给汽车制造商，就像现在它为智能手机制造商提供安卓操作系统一样。"
+  },
+  {
+    "index": 480,
+    "source": "At the least, car companies may want to tap Google's map technology for their programs.",
+    "reference": "至少，汽车企业可能希望在自己的程序中使用谷歌地图技术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "至少，汽车公司可能会想利用谷歌的地图技术来支持他们的项目。"
+  },
+  {
+    "index": 481,
+    "source": "But Google's wider product offering means they may see it as being in their best interest to build a closer relationship with it over the long term.",
+    "reference": "不过，鉴于谷歌的产品种类较广，汽车企业与谷歌建立更紧密的长期合作关系可能符合这些厂商的最大利益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但谷歌更广泛的产品线意味着他们可能认为，从长远来看，与其建立更紧密的关系符合他们的最佳利益。"
+  },
+  {
+    "index": 482,
+    "source": "All of which gives Google an advantage over the likes of Apple as the autonomous age arrives and Detroit and drivers venture into unfamiliar territory without a map.",
+    "reference": "综上所述，随着汽车自动驾驶时代来临、汽车企业和驾驶员尝试这一陌生领域，谷歌相比苹果等公司具有更大优势。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这一切都让谷歌在自动驾驶时代到来时，相对于苹果等公司占据优势，同时也让底特律和驾驶员们在没有地图指引的情况下，踏入陌生的领域。"
+  },
+  {
+    "index": 483,
+    "source": "A new legal tool for U.S. investors who are locked in disputes with Chinese companies is being put to wider use.",
+    "reference": "与中资公司存在纠纷的美国投资者有了一个新的法律工具，目前这个工具的使用范围正在扩大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一种供与中国公司陷入纠纷的美国投资者使用的新法律工具正得到更广泛的应用。"
+  },
+  {
+    "index": 484,
+    "source": "A Delaware Chancery Court judge on Jan. 6 awarded investors who had tried unsuccessfully to gain access to the books of China's Yinlips Technology Inc. the ability to sell their shares back to the company.",
+    "reference": "特拉华州衡平法院一位法官于1月6日授予中国英利普科技（深圳）有限公司的投资者一项权利，使他们能够将所持股票回售给该公司，此前这些投资者尝试获得该公司财务报表信息的努力未获成功。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1月6日，特拉华州衡平法院的一位法官裁定，那些曾试图查阅中国银力科技股份有限公司账簿但未果的投资者，有权将所持股份回售给该公司。"
+  },
+  {
+    "index": 485,
+    "source": "It also appointed a receiver to seize the company's assets to fulfill the transaction.",
+    "reference": "这家法院还聘请一位接管人来接管该公司资产，以完成这些交易。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它还任命了一名接管人以扣押公司资产来完成交易。"
+  },
+  {
+    "index": 486,
+    "source": "Yinlips, an electronics company, didn't respond to a request for comment.",
+    "reference": "电子公司英利普科技未回复记者寻求置评的请求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "电子产品公司阴力普未就置评请求作出回应。"
+  },
+  {
+    "index": 487,
+    "source": "The ruling builds on a similar case last year, when another judge in Delaware Chancery Court granted essentially the same remedy to investors of a different Chinese company.",
+    "reference": "去年也有一起类似案件，当时特拉华州衡平法院的另一位法官授予了另一家中资公司的投资者类似的权利。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该裁决基于去年的一起类似案件，当时特拉华州衡平法院的另一位法官对另一家中国公司的投资者作出了基本相同的救济裁决。"
+  },
+  {
+    "index": 488,
+    "source": "Together, the two cases are providing investors with a way to strike back at Chinese companies that cost investors money when their stocks drop because of alleged accounting or disclosure problems.",
+    "reference": "这两起案子为类似的美国投资者提供了一个反击的方式，他们此前因为这些中资公司的股票受会计和披露等问题下跌而蒙受损失。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这两起案件共同为投资者提供了一种反击中国公司的方式，这些公司因涉嫌会计或披露问题导致股价下跌，使投资者蒙受损失。"
+  },
+  {
+    "index": 489,
+    "source": "David Graff, a lawyer at the New York law firm of Anderson Kill who represents the investors in both cases, said he was aware of at least six other pending court cases against Chinese companies in which such a remedy could come into play.",
+    "reference": "纽约律师事务所Anderson Kill的律师格拉夫是这两起案件中投资者的代理律师，他说，他认为至少还有六起针对中资公司的诉讼案会采用这种方式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "代表两起案件中投资者的安德森·基尔纽约律师事务所律师大卫·格拉夫表示，他已知至少还有六起针对中国公司的待决法庭案件可能适用此类补救措施。"
+  },
+  {
+    "index": 490,
+    "source": "Yinlips entered the U.S. in 2008 via a private placement of stock to investors, and Mr. Graff alleged in an interview that it 'absconded with the investor funds.'",
+    "reference": "英利普科技于2008年通过面向投资者的私人配售进入美国市场，格拉夫在一次采访中说，这家公司骗走了投资者的资金。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "Yinlips于2008年通过向投资者私募股票进入美国市场，Graff先生在采访中指控其'携投资者资金潜逃'。"
+  },
+  {
+    "index": 491,
+    "source": "Yinlips said in U.S. government filings that it planned to trade on U.S. markets.",
+    "reference": "英利普科技此前在提交美国政府的文件中说，计划在美国市场上市交易。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "音丽士在美国政府文件中表示，计划在美国市场进行交易。"
+  },
+  {
+    "index": 492,
+    "source": "But the Securities and Exchange Commission revoked the U.S. registration of the company's securities last July after Yinlips failed to file required annual and quarterly reports.",
+    "reference": "去年7月份美国证券交易委员会将该公司股票从注册名单中除名，因为此前该公司未能按要求提交年度和季度报表。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但美国证券交易委员会去年七月撤销了该公司证券在美国的注册，原因是银利普斯未能提交所需的年度和季度报告。"
+  },
+  {
+    "index": 493,
+    "source": "Four investors who bought a total of 1.5 million Yinlips shares in the private placement sued to force the company to open its books to them.",
+    "reference": "在私人配售中购买了英利普科技总计150万股股票的四位投资者此前对该公司提起诉讼，以期迫使该公司向他们公开财务报表。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "四位在私募中合计购买了150万股银荔股票的投资者提起诉讼，要求公司向他们公开账目。"
+  },
+  {
+    "index": 494,
+    "source": "Chancery Court Vice Chancellor Donald F. Parsons Jr. ruled in their favor last October.",
+    "reference": "特拉华州衡平法院副大法官帕森斯在去年10月份做出了支持这些投资者的裁决。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "衡平法院副大法官小唐纳德·F·帕森斯于去年十月作出了对他们有利的裁决。"
+  },
+  {
+    "index": 495,
+    "source": "Mr. Graff said in a court hearing last week that Yinlips ignored the ruling and that at one point the company 'forcibly removed' the investors' representatives from its offices when they informed it of the litigation.",
+    "reference": "格拉夫在上周一次庭审中说，英利普科技无视法院裁决，并且曾在这些投资者的代表前来通知诉讼信息时将他们“强行赶出”其办公室。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "格拉夫先生在上周的法庭听证会上表示，音丽普公司无视裁决，并且一度在投资者代表告知其诉讼事宜时，将他们‘强行赶出’了办公室。"
+  },
+  {
+    "index": 496,
+    "source": "The judge found Yinlips in contempt, calling its conduct egregious and saying it had 'acted in bad faith.'",
+    "reference": "法官帕森斯判定英利普科技藐视法庭，称其行为极端恶劣，并且不守信用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "法官判定Yinlips藐视法庭，称其行为恶劣，并表示其'行事不诚信'。"
+  },
+  {
+    "index": 497,
+    "source": "He awarded the investors a put option to force Yinlips to buy back their shares at fair-market value, which will be determined at a court hearing to be held in late February or early March.",
+    "reference": "他授予投资者一项出售选择权，强制英利普科技按公平市值购回这些投资者手中的股票，将于2月末或3月初举行的一次庭审将确定这一公平市值。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他授予投资者一项看跌期权，以强制银利普公司以公平市价回购其股份，该价格将在二月底或三月初举行的法庭听证会上确定。"
+  },
+  {
+    "index": 498,
+    "source": "Mr. Parsons also appointed a receiver to help satisfy the judgment, with the authority 'to seize, deal in or dispose of any property of the company' in the U.S., China or elsewhere, according to the ruling.",
+    "reference": "据裁决文件显示，帕森斯还聘请一位接管人协助执行这一裁决，给予其接管、买卖或者处置该公司在美国、中国或者其他地区任何资产的权利。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "根据裁决，帕森斯先生还任命了一名接管人，以协助执行判决，并授权其在美国、中国或其他地方'扣押、处置或处理公司的任何财产'。"
+  },
+  {
+    "index": 499,
+    "source": "In his ruling, Mr. Parsons cited the earlier case, in which a different judge ruled last March that investor Peter Deutsch was entitled to force network-equipment maker ZST Digital Networks Inc. to buy back his ZST shares for above-market prices totaling more than $32 million and to have the receiver seize and sell ZST assets to satisfy the judgment.",
+    "reference": "帕森斯在裁决书中引用了此前一起案例，去年3月份另一位法官给予投资者多伊奇强制网络设备制造商神阳科技有限公司以高于市价的价格（总额超过3,200万美元）购回他所持股票的权利，并聘请了一位接管人通过接管和出售神阳科技资产来执行这一裁决。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在他的裁决中，帕森斯先生引用了早先的案例，该案中另一位法官于去年三月裁定，投资者彼得·多伊奇有权迫使网络设备制造商ZST数字网络公司以高于市场的价格回购其持有的ZST股份，总金额超过3200万美元，并指定接管人扣押并出售ZST资产以执行判决。"
+  },
+  {
+    "index": 500,
+    "source": "ZST didn't respond to a request for comment.",
+    "reference": "神阳科技未回复记者寻求置评的请求。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "ZST未回应置评请求。"
+  },
+  {
+    "index": 501,
+    "source": "It can be challenging to go after a Chinese company's assets held outside the U.S., but the receiver has said he has seized ZST bank accounts and control over some of its subsidiaries, and in August ZST indicated it was open to discussing a settlement of Mr. Deutsch's claims.",
+    "reference": "接管中资公司在美国以外地区的资产颇具挑战，但这位接管人已表示，他已经冻结了神阳科技的银行账户并且控制了其部分子公司。去年8月份，神阳科技表示，愿意就多伊奇的指控通过协商达成和解。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "追讨一家中国公司在美国境外持有的资产可能颇具挑战性，但接管人表示已查封中植系银行账户并控制其部分子公司，且中植系在8月表示愿意就德意志先生的索赔进行和解讨论。"
+  },
+  {
+    "index": 502,
+    "source": "Mr. Graff declined to comment on the status of any ZST settlement discussions.",
+    "reference": "格拉夫拒绝就神阳科技的和解协商情况置评。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "格拉夫先生拒绝对ZST和解谈判的现状发表评论。"
+  }
+]

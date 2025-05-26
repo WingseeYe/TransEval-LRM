@@ -1,0 +1,1762 @@
+[
+  {
+    "index": 0,
+    "source": "This case report describes 3 kittens with suspected doramectin toxicity.",
+    "reference": "Dieser Fallbericht beschreibt drei Katzenwelpen mit Verdacht auf Doramectin-Intoxikation.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dieser Fallbericht beschreibt 3 Kätzchen mit Verdacht auf Doramectin-Toxizität."
+  },
+  {
+    "index": 1,
+    "source": "In a litter of 7 kittens treated with doramectin, 3 developed neurological symptoms. One kitten showed mild apathy and tremors, while a second one additionally presented behavioral changes and seizures that had to be treated with diazepam.",
+    "reference": "Ein Wurf von insgesamt 7 Katzenwelpen wurde mit Doramectin behandelt, woraufhin drei Welpen neurologische Symptome entwickeltena Ein Welpe zeigte leichte Apathie und Zittern, ein weiterer zusätzlich Verhaltensänderungen und epileptiforme Anfälle, die mit Diazepam behandelt werden mussten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "In einem Wurf von 7 Katzenwelpen, die mit Doramectin behandelt wurden, entwickelten 3 neurologische Symptome. Ein Kätzchen zeigte leichte Apathie und Zittern, während ein zweites zusätzlich Verhaltensänderungen und Krampfanfälle aufwies, die mit Diazepam behandelt werden mussten."
+  },
+  {
+    "index": 2,
+    "source": "Both kittens recovered completely.",
+    "reference": "Beide Welpen erholten sich vollständig.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Beide Kätzchen haben sich vollständig erholt."
+  },
+  {
+    "index": 3,
+    "source": "A third kitten was presented to us in coma 3 days following treatment with doramectin. Subsequently, this kitten developed behavioral changes such as aggression, hyperesthesia, tremors, and seizures and died 36 hours after presentation.",
+    "reference": "Ein dritter Welpe wurde 3 Tage nach Doramectin-Gabe stuporös vorgestellt und zeigte im weiteren Verlauf Verhaltensänderungen wie Aggressivität, Hyperästhesie, Tremor und epileptiforme Anfälle. Er verstarb 36 Stunden nach Vorstellung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Ein drittes Kätzchen wurde uns drei Tage nach einer Behandlung mit Doramectin im Koma vorgestellt. Anschließend entwickelte dieses Kätzchen Verhaltensänderungen wie Aggression, Hyperästhesie, Zittern und Krampfanfälle und starb 36 Stunden nach seiner Vorstellung."
+  },
+  {
+    "index": 4,
+    "source": "Histopathologic examination of the brain showed cytotoxic edema and polioencephalomalacia.",
+    "reference": "Bei der histopathologischen Untersuchung des Gehirns konnten ein zytotoxisches Ödem und Polioenzephalomalazie festgestellt werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bei der histopathologischen Untersuchung des Gehirns wurden ein zytotoxisches Ödem und eine Polioenzephalomalazie festgestellt."
+  },
+  {
+    "index": 5,
+    "source": "The doramectin dosage of the deceased kitten was 380 μg/kg.",
+    "reference": "Die Doramectin-Dosis beim verstorbenen Welpen betrug 380 μg/kg.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Doramectin-Dosierung des verstorbenen Kätzchens betrug 380 μg/kg."
+  },
+  {
+    "index": 6,
+    "source": "We report the case of a previously healthy young man who presented to the hospital with hemoptysis and dyspnea.",
+    "reference": "Wir berichteten über den Fall eines zuvor gesunden jungen Mannes, der sich aufgrund von Hämoptysen und Dyspnoe im Spital vorgestellt hat.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Wir berichten über den Fall eines zuvor gesunden jungen Mannes, der mit Hämoptysen und Dyspnoe im Krankenhaus vorstellig wurde."
+  },
+  {
+    "index": 7,
+    "source": "Hemoptysis is a frequently encountered symptom in daily routine and investigations can easily be deferred to a longer time frame.",
+    "reference": "In der täglichen Praxis sind Ärzte häufig mit Hämoptysen konfroniert, so dass sich Abklärungen leicht über einen längeren Zeitraum hinziehen können.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Hämoptyse ist ein häufig beobachtetes Symptom im klinischen Alltag, und die erforderlichen Untersuchungen können leicht auf einen späteren Zeitpunkt verschoben werden."
+  },
+  {
+    "index": 8,
+    "source": "Our case illustrates the importance of a prompt investigation and treatment of underlying causes. Furthermore one should not hesitate to include rare, yet life threatening conditions in differential diagnosis.",
+    "reference": "Unser Fall illustriert die Wichtigkeit, grundlegende Ursachen rasch abzuklären, eine Behandlung ohne Verzögerung einzuleiten und auch seltene Erkrankungen in die Differenzialdiagnose miteinzubeziehen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Unser Fall verdeutlicht die Bedeutung einer raschen Abklärung und Behandlung der zugrunde liegenden Ursachen. Darüber hinaus sollte man nicht zögern, seltene, aber lebensbedrohliche Erkrankungen in die Differentialdiagnose einzubeziehen."
+  },
+  {
+    "index": 9,
+    "source": "Large epidemiological databases are often used to examine matters pertaining to drug utilization, health services, and drug safety.",
+    "reference": "Große epidemiologische Datenbanken werden oft eingesetzt, um Fragen der Nutzung von Medikamenten, der Versorgungsforschung und der Arzneimittelsicherheit zu untersuchen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Große epidemiologische Datenbanken werden oft genutzt, um Fragen zur Arzneimittelnutzung, zu Gesundheitsdienstleistungen und zur Arzneimittelsicherheit zu untersuchen."
+  },
+  {
+    "index": 10,
+    "source": "In general, the results of the LRx studies were found to be clearly in line with previously published reports.",
+    "reference": "In manchen Fällen gab es jedoch deutliche Abweichungen zwischen den LRx- und den Literaturergebnissen (z.B. Prävalenz der Epilepsie, Persistenz bei Osteoporosebehandlung).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Im Allgemeinen fanden sich die Ergebnisse der LRx-Studien klar im Einklang mit zuvor veröffentlichten Berichten."
+  },
+  {
+    "index": 11,
+    "source": "Numerous research centres apply magnetic resonance imaging (MRI) for research purposes in children.",
+    "reference": "Zahlreiche Forschungszentren setzen die Magnetresonanztomographie (MRT) zu Studienzwecken an Minderjährigen ein.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Zahlreiche Forschungszentren wenden Magnetresonanztomographie (MRT) zu Forschungszwecken bei Kindern an."
+  },
+  {
+    "index": 12,
+    "source": "In view of this practical research, ethical concerns regarding the strains the study participants are exposed to during the MRI examination are discussed.",
+    "reference": "Angesichts dieser Forschungspraxis werden jedoch ethische Bedenken bezüglich der Belastung, der die Studienteilnehmer während der MRT-Untersuchung ausgesetzt sind, diskutiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Angesichts dieser praxisorientierten Forschung werden ethische Bedenken hinsichtlich der Belastungen diskutiert, denen die Studienteilnehmer während der MRT-Untersuchung ausgesetzt sind."
+  },
+  {
+    "index": 13,
+    "source": "The study evaluates whether an MRI examination induces negative emotions in children and adolescents which are more intense than the ones caused by electroencephalography (EEG), an examination method currently classified as causing \"minimal stress.\"",
+    "reference": "Ziel der Studie ist daher zu evaluieren, ob eine MRT-Untersuchung negative Emotionen bei Kindern und Jugendlichen induziert, die stärker sind als die gegenwärtig als «minimale Belastung» eingestufte Untersuchungsmethode der Elektroenzephalographie (EEG).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Studie evaluiert, ob eine MRT-Untersuchung bei Kindern und Jugendlichen negative Emotionen hervorruft, die stärker sind als jene, die durch die Elektroenzephalografie (EEG) verursacht werden, eine Untersuchungsmethode, die derzeit als \"minimaler Stress\" eingestuft wird."
+  },
+  {
+    "index": 14,
+    "source": "Furthermore, the emotional stress induced by the MRI examination in children and adolescents is compared with that induced in adults.",
+    "reference": "Weiterhin wird die durch eine MRT-Untersuchung von Kindern und Jugendlichen induzierte emotionale Belastung mit der einer MRT-Untersuchung von Erwachsenen verglichen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Darüber hinaus wird die durch die MRT-Untersuchung bei Kindern und Jugendlichen hervorgerufene emotionale Belastung mit der bei Erwachsenen verglichen."
+  },
+  {
+    "index": 15,
+    "source": "At present, the study is in the stage of data collection.",
+    "reference": "Die Studie befindet sich zurzeit in der Phase der Datenerhebung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Derzeit befindet sich die Studie in der Phase der Datenerhebung."
+  },
+  {
+    "index": 16,
+    "source": "This article presents the study design of the MRI research project.",
+    "reference": "Die Intention des folgenden Beitrags besteht darin, das Studiendesign des MRT-Forschungsprojekts vorzustellen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dieser Artikel stellt das Studiendesign des MRT-Forschungsprojekts vor."
+  },
+  {
+    "index": 17,
+    "source": "Atrial fibrillation is the most common cardiac arrhythmia occurring in 2 % of the population.",
+    "reference": "Vorhofflimmern ist die häufigste Rhythmusstörung überhaupt und betrifft rund 2 % der Bevölkerung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Vorhofflimmern ist die häufigste Herzrhythmusstörung und tritt bei 2 % der Bevölkerung auf."
+  },
+  {
+    "index": 18,
+    "source": "Aside from initiating oral anticoagulation in patients with an increased risk for thromboembolic complications, rhythm control often is the therapeutic target, particularly in the young and highly symptomatic.",
+    "reference": "Neben der oralen Antikoagulation von Patienten mit einem erhöhten Risiko für thromboembolische Ereignisse besteht die Therapie häufig aus dem Versuch der Rhythmuskontrolle, vor allem bei jüngeren und hochsymptomatischen Patienten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Abgesehen von der Einleitung einer oralen Antikoagulation bei Patienten mit erhöhtem Risiko für thromboembolische Komplikationen ist die Rhythmuskontrolle häufig das therapeutische Ziel, insbesondere bei jungen und stark symptomatischen Patienten."
+  },
+  {
+    "index": 19,
+    "source": "The ablation of patients with paroxysmal atrial fibrillation has emerged as an alternative to long-term treatment with antiarrhythmic drugs.",
+    "reference": "Als Alternative zur medikamentösen Therapie mit Antiarrhythmika hat sich bei Patienten mit symptomatischem paroxysmalem Vorhofflimmern die Ablationsbehandlung etabliert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Ablation von Patienten mit paroxysmalem Vorhofflimmern hat sich als Alternative zur langfristigen Behandlung mit Antiarrhythmika etabliert."
+  },
+  {
+    "index": 20,
+    "source": "In the case of long-standing persistent atrial fibrillation, there is no agreement about the ablation strategy and the success rates are significantly lower.",
+    "reference": "Bei lange persistierendem Vorhofflimmern besteht keine Einigkeit über die Ablationstechniken und die Erfolgsaussichten sind deutlich geringer.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bei lang andauerndem persistierendem Vorhofflimmern besteht keine Einigkeit über die Ablationsstrategie, und die Erfolgsraten sind deutlich niedriger."
+  },
+  {
+    "index": 21,
+    "source": "This review addresses the underlying pathophysiology, the ablation techniques, success rates and complications as well as alternative invasive treatment options.",
+    "reference": "Die vorliegende Arbeit gibt eine Übersicht über die pathophysiologischen Grundlagen, die Ablationstechniken, die Erfolgsaussichten und Risiken sowie alternative Behandlungsoptionen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Diese Übersicht behandelt die zugrunde liegende Pathophysiologie, die Ablationstechniken, Erfolgsraten und Komplikationen sowie alternative invasive Behandlungsoptionen."
+  },
+  {
+    "index": 22,
+    "source": "Posterior shoulder instability is a rare clinical condition that encompasses different degrees of severity including various possible pathologies involving the labrum, capsule, bony lesions, and even locked posterior dislocation.",
+    "reference": "Die posteriore Schulterinstabilität ist eine seltene klinische Manifestation, die unterschiedliche Schweregrade einschließlich verschiedener möglicher pathologischer Veränderungen an Labrum oder Kapsel, knöcherne Läsionen und selbst die verhakte posteriore Schulterluxation umfasst.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Hintere Schulterinstabilität ist ein seltenes Krankheitsbild, das unterschiedliche Schweregrade aufweist und diverse mögliche Pathologien einschließt, die das Labrum, die Kapsel, knöcherne Läsionen und sogar eine fixierte hintere Luxation betreffen können."
+  },
+  {
+    "index": 23,
+    "source": "When focusing on soft tissue involvement, the diagnosis of posterior instability may be difficult to make because frequently patients report vague symptoms not associated with a clear history of traumatic shoulder dislocation.",
+    "reference": "Konzentriert man sich auf die Beteiligung der Weichteile, kann die Diagnose der hinteren Instabilität schwierig zu stellen sein, da die Patienten häufig vage Symptome angeben, die nicht mit der klaren Anamnese einer traumatischen Schulterluxation einhergehen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Wenn man sich auf die Beteiligung des Weichgewebes konzentriert, kann es schwierig sein, eine hintere Instabilität zu diagnostizieren, weil Patienten häufig vage Symptome angeben, die nicht mit einer eindeutigen Vorgeschichte einer traumatischen Schulterluxation einhergehen."
+  },
+  {
+    "index": 24,
+    "source": "Pathological soft tissue conditions associated with posterior instability in most cases are related to posterior labral tear and/or posterior capsular detensioning/tear.",
+    "reference": "Pathologische Veränderungen der Weichteile mit posteriorer Instabilität gehen zumeist mit einem hinteren Labrumriss und/oder einer Entspannung/einem Riss im Bereich der hinteren Kapsel einher.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Pathologische Weichgewebsveränderungen, die mit einer hinteren Instabilität verbunden sind, sind in den meisten Fällen auf einen hinteren Labrumriss und/oder eine Detensionierung bzw. einen Riss der hinteren Kapsel zurückzuführen."
+  },
+  {
+    "index": 25,
+    "source": "The diagnosis can be facilitated by physical examination using specific clinical tests (i. e., jerk test, Kim test, and reinterpreted O'Brien test) together with appropriate imaging studies (i. e., magnetic resonance arthrography).",
+    "reference": "Die Diagnose kann durch die körperliche Untersuchung mit spezifischen klinischen Tests (d. h. Jerk-Test, Kim-Test und neu interpretierter O’Brien-Test) zusammen mit entsprechender Bildgebung (d. h. Magnetresonanzarthrographie) vereinfacht werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Diagnose kann durch eine körperliche Untersuchung mithilfe spezifischer klinischer Tests (z. B. Jerk-Test, Kim-Test und neu interpretierter O’Brien-Test) zusammen mit geeigneten bildgebenden Verfahren (z. B. Magnetresonanzarthrographie) erleichtert werden."
+  },
+  {
+    "index": 26,
+    "source": "Arthroscopy may help in a complete evaluation of the joint and allows for the treatment of soft tissue lesions in posterior instability.",
+    "reference": "Die Arthroskopie kann zur vollständigen Beurteilung des Gelenks beitragen und ermöglicht die Behandlung von Weichgewebsläsionen bei posteriorer Instabilität.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine Arthroskopie kann bei der vollständigen Beurteilung des Gelenks helfen und ermöglicht die Behandlung von Weichteilverletzungen bei hinterer Instabilität."
+  },
+  {
+    "index": 27,
+    "source": "Caution is warranted in the case of concomitant posterior glenoid chondral defect as a potential cause of poor outcome after soft tissue repair in posterior instability.",
+    "reference": "Vorsicht ist im Fall eines begleitenden hinteren glenoidalen Knorpeldefekts als mögliche Ursache eines ungünstigen Ergebnisses nach Weichteilrekonstruktion bei posteriorer Instabilität angebracht.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Vorsicht ist geboten bei gleichzeitigem posterioren Glenoid-Knorpelschaden, da dieser eine potenzielle Ursache für ein schlechtes Ergebnis nach Weichteilreparaturen bei posteriorer Instabilität darstellen kann."
+  },
+  {
+    "index": 28,
+    "source": "Although the setting up of centres and the subsequent need for certification are associated with a marked increase in costs, initial data show positive effects on quality.",
+    "reference": "Auch wenn die Zentrumsbildung mit nachfolgender Zertifizierung mit deutlichen Mehrkosten verbunden ist, zeigen erste Daten auf, dass sich diese positiv auf die Ergebnisqualität auswirken.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Obwohl die Einrichtung von Zentren und der daraus resultierende Zertifizierungsbedarf mit einem deutlichen Kostenanstieg verbunden sind, zeigen erste Daten positive Auswirkungen auf die Qualität."
+  },
+  {
+    "index": 29,
+    "source": "Certified centres are cost-effective from the point of view of health economics - they lead to improved quality in processes and results without creating any increase in costs for the funding bodies.",
+    "reference": "In Bezug auf die Gesundheitsökonomie sind zertifizierte Zentren aus der Sicht des Gesundheitswesens kosteneffektiv – es wird eine Verbesserung der Prozess- und Ergebnisqualität erreicht, ohne dass die Kostenträger Mehrkosten haben.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Zertifizierte Zentren sind aus gesundheitsökonomischer Sicht kosteneffektiv – sie führen zu einer verbesserten Qualität in Prozessen und Ergebnissen, ohne die Kosten für die Kostenträger zu erhöhen."
+  },
+  {
+    "index": 30,
+    "source": "Increasing consolidation of inpatient services is also involved, while shortening of the patients' hospitalization periods is leading to reduced remuneration from the funding bodies.",
+    "reference": "Des Weiteren erfolgt eine zunehmende Konzentration der stationären Leistungen. Dem gegenüber werden durch Kürzungen der Verweildauer der Patientinnen durch die Kostenträger Abzüge der Honorierung erzwungen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine zunehmende Konsolidierung stationärer Leistungen findet ebenfalls statt, während die Verkürzung der Krankenhausaufenthaltsdauer der Patienten zu einer verringerten Vergütung durch die Kostenträger führt."
+  },
+  {
+    "index": 31,
+    "source": "It will only be possible to maintain the high quality achieved if additional charges become available to cover the centres' added costs.",
+    "reference": "Auf lange Sicht wird die hohe Qualität jedoch nur aufrechterhalten werden können, wenn Zuschläge den Mehraufwand der Zentren abdecken.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Es wird nur möglich sein, die erreichte hohe Qualität aufrechtzuerhalten, wenn zusätzliche Gebühren zur Verfügung stehen, um die Mehrkosten der Zentren zu decken."
+  },
+  {
+    "index": 32,
+    "source": "Good data are increasingly becoming available as a basis for negotiations on charges - e.g., with regard to the quality of results and the National Cancer Plan - as well as clear support from patients.",
+    "reference": "Für die Verhandlungen dieser Zuschläge besteht mittlerweile eine zunehmend gute Datenlage, z.B. in Hinblick auf die Ergebnisqualität und den Nationalen Krebsplan, als auch eine deutliche Unterstützung durch die Patientinnen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Gute Daten sind zunehmend als Grundlage für Verhandlungen über Gebühren verfügbar – etwa in Bezug auf die Ergebnisqualität und den Nationalen Krebsplan – und es gibt zudem eine deutliche Unterstützung von Seiten der Patienten."
+  },
+  {
+    "index": 33,
+    "source": "The statement of the Federal Association of Physicians of Public Health Services provides recommendations concerning tuberculosis screening of refugees and asylum seekers on arrival specific to different groups of persons (adults, children, pregnant women, unaccompanied minors), taking into account the legal background and the current recommendations of the Robert Koch Institute as well as of the German Society for Pediatric Infectiology.",
+    "reference": "Die vorliegende Stellungnahme des Bundesverbandes der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes e. V. gibt unter Berücksichtigung der gesetzlichen Grundlagen und der aktuellen Empfehlungen des Robert Koch-Instituts sowie der Deutschen Gesellschaft für pädiatrische Infektiologie konkrete Empfehlungen, wie das Tuberkulose-Screening bei Geflüchteten und Asylbewerbern im Rahmen der Einreise zielführend, fachlich adäquat und ressourcenorientiert durchgeführt werden kann, differenziert nach verschiedenen Personengruppen (Erwachsene, Kinder, Schwangere, unbegleitete minderjährige Ausländer).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Stellungnahme des Bundesverbands der Ärztinnen und Ärzte des Öffentlichen Gesundheitsdienstes gibt Empfehlungen zum Tuberkulose-Screening für Flüchtlinge und Asylsuchende bei der Ankunft, die auf verschiedene Personengruppen (Erwachsene, Kinder, Schwangere, unbegleitete Minderjährige) zugeschnitten sind. Dabei werden sowohl die rechtlichen Grundlagen als auch die aktuellen Empfehlungen des Robert Koch-Instituts und der Deutschen Gesellschaft für Pädiatrische Infektiologie berücksichtigt."
+  },
+  {
+    "index": 34,
+    "source": "In addition, recommendations are given to ensure treatment success in refugees and asylum seekers with tuberculosis, to carry out contact investigations and for preventive treatment of latent tuberculosis infection among refugees and asylum seekers.",
+    "reference": "Außerdem werden Empfehlungen zur Sicherung des Behandlungserfolgs bei Geflüchteten und Asylbewerbern mit Tuberkulose, zur Durchführung von Umgebungsuntersuchungen und zur präventiven Behandlung einer latenten tuberkulösen Infektion bei Geflüchteten und Asylbewerbern formuliert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Darüber hinaus werden Empfehlungen gegeben, um den Behandlungserfolg bei Flüchtlingen und Asylsuchenden mit Tuberkulose sicherzustellen, Kontaktuntersuchungen durchzuführen und eine präventive Behandlung der latenten Tuberkuloseinfektion bei Flüchtlingen und Asylsuchenden zu ermöglichen."
+  },
+  {
+    "index": 35,
+    "source": "Back pain ist frequently found in patients with somatoform disorders, particularly in somatisation and somatoform pain disorders.",
+    "reference": "Rückenschmerzen können als Symptom bei verschiedenen somatoformen Störungen vorkommen, besonders typisch aber bei der spezifischen somatoformen Schmerzstörung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Rückenschmerzen treten bei Patienten mit somatoformen Störungen häufig auf, insbesondere bei Somatisierungs- und somatoformen Schmerzstörungen."
+  },
+  {
+    "index": 36,
+    "source": "About 10 % to 20 % of patients suffering from back pain can be diagnosed with somatoform pain disorders. Additionally, up to 50 % of back pain patients suffer from other psychiatric disorders like major depression or anxiety disorders.",
+    "reference": "Eine somatoforme Schmerzstörung lässt sich bei ca. 10 % bis 20 % der Patienten mit Rückenschmerzen diagnostizieren, zusätzlich finden sich mit einer Häufigkeit von bis 50 % noch andere psychiatrische Störungen wie Depression und Angststörungen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Ungefähr 10 % bis 20 % der Patienten mit Rückenschmerzen können mit somatoformen Schmerzstörungen diagnostiziert werden. Zusätzlich leiden bis zu 50 % dieser Patienten an anderen psychischen Erkrankungen wie Major Depression oder Angststörungen."
+  },
+  {
+    "index": 37,
+    "source": "Treatment usually consists of psychological/behavioral interventions in combination with relaxation techniques, physical activation and antidepressants.",
+    "reference": "Psychotherapie (psychologische Schmerztherapie) in Kombination mit Entspannungsverfahren sowie allenfalls eine Kombination mit Psychopharmakotherapie sind die Behandlungsmethode der Wahl.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Behandlung besteht in der Regel aus psychologischen/verhaltensbezogenen Interventionen in Kombination mit Entspannungstechniken, körperlicher Aktivierung und Antidepressiva."
+  },
+  {
+    "index": 38,
+    "source": "Infection is a serious complication after implantation of total knee-prostheses.",
+    "reference": "Eine Infektion nach totaler Kniegelenkendoprothesenimplantation ist eine schwerwiegende Komplikation.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine Infektion ist eine ernsthafte Komplikation nach der Implantation von totalen Knieendoprothesen."
+  },
+  {
+    "index": 39,
+    "source": "Recognised methods of treatment include immobilisation and systemic antibiotics.",
+    "reference": "Anerkannte Behandlungsmethoden der Spondylodiszitis sind Ruhigstellung und systemische Antibiose.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Anerkannte Behandlungsmethoden umfassen Ruhigstellung und systemische Antibiotika."
+  },
+  {
+    "index": 40,
+    "source": "With a steadily increasing number of treatments, the mean age of the patients increased to 67.3 years.",
+    "reference": "Bei einer stetig steigenden Fallzahl, zeigt sich auch ein zunehmendes Alter der Patienten bei Diagnosestellung mit einem Durchschnitt von 67,3 Jahren.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Mit einer stetig steigenden Anzahl an Behandlungen stieg das mittlere Alter der Patienten auf 67,3 Jahre."
+  },
+  {
+    "index": 41,
+    "source": "In 34.3% of these patients, spondylodiscitis developed spontaneously and 68.6% of patients did not receive treatment until the diagnosis.",
+    "reference": "Bei 34,3% dieser Patienten entwickelte sich die Spondylodiszitis spontan, und 68,6% der Patienten haben bis zu unserer Diagnosestellung keine Vorbehandlung erhalten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bei 34,3 % dieser Patienten entwickelte sich die Spondylodiszitis spontan, und 68,6 % der Patienten erhielten bis zur Diagnosestellung keine Behandlung."
+  },
+  {
+    "index": 42,
+    "source": "In the context of the specific treatment, pain intensity decreased from 6.0 to 3.1 NRS (numeric rating scale).",
+    "reference": "Im Rahmen der spezifischen Behandlung sank die Schmerzintensität von 6,0 auf 3,1 NRS (Numeric Rating Scale).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Im Rahmen der spezifischen Behandlung verringerte sich die Schmerzintensität von 6,0 auf 3,1 NRS (numeric rating scale)."
+  },
+  {
+    "index": 43,
+    "source": "The inflammatory values (CRP) decreased from 119.2 to 46.7 mg/dl.",
+    "reference": "Die Entzündungswerte fielen ebenfalls (CRP von 119,2 auf 46,7 mg/dl).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Entzündungswerte (CRP) sanken von 119,2 auf 46,7 mg/dl."
+  },
+  {
+    "index": 44,
+    "source": "The time from the onset of symptoms to the surgical treatment was almost 65.6 days and has not changed significantly.",
+    "reference": "Im Betrachtungszeitraum betrug die Zeit vom Symptombeginn bis zur operativen Versorgung 65,6 Tage und hat sich nicht wesentlich reduziert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Zeit vom Auftreten der Symptome bis zur chirurgischen Behandlung betrug fast 65,6 Tage und hat sich nicht wesentlich verändert."
+  },
+  {
+    "index": 45,
+    "source": "Nevertheless, the time from admission to surgical treatment could be reduced to less than 3 days.",
+    "reference": "Dennoch konnte die Zeit von der Aufnahme bis zur operativen Versorgung auf unter 3 Tage reduziert werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dennoch konnte die Zeit von der Aufnahme bis zur chirurgischen Behandlung auf weniger als drei Tage reduziert werden."
+  },
+  {
+    "index": 46,
+    "source": "Treatment with monoclonal antibodies (mabs) has become an established component of oncological therapy.",
+    "reference": "Die Behandlung mit monoklonalen Antikörpern (mAK) ist ein fester Bestandteil der onkologischen Therapie geworden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Behandlung mit monoklonalen Antikörpern (mabs) ist zu einem etablierten Bestandteil der onkologischen Therapie geworden."
+  },
+  {
+    "index": 47,
+    "source": "The monoclonal antibodies available for this purpose are mainly administered intravenously in individually adapted doses according to body weight over longer treatment times.",
+    "reference": "Die dafür zur Verfügung stehenden monoklonalen Antikörper werden überwiegend intravenös, individualisiert gewichtsadaptiert und über längere Behandlungszeiträume verabreicht.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die für diesen Zweck verfügbaren monoklonalen Antikörper werden überwiegend intravenös in individuell an das Körpergewicht angepassten Dosen über längere Behandlungszeiten verabreicht."
+  },
+  {
+    "index": 48,
+    "source": "For other chronic diseases such as, for example, diabetes mellitus, the subcutaneous administration of drugs is an established therapy option.",
+    "reference": "Bei anderen chronischen Erkrankungen wie beispielsweise Diabetes mellitus stellt die subkutane Applikation von Medikamenten, eine etablierte Therapieform dar.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Für andere chronische Erkrankungen, wie beispielsweise Diabetes mellitus, ist die subkutane Verabreichung von Medikamenten eine etablierte Therapieoption."
+  },
+  {
+    "index": 49,
+    "source": "For the subcutaneous administration of larger volumes as needed for mab solutions the extracellular matrix of the subcutaneous tissue represents a problem.",
+    "reference": "Für die subkutane Applikation größerer Volumina stellt die Physiologie der extrazellulären Matrix des subkutanen Gewebes ein Hindernis dar, wie sie für die Lösung mAK erforderlich ist.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bei der subkutanen Verabreichung größerer Volumina, wie sie für mAb-Lösungen erforderlich sind, stellt die extrazelluläre Matrix des subkutanen Gewebes ein Problem dar."
+  },
+  {
+    "index": 50,
+    "source": "The co-formulation with recombinant human hyaluronidase makes the relatively pain-free administration of larger fluid volumes and thus the subcutaneous administration of monoclonal antibodies possible, as illustrated by the development of a subcutaneous formulation of trastuzumab.",
+    "reference": "Die Koformulierung mit rekombinanter humaner Hyaluronidase ermöglicht die schmerzarme Gabe größerer Volumina und damit die subkutane Applikation von monoklonalen Antikörpern, wie die Entwicklung einer subkutanen Formulierung für Trastuzumab zeigt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Koformulierung mit rekombinanter humaner Hyaluronidase ermöglicht die relativ schmerzfreie Verabreichung größerer Flüssigkeitsvolumina und damit die subkutane Gabe von monoklonalen Antikörpern, wie durch die Entwicklung einer subkutanen Formulierung von Trastuzumab veranschaulicht wird."
+  },
+  {
+    "index": 51,
+    "source": "This constitutes a less invasive, time-optimised and flexible form of administration for patients with HER2-positive breast cancer that, with its fixed dosing possibilities, contributes to therapeutic safety.",
+    "reference": "Mit dieser steht Patientinnen mit HER2-positivem Mammakarzinom eine weniger invasive, zeitoptimierte und flexiblere Applikationsform zur Verfügung, die mit einer fixen Dosierungsmöglichkeit zur Therapiesicherheit beiträgt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dies stellt eine weniger invasive, zeitoptimierte und flexible Verabreichungsform für Patientinnen und Patienten mit HER2-positivem Brustkrebs dar, die durch ihre festen Dosierungsmöglichkeiten zur therapeutischen Sicherheit beiträgt."
+  },
+  {
+    "index": 52,
+    "source": "The example of trastuzumab shows that the subcutaneous administration of monoclonal antibodies can simplify oncological long-term therapy not only for the patients but also for the medical personnel.",
+    "reference": "Das Beispiel Trastuzumab zeigt, dass die subkutane Verabreichung monoklonaler Antikörper die onkologische Langzeittherapie sowohl für Patienten als auch für medizinisches Fachpersonal vereinfachen könnte.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Das Beispiel Trastuzumabs zeigt, dass die subkutane Verabreichung monoklonaler Antikörper die onkologische Langzeittherapie nicht nur für die Patienten, sondern auch für das medizinische Personal vereinfachen kann."
+  },
+  {
+    "index": 53,
+    "source": "Uterine artery embolisation (UAE) is an established procedure to treat uterine fibroids as an alternative to surgery.",
+    "reference": "Die Uterusarterienembolisation (UAE) ist weltweit ein etabliertes Verfahren bei der Myombehandlung als Alternative zur Operation.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Embolisation der Gebärmutterarterie (UAE) ist ein etabliertes Verfahren zur Behandlung von Uterusmyomen als Alternative zu einer Operation."
+  },
+  {
+    "index": 54,
+    "source": "The combination of both approaches is reserved for only a few cases.",
+    "reference": "Die Kombination beider Vorgehensweisen ist wenigen Fällen vorbehalten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Kombination beider Ansätze ist nur wenigen Fällen vorbehalten."
+  },
+  {
+    "index": 55,
+    "source": "A preoperative UAE (PUAE) contributes to reducing bleeding complications and helps preserve the uterus.",
+    "reference": "Mit einer präoperativen UAE (PUAE) lassen sich Blutungskomplikationen vermindern und ein Uteruserhalt eher gewährleisten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine präoperative Uterusarterienembolisation (PUAE) trägt dazu bei, Blutungskomplikationen zu reduzieren und hilft, die Gebärmutter zu erhalten."
+  },
+  {
+    "index": 56,
+    "source": "The number of new HIV-1 infections remains stable in Switzerland over the last years thanks to the effective prevention programs.",
+    "reference": "In der Schweiz ist die Zahl der HIV-Neuinfektionen ist in den letzten Jahren dank der guten Präventionsarbeit stabil geblieben.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Zahl neuer HIV-1-Infektionen bleibt in der Schweiz in den letzten Jahren dank der wirksamen Präventionsprogramme stabil."
+  },
+  {
+    "index": 57,
+    "source": "However, the aim to halve the new HIV infection rate has not been reached.",
+    "reference": "Das Ziel die HIV-Neuinfektionsrate zu senken wurde jedoch nicht erreicht.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Allerdings wurde das Ziel, die Rate neuer HIV-Infektionen zu halbieren, nicht erreicht."
+  },
+  {
+    "index": 58,
+    "source": "Early identification of patients at risk of acquiring HIV infection and counselling \"safer sex\" rules as well as treating HIV-infected patients plays a decisive role in this program.",
+    "reference": "Entscheidende Präventionselemente sind die Sexualanamnese, die Diskussion über „Safer Sex“, das frühzeitige Erkennen und Testen gefährdeter Patienten und deren Sexualpartner sowie die Beratung und Behandlung infizierter Patienten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die frühzeitige Identifizierung von Patienten, die dem Risiko einer HIV-Infektion ausgesetzt sind, sowie die Beratung zu „Safer-Sex“-Regeln und die Behandlung von HIV-infizierten Patienten spielen eine entscheidende Rolle in diesem Programm."
+  },
+  {
+    "index": 59,
+    "source": "Transmission occurs more often orally or rectally than vaginally and patients are often asymptomatic.",
+    "reference": "Die Übertragung erfolgt häufiger oral oder rektal als vaginal, die Patienten sind oft asymptomatisch.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Übertragung erfolgt häufiger oral oder rektal als vaginal, und die Patienten sind oft asymptomatisch."
+  },
+  {
+    "index": 60,
+    "source": "Condoms provide only limited protection.",
+    "reference": "Kondome schützen nur eingeschränkt vor einer Ansteckung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Kondome bieten nur einen begrenzten Schutz."
+  },
+  {
+    "index": 61,
+    "source": "Testing and treatment of infected patients is primordial as well as contact tracing.",
+    "reference": "Im Vordergrund steht daher die frühzeitige Testung und Behandlung infizierter Patienten und ihrer Sexualpartner.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Testung und Behandlung infizierter Patienten ist von wesentlicher Bedeutung, ebenso wie die Kontaktnachverfolgung."
+  },
+  {
+    "index": 62,
+    "source": "This commentary seeks to enable comparisons about clinical skills teaching in Germany and the UK.",
+    "reference": "Dieser Kommentar soll Vergleiche über die Vermittlung klinischer Fertigkeiten in Deutschland und Großbritannien ermöglichen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dieser Kommentar zielt darauf ab, Vergleiche über das Lehren klinischer Fertigkeiten in Deutschland und dem Vereinigten Königreich zu ermöglichen."
+  },
+  {
+    "index": 63,
+    "source": "Through the example of the University of Southampton we show how clinical skills teaching is integrated both vertically and horizontally.",
+    "reference": "Am Beispiel der University of Southampton zeigen wir, wie die Vermittlung klinischer Fertigkeiten sowohl vertikal als auch horizontal integriert ist.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Anhand des Beispiels der Universität Southampton zeigen wir, wie die Ausbildung in klinischen Fertigkeiten sowohl vertikal als auch horizontal integriert wird."
+  },
+  {
+    "index": 64,
+    "source": "With improved prognosis due to advances in the diagnosis and therapy of breast cancer, physicians and therapists now focus on aspects such as quality of life and the management of side effects from breast cancer treatment.",
+    "reference": "Mit verbesserter Prognose und Fortschritten in der Diagnostik und Therapie des Mammakarzinoms rücken Aspekte wie Lebensqualität und Nebenwirkungsmanagement bei der Mammakarzinombehandlung in den Fokus der Ärzte und Therapeuten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dank verbesserter Prognosen durch Fortschritte bei der Diagnose und Therapie von Brustkrebs konzentrieren sich Ärzte und Therapeuten nun verstärkt auf Aspekte wie die Lebensqualität und den Umgang mit Nebenwirkungen der Brustkrebsbehandlung."
+  },
+  {
+    "index": 65,
+    "source": "Therapy- and disease-related side effects often reduce the patient's quality of life and can place a further burden on patients, with non-compliance or discontinuation of therapy a potential consequence.",
+    "reference": "Therapie- oder erkrankungsbedingte Nebenwirkungen mindern häufig die Lebensqualität und können damit zu einer zusätzlichen Beeinträchtigung der Patientin führen. Nicht selten sind Non-Compliance oder sogar Therapieabbruch die Folge.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Therapie- und krankheitsbedingte Nebenwirkungen verringern häufig die Lebensqualität von Patienten und können sie zusätzlich belasten, wodurch Non-Compliance oder ein Abbruch der Therapie mögliche Folgen sein können."
+  },
+  {
+    "index": 66,
+    "source": "Study data have shown that therapy- and disease-related side effects can be reduced using the methods of integrative medicine.",
+    "reference": "Studiendaten zeigen, dass durch Methoden der Integrativen Medizin therapie- und krankheitsbedingte Nebenwirkungen reduziert werden können.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Studiendaten haben gezeigt, dass therapie- und krankheitsbedingte Nebenwirkungen mithilfe der Methoden der integrativen Medizin reduziert werden können."
+  },
+  {
+    "index": 67,
+    "source": "Reported benefits include improving patients' wellbeing and quality of life, reducing stress, and improving patients' mood, sleeping patterns and capacity to cope with disease.",
+    "reference": "Eine Steigerung des Wohlbefindens und der Lebensqualität, der Abbau von Stressbelastungen und eine Verbesserung der Stimmung, des Schlafes und der Krankheitsbewältigung sind nachgewiesen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Berichtete Vorteile umfassen die Verbesserung des Wohlbefindens und der Lebensqualität von Patienten, die Verringerung von Stress sowie die Verbesserung der Stimmung, des Schlafverhaltens und der Fähigkeit, mit Krankheiten umzugehen."
+  },
+  {
+    "index": 68,
+    "source": "Examining the impact of integrative medicine on the side effects of cancer treatment would be beyond the scope of this review. This article therefore looks at short-term side effects of cancer treatment which are usually temporary and occur during or after local and systemic therapy.",
+    "reference": "Alle Nebenwirkungen der Integrativen Medizin zu beleuchten, würde den Umfang des hier vorliegenden Reviews übersteigen, sodass sich dieser Artikel auf kurzfristige Nebenwirkungen, die in der Regel zeitlich begrenzt während oder nach der lokalen bzw. systemischen Therapie auftreten, fokussiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Untersuchung der Auswirkungen der integrativen Medizin auf die Nebenwirkungen der Krebstherapie würde den Rahmen dieser Übersichtsarbeit sprengen. Dieser Artikel befasst sich daher mit den kurzfristigen Nebenwirkungen der Krebstherapie, die für gewöhnlich vorübergehend sind und während oder nach lokaler und systemischer Behandlung auftreten."
+  },
+  {
+    "index": 69,
+    "source": "The focus is on mind-body medicine, acupuncture and classic naturopathic treatments developed by Sebastian Kneipp as complementary therapies.",
+    "reference": "Der Fokus richtet sich speziell auf Mind-Body-Medizin, Akupunktur und die klassischen Naturheilverfahren nach Sebastian Kneipp als integrative Therapieoptionen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der Schwerpunkt liegt auf Körper-Geist-Medizin, Akupunktur sowie den von Sebastian Kneipp entwickelten klassischen Naturheilverfahren als ergänzende Therapien."
+  },
+  {
+    "index": 70,
+    "source": "The latter includes hydrotherapy, phytotherapy, nutritional therapy, exercise therapy and a balanced lifestyle.",
+    "reference": "Letztere umfassen die Hydrotherapie, Phytotherapie, Ernährungstherapie, Bewegungstherapie und Ordnungstherapie.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Letzteres umfasst Hydrotherapie, Phytotherapie, Ernährungstherapie, Bewegungstherapie und einen ausgewogenen Lebensstil."
+  },
+  {
+    "index": 71,
+    "source": "The probability of healing breast cancer has been greatly improved in recent decades through the introduction and optimisation of multi-modal therapies and interdisciplinary treatments.",
+    "reference": "Die Heilungswahrscheinlichkeit des Mammakarzinoms wurde in den letzten Jahrzehnten durch Einführung und Optimierung multimodaler Therapien und interdisziplinäre Behandlung stark verbessert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Wahrscheinlichkeit, Brustkrebs zu heilen, hat sich in den letzten Jahrzehnten durch die Einführung und Optimierung multimodaler Therapien und interdisziplinärer Behandlungen stark verbessert."
+  },
+  {
+    "index": 72,
+    "source": "To prevent excessive treatment, patients whose prognosis is so good that certain adjuvant therapies can be foregone or reduced must be identified.",
+    "reference": "Um eine Übertherapie zu vermeiden müssen diejenigen Patientinnen besser identifiziert werden, die eine so gute Prognose haben, dass auf manche begleitende Therapie verzichtet oder reduziert werden kann.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Um eine übermäßige Behandlung zu verhindern, müssen Patienten identifiziert werden, deren Prognose so gut ist, dass auf bestimmte adjuvante Therapien verzichtet oder diese reduziert werden können."
+  },
+  {
+    "index": 73,
+    "source": "A lack of compliance with therapy, especially in the endocrine therapies stretching over years, is a further problem.",
+    "reference": "Ein weiteres Problem ist die oft mangelnde Therapietreue (Compliance) v. a. im Bereich der jahrelangen endokrinen Therapien.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Ein Mangel an Therapietreue, insbesondere bei endokrinen Therapien, die sich über Jahre erstrecken, ist ein weiteres Problem."
+  },
+  {
+    "index": 74,
+    "source": "As only treatments that are also carried out can improve chances of survival, efforts to improve compliance must be intensified.",
+    "reference": "Da nur eine Behandlung, die auch durchgeführt wird, das Überleben verbessern kann, müssen die Bemühungen zur Verbesserung der Compliance intensiviert werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Da nur Behandlungen, die auch tatsächlich durchgeführt werden, die Überlebenschancen verbessern können, müssen die Bemühungen zur Verbesserung der Compliance verstärkt werden."
+  },
+  {
+    "index": 75,
+    "source": "Studies show that lifestyle changes influence the efficiency of medication on the one hand, and on the other hand can also by themselves achieve a relevant improvement of the prognosis.",
+    "reference": "Studien zeigen, dass Änderungen des Lebensstils einerseits die Wirksamkeit von Medikamenten beeinflussen und andererseits auch alleine relevante Verbesserungen der Prognose bewirken können.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Studien zeigen, dass Lebensstiländerungen einerseits die Wirksamkeit von Medikamenten beeinflussen und andererseits auch selbst eine relevante Verbesserung der Prognose bewirken können."
+  },
+  {
+    "index": 76,
+    "source": "Therefore, it is time not only to treat the tumour, but to also focus on the patient as a whole in therapeutic interventions.",
+    "reference": "Daher ist es an der Zeit, nicht nur den Tumor, sondern die ganze Patientin in den Mittelpunkt der therapeutischen Interventionen zu stellen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Daher ist es an der Zeit, nicht nur den Tumor zu behandeln, sondern sich in therapeutischen Interventionen auch auf den Patienten als Ganzes zu konzentrieren."
+  },
+  {
+    "index": 77,
+    "source": "Oncologic therapy is currently undergoing significant changes.",
+    "reference": "Die onkologische Therapie befindet sich im Umbruch.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die onkologische Therapie erlebt derzeit bedeutende Veränderungen."
+  },
+  {
+    "index": 78,
+    "source": "A number of innovative targeted medications currently in clinical development have raised high expectations.",
+    "reference": "Hohe Erwartungen sind mit einer Reihe innovativer zielgerichteter Medikamente verknüpft, die sich derzeit in der klinischen Entwicklung befinden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine Reihe innovativer, zielgerichteter Medikamente, die sich derzeit in klinischer Entwicklung befinden, haben große Erwartungen geweckt."
+  },
+  {
+    "index": 79,
+    "source": "With that in mind, discussions about terms such as \"clinical benefit\" and \"clinical relevance\" are highly topical.",
+    "reference": "Vor diesem Hintergrund erfahren Diskussionen um die Begriffe klinischer Nutzen oder klinische Relevanz neue Aktualität.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Vor diesem Hintergrund sind Diskussionen über Begriffe wie „klinischer Nutzen“ und „klinische Relevanz“ hochaktuell."
+  },
+  {
+    "index": 80,
+    "source": "This also applies to further developments in the field of adjuvant systemic therapies for early-stage breast cancer.",
+    "reference": "Dies gilt auch für die Weiterentwicklungen der adjuvanten systemischen Therapie des frühen Mammakarzinoms.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dies gilt auch für weitere Entwicklungen im Bereich adjuvanter systemischer Therapien für Brustkrebs im Frühstadium."
+  },
+  {
+    "index": 81,
+    "source": "As the treatment aim is curative, assessment of the clinical benefit of adjuvant therapies must be largely based on efficacy outcomes.",
+    "reference": "In Anbetracht der kurativen Zielsetzung erfolgt die Beurteilung des klinischen Nutzens einer adjuvanten Therapie maßgeblich anhand von Wirksamkeitsendpunkten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Da das Behandlungsziel kurativ ist, muss die Bewertung des klinischen Nutzens adjuvanter Therapien größtenteils auf Wirksamkeitsergebnissen basieren."
+  },
+  {
+    "index": 82,
+    "source": "The focus must be on improving disease-free survival rates and lowering the risk of recurrence.",
+    "reference": "Der Fokus liegt hierbei auf Verbesserungen des krankheitsfreien Überlebens und des Rezidivrisikos.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der Schwerpunkt muss auf der Verbesserung der krankheitsfreien Überlebensraten und der Senkung des Rückfallrisikos liegen."
+  },
+  {
+    "index": 83,
+    "source": "Because of the current low mortality rates, statements about overall survival rates are only possible after very long observation periods.",
+    "reference": "Eine Aussage zum Gesamtüberleben ist aufgrund der heute erreichten niedrigen Mortalitätsraten erst nach sehr langen Beobachtungszeiten möglich.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Aufgrund der derzeit niedrigen Sterblichkeitsraten sind Aussagen über die Überlebensraten insgesamt erst nach sehr langen Beobachtungszeiträumen möglich."
+  },
+  {
+    "index": 84,
+    "source": "Consequently, new drugs in adjuvant therapies should be considered as offering a clinical benefit, if they reduce the risk of recurrence below current low levels of risk.",
+    "reference": "Folgerichtig sollte neuen Medikamenten für die adjuvante Therapie ein klinischer Nutzen zugesprochen werden, wenn sie eine weitere Reduktion des Rezidivrisikos über den heutigen hohen Standard hinaus ermöglichen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Folglich sollten neue Arzneimittel in adjuvanten Therapien als klinisch vorteilhaft erachtet werden, wenn sie das Rezidivrisiko unter das derzeitige niedrige Risikoniveau senken."
+  },
+  {
+    "index": 85,
+    "source": "The evidence for established adjuvant therapy standards in early-stage breast cancer can be used as objective criteria for comparison.",
+    "reference": "Die Evidenz für etablierte adjuvante Therapiestandards beim frühen Mammakarzinom kann als objektiver Maßstab zum Vergleich herangezogen werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Evidenz für etablierte adjuvante Therapiestandards im frühen Stadium von Brustkrebs kann als objektive Kriterien zum Vergleich herangezogen werden."
+  },
+  {
+    "index": 86,
+    "source": "This review article considers the requirements for clinical benefit of new adjuvant therapies for early breast cancer, based on examples from adjuvant endocrine therapy, adjuvant polychemotherapy and adjuvant anti-HER2 therapy.",
+    "reference": "Am Beispiel der adjuvanten endokrinen Therapie, der adjuvanten Polychemotherapie und der adjuvanten Anti-HER2-Therapie werden in diesem Übersichtsartikel die Anforderungen für den klinischen Nutzen neuer adjuvanter Therapien beim frühen Mammakarzinom abgeleitet.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dieser Übersichtsartikel untersucht die Voraussetzungen für einen klinischen Nutzen neuer adjuvanter Therapien bei frühem Brustkrebs anhand von Beispielen aus der adjuvanten endokrinen Therapie, der adjuvanten Polychemotherapie und der adjuvanten Anti-HER2-Therapie."
+  },
+  {
+    "index": 87,
+    "source": "The lately inured § 137 h SGB V aims to assess the benefit of new examination and treatment methods with medical devices of class IIb and III.",
+    "reference": "Die Einführung des § 137 h SGB V durch das GKV-VSG zielt auf die Nutzenbewertung von Untersuchungs- und Behandlungsmethoden mit Medizinprodukten der Klasse IIb und III.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der kürzlich in Kraft getretene § 137h SGB V zielt darauf ab, den Nutzen neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten der Klassen IIb und III zu bewerten."
+  },
+  {
+    "index": 88,
+    "source": "In the future, the decision on the reimbursement eligibility will be marked by high requirements in terms of documentation of benefits and harm.",
+    "reference": "Zukünftig wird die Entscheidung über die Erstattungsfähigkeit durch hohe Anforderungen an die Dokumentation von Nutzen und Schaden gekennzeichnet sein.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "In Zukunft wird die Entscheidung über die Erstattungsfähigkeit von hohen Anforderungen an die Dokumentation von Nutzen und Schaden geprägt sein."
+  },
+  {
+    "index": 89,
+    "source": "The objective of benefit assessment is the operationalization of benefit to patients.",
+    "reference": "Zielsetzung der Nutzenbewertung ist die Operationalisierung des Patientennutzens.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Das Ziel der Nutzenbewertung ist die Operationalisierung des Nutzens für Patienten."
+  },
+  {
+    "index": 90,
+    "source": "A comparative determination of benefit enables rational decision by regulatory authorities.",
+    "reference": "Auf Basis einer vergleichenden Feststellung des Nutzens kann eine rationale Entscheidung durch die Regulierungsbehörden ermöglicht werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine vergleichende Nutzenbestimmung ermöglicht eine rationale Entscheidung durch Regulierungsbehörden."
+  },
+  {
+    "index": 91,
+    "source": "The process of benefit assessment should guarantee transparent decision-making, and the underlying medical and health economic fundamentals should be documented.",
+    "reference": "Das Verfahren der Nutzenbewertung sollte transparente Entscheidungsprozesse garantieren und die dem Verfahren zugrundeliegenden medizinischen und gesundheitsökonomischen Grundlagen sollten dokumentiert werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der Prozess der Nutzenbewertung sollte eine transparente Entscheidungsfindung gewährleisten, und die zugrunde liegenden medizinischen und gesundheitsökonomischen Grundlagen sollten dokumentiert werden."
+  },
+  {
+    "index": 92,
+    "source": "In principle, benefit assessment can be divided into 3 phases: measuring causal effects of an intervention, assessment of the measured effects and decision on reimbursement based on the aggregation of an overall benefit.",
+    "reference": "Grundsätzlich kann die Nutzenbewertung in 3 Phasen unterteilt werden: Messen von kausalen Effekten einer Intervention, Bewertung der gemessenen Effekte und Entscheidung über die Erstattungsfähigkeit auf Basis der Aggregation eines Gesamtnutzens.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Grundsätzlich lässt sich die Nutzenbewertung in drei Phasen unterteilen: die Messung kausaler Effekte einer Intervention, die Bewertung der gemessenen Effekte und die Entscheidung über die Erstattung auf Grundlage des insgesamt ermittelten Nutzens."
+  },
+  {
+    "index": 93,
+    "source": "The first home pregnancy test was introduced in 1976. Since then, pregnancy tests have become the most common diagnostic assay used at home.",
+    "reference": "Der erste Urinschwangerschaftstest wurde 1976 vorgestellt und seitdem gehören diese Tests zu den am häufigsten durchgeführten Laboruntersuchungen in der Eigenanwendung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der erste Schwangerschaftstest für den Hausgebrauch wurde 1976 eingeführt. Seitdem sind Schwangerschaftstests zum am häufigsten zu Hause verwendeten diagnostischen Test geworden."
+  },
+  {
+    "index": 94,
+    "source": "Exclusion of individuals with mental disorders is common, especially exclusion from the work force.",
+    "reference": "Die berufliche Exklusion von Menschen mit (schweren) psychischen Erkrankungen ist beträchtlich.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der Ausschluss von Menschen mit psychischen Erkrankungen ist weit verbreitet, insbesondere der Ausschluss vom Arbeitsmarkt."
+  },
+  {
+    "index": 95,
+    "source": "It can be shown that work and inclusion in the workforce is an important topic and that occupational status is discussed early in the treatment process.",
+    "reference": "Arbeit und berufliche Beschäftigung nehmen lt. Aussage der Befragten einen sehr wichtigen Stellenwert ein und werden bereits im Rahmen der Anamnese frühzeitig erfasst.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Es lässt sich zeigen, dass Arbeit und Eingliederung in den Arbeitsmarkt ein wichtiges Thema darstellen und dass der berufliche Status bereits früh im Behandlungsprozess diskutiert wird."
+  },
+  {
+    "index": 96,
+    "source": "Low back pain (LBP) continues to be a major health problem causing personal suffering and enormous socioeconomic costs.",
+    "reference": "Kreuzschmerzen sind weiterhin ein sehr häufiges Gesundheitsproblem, das nicht nur persönliches Leiden, sondern auch enorme sozioökonomische Kosten verursacht.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Schmerzen im unteren Rückenbereich (LBP) sind nach wie vor ein bedeutendes Gesundheitsproblem, das persönliches Leiden und enorme sozioökonomische Kosten verursacht."
+  },
+  {
+    "index": 97,
+    "source": "Evidence suggests that more than 85 % of individuals with LBP suffer from non-specific low back pain.",
+    "reference": "Prävalenzstudien zeigen, dass mehr als 85 % der Patienten mit Kreuzschmerzen unter unspezifischen Kreuzschmerzen leiden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Evidenz legt nahe, dass mehr als 85 % der Menschen mit LBP unter unspezifischen Schmerzen im unteren Rücken leiden."
+  },
+  {
+    "index": 98,
+    "source": "Physiotherapy for non-specific LBP includes educational, physical, manual and movement therapy measures.",
+    "reference": "Physiotherapie bei unspezifischen Kreuzschmerzen umfasst edukative, physikalische, manual- und bewegungstherapeutische Maßnahmen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Physiotherapie bei unspezifischen Rückenschmerzen umfasst edukative, physische, manuelle und bewegungstherapeutische Maßnahmen."
+  },
+  {
+    "index": 99,
+    "source": "In the acute phase, it is very important to prevent chronicity by identifying barriers for a full recovery and a quick return to everyday activities.",
+    "reference": "In der Akutphase ist es sehr wichtig, eine Chronifizierung durch das Erkennen von Barrieren für eine vollständige Genesung und durch eine rasche Rückkehr zu den Alltagsaktivitäten zu vermeiden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "In der akuten Phase ist es sehr wichtig, einer Chronifizierung vorzubeugen, indem Hindernisse für eine vollständige Genesung und eine schnelle Rückkehr in den Alltag identifiziert werden."
+  },
+  {
+    "index": 100,
+    "source": "If there is a chronicity of symptoms, the treatment must focus on improvement of the general physical activity despite the pain and promote participation in the social and work context.",
+    "reference": "Kommt es zu einer Chronifizierung der Beschwerden, so geht es vor allem darum, die allgemeine körperliche Aktivität trotz Schmerzen zu verbessern und dem Patienten das Wiedererreichen der Partizipation im Sozial- und Berufsleben zu ermöglichen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Wenn eine Chronifizierung der Symptome vorliegt, muss die Behandlung trotz der Schmerzen auf die Verbesserung der allgemeinen körperlichen Aktivität abzielen und die Teilnahme am sozialen und beruflichen Umfeld fördern."
+  },
+  {
+    "index": 101,
+    "source": "These aims are more important than pain relief.",
+    "reference": "Diese Ziele stehen klar über der Schmerzfreiheit.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Diese Ziele sind wichtiger als Schmerzlinderung."
+  },
+  {
+    "index": 102,
+    "source": "Therefore in the acute phase educational and activity-promoting measures are the primary treatment options.",
+    "reference": "In der Akutphase stehen somit vor allem edukative und aktivitätsfördernde Maßnahmen im Vordergrund.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Daher sind in der akuten Phase Aufklärungs- und aktivitätsfördernde Maßnahmen die primären Behandlungsoptionen."
+  },
+  {
+    "index": 103,
+    "source": "In the sub-acute and chronic phase a multidimensional treatment approach including exercise therapy with the aim of improving function, including return to work, should be applied.",
+    "reference": "In der subakuten und chronischen Phase ist die aktive Bewegungstherapie mit dem Ziel der Funktionsverbesserung inklusive der Rückkehr zur Arbeit im Sinne einer multimodalen Rehabilitation zu forcieren.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Im subakuten und chronischen Stadium sollte ein multidimensionaler Behandlungsansatz, einschließlich Bewegungstherapie mit dem Ziel der Funktionsverbesserung und der Rückkehr zur Arbeit, angewendet werden."
+  },
+  {
+    "index": 104,
+    "source": "By now, there is scientific evidence that physiotherapy can reduce pain and disability due to LBP, and that return to usual activities including work can be achieved.",
+    "reference": "Die wissenschaftliche Evidenz ist mittlerweile gut, dass mittels einer Physiotherapie die Schmerzen und Behinderungen durch unspezifische Rückenschmerzen reduziert und die Rückkehr zur üblichen Aktivität erreicht werden kann.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Mittlerweile gibt es wissenschaftliche Belege dafür, dass Physiotherapie Schmerzen und Beeinträchtigungen durch LBP verringern kann und dass eine Rückkehr zu den gewohnten Aktivitäten, einschließlich der Arbeit, erreicht werden kann."
+  },
+  {
+    "index": 105,
+    "source": "While NIPT is being implemented rapidly, the implementation of a corresponding specialized counselling process in many respects lags behind. As a consequence, legal requirements and other testing conditions sometimes are not fulfilled adequately.",
+    "reference": "Während der nicht invasive pränatale Bluttest (NIPT) unaufhaltsam Einzug in die Praxis hält, hinkt die Implementierung eines darauf abgestimmten Beratungsprozesses in vielen Bereichen noch hinterher, sodass gesetzliche Regelungen und andere Testvoraussetzungen nicht immer eingehalten werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Während NIPT rasch eingeführt wird, hinkt die Umsetzung eines entsprechenden spezialisierten Beratungsprozesses in vielerlei Hinsicht hinterher. Infolgedessen werden rechtliche Vorgaben und andere Testbedingungen mitunter nicht angemessen erfüllt."
+  },
+  {
+    "index": 106,
+    "source": "The midsagittal view of the fetal profile is essential in first trimester screening at 11 + 0 to 13 + 6 weeks of gestation.",
+    "reference": "Das midsagittale Profil stellt eine Schlüsselebene im Rahmen der sonografischen Ersttrimesterdiagnostik im Zeitraum 11 + 0 bis 13 + 6 SSW dar.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die mediane Ansicht des fetalen Profils ist im Ersttrimester-Screening zwischen der 11+0 und 13+6 Schwangerschaftswoche essenziell."
+  },
+  {
+    "index": 107,
+    "source": "The aim of this review is to summarize the additional information that can be gained from the fetal profile view.",
+    "reference": "Ziel der vorliegenden Übersichtsarbeit ist es, den aktuellen Stand zum diagnostischen Potenzial des midsagittalen Schnittbildes des fetalen Profils darzustellen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Das Ziel dieser Übersicht ist es, die zusätzlichen Informationen zusammenzufassen, die aus der fetalen Profilansicht gewonnen werden können."
+  },
+  {
+    "index": 108,
+    "source": "The appropriate surgical technique to treat patients with uterine fibroids is still a matter of debate as is the potential risk of incorrect treatment if histological examination detects a uterine sarcoma instead of uterine fibroids.",
+    "reference": "In der Behandlung der Patientin mit Uterus myomatosus gibt es Diskussionen über die Art der Operationstechnik und das damit verbundene Risiko der eventuellen falschen Behandlung, wenn sich in der histologischen Aufarbeitung keine Uterusmyome, sondern ein Uterussarkom herausstellt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die geeignete Operationstechnik zur Behandlung von Patientinnen mit Uterusmyomen ist nach wie vor umstritten, ebenso wie das potenzielle Risiko einer Fehlbehandlung, falls die histologische Untersuchung anstelle von Uterusmyomen ein Uterussarkom feststellt."
+  },
+  {
+    "index": 109,
+    "source": "The published epidemiology for uterine sarcoma is set against the incidence of accidental findings during surgery for uterine fibroids.",
+    "reference": "Die publizierte Epidemiologie von Uterussarkomen wird hier ins Verhältnis zu Zufallsbefunden bei Operationen zur Behandlung von Uterusmyomen gesetzt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die veröffentlichte Epidemiologie des Uterussarkoms wird der Häufigkeit zufällig entdeckter Befunde während Operationen bei Uterusmyomen gegenübergestellt."
+  },
+  {
+    "index": 110,
+    "source": "International comments on this topic are discussed and are incorporated into the assessment by the German Society for Gynecology and Obstetrics (DGGG).",
+    "reference": "Die internationalen Stellungnahmen zu diesem Thema werden diskutiert, um eine Bewertung seitens der Deutschen Gesellschaft für Gynäkologie und Geburtshilfe (DGGG) abzugeben.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Internationale Stellungnahmen zu diesem Thema werden diskutiert und in die Bewertung durch die Deutsche Gesellschaft für Gynäkologie und Geburtshilfe (DGGG) einbezogen."
+  },
+  {
+    "index": 111,
+    "source": "Categorical qualifiers were defined to analyze the data provided by the Robert Koch Institute (RKI), the German Federal Bureau of Statistics (DESTATIS; Hospital and Causes of Death Statistics), the population-based Cancer Register of Bavaria.",
+    "reference": "Um die übermittelten Daten des Robert Koch-Instituts (RKI), des Statistischen Bundesamts (DESTATIS; Abteilung Krankenhausstatistik und Todesursachenstatistik), des bevölkerungsbezogenen Krebsregisters Bayern auswerten zu können, wurden eindeutige Abfragekriterien definiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Kategorische Merkmale wurden definiert, um die vom Robert Koch-Institut (RKI), dem Statistischen Bundesamt (DESTATIS; Krankenhaus- und Todesursachenstatistik) und dem bevölkerungsbasierten Krebsregister Bayerns bereitgestellten Daten zu analysieren."
+  },
+  {
+    "index": 112,
+    "source": "A systematic search was done of the MEDLINE database and the Cochrane collaboration, covering the period from 1966 until November 2014.",
+    "reference": "Zusätzlich wurde eine systematische Literaturrecherche in MEDLINE von 1966 bis November 2014 und bei der Cochrane Collaboration durchgeführt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine systematische Suche in der MEDLINE-Datenbank und der Cochrane Collaboration wurde durchgeführt, die den Zeitraum von 1966 bis November 2014 abdeckte."
+  },
+  {
+    "index": 113,
+    "source": "The incidence of uterine sarcoma and uterine fibroids in uterine surgery was compared to the literature and with the different registries.",
+    "reference": "Die Inzidenz von Uterussarkomen und Uterusmyomen bei Operationen der Gebärmutter wurden in den verschiedenen Registern und in der Literatur verglichen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Inzidenz von Uterussarkomen und Uterusmyomen in der Gebärmutterchirurgie wurde mit der Literatur und den verschiedenen Registern verglichen."
+  },
+  {
+    "index": 114,
+    "source": "The incidence of uterine sarcoma in 2010, standardized for age, was 1.53 for Bavaria, or 1.30 for every 100 000 women, respectively, averaged for the years 2002-2011, and 1.30 for every 100 000 women in Germany.",
+    "reference": "Die altersstandardisierte Inzidenz im Jahr 2010 für Uterussarkome war für Bayern 1,53, respektive 1,30 auf 100 000 Frauen gemittelt über die Jahre 2002–2011, in Deutschland bei 1,30 auf 100 000 Frauen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die altersstandardisierte Inzidenz von Uterussarkomen betrug im Jahr 2010 1,53 in Bayern bzw. 1,30 pro 100.000 Frauen (gemittelt über die Jahre 2002–2011) und lag in Deutschland bei 1,30 pro 100.000 Frauen."
+  },
+  {
+    "index": 115,
+    "source": "The mean incidence collated from various surveys was 2.02 for every 100 000 women (0.35-7.02; standard deviation 2.01).",
+    "reference": "Die mittlere Inzidenz aus verschiedenen Erhebungen beträgt 2,02 auf 100 000 Frauen (0,35–7,02; Standardabweichung 2,01).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die mittlere Inzidenz, basierend auf verschiedenen Umfragen, betrug 2,02 pro 100.000 Frauen (0,35–7,02; Standardabweichung 2,01)."
+  },
+  {
+    "index": 116,
+    "source": "The numbers of inpatient surgical procedures such as myoma enucleation, morcellation, hysterectomy or cervical stump removal to treat the indication \"uterine myoma\" have steadily declined in Germany across all age groups (an absolute decrease of 17 % in 2012 compared to 2007).",
+    "reference": "Stationär durchgeführte Operationen wie Myomenukleation, Morcellation, Hysterektomie oder Zervixstumpfresektion sind bei der Indikation Uterusmyom in Deutschland gleichbleibend über alle Altersgruppen hinweg zurückgegangen (absoluter Rückgang von 17 % im Jahr 2012 zum Jahr 2007).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Zahlen stationärer chirurgischer Eingriffe wie Myomenukleation, Morcellation, Hysterektomie oder Zervixstumpfentfernung zur Behandlung der Indikation „Uterusmyom“ sind in Deutschland über alle Altersgruppen hinweg stetig zurückgegangen (ein absoluter Rückgang von 17 % im Jahr 2012 im Vergleich zu 2007)."
+  },
+  {
+    "index": 117,
+    "source": "There has been a shift in the preferred method of surgical access from an abdominal/vaginal approach to endoscopic or endoscopically assisted procedures to treat uterine fibroids, with the use of morcellation increasing by almost 11 000 coded procedures in 2012.",
+    "reference": "Es zeigt sich eine Verschiebung des operativen Zugangswegs von abdominal/vaginal zu endoskopisch bzw. endoskopisch assistierten zur Behandlung von Uterusmyomen mit einer ansteigenden Benutzung der Morcellation von fast 11 000 codierten Prozeduren im Jahr 2012.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Es hat eine Verlagerung der bevorzugten Methode des chirurgischen Zugangs von einem abdominalen oder vaginalen Vorgehen hin zu endoskopischen oder endoskopisch unterstützten Eingriffen zur Behandlung von Uterusmyomen gegeben, wobei der Einsatz der Morcellation im Jahr 2012 um fast 11.000 kodierte Verfahren zugenommen hat."
+  },
+  {
+    "index": 118,
+    "source": "Based on international statements (AAGL, ACOG, ESGE, FDA, SGO) on the risk of uterine sarcoma as an coincidental finding during uterine fibroid surgery and the associated risk of a deterioration of prognosis (in the case of morcellation procedures), this overview presents the opinion of the DGGG in the form of four Statements, five Recommendation and four Demands.",
+    "reference": "Nach den Veröffentlichungen von internationalen Stellungnahmen (AAGL, ACOG, ESGE, FDA, SGO) zum Risiko Uterussarkom als Zufallsbefund im Rahmen einer Myomoperation und dem damit verbundenen Risiko einer Prognoseverschlechterung (im Falle einer Morcellation) wird in dieser Übersichtsarbeit die DGGG-Stellungnahme in Form von 4 Statements, 5 Empfehlungen und 4 Forderungen dargestellt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Auf der Grundlage internationaler Stellungnahmen (AAGL, ACOG, ESGE, FDA, SGO) zum Risiko eines uterinen Sarkoms als Zufallsbefund bei Myomoperationen sowie dem damit verbundenen Risiko einer Verschlechterung der Prognose (insbesondere bei Morzellationsverfahren) präsentiert diese Übersicht die Position der DGGG in Form von vier Stellungnahmen, fünf Empfehlungen und vier Forderungen."
+  },
+  {
+    "index": 119,
+    "source": "As the authors are operational managers as well as QA (Quality Assurance) experts, both aspects are represented to come up with efficient and qualitative ways of future monitoring according to ICH GCP.",
+    "reference": "Die Autoren, darunter sowohl Operational Manager als auch QA-Experten, haben auf der Grundlage der relevanten ICH-GCP-Kapitel die Notwendigkeiten und vor allem die Möglichkeiten eines Risiko-basierten Monitorings identifiziert und definiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Da die Autoren sowohl operative Manager als auch QA (Quality Assurance)-Experten sind, sind beide Aspekte berücksichtigt, um effiziente und qualitativ hochwertige Ansätze für zukünftiges Monitoring gemäß ICH GCP zu entwickeln."
+  },
+  {
+    "index": 120,
+    "source": "The present case report describes a 6-year old subfertile pony mare, which became pregnant after the eleventh artificial insemination.",
+    "reference": "Der vorliegende Fallbericht beschreibt eine 6 Jahre alte subfertile Stute der Rasse Ponystute, die erst nach der elften künstlichen Besamung tragend wurde.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der vorliegende Fallbericht beschreibt eine 6-jährige subfertile Pony-Stute, die nach der elften künstlichen Besamung tragend wurde."
+  },
+  {
+    "index": 121,
+    "source": "The examination of the ovaries and the uterus did not reveal any abnormal clinical findings and the mare showed a regular oestrous cycle.",
+    "reference": "Die klinische Untersuchung der Ovarien und des Uterus waren ohne besonderen Befund und die Stute zeigte einen regelmässigen Zyklus.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Untersuchung der Ovarien und des Uterus ergab keine auffälligen klinischen Befunde, und die Stute zeigte einen regelmäßigen Brunstzyklus."
+  },
+  {
+    "index": 122,
+    "source": "Based on cytogenetic and molecular genetic analyses it became possible to elucidate the observed subfertility.",
+    "reference": "Aufgrund von zytogenetischen und molekulargenetischen Untersuchungen wurde es möglich, eine plausible Ursache für die Subfertilität zu ermitteln.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Basierend auf zytogenetischen und molekulargenetischen Analysen wurde es möglich, die beobachtete Subfertilität aufzuklären."
+  },
+  {
+    "index": 123,
+    "source": "A PCR analysis failed to amplify sequences from the equine SRY gene.",
+    "reference": "Eine PCR-Analyse für den Nachweis von Sequenzen des equinen SRY Gen war negativ.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine PCR-Analyse konnte keine Sequenzen aus dem equinen SRY-Gen amplifizieren."
+  },
+  {
+    "index": 124,
+    "source": "The observed classic 63,X/64,XX mosaicism is a plausible explanation for the subfertility of the mare.",
+    "reference": "Es handelte sich also um einen klassischen Fall einer mosaiken Form von Monosomie X, die eine offensichtliche Erklärung für die Subfertilität der Stute liefert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der beobachtete klassische 63,X/64,XX-Mosaizismus ist eine plausible Erklärung für die Subfertilität der Stute."
+  },
+  {
+    "index": 125,
+    "source": "The attendance of an in-patient therapy program is often an indispensable part in the treatment of addiction disorders.",
+    "reference": "Der stationäre Klinikaufenthalt von Patienten mit Abhängigkeitserkrankungen ist häufig ein unverzichtbarer Teil in der Behandlungskette von Suchterkrankungen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Teilnahme an einem stationären Therapieprogramm ist oft ein unverzichtbarer Bestandteil bei der Behandlung von Suchterkrankungen."
+  },
+  {
+    "index": 126,
+    "source": "The different stages of treatment, its elements of therapy as well as advantages and disadvantages of a stationary setting are discussed.",
+    "reference": "Es werden die verschiedenen Phasen der Behandlung, deren Therapieelemente sowie Vor- und Nachteile eines stationären Aufenthalts diskutiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die verschiedenen Phasen der Behandlung, ihre therapeutischen Elemente sowie Vor- und Nachteile eines stationären Settings werden diskutiert."
+  },
+  {
+    "index": 127,
+    "source": "The importance of an individualized therapy matched with the stage of detoxification and withdrawal is shown on the example of the Klinik Südhang, where patients with alcohol and/or drug addiction disorders seek treatment.",
+    "reference": "Anhand der Klinik Südhang, welche Patienten und Patientinnen mit einer Alkohol- und/oder Medikamentenabhängigkeit stationär behandelt, zeigt sich die Bedeutung eines individualisierten Therapieangebots je nach Entzugs- und Entwöhnungsphase.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Bedeutung einer an das Stadium der Entgiftung und des Entzugs angepassten, individuell abgestimmten Therapie zeigt sich am Beispiel der Klinik Südhang, in der Patienten mit Alkohol- und/oder Drogenabhängigkeit eine Behandlung aufsuchen."
+  },
+  {
+    "index": 128,
+    "source": "To determine bone morphogenetic protein (BMP)-2 protein and Aggrecan in osteoarthritic and healthy cartilage with special regard to localization and degree of cartilage damage 95 samples representing osteoarthritic cartilage and 17 samples out of normal cartilage were graded histological by Mankin Score and were studied by immunohistochemistry for the expression of BMP-2 and Aggrecan.",
+    "reference": "Um charakteristische strukturelle Veränderungen des bone morphogenetic proteins (BMP)-2 und des Aggrecans im arthrotischen und gesunden Gelenkknorpel in Abhängigkeit der Lokalisation und des Schädigungsgrades zu identifizieren, wurde in 95 Proben histologisch klassifizierbarer Knorpelschäden (Mankin Score) und 17 Kontrollproben immunhistochemisch die Expression von BMP-2 und Aggrecan untersucht.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Um das Knochenmorphogenetische Protein (BMP)-2 und Aggrecan in osteoarthritischem und gesundem Knorpel unter besonderer Berücksichtigung von Lokalisation und Schädigungsgrad zu bestimmen, wurden 95 Proben osteoarthritischen Knorpels und 17 Proben normalen Knorpels histologisch nach dem Mankin-Score bewertet und mithilfe der Immunhistochemie auf die Expression von BMP-2 und Aggrecan untersucht."
+  },
+  {
+    "index": 129,
+    "source": "BMP-2 protein was detected intracellular in normal and in osteoarthritic cartilage.",
+    "reference": "Das BMP-2 Protein wurde intrazellulär in normalen und arthrotischen Knorpel exprimiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "BMP-2-Protein wurde intrazellulär im normalen und im osteoarthritischen Knorpel nachgewiesen."
+  },
+  {
+    "index": 130,
+    "source": "Extracellular BMP-2 was detected exclusively in osteoarthritic cartilage and exhibits characteristic extracellular patterns: samples with BMP-2 in the extracellular matrix show BMP-2 negative coronae around BMP-2 positive cells.",
+    "reference": "Extrazelluläres BMP-2 wurde einzig in arthrotischen Knorpel detektiert und zeigte dabei ein charakteristisches Verteilungsmuster: Extrazellulär exprimiertes BMP-2 bildet BMP-2 negative Höfe um BMP-2 positive Knorpelzellen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Extrazelluläres BMP-2 wurde ausschließlich im osteoarthritischen Knorpel nachgewiesen und zeigt charakteristische extrazelluläre Muster: Proben mit BMP-2 in der extrazellulären Matrix weisen BMP-2-negative Koronen um BMP-2-positive Zellen auf."
+  },
+  {
+    "index": 131,
+    "source": "There is a statistically significant increase in the prevalence of extracellular BMP-2 with increasing ICRS grade/Mankin grade.",
+    "reference": "Die Prevalenz extrazellulärer BMP-2 Expression nimmt mit steigenden makroskopischen und histologischen Schädigungsgrad (ICRS/Mankin) signifikant zu.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Es gibt einen statistisch signifikanten Anstieg der Prävalenz von extrazellulärem BMP-2 mit steigendem ICRS- bzw. Mankin-Grad."
+  },
+  {
+    "index": 132,
+    "source": "Borderline ovarian tumours are semimalignant tumours occurring unilaterally or bilaterally with a peak incidence among women of reproductive age.",
+    "reference": "Borderline-Tumoren des Ovars sind semimaligne ein- oder beidseitig auftretende Tumoren, die ihren Altersgipfel bei Frauen im reproduktiven Alter haben.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Borderline-Ovarialtumoren sind semimaligne Tumoren, die einseitig oder beidseitig auftreten und deren Häufigkeitsgipfel bei Frauen im gebärfähigen Alter liegt."
+  },
+  {
+    "index": 133,
+    "source": "Since the affected women often wish to preserve fertility, particular precautions must be taken when counselling the patient and obtaining consent prior to planning an individual treatment.",
+    "reference": "Da die betroffenen Frauen häufig einen Kinderwunsch hegen, ergeben sich besondere Notwendigkeiten der Aufklärung vor der Planung einer individuellen Therapie.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Da betroffene Frauen häufig ihre Fruchtbarkeit erhalten möchten, müssen bei der Beratung der Patientin und beim Einholen ihrer Einwilligung vor der Planung einer individuellen Behandlung besondere Vorsichtsmaßnahmen getroffen werden."
+  },
+  {
+    "index": 134,
+    "source": "Options for preserving fertility include an organ-sparing surgical procedure and cryopreservation of oocytes and/or ovarian tissue.",
+    "reference": "Möglichkeiten des Erhalts der Fertilität sind ein organschonendes operatives Vorgehen sowie die Kryokonservierung von Eizellen und/oder Eierstockgewebe.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Zu den Möglichkeiten zur Erhaltung der Fruchtbarkeit gehören ein organerhaltendes chirurgisches Verfahren sowie die Kryokonservierung von Eizellen und/oder Ovarialgewebe."
+  },
+  {
+    "index": 135,
+    "source": "In this article, we report on a 25-year-old patient with a bilateral seromucinous borderline tumour who desired all fertility-preserving options.",
+    "reference": "Wir berichten über eine 25-jährige Patientin mit beidseitigem seromuzinösem Borderline-Tumor, die alle Optionen des Fertilitätserhalts wünschte.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "In diesem Artikel berichten wir über eine 25-jährige Patientin mit einem bilateralen seromuzinösen Borderline-Tumor, die alle fertilitätserhaltenden Optionen wünschte."
+  },
+  {
+    "index": 136,
+    "source": "In order to perform the procedure without delay, we opted to perform luteal phase stimulation prior to oocyte retrieval.",
+    "reference": "Um die Operation zeitnah durchführen zu können, entschieden wir uns für eine Lutealphasenstimulation vor der Follikelpunktion.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Um den Eingriff ohne Verzögerung durchzuführen, haben wir uns dazu entschlossen, vor der Eizellentnahme eine Lutealphasenstimulation vorzunehmen."
+  },
+  {
+    "index": 137,
+    "source": "We conclude by discussing the current literature on the state of fertility preservation in the treatment of borderline ovarian tumours.",
+    "reference": "Abschließend diskutieren wir die aktuelle Literatur zum Stand der Fertilitätsprotektion beim ovariellen Borderline-Tumor.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Wir schließen mit einer Diskussion der aktuellen Literatur zum Stand der Fertilitätserhaltung bei der Behandlung von Borderline-Ovarialtumoren."
+  },
+  {
+    "index": 138,
+    "source": "The treatment of pain after thoracic surgery is a challenge and takes place in the individual clinics mostly according to clinic internal standards.",
+    "reference": "Die Behandlung von Schmerzen nach thoraxchirurgischen Eingriffen erfolgt zumeist nach klinikinternen Standards.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Behandlung von Schmerzen nach einer Thoraxoperation ist eine Herausforderung und erfolgt in den einzelnen Kliniken überwiegend nach klinikinternen Standards."
+  },
+  {
+    "index": 139,
+    "source": "Many different fungi, including yeasts and molds, can be found in the intestinal tract of humans constituting the gut mycobiome.",
+    "reference": "Viele verschiedene Pilzarten, und zwar Sprosspilze wie auch Schimmelpilze, kommen in Darm eines gesunden Menschen vor und bilden das Mykobiom.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Viele verschiedene Pilze, darunter Hefen und Schimmelpilze, können im Darmtrakt des Menschen gefunden werden und bilden das Darmmykobiom."
+  },
+  {
+    "index": 140,
+    "source": "In case the bacterial flora is altered, the fungal flora may react inversely.",
+    "reference": "Bei Störung der bakteriellen Flora kann sich gegenläufig auch die Pilzflora ändern.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Falls die Bakterienflora verändert ist, kann die Pilzflora entgegengesetzt reagieren."
+  },
+  {
+    "index": 141,
+    "source": "By a so-called fungal diet, however, the composition of the mycobiome can hardly be influenced.",
+    "reference": "Mittels „Pilzdiät“ lässt sich die Zusammensetzung nicht ändern.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Durch eine sogenannte Pilzdiät lässt sich die Zusammensetzung des Mykobioms jedoch kaum beeinflussen."
+  },
+  {
+    "index": 142,
+    "source": "Whereas some fungi are only transiently present in the gut after oral uptake, others, such as Candida, Saccharomyces, Rhodotorula, Trichosporon, Geotrichum, amongst others, are members of the residential, autochthonous gut flora.",
+    "reference": "Einige der Pilze sind vermutlich nur passager nach Nahrungsaufnahme im Darm. Andere dagegen, wie Candida, Saccharomyces, Rhodotorula, Trichosporon, Geotrichum u.v. a.m., gehören zur residenten, autochthonen Flora des Darms.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Während einige Pilze nur vorübergehend nach oraler Aufnahme im Darm vorkommen, zählen andere, wie Candida, Saccharomyces, Rhodotorula, Trichosporon, Geotrichum und weitere, zur residenten, autochthonen Darmflora."
+  },
+  {
+    "index": 143,
+    "source": "Some of these fungi exert beneficial effects, for example by synthesizing useful materials.",
+    "reference": "Einerseits haben solche Pilze im Darm durchaus Nutzen, indem sie verwertbare Stoffe herstellen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Einige dieser Pilze üben positive Wirkungen aus, zum Beispiel indem sie nützliche Materialien synthetisieren."
+  },
+  {
+    "index": 144,
+    "source": "Rhodotorula can produce fatty acids and carotenoids.",
+    "reference": "Rhodotorula z. B. kann Fettstoffe und Carotinoide bilden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Rhodotorula kann Fettsäuren und Carotinoide produzieren."
+  },
+  {
+    "index": 145,
+    "source": "Others are able to metabolize toxic compounds, for example mycotoxins as well as procarcinogenic items in food.",
+    "reference": "Andere können Toxine, z. B. Mykotoxine und prokarzinogene Stoffe, in der Nahrung degradieren.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Andere sind in der Lage, toxische Verbindungen zu verstoffwechseln, beispielsweise Mykotoxine sowie prokarzinogene Stoffe in Lebensmitteln."
+  },
+  {
+    "index": 146,
+    "source": "Toxins, as well as pathogenic bacteria, can be bound to mannans on the surface of fungi und can consequently be exported.",
+    "reference": "Toxine sowie pathogene Bakterien können von Mannanen der Oberfläche von Pilzen festgehalten und so abtransportiert werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Toxine sowie pathogene Bakterien können an Mannanen auf der Oberfläche von Pilzen gebunden werden und können folglich exportiert werden."
+  },
+  {
+    "index": 147,
+    "source": "Some fungi are said to exert probiotic activities.",
+    "reference": "Auch probiotische Wirkung zur Regulierung der Bakterienflora wird einigen Pilzen zugetraut.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Einige Pilze sollen probiotische Aktivitäten ausüben."
+  },
+  {
+    "index": 148,
+    "source": "Certain fungal constituents, such as glucans, may even stimulate the immune system.",
+    "reference": "Bestimmte Pilzbestandteile, wie etwa Glukane, können das Immunsystem stimulieren.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bestimmte Pilzbestandteile, wie Glukane, können sogar das Immunsystem stimulieren."
+  },
+  {
+    "index": 149,
+    "source": "On the other hand, some fungi cannot only colonize the gut asymptomatically but can also be noxious under certain conditions when, for example, the bacterial flora is disturbed. By means of their virulence factors, they can damage the gut epithelium and even penetrate into the Mukosa inducing inflammation, They can also aggravate chronic inflammatory processes.",
+    "reference": "Manche Pilze können den Darm nicht nur asymptomatisch kolonisieren sondern bei bestimmten Situationen, wenn z. B. die Bakterienflora gestört ist, auch nachteilig sein, indem sie entweder mithilfe ihrer Virulenzfaktoren eine Schädigung der Schleimhautepithelien bedingen oder sogar in die Mukosa eindringen und Entzündungen hervorrufen bzw. bei bereits chronisch entzündlichen Prozessen diese verstärken.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Auf der anderen Seite können einige Pilze den Darm nicht nur asymptomatisch besiedeln, sondern unter bestimmten Bedingungen, etwa bei gestörter Bakterienflora, auch schädlich sein. Mithilfe ihrer Virulenzfaktoren können sie das Darmepithel schädigen und sogar in die Mukosa eindringen, was Entzündungen auslöst. Außerdem können sie chronische Entzündungsprozesse verstärken."
+  },
+  {
+    "index": 150,
+    "source": "Fungi play a role in the development of obesity.",
+    "reference": "Pilze können bei der Entstehung von Obesitas mitwirken.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Pilze spielen eine Rolle bei der Entwicklung von Fettleibigkeit."
+  },
+  {
+    "index": 151,
+    "source": "Lastly, fungi in the gut represent a reservoir from which they may spread to other sites when the conditions are favorable.",
+    "reference": "Außerdem besteht die Möglichkeit, dass Pilze im Darm ein Reservoir finden, von dem aus sie sich bei günstiger Gelegenheit in andere Körperregionen ausbreiten können.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Abschließend bilden Pilze im Darm ein Reservoir, von dem aus sie sich bei günstigen Bedingungen auf andere Bereiche ausbreiten können."
+  },
+  {
+    "index": 152,
+    "source": "The results of the studies indicate a protective effect of pit and fissure sealants, particularly for children and adolescents at high caries risk.",
+    "reference": "Es gibt Hinweise auf protektive Effekte der Fissuren- und Grübchenversiegelung, insbesondere bei Kindern und Jugendlichen mit hohem Kariesrisiko.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Ergebnisse der Studien deuten auf einen schützenden Effekt von Fissurenversiegelungen hin, insbesondere bei Kindern und Jugendlichen mit hohem Kariesrisiko."
+  },
+  {
+    "index": 153,
+    "source": "Additionally, the economic evaluation suggests a tendency for cost savings in this group.",
+    "reference": "Dabei gibt es Hinweise darauf, dass diese Effekte auf längere Sicht tendenziell mit Kosteneinsparungen verbunden sein könnten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Darüber hinaus deutet die ökonomische Bewertung auf eine Tendenz zu Kosteneinsparungen in dieser Gruppe hin."
+  },
+  {
+    "index": 154,
+    "source": "Nevertheless, a general expansion of the intervention cannot be recommended.",
+    "reference": "Dennoch kann die Ausweitung dieser Intervention auf nationaler Ebene nicht pauschal empfohlen werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dennoch kann eine allgemeine Ausweitung der Intervention nicht empfohlen werden."
+  },
+  {
+    "index": 155,
+    "source": "A swelling palpated adjacent to the spinous processes of the 9th to 12th thoracic vertebrae was identified via ultrasonography as an abscess located on the transverse processes of these vertebrae.",
+    "reference": "Bei der Adspektion und Palpation wurde neben den Dornfortsätzen der Brustwirbel 9 bis 12 eine Umfangsvermehrung festgestellt. Diese stellte sich bei der Ultraschalluntersuchung als kavitäre Läsion dar (Verdacht auf Abszessbildung), welche seitlich auf den Querfortsätzen der Brustwirbel lag.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine tastbare Schwellung neben den Dornfortsätzen der 9. bis 12. Brustwirbel wurde mittels Ultraschall als ein Abszess auf den Querfortsätzen dieser Wirbel identifiziert."
+  },
+  {
+    "index": 156,
+    "source": "Magnetic resonance imaging of the lamb postmortem revealed that the abscess had invaded the vertebral canal through a channel at the level of the 9th thoracic vertebra causing extradural spinal cord compression.",
+    "reference": "Bei der postmortem durchgeführten MRT-Untersuchung (Magnetresonanztomographie) konnten Ausmass und Lage des Abszesses genau charakterisiert werden. Auf Höhe von T9 war ein Kanal zu sehen, der vom Abszess ausging und sich in den Wirbelkanal erstreckte und das Rückenmark komprimierte.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die postmortale Magnetresonanztomographie des Lamms ergab, dass der Abszess durch einen Kanal auf Höhe des 9. Brustwirbels in den Wirbelkanal eingedrungen war und zu einer extraduralen Kompression des Rückenmarks führte."
+  },
+  {
+    "index": 157,
+    "source": "Pointe shoes - developed more than hundred years ago and almost unaltered since then - are highly specific and strike a balance between aesthetics, function, protection, and health care.",
+    "reference": "Der vor über 100 Jahren entwickelte – und seither nicht grundlegend veränderte dafür notwendige Spitzenschuh – ist hochspezifisch und ein Kompromiss zwischen Ästhetik, Funktion, Sicherheit und Gesundheit.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Spitzenschuhe – vor mehr als hundert Jahren entwickelt und seitdem fast unverändert – sind hochspezifisch und finden ein Gleichgewicht zwischen Ästhetik, Funktion, Schutz und Gesundheitsversorgung."
+  },
+  {
+    "index": 158,
+    "source": "Therefore, pointe readiness should be tested prior to all dance training or career training.",
+    "reference": "Vor jedem Trainingsbeginn sollte daher eine Überprüfung der Eignung stehen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Daher sollte die Eignung zum Spitzentanz vor jeder Tanzausbildung oder Berufsausbildung getestet werden."
+  },
+  {
+    "index": 159,
+    "source": "Medical specialists are often confronted with this issue.",
+    "reference": "Mit dieser Fragestellung werden regelmäßig auf dem Gebiet der Medizin tätige Fachkräfte konfrontiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Medizinische Spezialisten werden häufig mit diesem Problem konfrontiert."
+  },
+  {
+    "index": 160,
+    "source": "Specific anatomical dance technique-orientated general conditional and coordinative preconditions as well as dance-technical prerequisites must be met by pointe readiness tests in order to keep traumatic injuries or long-term damage at a minimum.",
+    "reference": "Für eine Spitzentanz-Eignung (SST) müssen besondere anatomische, sich an der Tanztechnik orientierende allgemeine konditionelle und koordinative sowie spezifische tanztechnische Voraussetzungen erfüllt sein, um sowohl das akute Verletzungsrisiko als auch die Entstehung langfristiger Schäden möglichst gering zu halten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Spezifische anatomische, tanztechnisch ausgerichtete allgemeine konditionelle und koordinative Voraussetzungen sowie tanztechnische Anforderungen müssen durch Spitzentauglichkeitstests überprüft werden, um traumatische Verletzungen oder langfristige Schäden auf ein Minimum zu begrenzen."
+  },
+  {
+    "index": 161,
+    "source": "In addition to a (training) history, medical counselling sessions have come to include various tests that enable a reliable decision for or against pointe work.",
+    "reference": "Dafür stehen neben einer (Trainings-)Anamnese mittlerweile verschiedene Testverfahren zur Verfügung, die im Verlauf einer Beratung eine zuverlässige Entscheidung für oder gegen den Spitzentanz ermöglichen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Zusätzlich zu einer (Trainings-)Anamnese umfassen medizinische Beratungsgespräche inzwischen verschiedene Tests, die eine verlässliche Entscheidung für oder gegen das Spitzentanzen ermöglichen."
+  },
+  {
+    "index": 162,
+    "source": "Pre-marketing and post-marketing clinical studies revealed an improvement of visual function in ocriplasmin treated eyes and showed a release of traction in up to 78% of cases.",
+    "reference": "Sowohl klinische Phase-III-Studien als auch nach Zulassung von Ocriplasmin durchgeführte Studien konnten zeigen, dass eine Verbesserung der Sehschärfe durch die intravitreale Injektion des Medikaments erreicht werden kann und die VMT in 78% der Fälle durch die Behandlung gelöst wird.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Prämarketing- und Postmarketing-Studien zeigten eine Verbesserung der Sehfunktion in mit Ocriplasmin behandelten Augen und eine Lösung der Traktion in bis zu 78 % der Fälle."
+  },
+  {
+    "index": 163,
+    "source": "We report about an acute monkshood intoxication requiring acute resuscitation in suicidal intent in a 56-year-old patient.",
+    "reference": "Wir berichten über eine akute Eisenhutintoxikation einer 56-jährigen Patientin mit Blauem Eisenhut (Aconitum napellus) in suizidaler Absicht.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Wir berichten über eine akute Eisenhutvergiftung, die bei einem 56-jährigen Patienten in suizidaler Absicht eine sofortige Wiederbelebung erforderlich machte."
+  },
+  {
+    "index": 164,
+    "source": "All plant parts contain the highly toxic alkonoid aconitin.",
+    "reference": "Alle Pflanzenteile enthalten das hochgiftige Alkaloid Aconitin.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Alle Pflanzenteile enthalten das hochgiftige Alkonoid Aconitin."
+  },
+  {
+    "index": 165,
+    "source": "The lethal dose in adults is 2 - 6 mg.",
+    "reference": "Die letale Dosis beim Erwachsenen beträgt 2 – 6 mg.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die letale Dosis bei Erwachsenen beträgt 2–6 mg."
+  },
+  {
+    "index": 166,
+    "source": "Intoxications are often fatal.",
+    "reference": "Intoxikationen verlaufen häufig tödlich.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Vergiftungen sind oft tödlich."
+  },
+  {
+    "index": 167,
+    "source": "Asymptomatic patients with suspected monkshood intoxication should also be monitored on an ICU.",
+    "reference": "Auch asymptomatische Patienten mit Verdacht auf Eisenhutintoxikation sollten auf einer Intensivstation überwacht werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Asymptomatische Patienten mit Verdacht auf eine Eisenhutvergiftung sollten ebenfalls auf einer Intensivstation überwacht werden."
+  },
+  {
+    "index": 168,
+    "source": "First signs of intoxication are paraesthesia in the mouth and throat area, abdominal cramps, nausea, vomiting and severe pain in skeletal muscle.",
+    "reference": "Erste Intoxikationszeichen sind Parästhesien im Mund- und Rachenbereich, Bauchkrämpfe, Übelkeit, Erbrechen und starke Schmerzen der Skelettmuskulatur.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Erste Anzeichen einer Vergiftung sind Parästhesien im Mund- und Rachenbereich, Bauchkrämpfe, Übelkeit, Erbrechen und starke Schmerzen in der Skelettmuskulatur."
+  },
+  {
+    "index": 169,
+    "source": "Affected patients die within hours after ingestion due to respiratory distress and/or cardiac arrhythmia.The most important measure after oral ingestion is to achieve a rapid primary poison elimination clearance (in the case of awareness clear patients, trigger vomiting, otherwise gastric lavage under protective intubation) and the subsequent carbonation.",
+    "reference": "Betroffene Patienten versterben innerhalb weniger Stunden nach Ingestion aufgrund von Atemlähmung und/oder Herzrhythmusstörungen.Die wichtigste Maßnahme nach oraler Ingestion besteht in einer möglichst schnellen primären Giftelimination (bei bewusstseinsklaren Patienten Erbrechen auslösen, sonst Magenspülung unter Schutzintubation) und der anschließenden Kohlegabe.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Betroffene Patienten sterben innerhalb von Stunden nach der Einnahme aufgrund von Atemnot und/oder Herzrhythmusstörungen. Die wichtigste Maßnahme nach oraler Einnahme besteht darin, eine schnelle primäre Giftelimination zu erreichen (bei wachem Bewusstsein Erbrechen auslösen, andernfalls Magenspülung unter geschützter Intubation) und anschließend Aktivkohle zu verabreichen."
+  },
+  {
+    "index": 170,
+    "source": "A specific antidote is not available.",
+    "reference": "Ein spezifisches Antidot steht nicht zur Verfügung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Ein spezifisches Gegenmittel ist nicht verfügbar."
+  },
+  {
+    "index": 171,
+    "source": "The management of an intoxication consists primarily of the therapy of the rhythm disturbances in the form of magnesium and amiodarone.Strict adherence to protective measures (gloves, masks) must be strictly observed.",
+    "reference": "Das Management einer Intoxikation besteht vor allem aus der Therapie der Rhythmusstörungen in Form von Magnesium und Amiodaron.Auf die strikte Einhaltung von Eigenschutzmaßnahmen (Handschuhe, Mundschutz) muss unbedingt geachtet werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Behandlung einer Vergiftung besteht in erster Linie in der Therapie von Rhythmusstörungen durch Magnesium und Amiodaron. Die strikte Einhaltung von Schutzmaßnahmen (Handschuhe, Masken) muss streng beachtet werden."
+  },
+  {
+    "index": 172,
+    "source": "A direct skin contact with plant parts is to be avoided as well as the potential contact with vomit or aspirate.",
+    "reference": "Ein direkter Hautkontakt mit Pflanzenteilen ist ebenso zu vermeiden wie der potenzielle Kontakt mit Erbrochenem oder Aspirat.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Ein direkter Hautkontakt mit Pflanzenteilen sollte ebenso vermieden werden wie ein potenzieller Kontakt mit Erbrochenem oder Aspirat."
+  },
+  {
+    "index": 173,
+    "source": "Urinary incontinence in women is a common problem.",
+    "reference": "Harninkontinenz bei der Frau ist ein häufiges Problem.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Harninkontinenz bei Frauen ist ein häufiges Problem."
+  },
+  {
+    "index": 174,
+    "source": "With increasing age its prevalence and severity of its manifestations increase.",
+    "reference": "Mit dem Alter steigt ihre Prävalenz und die Schwere ihrer Ausprägung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Mit zunehmendem Alter nehmen sowohl die Häufigkeit als auch die Schwere seiner Ausprägungen zu."
+  },
+  {
+    "index": 175,
+    "source": "Among nursing home residents the frequency is between 43 and 77 %, 6 to 10 % of all admissions to nursing homes are due to urinary incontinence.",
+    "reference": "Bei Bewohnerinnen von Pflegeheimen beträgt die Häufigkeit 43–77 %, 6–10 % der Heimeinweisungen erfolgen wegen Harninkontinenz.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Unter Pflegeheimbewohnern liegt die Häufigkeit zwischen 43 und 77 %, 6 bis 10 % aller Aufnahmen in Pflegeheime sind auf Harninkontinenz zurückzuführen."
+  },
+  {
+    "index": 176,
+    "source": "The risk for urinary incontinence among women with cognitive deficits is 1.5- to 3.4-fold higher than for women without mental disorders.",
+    "reference": "Das Risiko für eine Harninkontinenz ist bei Frauen mit kognitivem Defizit um den Faktor 1,5–3,5 erhöht gegenüber Frauen mit ungestörter mentaler Funktion.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Das Risiko für Harninkontinenz bei Frauen mit kognitiven Defiziten ist 1,5- bis 3,4-mal höher als bei Frauen ohne psychische Störungen."
+  },
+  {
+    "index": 177,
+    "source": "The most common form is stress incontinence (50 %), followed by mixed stress-urge incontinence (40 %) and purely urge incontinence (OAB = overactive bladder, 20 %).",
+    "reference": "Die häufigste Harninkontinenz ist die Belastungsinkontinenz (50 %), gefolgt von der gemischten Belastungs-Drang-Inkontinenz (40 %) und der reinen Dranginkontinenz (ÜAB = überaktive Blase, 20 %).",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die häufigste Form ist die Belastungsinkontinenz (50 %), gefolgt von einer gemischten Belastungs- und Dranginkontinenz (40 %) sowie einer reinen Dranginkontinenz (OAB = Overactive Bladder, 20 %)."
+  },
+  {
+    "index": 178,
+    "source": "With regard to its cause, the latter remains unclarified in about 80 % of the cases.",
+    "reference": "Letztere bleibt hinsichtlich ihrer Ursache in ca. 80 % der Fälle ungeklärt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bezüglich seiner Ursache bleibt Letzteres in etwa 80 % der Fälle ungeklärt."
+  },
+  {
+    "index": 179,
+    "source": "It is often difficult to treat.",
+    "reference": "Sie ist gelegentlich schwierig zu behandeln.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Es ist oft schwierig zu behandeln."
+  },
+  {
+    "index": 180,
+    "source": "There are also cases in which urge incontinence is related to traumatic events.",
+    "reference": "Es gibt Fälle, in denen eine Dranginkontinenz im Zusammenhang steht mit traumatisierenden Ereignissen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Es gibt auch Fälle, in denen Dranginkontinenz mit traumatischen Ereignissen in Verbindung steht."
+  },
+  {
+    "index": 181,
+    "source": "In such cases behavioural and psychotherapeutic options may be helpful.",
+    "reference": "Dann können zusätzliche verhaltenstherapeutische und psychotherapeutische Ansätze hilfreich sein.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "In solchen Fällen können Verhaltens- und psychotherapeutische Optionen hilfreich sein."
+  },
+  {
+    "index": 182,
+    "source": "Almost inevitably every form of incontinence has psychological consequences: shame and insecurity are often results of uncontrolled loss of urine.",
+    "reference": "Fast zwangsläufig hat jede Form von Inkontinenz psychische Folgen: mit unkontrolliertem Urinverlust sind häufig Scham und Unsicherheit verbunden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Fast zwangsläufig hat jede Form der Inkontinenz psychische Konsequenzen: Scham und Unsicherheit sind oft die Folge eines unkontrollierten Urinverlustes."
+  },
+  {
+    "index": 183,
+    "source": "Among others, in the long term, they lead to the avoidance of social contacts and possibly to depression and isolation.",
+    "reference": "Sie führen u. U. langfristig zur Vermeidung von sozialen Kontakten, und evtl. zu Depressivität und Vereinsamung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Unter anderem führen sie langfristig zur Vermeidung sozialer Kontakte und möglicherweise zu Depressionen und Isolation."
+  },
+  {
+    "index": 184,
+    "source": "Consideration of the psychosomatics is important in the therapy for female urinary incontinence from three points of view: 1) the efficacy of treatment is better suited to the patient, 2) the treatment costs are lower, 3) the professional satisfaction of the responsible physician increases.",
+    "reference": "Unter 3 Gesichtspunkten ist die Berücksichtigung der Psychosomatik bei der Therapie der weiblichen Inkontinenz wichtig: 1. die Effizienz der Behandlung wird der Patientin besser gerecht, 2. die Kosten der Behandlung sinken, 3. die Arbeitszufriedenheit der behandelnden Ärzte und Ärztinnen steigt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Berücksichtigung psychosomatischer Aspekte ist in der Therapie der weiblichen Harninkontinenz aus drei Gesichtspunkten wichtig: 1) Die Wirksamkeit der Behandlung ist besser auf die Patientin abgestimmt, 2) Die Behandlungskosten sind geringer, 3) Die berufliche Zufriedenheit der verantwortlichen Ärztin oder des verantwortlichen Arztes steigt."
+  },
+  {
+    "index": 185,
+    "source": "The general practitioner or pediatrician mostly is the first point of contact for overweight children and may recognize adiposity early enough in order to start therapy of obesity or comorbidity or to initiate measures of prevention.",
+    "reference": "Der Haus- oder Kinderarzt als erste Anlaufstelle kann das Übergewicht rechtzeitig erkennen, und bei Adipositas oder Komorbiditäten eine Therapie durchführen, bzw. Präventionsmaßnahmen einleiten.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Der Hausarzt oder Kinderarzt ist in der Regel der erste Ansprechpartner für übergewichtige Kinder und kann Adipositas frühzeitig erkennen, um eine Therapie bei Fettleibigkeit oder Begleiterkrankungen zu beginnen oder präventive Maßnahmen einzuleiten."
+  },
+  {
+    "index": 186,
+    "source": "As obesity requires care of the entire family, close or recurring contact with the overweight child and its family is important as well as the treatment nearby their residence.",
+    "reference": "Da die Adipositas eine Betreuung der gesamten Familie erfordert, sind enger bzw. wiederkehrender Kontakt mit Kindern und Familie sowie die Wohnortnähe der Behandlung wichtig.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Da Adipositas eine Betreuung der gesamten Familie erfordert, sind ein enger oder regelmäßiger Kontakt mit dem übergewichtigen Kind und seiner Familie sowie eine wohnortnahe Behandlung wichtig."
+  },
+  {
+    "index": 187,
+    "source": "Therefore, various techniques of treatment of alcohol or tobacco addiction can be used and recommendations for improvement of self-worth as well as healthy eating behavior and exercise are presented.",
+    "reference": "Daher können Techniken der Alkohol- und Tabak-Sucht-Behandlung genutzt werden und Empfehlungen zur Verbesserung des Selbstwertes, der Bewegung sowie des Essverhaltens angeführt werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Daher können verschiedene Techniken zur Behandlung von Alkohol- oder Tabaksucht angewendet werden, und es werden Empfehlungen zur Verbesserung des Selbstwertgefühls sowie zu einem gesunden Essverhalten und regelmäßiger Bewegung vorgestellt."
+  },
+  {
+    "index": 188,
+    "source": "First feasible objectives include modest lifestyle changes and reduction of comorbidities; if an extreme obesity with a BMI above 99.5th percentile or mental disorders are present or if it becomes apparent within the first 6 months that the patient cannot achieve his own goals for changes in lifestyle and body weight, a referral to a specialized center is indicated. There, a multi-professional treatment of the child and his family is performed in common by specialists for nutrition, exercise and psychology.",
+    "reference": "Machbare Ziele umfassen zunächst kleine Lebensstiländerungen und Reduktion von Komorbiditäten, wenn eine extreme Adipositas mit BMI über der 99.5 Perzentile oder psychische Störungen bestehen, oder sich innert der ersten 6 Monate abzeichnet, dass die eigenen Ziele nicht erreicht werden können, ist die Weiterleitung an ein spezialisiertes Zentrum zur multiprofessionellen Behandlung indiziert, in der Spezialisten für Ernährung, Bewegung und Psychologie gemeinsam die Therapie des Kindes mit seiner Familie übernehmen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Erste umsetzbare Ziele umfassen bescheidene Lebensstiländerungen und die Reduktion von Komorbiditäten; bei extremer Adipositas mit einem BMI über der 99,5. Perzentile oder bei Vorliegen psychischer Störungen oder wenn sich innerhalb der ersten 6 Monate zeigt, dass der Patient seine eigenen Ziele bezüglich Lebensstil und Körpergewicht nicht erreichen kann, ist eine Überweisung an ein spezialisiertes Zentrum indiziert. Dort wird eine multiprofessionelle Behandlung des Kindes und seiner Familie durch Spezialisten für Ernährung, Bewegung und Psychologie gemeinsam durchgeführt."
+  },
+  {
+    "index": 189,
+    "source": "Childhood obesity is a chronic disease that requires a very long-term treatment and usually persists into adulthood.",
+    "reference": "Die Adipositas ist bereits in der Kindheit eine chronische Erkrankung, die eine sehr langfristige Behandlung benötigt und meist bis ins Erwachsenalter andauert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Kindliche Adipositas ist eine chronische Erkrankung, die eine sehr langfristige Behandlung erfordert und sich in der Regel bis ins Erwachsenenalter fortsetzt."
+  },
+  {
+    "index": 190,
+    "source": "Therapeutic goals are a permanently stable, painless cervical spine and the protection against secondary neurologic damage while retaining the greatest possible amount of motion and spinal profile.",
+    "reference": "Therapieziele sind eine dauerhaft stabile, schmerzfreie Halswirbelsäule und der Schutz vor sekundären neurologischen Schäden unter größtmöglicher Berücksichtigung der Beweglichkeit und des Wirbelsäulenprofils.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Therapeutische Ziele sind eine dauerhaft stabile, schmerzfreie Halswirbelsäule und der Schutz vor sekundären neurologischen Schäden bei gleichzeitiger Erhaltung der größtmöglichen Beweglichkeit und des Wirbelsäulenprofils."
+  },
+  {
+    "index": 191,
+    "source": "Due to its ease of use and its proven good reliability, the AOSpine classification for subaxial cervical injuries should be used.",
+    "reference": "Aufgrund der Praktikabilität und der guten Evaluation hinsichtlich Reliabilität sollte die AOSpine-Klassifikation für subaxiale HWS-Verletzungen für die Klassifikation zur Anwendung kommen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Aufgrund ihrer benutzerfreundlichen Handhabung und ihrer nachgewiesenen guten Zuverlässigkeit sollte die AOSpine-Klassifikation für subaxiale Halswirbelsäulenverletzungen verwendet werden."
+  },
+  {
+    "index": 192,
+    "source": "The Canadian C-Spine Rule is recommended as a clinical decision rule whether to perform imaging or not.",
+    "reference": "Es wird die Canadian C-Spine Rule als klinischer Algorithmus zur Entscheidung hinsichtlich der Notwendigkeit einer bildgebenden Diagnostik empfohlen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die kanadische C-Spine-Regel wird als klinische Entscheidungsregel empfohlen, um zu entscheiden, ob eine Bildgebung durchgeführt werden soll oder nicht."
+  },
+  {
+    "index": 193,
+    "source": "If a structural or unstable injury is suspected by patient history or clinical findings, a spiral CT scan of the cervical spine is the favoured diagnostic modality.",
+    "reference": "Bei gemäß dieser Regel anamnestisch oder klinisch hohem Verdacht auf eine strukturelle, instabile Verletzung ist die Spiral-CT der HWS Verfahren der Wahl.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Wenn aufgrund der Anamnese oder klinischer Befunde der Verdacht auf eine strukturelle oder instabile Verletzung besteht, ist eine Spiral-CT-Untersuchung der Halswirbelsäule das bevorzugte diagnostische Verfahren."
+  },
+  {
+    "index": 194,
+    "source": "Conventional X-ray is reserved for patients in whom there is no \"dangerous mechanism of injury\".",
+    "reference": "Die konventionelle Röntgendiagnostik in 2 Ebenen bleibt Fällen vorbehalten, in denen kein „gefährlicher Unfallmechanismus“ vorliegt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Konventionelles Röntgen ist Patienten vorbehalten, bei denen kein „gefährlicher Verletzungsmechanismus“ vorliegt."
+  },
+  {
+    "index": 195,
+    "source": "MR imaging is recommended in case of unexplained neurologic deficit, prior to closed reduction and open posterior surgery and to exclude disco-ligamentous injuries. Urgency of MR imaging depends on the specific findings.",
+    "reference": "Die Indikation für die MRT der HWS wird vor allem bei nicht erklärbaren neurologischen Symptomen, bei geplanter geschlossener Reposition und dorsaler Stabilisierung und zum Ausschluss vermuteter diskoligamentärer Verletzungen empfohlen, wobei hier je nach Befundkonstellation eine abgestufte Dringlichkeit gilt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bei ungeklärtem neurologischem Defizit, vor einer geschlossenen Reposition und einer offenen dorsalen Operation sowie zum Ausschluss disko-ligamentärer Verletzungen wird eine MRT-Untersuchung empfohlen. Die Dringlichkeit der MRT-Untersuchung hängt von den spezifischen Befunden ab."
+  },
+  {
+    "index": 196,
+    "source": "CT angiography is recommended in higher-grade facet joint injuries or in the presence of vertebra-basilar symptoms.",
+    "reference": "Die CT-Angiografie wird bei höhergradigen Facettengelenkverletzungen oder bei Vorliegen vertebrobasilärer Symptome empfohlen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "CT-Angiographie wird bei höhergradigen Facettengelenkverletzungen oder bei Vorliegen vertebro-basilärer Symptome empfohlen."
+  },
+  {
+    "index": 197,
+    "source": "Flexion-extension imaging is recommended only as a physician-guided dynamic fluoroscopy, when an unstable lesion is still suspected.",
+    "reference": "Die konventionelle Funktionsdiagnostik wird ausschließlich in Form der ärztlich geführten dynamischen Bildwandlerdurchleuchtung bei persistierendem Verdacht auf eine instabile Verletzung empfohlen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Eine Flexions-Extensions-Bildgebung wird nur als ärztlich angeleitete dynamische Fluoroskopie empfohlen, wenn weiterhin eine instabile Läsion vermutet wird."
+  },
+  {
+    "index": 198,
+    "source": "The therapeutic strategy is mainly dependent on morphologic criteria, which are described using the AOSpine classification.",
+    "reference": "Die therapeutische Strategie richtet sich primär nach der Verletzungsmorphologie, die in der AOSpine-Klassifikation beschrieben wird.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die therapeutische Strategie hängt hauptsächlich von morphologischen Kriterien ab, die mithilfe der AOSpine-Klassifikation beschrieben werden."
+  },
+  {
+    "index": 199,
+    "source": "A0-injuries are treated conservatively.",
+    "reference": "A0-Frakturen sollten konservativ behandelt werden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "A0-Verletzungen werden konservativ behandelt."
+  },
+  {
+    "index": 200,
+    "source": "A1- and A2-injuries are treated conservatively in the majority of cases, and in single cases a gross kyphotic deformity might indicate surgical stabilisation.",
+    "reference": "A1- und A2-Frakturen sollten meistens konservativ behandelt werden, wobei die segmentale Kyphose in Einzelfällen eine OP-Indikation bedingen kann.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "A1- und A2-Verletzungen werden in den meisten Fällen konservativ behandelt, und in Einzelfällen kann eine ausgeprägte kyphotische Deformität eine chirurgische Stabilisierung erforderlich machen."
+  },
+  {
+    "index": 201,
+    "source": "A3-injuries do indicate a surgical therapy in the majority of cases, but certain cases might be treated conservatively.",
+    "reference": "A3-Frakturen stellen in den meisten Fällen eine OP-Indikation dar, in Einzelfällen ist eine konservative Behandlung möglich.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "A3-Verletzungen indizieren in den meisten Fällen eine operative Therapie, aber bestimmte Fälle können konservativ behandelt werden."
+  },
+  {
+    "index": 202,
+    "source": "A4-fractures as well as B- and C-type injuries are to be treated surgically.",
+    "reference": "A4-Frakturen sowie die B- und C-Verletzungen bedürfen einer operativen Therapie.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "A4-Frakturen sowie B- und C-Typ-Verletzungen müssen chirurgisch behandelt werden."
+  },
+  {
+    "index": 203,
+    "source": "Most injuries can be treated by anterior plate stabilisation with interbody support; when a complete burst fracture is present, corpectomy and vertebral body replacement is necessary. In certain cases, an additive posterior or pure posterior instrumentation might be possible or even mandatory.",
+    "reference": "Die ventrale Plattenspondylodese mit interkorporeller Abstützung (bei Berstungskomponente durch Korporektomie und Wirbelkörperersatz) wird für die meisten Verletzungen empfohlen, eine rein dorsale oder zusätzlich dorsale Stabilisierung kann bei besonderer Befundkonstellation möglich oder sogar notwendig sein.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die meisten Verletzungen können durch eine anteriore Plattenstabilisierung mit Interkörperstützung behandelt werden; bei einer vollständigen Berstungsfraktur sind eine Corpektomie und ein Wirbelkörperersatz notwendig. In bestimmten Fällen kann eine zusätzliche dorsale oder eine rein dorsale Instrumentierung möglich oder sogar erforderlich sein."
+  },
+  {
+    "index": 204,
+    "source": "Injuries in an ankylosing spine (M3-modifier) should be treated preferably from posterior with long-segment instrumentation.",
+    "reference": "Bei Vorliegen einer ankylosierenden Grunderkrankung (M3-Modifikator) wird hingegen die dorsale, langstreckige Stabilisierung favorisiert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Verletzungen in einer ankylosierenden Wirbelsäule (M3-Modifikator) sollten vorzugsweise posterior mit einer Langsegmentinstrumentierung behandelt werden."
+  },
+  {
+    "index": 205,
+    "source": "The benefits of minimally invasive surgery for oncology patients and the quality of this treatment are well documented. Outcomes and quality of minimally invasive surgical procedures to treat cervical cancer were evaluated based on retrospective and case-control studies; outcomes and quality after minimally invasive treatment für early-stage low-risk endometrial cancer were also assessed in prospective randomized studies.",
+    "reference": "Die allgemeinen Vorteile minimalinvasiver Operationstechniken sind auch für onkologische Patientinnen mittlerweile gut belegt bei gleichzeitiger Wahrung der onkologischen Behandlungsqualität. Dies wurde für die operative Therapie des Zervixkarzinoms anhand retrospektiver und Fallkontrollstudien, für das frühe Low-Risk-Endometriumkarzinom auch prospektiv-randomisiert erfolgreich gezeigt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Vorteile der minimal-invasiven Chirurgie für onkologische Patientinnen und Patienten und die Qualität dieser Behandlung sind gut dokumentiert. Ergebnisse und Qualität minimal-invasiver chirurgischer Verfahren zur Behandlung von Gebärmutterhalskrebs wurden auf der Grundlage retrospektiver und Fall-Kontroll-Studien ausgewertet; Ergebnisse und Qualität nach einer minimal-invasiven Behandlung von Frühstadien bei niedrigem Risiko des Endometriumkarzinoms wurden zudem in prospektiv-randomisierten Studien untersucht."
+  },
+  {
+    "index": 206,
+    "source": "If indicated, laparoscopic lymphadenectomy is both technically feasible and oncologically safe. Adipose patients in particular benefit from minimally invasive procedures, where feasible.",
+    "reference": "Eine indizierte Lymphonodektomie lässt sich sowohl technisch als auch onkologisch sicher per Laparoskopie durchführen und gerade adipöse Risikopatientinnen profitieren, wenn durchführbar, vom minimalinvasiven Vorgehen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bei entsprechender Indikation ist eine laparoskopische Lymphadenektomie sowohl technisch durchführbar als auch onkologisch sicher. Insbesondere adipöse Patienten profitieren, wo möglich, von minimalinvasiven Verfahren."
+  },
+  {
+    "index": 207,
+    "source": "The potential role of laparoscopy in neoadjuvant therapy for ovarian cancer and in surgery for early-stage ovarian carcinoma is still controversially discussed and is currently being assessed in further studies.",
+    "reference": "Beim Ovarialkarzinom wird eine mögliche Rolle des laparoskopischen Zugangs im Rahmen neoadjuvanter Therapiekonzepte und zur operativen Therapie in Frühstadien kontrovers diskutiert und erfolgt daher derzeit unter Studienbedingungen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die potenzielle Rolle der Laparoskopie in der neoadjuvanten Therapie bei Eierstockkrebs und bei Operationen im Frühstadium des Ovarialkarzinoms wird nach wie vor kontrovers diskutiert und derzeit in weiteren Studien untersucht."
+  },
+  {
+    "index": 208,
+    "source": "Using a minimally invasive approach in gynecologic oncology procedures demands strict adherence to oncological principles and requires considerable surgical skill.",
+    "reference": "Die Durchführung gynäkoonkologischer Eingriffe mit minimalinvasivem Zugang setzt nicht nur die Einhaltung onkologischer Prinzipien, sondern auch erhebliches operationstechnisches Know-how voraus.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Anwendung eines minimal-invasiven Ansatzes bei gynäkologischen Onkologieeingriffen erfordert die strikte Einhaltung onkologischer Prinzipien und verlangt beträchtliches chirurgisches Geschick."
+  },
+  {
+    "index": 209,
+    "source": "In 1828, the Society of Swiss Veterinarians (GST) raised a prize question in regard to the symptoms, etiology and prophylaxis of polyarthritis in the foal.",
+    "reference": "Die Gesellschaft Schweizer Tierärzte (GST) stellte 1828 eine Preisfrage, welche die Symptomatik, Aetiologie und Prophylaxe der Polyarthritis des Fohlens betraf.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Im Jahr 1828 stellte die Gesellschaft Schweizer Tierärzte (GST) eine Preisfrage zu den Symptomen, der Ätiologie und der Prophylaxe der Polyarthritis beim Fohlen."
+  },
+  {
+    "index": 210,
+    "source": "The treatise of Matthias Anker on this subject was treated with distinction and published in 1830.",
+    "reference": "Der Aufsatz von Matthias Anker zu diesem Thema wurde ausgezeichnet und 1830 publiziert.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Abhandlung von Matthias Anker zu diesem Thema wurde mit Auszeichnung behandelt und im Jahr 1830 veröffentlicht."
+  },
+  {
+    "index": 211,
+    "source": "His statements answered both the questions to the clinical aspects and referred also to epidemiological, pathological, economical and ethical issues as well as husbandry and relations with the breeders.",
+    "reference": "Seine Ausführungen beantworteten sowohl die Fragen zu den klinischen Aspekten, nahmen aber auch Bezug zu epidemiologischen, pathologischen, ökonomischen und ethischen Belangen sowie zur Haltung der Pferde und zum Umgang mit den Züchtern.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Seine Aussagen beantworteten sowohl die Fragen zu den klinischen Aspekten als auch zu epidemiologischen, pathologischen, wirtschaftlichen und ethischen Themen sowie zur Haltung und den Beziehungen zu den Züchtern."
+  },
+  {
+    "index": 212,
+    "source": "The comprehensive article of Anker in a lucid language and obliging views still finds great interest today, as the septicemia is one of the big problems in stud medicine now as before.",
+    "reference": "Die umfassende Arbeit von Anker in klarer Sprache und mit verbindlichen Ansichten findet heute noch Interesse, weil die Septikämie nach wie vor eines der grossen Probleme der Gestütsmedizin ist.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Ankers umfassender Artikel in klarer Sprache und mit entgegenkommenden Ansichten findet auch heute noch großes Interesse, da die Sepsis nach wie vor eines der großen Probleme in der Gestütsmedizin ist."
+  },
+  {
+    "index": 213,
+    "source": "Moreover it is astonishing that the recommendations of Anker were disregarded too often.",
+    "reference": "Überdies verwundert, dass die Empfehlungen von Anker später zu oft missachtet wurden.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Darüber hinaus ist es erstaunlich, dass die Empfehlungen von Anker viel zu oft ignoriert wurden."
+  },
+  {
+    "index": 214,
+    "source": "The reasons for this fact may be due to the inadequate transfer of knowledge, on the one hand because of the educational system in that time, on the other side due to the modest economical importance of horse breeding and the neglected formation in this field.",
+    "reference": "Die Gründe für diesen Umstand dürften vor allem in der mangelhaften Vermittlung des Wissens liegen, einerseits wegen des Standes des Schulwesens zu jener Zeit, zum andern in der bescheidenen wirtschaftlichen Bedeutung der Pferdezucht und der vernachlässigten Ausbildung auf diesem Gebiet.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Gründe für diese Tatsache können auf die unzureichende Wissensvermittlung zurückzuführen sein, einerseits aufgrund des damaligen Bildungssystems, andererseits aufgrund der geringen wirtschaftlichen Bedeutung der Pferdezucht und der vernachlässigten Ausbildung in diesem Bereich."
+  },
+  {
+    "index": 215,
+    "source": "The recommendations are still valid.",
+    "reference": "Die Empfehlungen sind noch heute gültig.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Empfehlungen sind weiterhin gültig."
+  },
+  {
+    "index": 216,
+    "source": "Trastuzumab administered in combination with various chemotherapy regimens has led to outstanding improvements in both disease-free survival and overall survival.",
+    "reference": "Die Kombination von Trastuzumab mit verschiedenen Chemotherapie-Regimen hat zu einer deutlichen Verbesserung des krankheitsfreien Überlebens und des Gesamtüberlebens geführt.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Die Gabe von Trastuzumab in Kombination mit verschiedenen Chemotherapieregimen hat zu herausragenden Verbesserungen sowohl beim krankheitsfreien Überleben als auch beim Gesamtüberleben geführt."
+  },
+  {
+    "index": 217,
+    "source": "So far, thousands of patients have been treated in this way which has proven to be reasonably safe, with cardiac events being the predominant recognisable toxicity requiring surveillance.",
+    "reference": "Bisher sind tausende Patienten mit diesem Therapieansatz behandelt worden, welcher sich als angemessen sicher erwiesen hat. Hauptsächlich werden kardiale Nebenwirkungen beobachtet, die einer Kontrolle bedürfen.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Bisher wurden Tausende von Patienten auf diese Weise behandelt, was sich als einigermaßen sicher erwiesen hat, wobei kardiale Ereignisse die wichtigste erkennbare Toxizität darstellen und daher überwacht werden müssen."
+  },
+  {
+    "index": 218,
+    "source": "Notwithstanding the large cumulative experience of the oncology community in treating early HER2/neu-positive breast cancer with trastuzumab, some uncertainties remain, with key issues being the ideal time of chemotherapy administration and the optimal duration of trastuzumab therapy.",
+    "reference": "Trotz der weitreichenden kumulativen Erfahrungen innerhalb der onkologischen Gemeinschaft zur Behandlung des frühen HER2/neu-positiven Mammakarzinoms mit Trastuzumab bestehen noch immer bestimmte Ungewissheiten, vor allem bezüglich des idealen Verabreichungszeitpunkts für die Chemotherapie und der optimalen Dauer der Trastuzu-mab-Therapie.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Trotz der umfangreichen gesammelten Erfahrung der Onkologie-Gemeinschaft bei der Behandlung von frühem HER2/neu-positivem Brustkrebs mit Trastuzumab bestehen weiterhin einige Unsicherheiten. Zu den zentralen Fragen zählen der ideale Zeitpunkt für die Verabreichung der Chemotherapie und die optimale Dauer der Trastuzumab-Therapie."
+  },
+  {
+    "index": 219,
+    "source": "This paper discusses these issues in the light of the recent updates of some of the pivotal clinical trials in the adjuvant context.",
+    "reference": "Die vorliegende Arbeit befasst sich mit diesen Fragepunkten angesichts jüngster Updates von einigen zentralen klinischen Studien zur adjuvanten Behandlung.",
+    "src_lang": "English",
+    "tgt_lang": "German",
+    "prediction": "Dieses Paper erörtert diese Themen im Lichte der jüngsten Aktualisierungen einiger maßgeblicher klinischer Studien im adjuvanten Kontext."
+  }
+]

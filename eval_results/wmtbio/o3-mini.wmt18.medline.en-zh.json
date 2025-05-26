@@ -1,0 +1,1946 @@
+[
+  {
+    "index": 0,
+    "source": "Lung cancer is one of the most common diseases that endanger health and life of people domestically. A number of recurrence and death of lung cancer originated from metastasis.",
+    "reference": "肺癌是危害我国人民健康与生命的重大疾病之一，肺癌的复发和死亡多源于肿瘤转移。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "肺癌是危害人们健康和生命的最常见疾病之一。许多肺癌的复发和死亡源于转移。"
+  },
+  {
+    "index": 1,
+    "source": "As a key step in metastasis of lung cancer, epithelial to mesenchymal transition involved down-regulation of E-cadherin, as well as regulated by EMT transcription factors.",
+    "reference": "上皮细胞的间质化过程（epithelial-mesenchymal transition, EMT）是肺癌转移中的一个关键步骤，此过程涉及E-cadherin表达下调，并受到EMT转录因子调控。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "作为肺癌转移的一个关键步骤，上皮到间质的转变涉及E-cadherin的下调，并受到EMT转录因子的调控。"
+  },
+  {
+    "index": 2,
+    "source": "HATs and HDACs is a protein family that catalyzes acetylation and deacetylation of histones. Not only they have vital functions in tumor pathogenesis, but also participate in the EMT of lung cancer.",
+    "reference": "组蛋白乙酰转移酶（histone acetyltransferases, HATs）和组蛋白去乙酰化酶（histone deacetyltransferases, HDACs）是催化组蛋白乙酰化和去乙酰化的蛋白家族，不仅在肿瘤进程中发挥重要功能，近年来发现它们同样参与肺癌EMT过程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "HATs和HDACs是一类催化组蛋白的乙酰化和去乙酰化的蛋白质家族。它们不仅在肿瘤发生中具有重要功能，还参与肺癌的上皮间质转化（EMT）。"
+  },
+  {
+    "index": 3,
+    "source": "HATs and HDACs interact with certain EMT transcription factors.",
+    "reference": "HATs与HDACs和某些EMT转录因子有相互作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "HATs 和 HDACs 与某些 EMT 转录因子相互作用。"
+  },
+  {
+    "index": 4,
+    "source": "Moreover, the function of these EMT transcription factors may be regulated by acetylation, which has influence on EMT program in lung cancer.",
+    "reference": "而且，这些EMT转录因子的功能受乙酰化调控，并影响肺癌EMT进程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，这些EMT转录因子的功能可能通过乙酰化调节，乙酰化对肺癌中的EMT程序有影响。"
+  },
+  {
+    "index": 5,
+    "source": "Therefore, this review introduces the event of HATs and HDACs function in EMT of lung cancer, and investigate the molecular mechanism of their interaction. Then, the potential of HDAC inhibitor utilization in the inhibition of EMT and lung cancer therapy were discussed, as to pave the way for the related basic research and clinical practice.",
+    "reference": "本文将分别介绍HATs和HDACs参与肺癌EMT的作用机理，从分子机制方面对它们之间的相互作用进行探讨，并讨论HDAC抑制剂在抑制EMT和肺癌治疗方面的潜在应用价值，以期为相关基础研究和临床实践提供借鉴。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，本综述介绍了HATs和HDACs在肺癌EMT中的作用事件，并探讨了它们相互作用的分子机制。然后，讨论了HDAC抑制剂在抑制EMT和肺癌治疗中的潜力，以为相关的基础研究和临床实践铺平道路。"
+  },
+  {
+    "index": 6,
+    "source": "Diabetes and diabetes-induced complications is a rising health concern in Northern Cyprus.",
+    "reference": "在北塞普勒斯，糖尿病與糖尿病引發的併發症正逐漸成為重要健康議題。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "糖尿病及其引发的并发症在北塞浦路斯正成为日益严重的健康问题。"
+  },
+  {
+    "index": 7,
+    "source": "Of the adult population in Northern Cyprus, 12.2% has diabetes and 90% of all individuals suffering from cardiovascular disease are people with diabetes.",
+    "reference": "北 塞普勒斯成人中，12.2%患有糖尿病；且所有心血管疾病的患者中，90%亦患 有糖尿病。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在北塞浦路斯的成年人口中，12.2%患有糖尿病，且所有患有心血管疾病的人中，90%是糖尿病患者。"
+  },
+  {
+    "index": 8,
+    "source": "The aim of this study was to evaluate nutritional habits of people with diabetes in Northern Cyprus in order to make the necessary recommendations to improve their eating habits to prevent diabetes-induced complications.",
+    "reference": "本篇研究主要目的是，評估北塞普勒斯糖尿病者的營養習慣，以 提出建議來改善其飲食習慣，預防日後糖尿病所導致的併發症。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究的目的是评估北塞浦路斯糖尿病患者的饮食习惯，以便提出必要的建议，改善他们的饮食习惯，预防糖尿病引发的并发症。"
+  },
+  {
+    "index": 9,
+    "source": "We used the Healthy Eating Index (HEI) to evaluate dietary quality of people with diabetes in Northern Cyprus based on their 24-hour food intake.",
+    "reference": "利用健康飲 食指標(HEI)，根據24 小時食物攝取量，來評估北塞普勒斯糖尿病患者的飲食 品質。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们使用健康饮食指数（HEI）评估了北塞浦路斯糖尿病患者的饮食质量，基于他们的24小时食物摄入情况。"
+  },
+  {
+    "index": 10,
+    "source": "A total of 200 participants with diabetes were selected randomly from the out-patient clinic of Dr. Burhan Nalbantoğlu central hospital in Nicosia.",
+    "reference": "從尼古西亞Dr. Burhan Nalbantoğlu 中央醫院的門診病人中隨機挑選200 位糖尿病患者為研究對象。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "从尼科西亚布尔罕·纳尔班托奥卢中央医院的门诊部随机选取了共计200名糖尿病患者作为参与者。"
+  },
+  {
+    "index": 11,
+    "source": "Individuals were asked to complete a questionnaire to determine their 24-hour food intake and frequency of intake of various food substances.",
+    "reference": "參與者需完成24 小時食物攝取量和多項食物攝取 頻率之問卷。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "要求个体填写问卷，以确定他们24小时内的食物摄入量以及各种食物物质的摄入频率。"
+  },
+  {
+    "index": 12,
+    "source": "The mean HEI score for the subjects with diabetes was 58.8.",
+    "reference": "糖尿病參與者的HEI 平均分數為58.8 分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "患有糖尿病的受试者的平均HEI得分为58.8。"
+  },
+  {
+    "index": 13,
+    "source": "The HEI component scores for saturated fat, vegetables, dairy products and meat consumption were less than 5, whereas average scores for fat, cholesterol, fruits, grains, and sodium consumption were more than 5.",
+    "reference": "健康飲食指標分項分 數，如飽和脂肪、蔬菜、乳製品和肉類攝取的分數皆低於5 分；然而，脂 肪、膽固醇、水果、穀類和鈉攝取的平均分數皆高於5 分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "HEI组件在饱和脂肪、蔬菜、乳制品和肉类消费方面的得分低于5，而脂肪、胆固醇、水果、谷物和钠的平均得分则高于5。"
+  },
+  {
+    "index": 14,
+    "source": "The meat component of the HEI had the lowest mean score (3.3).",
+    "reference": "健康飲食指標之 分項中，以肉類的平均分數3.3 分為最低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "HEI的肉类成分得分最低，平均分为3.3。"
+  },
+  {
+    "index": 15,
+    "source": "There was statistical significance between male and female subjects regarding the HEI scores for meat and nutrient variety intake.",
+    "reference": "肉類與營養素多樣性攝取的分項分 數，在男女性間有顯著差異。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在肉类和营养素多样性摄入的HEI得分方面，男性和女性受试者之间存在统计学显著性差异。"
+  },
+  {
+    "index": 16,
+    "source": "In conclusion, the results of the present study suggest that subjects with diabetes in Northern Cyprus should improve their diet by decreasing their intake of saturated fat and by increasing their intake of vegetables, meat and milk.",
+    "reference": "總之，本篇研究結果顯示，北塞普勒斯糖尿病 患者，應藉由減少飽和脂肪攝取，並增加蔬菜、肉類和奶類攝取，以改善其 飲食。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "总之，本研究结果表明，北塞浦路斯的糖尿病患者应通过减少饱和脂肪的摄入量，并增加蔬菜、肉类和牛奶的摄入量来改善饮食。"
+  },
+  {
+    "index": 17,
+    "source": "Sleep deficiency is becoming widespread in both adults and adolescents and is accompanied by certain behaviors that can lead to obesity.",
+    "reference": "睡眠不足在成年人及青少年已成為普遍的現象，這伴隨著某些行為可能導致肥 胖。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "睡眠不足在成人和青少年中变得越来越普遍，并伴随着某些可能导致肥胖的行为。"
+  },
+  {
+    "index": 18,
+    "source": "This study aims to investigate differences in sleep duration of overweight/obese and normal weight groups, and the association between sleep deprivation and obesity, dietary intake and physical activity.",
+    "reference": "此研究目的為研究體重過重/肥胖及正常體位者的睡眠時間差異，以及睡 眠不足與肥胖、飲食攝取及體能活動的相關性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究旨在调查超重/肥胖组和正常体重组在睡眠时长上的差异，以及睡眠不足与肥胖、饮食摄入和体育活动之间的关联。"
+  },
+  {
+    "index": 19,
+    "source": "A cross-sectional study was conducted among 226 Iranian working adults (109 men and 117 women) aged 20 to 55 years old who live in Tehran.",
+    "reference": "本橫斷性研究的研究對象來自 於居住在德黑蘭的226 名伊朗在職成人(109 名男性及117 名女性)，年齡介於 20 至55 歲。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在德黑兰进行了一项横断面研究，研究对象为226名伊朗在职成年人（109名男性和117名女性），年龄在20至55岁之间。"
+  },
+  {
+    "index": 20,
+    "source": "Body weight, height, waist and hip circumferences were measured, and BMI was calculated.",
+    "reference": "測量受訪者的體重、身高、腰臀圍，並計算其BMI。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "测量了体重、身高、腰围和臀围，并计算了BMI。"
+  },
+  {
+    "index": 21,
+    "source": "Questionnaires, including the Sleep Habit Heart Questionnaire (SHHQ), International Physical Activity Questionnaire (IPAQ) and 24-hour dietary recall, were interview-administered.",
+    "reference": "在面訪時使 用包含睡眠習慣心臟問卷(SHHQ)、國際體能活動問卷(IPAQ)及24 小時飲食回 憶問卷。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "问卷调查，包括睡眠习惯心脏问卷（SHHQ）、国际身体活动问卷（IPAQ）和24小时膳食回忆法，均由面谈方式进行管理。"
+  },
+  {
+    "index": 22,
+    "source": "Subjects were categorized as normal weight (36.3%) or overweight/obese (63.7%) based on WHO standards (2000).",
+    "reference": "研究對象依據WHO 標準(2000)被分類為正常體重(36.3%)或是體重過 重/肥胖(63.7%)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "根据世界卫生组织（2000年）标准，受试者被分为正常体重（36.3%）或超重/肥胖（63.7%）两类。"
+  },
+  {
+    "index": 23,
+    "source": "Overweight/ obese subjects slept significantly (p",
+    "reference": "體重過重/肥胖者(凌晨00:32±00:62 就寢)比起正常體重者(夜 晚23:30±00:47 就寢及6.54±1.06 小時睡眠)顯著較晚睡覺，且有較短的睡眠時 間(5.37±1.1 小時)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "超重/肥胖的受试者睡眠显著（p"
+  },
+  {
+    "index": 24,
+    "source": "The Great East Japan Earthquake of 2011 left many evacuees with insufficient food and emergency shelter.",
+    "reference": "在2011 年的東日本大地震後，許多災民沒有足夠的食物和緊急避難所。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "2011年的东日本大地震让许多疏散人员面临食物和紧急避难所不足的问题。"
+  },
+  {
+    "index": 25,
+    "source": "However, there is no evidence concerning the factors affecting dietary circumstances in emergency shelters after disasters.",
+    "reference": "然 而，關於災難後在緊急避難所中影響飲食情況的因素目前並無確證。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，关于灾后紧急避难所中影响饮食情况的因素没有证据。"
+  },
+  {
+    "index": 27,
+    "source": "Among the 69 shelters in \"city A,\" 53 (79.1%) had food shortages.",
+    "reference": "在A 城市中有69 間避難所，其中53 間(79.1%)有糧食短 缺的問題。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在“城市A”的69个避难所中，53个（79.1%）存在食物短缺。"
+  },
+  {
+    "index": 28,
+    "source": "The possibility of cooking in the emergency shelter improved the provision of meals to evacuees.",
+    "reference": "在緊急避難所烹調的可能性，提升膳食供應給避難者。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在紧急避难所内进行烹饪的可能性改善了对撤离者的餐食供应。"
+  },
+  {
+    "index": 29,
+    "source": "When comparing emergency shelters with and without cooking equipment, the shelters with cooking equipment provided more meals, as well as more dishes containing grains and vegetables.",
+    "reference": "比較有或 無烹調設備之緊急避難所，有烹調設備者可以提供較多餐點，及較多包含穀 物和蔬菜的菜餚。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在比较有和没有烹饪设备的应急避难所时，带有烹饪设备的避难所提供了更多的餐食，以及更多包含谷物和蔬菜的菜肴。"
+  },
+  {
+    "index": 30,
+    "source": "When there was a gas supply, the twice per day provision of \"balanced\" meals (containing grains, vegetables, and meat/fish) was more frequent than when there was no gas supply.",
+    "reference": "有天然氣供應的避難所，每天提供兩次“均衡”餐點(包含穀 物、蔬菜和肉或魚)的頻率高於沒有天然氣者。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当有燃气供应时，每天两次提供“平衡”餐（包含谷物、蔬菜和肉类/鱼类）的频率比没有燃气供应时更高。"
+  },
+  {
+    "index": 31,
+    "source": "Interestingly, neither the water supply nor the electricity supply affected the provision of balanced meals.",
+    "reference": "特別的是，不論供水或電力供 應狀況都不影響提供均衡餐食。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有趣的是，水供应和电力供应都没有影响平衡膳食的提供。"
+  },
+  {
+    "index": 32,
+    "source": "Further, emergency shelters with larger numbers of evacuees had a lower possibility of cooking and lower availability of gas supply.",
+    "reference": "再者，多數緊急避難所的難民有較少的烹調 機會及較低的天然氣供應可獲性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，拥有更多撤离人员的紧急避难所煮饭的可能性较低，煤气供应的可用性也较低。"
+  },
+  {
+    "index": 33,
+    "source": "Our results demonstrate that early improvements to post-disaster meal provision may maintain the health of evacuees.",
+    "reference": "本研究結果顯示，即早改善災難後餐食供 應可維持災民的健康。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们的结果表明，灾后早期改善餐饮供应可能有助于维持撤离人员的健康。"
+  },
+  {
+    "index": 34,
+    "source": "Such improvements could be achieved by 1) the speedy restoration of the gas supply to enable cooking, and 2) limiting the number of evacuees per emergency shelter.",
+    "reference": "下列舉措可促成這種改善：(1)迅速恢復天然氣供應以 提供烹調；(2)限制每個緊急避難所的災民人數。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些改善可以通过以下方式实现：1）快速恢复天然气供应以便做饭，2）限制每个紧急避难所的疏散人数。"
+  },
+  {
+    "index": 35,
+    "source": "Populations with special physiological state, such as pregnant, nursing and women of child-bearing age, have been identified as nutritionally vulnerable during natural disaster.",
+    "reference": "在突发自然灾害状况下，处于特殊生理状况的妇女，如妊娠、哺乳以及准备怀 孕的妇女已经被确认为营养缺乏的易感人群。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在自然灾害期间，具有特殊生理状态的人群，如孕妇、哺乳期妇女和育龄妇女，已被认定为在营养上易受影响的群体。"
+  },
+  {
+    "index": 36,
+    "source": "The objective of this survey was to evaluate the prevalence of anaemia and micronutrient status of women of reproductive age in April 2009 one year after the Wenchuan Earthquake.",
+    "reference": "本次调查的目的是评价汶川地震 一年后（2009年4月）灾区育龄妇女的贫血率和微量营养素的状况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这项调查的目的是评估2009年4月汶川地震后一年，育龄妇女贫血和微量营养素状况的流行率。"
+  },
+  {
+    "index": 37,
+    "source": "The survey recruited 58 pregnant, 66 lactating and 242 women of child-bearing age from 19 to 45 years. The concentrations of haemoglobin in whole blood and ferritin and micronutrients in serum were assayed.",
+    "reference": "该调查招 募了年龄在19-45岁的孕妇58例、乳母66例和育龄妇女242例，测定了全血中血 红蛋白、血清中铁蛋白和微量营养素的浓度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "该调查招募了58名怀孕女性、66名哺乳期女性和242名19至45岁育龄女性。测定了全血中的血红蛋白浓度、血清中的铁蛋白和微量营养素浓度。"
+  },
+  {
+    "index": 38,
+    "source": "Among the three groups (pregnant, nursing and child-bearing women), respectively, the prevalence of anaemia was 29.1%, 25.5% and 28.8%; that of iron deficiency was 45.4%, 49.0% and 52.9%; and that of zinc deficiency was 45.4%, 23.0% and 33.5%. The sum of vitamin D deficiency and insufficiency was more than 90% in each group, and the total vitamin B12 deficiency and marginal deficiency prevalence percentages were 47.3%, 17.7% and 35.7%, respectively.",
+    "reference": "在孕妇、乳母和育龄妇女这三个 人群中，贫血率分别为29.1%、25.5%和28.8%；铁缺乏率分别为45.4%、49.0% 和52.9%；锌缺乏率分别为45.4%、23.0%和33.5%；各组维生素D缺乏和不足 的总和均超过了90%；维生素B12缺乏和边缘缺乏的合计分别为47.3%、17.7% 和35.7%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在三个组别（孕妇、哺乳期妇女和育龄妇女）中，贫血的患病率分别为29.1%、25.5%和28.8%；铁缺乏的患病率分别为45.4%、49.0%和52.9%；锌缺乏的患病率分别为45.4%、23.0%和33.5%。维生素D缺乏和不足的总和在每个组别中都超过90%，而维生素B12缺乏和边缘缺乏的总患病率分别为47.3%、17.7%和35.7%。"
+  },
+  {
+    "index": 39,
+    "source": "The prevalence of vitamin A deficiency and marginal deficiency was 1.8% and 9.1% in pregnant women, 6.1% and 15.2% in nursing women and 8.6% and 21.3% in women of child-bearing age, respectively.",
+    "reference": "维生素A缺乏和边缘缺乏率，孕妇为1.8%和9.1%，乳母为6.1%和 15.2%，育龄妇女为8.6%和21.3%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "孕妇的维生素A缺乏和边缘缺乏的流行率分别为1.8%和9.1%，哺乳期女性为6.1%和15.2%，育龄女性为8.6%和21.3%。"
+  },
+  {
+    "index": 40,
+    "source": "Our findings indicated that the micronutrient status of women of reproductive age was poor in the disaster areas. Therefore, improving the micronutrient status of these women should be an urgent priority in these areas.",
+    "reference": "本研究结果提示，灾区育龄妇女的微量营 养素营养状况较差，因此改善这些地区育龄妇女的微量营养素的状况应该是优 先考虑的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们的研究发现，灾区育龄女性的微量营养素状况较差。因此，改善这些女性的微量营养素状况应成为这些地区的迫切优先事项。"
+  },
+  {
+    "index": 41,
+    "source": "Some reflections from work in the Asia Pacific Region, mostly with WHO, in the past 25 years, and the changes in nutrition seen in this time are shared.",
+    "reference": "本文提供了一个机会分享我在亚太地区工作，主要在世界卫生组织过去25 年 工作中营养学的变化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "分享过去25年在亚太地区的工作经验，主要是与世界卫生组织合作，以及这一时期营养变化的情况。"
+  },
+  {
+    "index": 42,
+    "source": "In 1988-89 I helped to start a Centre for Child Nutrition in Chengdu, Sichuan, through the Italian Development Cooperation.",
+    "reference": "1988-89 通过意大利合作我帮助在中国四川成都启动儿 童营养中心。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1988-89年，我通过意大利发展合作帮助在四川成都成立了一个儿童营养中心。"
+  },
+  {
+    "index": 43,
+    "source": "The nutritional problems in urban and rural China, 25 years ago, were similar to those elsewhere in the Region.",
+    "reference": "25 年前在中国城乡的营养问题，与该地区许多国家发现的问题 相似。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "25年前，中国城乡的营养问题与该地区其他地方相似。"
+  },
+  {
+    "index": 44,
+    "source": "Like China, these countries underwent rapid economic development and changes in health patterns, within two decades.",
+    "reference": "与中国一样，在过去的二十年这些国家经历了经济的快速发展和健康 模式的变化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "像中国一样，这些国家在二十年内经历了快速的经济发展和健康模式的变化。"
+  },
+  {
+    "index": 45,
+    "source": "The main problems for child nutrition had to do with infant feeding practices and less breastfeeding: anaemia, protein energy malnutrition and rickets were frequent.",
+    "reference": "儿童营养的主要问题必须要做的事是婴幼儿喂养方法，该地区 很多妇女转向不母乳喂养婴儿：贫血、蛋白质能量营养不良和佝偻病频发。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "儿童营养问题的主要原因与婴儿喂养方式以及较少的母乳喂养有关：贫血、蛋白质能量营养不良和佝偻病较为常见。"
+  },
+  {
+    "index": 46,
+    "source": "How did China and other countries tackle these and other nutrition problems?",
+    "reference": "中国和其他国家是如何应对这些和其他营养问题？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国和其他国家是如何应对这些以及其他营养问题的？"
+  },
+  {
+    "index": 47,
+    "source": "In the 1990s the global nutrition community started working on a problem-solving framework.",
+    "reference": "在20 世纪90 年代全球营 养界开始研究分析和解决营养问题的框架。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在1990年代，全球营养界开始着手解决问题的框架。"
+  },
+  {
+    "index": 48,
+    "source": "In 1992, at the 1st FAO/WHO International Conference on Nutrition, 159 countries agreed to develop national nutrition plans.",
+    "reference": "1992 年，在第一届FAO/ WHO 国 际营养大会上，159 个国家展示了国家营养相关文件，并同意制定国家营养计 划。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1992年，在第一次联合国粮食及农业组织/世界卫生组织国际营养大会上，159个国家同意制定国家营养计划。"
+  },
+  {
+    "index": 49,
+    "source": "In 2014, 22 years later, FAO and WHO invited countries to review their national nutrition situation and plans.",
+    "reference": "在2014 年，22 年之后，FAO 和WHO 再次邀请各国复审本国的营养状况 和计划。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "2014年，22年后，粮农组织和世界卫生组织邀请各国审查其国家营养状况和计划。"
+  },
+  {
+    "index": 50,
+    "source": "The epidemiological picture today is profoundly different.",
+    "reference": "今天的流行病的情况大相径庭。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "今天的流行病学情况截然不同。"
+  },
+  {
+    "index": 51,
+    "source": "Many Asia-Pacific countries have achieved remarkable progress in socio-economic development, including malnutrition reduction.",
+    "reference": "许多亚太国家在经济发展取得了显 著成就进展，包括营养不良减少。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "许多亚太国家在社会经济发展方面取得了显著进展，包括减少营养不良。"
+  },
+  {
+    "index": 52,
+    "source": "To reach the MDGs and the post-MDG goals being formulated, the remaining under-nutrition problems need to be alleviated, inequalities between sectors of society reduced, and also the growing threat of overweight/obesity and NCDs prevented and controlled.",
+    "reference": "要实现所制定的千年发展目标，现在有必 要缓解剩余营养不足的问题，减少社会阶层之间的不平等，而且还可以防止 和控制超重/肥胖和慢性非传染性疾病的日益严重的威胁。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了实现千年发展目标（MDGs）和正在制定的后千年发展目标，必须缓解剩余的营养不良问题，减少社会各阶层之间的不平等，防止和控制日益增长的超重/肥胖和非传染性疾病（NCDs）威胁。"
+  },
+  {
+    "index": 53,
+    "source": "Assessing, monitoring and evaluating programmes to improve progress, now requires focusing not only on biological outcomes, but also on food security, programme process, and the policy environment.",
+    "reference": "评估、监测和评估 计划以促进实现营养千年发展目标进度，现在要求不仅注重生物学的结果， 同时也应关注粮食安全、项目的过程和政策环境。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "评估、监测和评估项目以改善进展，现在不仅需要关注生物学结果，还需要关注食品安全、项目过程和政策环境。"
+  },
+  {
+    "index": 54,
+    "source": "Diabetes mellitus (DM) is a complex and chronic disease with multiple complications leading to increased mortality and poor quality of life.",
+    "reference": "糖尿病（DM）是一种复杂的慢性病，它的多种并发症能够导致死亡率增加和 生活质量变差。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "糖尿病（DM）是一种复杂的慢性疾病，伴随多种并发症，导致死亡率增加和生活质量下降。"
+  },
+  {
+    "index": 55,
+    "source": "Current studies have shown that lowering glycosylated haemoglobin (HbA1c) confers protection against microvascular complications.",
+    "reference": "目前的研究表明降低糖化血红蛋白（HbA1c）能够预防微血管 并发症。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当前研究表明，降低糖化血红蛋白（HbA1c）可以保护免受微血管并发症的影响。"
+  },
+  {
+    "index": 56,
+    "source": "However, with more intensive glucose control to achieve HbA1c of less than 6.5%, there seems to be a significant increased risk of mortality and cardiovascular events.",
+    "reference": "然而，随着更严格的血糖控制使HbA1c 低于6.5%，似乎死亡和心血 管事件的风险显著增加。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然而，通过更为严格的葡萄糖控制以实现 HbA1c 低于 6.5%，似乎会显著增加死亡率和心血管事件的风险。"
+  },
+  {
+    "index": 57,
+    "source": "The current recommendation worldwide is for \"tailoring\" of DM management to risk and also quality of Life (QOL) which is a crucial component in determining the success or failure of DM management.",
+    "reference": "当前全世界糖尿病管理的建议是 “权衡”风险和生活 质量（QOL），这是决定糖尿病管理成功或失败的关键组成部分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目前全球的推荐是根据风险和生活质量（QOL）“量身定制”糖尿病管理，而生活质量是决定糖尿病管理成功与否的关键因素。"
+  },
+  {
+    "index": 58,
+    "source": "In Asia, DM has become a health crisis but there is a lack of QOL assessment tool that is specific for Asians with wide spectrum of ethnicity, languages, religions and socio-economic differences.",
+    "reference": "在亚洲， 糖尿病已经成为一个健康危机，但缺乏针对有很多种族、语言、宗教和社会经 济差异的亚洲人的生活质量评估工具。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在亚洲，糖尿病已经成为健康危机，但缺乏一种适用于拥有广泛种族、语言、宗教和社会经济差异的亚洲人的生活质量评估工具。"
+  },
+  {
+    "index": 59,
+    "source": "In this review, we discuss the evolution of DM management over the decade and the issues pertaining to QOL among people living with diabetes in Asia.",
+    "reference": "本综述讨论了过去十年糖尿病管理的发 展和亚洲糖尿病患者生活质量相关的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在本次回顾中，我们讨论了十年来糖尿病管理的演变以及与亚洲糖尿病患者生活质量相关的问题。"
+  },
+  {
+    "index": 60,
+    "source": "Susceptibility weighted imaging (SWI) is a magnetic resonance technology with a high resolution, three-dimensional gradient echo and fully velocity compensated sequence. It is also sensitive to substance with different magnetisability. Based on the quantitative reconstruction of SWI, quantitative susceptibility mapping (QSM) has been used in monitoring the change of intravenous iron, calcium, microbleeds and oxygen content.",
+    "reference": "敏感加权成像是一种高分辨率、三维梯度回波、完全速度补偿的MR技术，它对磁化率不同的物质敏感，然而具有定量特点的重建敏感加权成像图，即定量磁敏感图(quantitative susceptibility mapping，QSM)，在钙、铁含量、微出血、静脉内血氧含量的变化监测的应用价值具有革命性意义。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "易感加权成像（SWI）是一种具有高分辨率、三维梯度回波和完全速度补偿序列的磁共振技术。它对具有不同磁性物质非常敏感。基于SWI的定量重建，定量易感性映射（QSM）已被用于监测静脉注射铁、钙、微出血和氧气含量的变化。"
+  },
+  {
+    "index": 61,
+    "source": "This article summarizes principle of QSM and the latest progress of QSM application in the diseases of central nervous system.",
+    "reference": "本文仅就QSM的原理及其在中枢神经系统中的最新应用进展进行综述。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文总结了量子态成像（QSM）的原理及其在中枢神经系统疾病中的最新应用进展。"
+  },
+  {
+    "index": 62,
+    "source": "To evaluate how prenatal exposure to antioxidant vitamins and heavy metals affects subsequent development.",
+    "reference": "为了评估出生前维生素和重金属暴露对出生后生长发育的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "评估产前暴露于抗氧化维生素和重金属如何影响随后的发展。"
+  },
+  {
+    "index": 63,
+    "source": "Maternal serum and cord serum levels of antioxidant vitamins (A, E, and C) were determined.",
+    "reference": "我们测定了产 妇血清和脐带血中抗氧化维生素（A、E 和C）的含量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "母体血清和脐带血清中抗氧化维生素（A、E 和 C）的水平被测定。"
+  },
+  {
+    "index": 64,
+    "source": "Full-state, performance, and verbal intelligence quotients (FSIQ, PIQ, and VIQ, respectively) of 97 children were assessed at 5 years of age.",
+    "reference": "本研究共测量了97 名 5 岁儿童的全量表智商、操作智商和语言智商。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "97名儿童在5岁时进行了全状态、表现和语言智商（FSIQ、PIQ和VIQ）的评估。"
+  },
+  {
+    "index": 65,
+    "source": "The placental transport ratio (PTR: cord level relative to maternal serum level) of vitamin A (VA) was associated positively with FSIQ score (p=0.041), vitamin E (VE)-PTR was associated positively with PIQ (p=0.002) and FSIQ (p=0.025) scores, and cord serum cadmium (Cd) level was correlated negatively with VIQ score (p=0.025) at 5 years of age.",
+    "reference": "其中维生素A 的胎盘转运率 （PTR）与全量表智商成正相关（p=0.041），维生素E 的胎盘转运率与操作智 商（p=0.002）和全量表智商（p=0.025）评分成正相关。 脐血镉水平与5 岁儿童 的语言智商呈负相关（p=0.025）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "维生素A（VA）的胎盘转运比率（PTR：脐带水平相对于母体血清水平）与FSIQ分数呈正相关（p=0.041），维生素E（VE）-PTR与PIQ（p=0.002）和FSIQ（p=0.025）分数呈正相关，而脐带血清镉（Cd）水平与VIQ分数呈负相关（p=0.025），在5岁时。"
+  },
+  {
+    "index": 66,
+    "source": "High VE-PTR protected against low PIQ (OR=0.025; p=0.021) and FSIQ (OR",
+    "reference": "较高的维生素E 胎盘转运率是操作智商 （OR=0.025；p=0.021）和全量表智商（OR",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "高VE-PTR能够保护低PIQ（OR=0.025；p=0.021）和FSIQ（OR"
+  },
+  {
+    "index": 67,
+    "source": "The concept of lactose intolerance has become embedded in Western medicine and developing economy medicine.",
+    "reference": "乳糖不耐症的概念建構在西方及開發中經濟體的醫學。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "乳糖不耐症的概念已经深入西方医学和发展中国家经济医学中。"
+  },
+  {
+    "index": 68,
+    "source": "It is based on evidence that intestinal lactase activity persists into later childhood and throughout life in only a minority of the world's population, notably northern European-derived populations.",
+    "reference": "其證據為佔全球少數的 北歐衍生族群，其腸道乳糖酶活性續存至兒童晚期及整個生命週期。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这一观点基于证据，表明肠道乳糖酶活性仅在世界人口中的少数群体中持续到儿童后期并贯穿一生，尤其是北欧裔人口。"
+  },
+  {
+    "index": 69,
+    "source": "These people have the T single nucleotide polymorphism (SNP) of the rs49882359 allele (C/T), also known as C/T-13910, the MCM6 gene which positively influences the lactase LCT gene.",
+    "reference": "這些人擁 有rs49882359 等位基因（C/T）的T 單核甘酸多型性（SNP），又被稱為C/T- 13910，其MCM6 基因正向影響乳糖酶LCT 基因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些人具有 rs49882359 等位基因（C/T）的 T 单核苷酸多态性（SNP），也称为 C/T-13910，MCM6 基因，它对乳糖酶 LCT 基因有积极的影响。"
+  },
+  {
+    "index": 70,
+    "source": "Other lactase persistent (LP) populations are found in Africa and the Middle East with different genetic variants.",
+    "reference": "其他在非洲及中東的乳糖酶 續存族群，他們有不同的基因變異。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "其他乳糖酶持久（LP）群体存在于非洲和中东地区，具有不同的基因变异。"
+  },
+  {
+    "index": 71,
+    "source": "These SNPs represent co-evolution with dairying since the agricultural revolution and nutrient-dependent ecological adaptation.",
+    "reference": "這些SNPs 代表自農業革命及營養依賴的 生態適應與乳品業的共同演化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些SNP代表了自农业革命以来与乳制品生产的共进化以及依赖营养的生态适应。"
+  },
+  {
+    "index": 72,
+    "source": "That said, gastrointestinal symptoms considered due to small intestinal lactose malabsorption are poorly correlated with lactase non-persistence (LNP), the situation for most people.",
+    "reference": "意即，多數人因為小腸乳糖吸收不良產生的腸 胃道症狀與其是否為乳糖酶非續存（LNP）關係不大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "话虽如此，考虑到由于小肠乳糖吸收不良引起的胃肠症状与乳糖酶非持续性（LNP）之间的相关性较差，这种情况适用于大多数人。"
+  },
+  {
+    "index": 73,
+    "source": "With LNP, colonic microbiome lactase enables lactose fermentation to occur so that none is found in faeces.",
+    "reference": "LNP 者，大腸菌相的乳 糖酶能夠發酵乳醣，所以糞便中並無乳糖存在。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过LNP，结肠微生物组乳糖酶使乳糖发酵发生，从而在粪便中不发现乳糖。"
+  },
+  {
+    "index": 74,
+    "source": "Whether the short chain fatty acids (SCFAs) and gases (hydrogen, carbon dioxide and methane) produced cause symptoms is dose-dependent.",
+    "reference": "短鏈脂肪酸（SCFAs）及氣體 （氫氣、二氧化碳及甲烷）是否引起症狀，端看其劑量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "短链脂肪酸（SCFAs）和气体（氢气、二氧化碳和甲烷）产生是否引起症状是与剂量相关的。"
+  },
+  {
+    "index": 75,
+    "source": "Up to 25 g of lactose at any one time can usually be consumed by a LNP person, but its food and meal pattern context, the microbiomic characteristics, age and other factors may alter tolerance.",
+    "reference": "一個LNP 者，在任 何時間均可消化最多25 公克的乳糖。 食物或餐點內容、腸道菌相的特性、年 齡及其他因素，才是影響其耐受性原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一个LNP患者通常一次可以摄入最多25克乳糖，但其食物和饮食模式背景、微生物组特征、年龄以及其他因素可能会影响耐受性。"
+  },
+  {
+    "index": 76,
+    "source": "Thus, the notion that lactose intolerance is a disorder or disease of LNP people is misplaced and has been one of cultural perspective.",
+    "reference": "因此，LNP 者的乳糖不耐是一種失調 或是疾病的主張是一種錯置及文化觀點。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，乳糖不耐症是LNP人群的疾病或障碍这一概念是错误的，并且一直是文化视角的一部分。"
+  },
+  {
+    "index": 77,
+    "source": "What actually matters is whether a particular dairy product as normally consumed give rise to symptoms.",
+    "reference": "真正重要的是常被攝取的乳製品是否 會引起症狀。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "实际上重要的是，某种通常食用的乳制品是否会引发症状。"
+  },
+  {
+    "index": 78,
+    "source": "It is, therefore, proposed that lactose tolerance tests be replaced with dairy food tolerance tests.",
+    "reference": "也就是說，建議以乳製品耐受性測試取代乳糖不耐症測試。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，建议用乳制品耐受性测试替代乳糖耐受性测试。"
+  },
+  {
+    "index": 79,
+    "source": "Precision medicine is to developing the most appropriate individualized treatment for each patient based on the macro to the micro level of individual differences.",
+    "reference": "精准医学是根据每个人从宏观到微观层面的个体差异，制定最为合适的个性化治疗方案。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "精准医疗是根据个体差异从宏观到微观的层面，为每个患者开发最合适的个性化治疗方案。"
+  },
+  {
+    "index": 80,
+    "source": "Genomic, proteomics, metabolomics data, and other big data analysis methods are the essence of precision medicine.",
+    "reference": "基因组、蛋白组、代谢组等海量生物学数据及大数据分析方法是精准医学模式的精髓。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基因组学、蛋白质组学、代谢组学数据以及其他大数据分析方法是精准医学的精髓。"
+  },
+  {
+    "index": 81,
+    "source": "Precision medicine brings the hope to overcome cancer.",
+    "reference": "精准医学为人类攻克肿瘤带来了希望。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "精准医学带来了克服癌症的希望。"
+  },
+  {
+    "index": 82,
+    "source": "Among all kinds of tumors, lung cancer is the biggest threat to human.",
+    "reference": "肺癌是对人类危害最大的肿瘤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在所有类型的肿瘤中，肺癌是对人类最大的威胁。"
+  },
+  {
+    "index": 83,
+    "source": "This paper reviewed the development of precision medicine in the surgical treatment of lung cancer.",
+    "reference": "本文就肺癌的外科治疗在精准医学时代发展的方向进行了综述。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文回顾了精准医学在肺癌外科治疗中的发展。"
+  },
+  {
+    "index": 84,
+    "source": "To investigate the microRNA (miR)-150 expression level in human osteosarcoma cell lines (Saos-2, MG-63) and its function in cell proliferation, and to explore the potential molecular mechanisms.",
+    "reference": "目的：研究人骨肉瘤细胞系(Saos-2，MG-63)中microRNA-150(miR-150)表达水平及其对细胞增殖的作用，并探讨其分子生物学作用机制。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究人类骨肉瘤细胞系（Saos-2，MG-63）中微小RNA（miR）-150的表达水平及其在细胞增殖中的功能，并探讨其潜在的分子机制。"
+  },
+  {
+    "index": 85,
+    "source": "Methods: MiR-150 expression levels in human osteosarcoma cell lines (Saos-2, MG-63) and normal osteoblast cell line (NHOst) were detected by relative quantitative real-time PCR (qRT-PCR).",
+    "reference": "方法：采用相对实时定量PCR检测人骨肉瘤细胞系Saos-2，MG-63和正常成骨细胞系NHOst中miR-150表达差异。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：通过相对定量实时PCR（qRT-PCR）检测人类骨肉瘤细胞系（Saos-2，MG-63）和正常成骨细胞系（NHOst）中的MiR-150表达水平。"
+  },
+  {
+    "index": 86,
+    "source": "MiR-150 was overexpressed in Saos-2 and MG-63 cells by lentivirus infection.",
+    "reference": "采用慢病毒转染过表达miR-150，实时定量PCR检测过表达组miR-150水平。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过慢病毒感染，MiR-150在Saos-2和MG-63细胞中被过度表达。"
+  },
+  {
+    "index": 87,
+    "source": "Cell proliferation rates were monitored by MTS assay.",
+    "reference": "细胞增殖实验采用MTS[3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4- sulfophenyl)- 2H-tetrazolium] 法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "细胞增殖率通过MTS实验进行监测。"
+  },
+  {
+    "index": 88,
+    "source": "RUNX2 and β-actin protein levels were examined by Western blot.",
+    "reference": "Western印迹检测Runt相关转录因子2(Runt-related transcription factor 2，RUNX2)及内参β-actin蛋白水平。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过Western blot检测了RUNX2和β-actin蛋白水平。"
+  },
+  {
+    "index": 89,
+    "source": "Inhibitory effect of miR-150 on binding RUNX2 3'-UTR was detected by Dual-Luciferase assay.",
+    "reference": "双荧光素酶反应检测miR-150与RUNX2 3'-UTR结合对上游基因表达抑制率。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过双荧光素酶检测法检测到miR-150对RUNX2 3'-UTR结合的抑制作用。"
+  },
+  {
+    "index": 90,
+    "source": "Results: MiR-150 expression level is lower in human osteosarcoma cell lines (Saos-2, MG-63) compared to the normal osteoblast cell line (NHOst) (0.23±0.02 and 0.32±0.03 vs 1.00±0.02), which showed statistical significance (P",
+    "reference": "结果：MiR-150在Saos-2和MG-63细胞系中表达低于正常成骨细胞系NHOst，分别为0.23±0.02，0.32±0.03和1.00±0.02，差异具有统计学意义(P",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：与正常骨母细胞系（NHOst）相比，人类骨肉瘤细胞系（Saos-2，MG-63）中的MiR-150表达水平较低（0.23±0.02和0.32±0.03 vs 1.00±0.02），并且具有统计学意义（P）"
+  },
+  {
+    "index": 91,
+    "source": "To analyze the clinical characteristics of continuous ambulatory peritoneal dialysis (CAPD) associated peritonitis in the tertiary hospitals and to discuss the preventive and therapeutic strategy.",
+    "reference": "目的：探讨某三甲医院持续性非卧床腹膜透析(continuous ambulatory peritoneal dialysis，CAPD)相关性腹膜炎临床特点、致病菌分布及耐药性情况，为临床防治CAPD相关性腹膜炎总结经验。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "分析三级医院连续性门诊腹膜透析（CAPD）相关腹膜炎的临床特点，并讨论预防和治疗策略。"
+  },
+  {
+    "index": 92,
+    "source": "Methods: The clinical characteristics, pathogens, resistance and outcomes of 126 CAPD associated peritonitis in 104 patients from Jan, 2013 to June, 2016, were retrospectively analyzed.",
+    "reference": "方法：回顾性调查该院2013年1月至2016年6月42个月中，104人126例次CAPD相关性腹膜炎患者的临床特点、致病菌分布、耐药性等情况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：回顾性分析2013年1月至2016年6月期间104名患者中126例CAPD相关腹膜炎的临床特征、病原、耐药性及预后。"
+  },
+  {
+    "index": 93,
+    "source": "Results: Among the patients, the incidence rates of abdominal pain, fever, diarrhea and emesis were 104 (82.54%), 56 (44.44%), 49 (38.89%), and 31 (23.60%), respectively.",
+    "reference": "结果：在126例次CAPD相关性腹膜炎中，患者出现腹痛104例次(82.54%)，发热56例次(44.44%)，腹泻49例次(38.89%)，呕吐31例次(23.60%)。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：在患者中，腹痛、发热、腹泻和呕吐的发生率分别为104例（82.54%）、56例（44.44%）、49例（38.89%）和31例（23.60%）。"
+  },
+  {
+    "index": 94,
+    "source": "Among them, 88 patients suffered peritonitis once, other 16 patients suffered multiple peritonitis or recurrent peritonitis for 38 times. Among the 38 times, the numbers for recurrent, repeated or catheter-associated peritonitis were 2, 2, or 3, respectively.",
+    "reference": "126例次CAPD相关性腹膜炎中，发生一次腹膜炎的88人次，多次和反复发作的腹膜炎16人38例次，其中复发性腹膜炎2例，腹膜炎重现2例，导管相关性腹膜炎3例。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "其中，88名患者曾患过一次腹膜炎，其他16名患者曾多次或反复患腹膜炎，共38次。在这38次中，反复腹膜炎、复发性腹膜炎或导管相关性腹膜炎的次数分别为2次、2次和3次。"
+  },
+  {
+    "index": 95,
+    "source": "Peritoneal fluids from 103 cases were cultured, and 64 cases were positive in bacteria, with a rate of 62.14%.",
+    "reference": "在103例送检的腹水标本中，培养阳性64例次，阳性率达62.14%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "来自103例的腹膜液进行了培养，其中64例为细菌阳性，阳性率为62.14%。"
+  },
+  {
+    "index": 96,
+    "source": "A total of 70 strains of bacteria were separated, including 42 strains of gram-positive bacteria, 21 strains of gram-negative bacteria, and 7 strains of fungus.",
+    "reference": "共分离出致病菌70株，其中革兰阳性细菌42株，革兰阴性细菌21株，真菌7株。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "总共分离出了70株细菌，包括42株革兰氏阳性细菌，21株革兰氏阴性细菌和7株真菌。"
+  },
+  {
+    "index": 97,
+    "source": "The most common gram-positive pathogens were Staphylococcus epidermidis, Enterococcus faecalis and Staphylococcus haemolyticus, while Escherichia coli, Klebsiella pneumoniae and Klebsiella pneumoniae were the most common gram-negative bacteria. Candida albicans was the major fungal pathogens.",
+    "reference": "主要的革兰阳性菌包括表皮葡萄球菌、粪肠球菌、溶血葡萄球菌；主要的革兰阴性菌包括大肠埃希菌、肺炎克雷伯菌、铜绿假单胞菌；真菌以白假丝酵母菌为主。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最常见的革兰氏阳性病原菌是表皮葡萄球菌、粪肠球菌和溶血性葡萄球菌，而大肠杆菌、克雷伯氏肺炎分枝杆菌和肺炎克雷伯氏菌是最常见的革兰氏阴性细菌。白色念珠菌是主要的真菌病原菌。"
+  },
+  {
+    "index": 98,
+    "source": "Gram-positive cocci showed resistance to gentamycin, levofloxacin, moxifloxacin, vancomycin and linezolid, with a rate at 20.00%, 36.11%, 5%, 0%, and 0%, respectively. The gram-negative bacilli were resistent to cefoperazone/sulbactam, gentamycin, cephazolin, and ceftazidime, with a rate at 6.25%, 10.53%, 64.29%, and 15.38%, respectively. There were no imipenem, amikacin, piperacillin/tazobactam-resistant strains were found.",
+    "reference": "革兰阳性菌对庆大霉素、左氧氟沙星、莫西沙星、万古霉素、利奈唑胺的耐药率分别为20.00%，36.11%，5.00%，0%，0%；革兰阴性菌对头孢哌酮/舒巴坦、庆大霉素、头孢唑啉、头孢他啶的耐药率分别为6.25%，10.53%，64.29%，15.38%，对亚胺培南、阿米卡星、哌拉西林/他唑巴坦的耐药率均为0%。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "革兰氏阳性球菌对庆大霉素、左氧氟沙星、莫西沙星、万古霉素和利奈唑胺表现出抗药性，抗药率分别为20.00%、36.11%、5%、0%和0%。革兰氏阴性杆菌对头孢哌酮/舒巴坦、庆大霉素、头孢唑林和头孢他啶表现出抗药性，抗药率分别为6.25%、10.53%、64.29%和15.38%。未发现美托必利、阿米卡星、哌拉西林/他唑巴坦抗药菌株。"
+  },
+  {
+    "index": 99,
+    "source": "Conclusion: The most common pathogen causing CAPD associated peritonitis is gram-positive bacteria. It is crucial to take the anti-infection therapy for CAPD associated peritonitis early. The positive rates for bacterial culture need to be enhanced through improvement of methods. At the same time, doctors could improve the outcome of CAPD associated peritonitis by adjusting the medication according to the drug sensitivity results.",
+    "reference": "结论：革兰阳性菌是CAPD相关性腹膜炎的主要致病菌，临床不仅应尽早开始经验性治疗，而且要考虑如何通过改善培养方法以提高阳性检出率；可以根据药敏结果调整用药，以促进患者CAPD相关性腹膜炎的治愈和腹膜功能的恢复。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：引起CAPD相关腹膜炎的最常见病原体是革兰氏阳性菌。对CAPD相关腹膜炎进行早期抗感染治疗至关重要。细菌培养的阳性率需要通过改进方法来提高。同时，医生可以根据药物敏感性结果调整用药，从而改善CAPD相关腹膜炎的治疗效果。"
+  },
+  {
+    "index": 100,
+    "source": "Epidermal growth factor receptor tyrosine kinase inhibitors (EGFR-TKIs) have brought great clinical benefit to patients with EGFR-sensitive mutations.",
+    "reference": "人表皮生长因子受体酪氨酸激酶抑制剂（epidermal growth factor receptor tyrosine kinase inhibitors, EGFR-TKIs）给EGFR基因敏感突变患者带来巨大的临床获益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "表皮生长因子受体酪氨酸激酶抑制剂（EGFR-TKIs）为患有EGFR敏感突变的患者带来了巨大的临床益处。"
+  },
+  {
+    "index": 101,
+    "source": "With the deepening of clinical and basic research, EGFR-TKIs have received more and more attention.",
+    "reference": "随着临床和基础研究的不断深入，EGFR-TKI已经越来越受到关注。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着临床和基础研究的深入，EGFR-TKI受到了越来越多的关注。"
+  },
+  {
+    "index": 102,
+    "source": "In this review, we summarize the latest research development about EGFR-targeted drugs in 2016.",
+    "reference": "本综述旨在将2016年EGFR-TKI药物研究进展进行概述。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这篇综述中，我们总结了2016年关于EGFR靶向药物的最新研究进展。"
+  },
+  {
+    "index": 103,
+    "source": "The first national general investigationon uterine prolapse is an important measure of strengthening the protection of working women.",
+    "reference": "1959年开始的第1次全国性子宫脱垂普查普治，是加强劳动妇女保护的重要举措。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一次全国子宫脱垂普查是加强对女性工人保护的重要举措。"
+  },
+  {
+    "index": 104,
+    "source": "Under the guidance of the Ministry of Health, local governments are extensively carried out all rescuing works, including the adjustment of labor time by organizing traditional and western medicine practitioners to carry on the comprehensive survey and concentrated treatment, with certain effects.",
+    "reference": "在卫生部的指导下，各地政府广泛开展了包括调整劳动时间和强度在内的各种救助工作，并组织中西医进行了全面普查和集中治疗，取得一定的成效。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在卫生部的指导下，地方政府广泛开展了所有救援工作，包括通过组织中西医 practitioners 进行综合调查和集中治疗，调整劳动时间，并取得了一定的效果。"
+  },
+  {
+    "index": 105,
+    "source": "Across the full application of traditional Chinese medical therapies with its recipes and medicines, traditional Chinese medical practitioners were actively involved in rescuing. Restricted by the medical conditions with non-popular surgical treatment, medical practitioners continuously explored the surgical treatment suitable for rural areas, offering valuable experiences for the future treatment.",
+    "reference": "各地充分挖掘中医疗法和方药，中医业者积极参与救助；限于当时医疗条件，手术治疗尚不普及，但医务人员不断探索适用于农村的术式，为此后的救治积累了宝贵的资料和经验。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在传统中医疗法的全面应用中，包括其方剂和药物，传统中医从业者积极参与救治。由于医疗条件的限制，非普及的外科治疗，医务人员不断探索适合农村地区的外科治疗，为未来的治疗提供了宝贵的经验。"
+  },
+  {
+    "index": 106,
+    "source": "To investigate the effect of the traditional Chinese medicine compound Yisui Lixue decoction on apoptosis of marrow cells in rats with myelodysplastic syndrome (MDS) induced by dimethyl benzanthracene (DMBA).",
+    "reference": "目的：探索中药复方益髓理血饮对二甲基苯蒽诱导的骨髓增生异常综合征(myelodysplastic syndrome，MDS)模型大鼠骨髓细胞凋亡的作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究传统中药复方益髓理血汤对二甲基苯并蒽（DMBA）诱导的骨髓细胞凋亡的影响，MDS大鼠模型。"
+  },
+  {
+    "index": 107,
+    "source": "Methods: The rats with MDS induced by the chemical mutagens DMBA were divided into 5 groups (12 rats in each group): a control group, a model+PBS group, a model+compound Zaofan pill group, a model+low dose of Yisui Lixue decoction group and a model+high dose of Yisui Lixue decoction group.",
+    "reference": "方法：采用化学诱变剂二甲基苯蒽诱导建立大鼠MDS模型，并分为正常对照组、模型+PBS组、模型+复方皂矾丸组、模型+益髓理血饮低剂量组和模型+益髓理血饮高剂量组，每组12 只。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：用化学诱变剂DMBA诱导的MDS大鼠分为5组（每组12只大鼠）：对照组、模型+PBS组、模型+复方早饭丸组、模型+低剂量益髓立血汤组和模型+高剂量益髓立血汤组。"
+  },
+  {
+    "index": 108,
+    "source": "To estimate the incidence rate of ureteral fistula and stricture after kidney transplantation, and to evaluate the effect of bladder flap (Boari flap) on ureteral complication of the transplanted kidney.",
+    "reference": "目的：评估肾移植术后移植肾输尿管发生尿瘘及狭窄的发生率，寻找危险因素，以及使用膀胱肌瓣输尿管成型术治疗移植肾输尿管并发症的效果。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "估计肾脏移植后输尿管瘘管和狭窄的发生率，并评估膀胱瓣（Boari瓣）对移植肾脏输尿管并发症的影响。"
+  },
+  {
+    "index": 109,
+    "source": "Methods: The clinical data and risk factors from 270 recipients of renal transplantation, who came from the Centre of Organ Transplantation, Xiangya Hospital, Central South University from January 2010 to January 2015, were retrospectively analyzed.",
+    "reference": "方法：回顾性分析中南大学湘雅医院器官移植中心2010年1月至2015年1月完成的270例肾移植受者的临床数据和危险因素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：回顾性分析了来自中南大学湘雅医院器官移植中心的270例肾脏移植受者的临床数据和风险因素，时间范围为2010年1月至2015年1月。"
+  },
+  {
+    "index": 110,
+    "source": "The surgical management included Boari flap for ureteral reconstruction, neoureterocystostomy and endoscopic therapy with double-J (DJ) stent placement. Surgical proceeding and the effectiveness were evaluated.",
+    "reference": "治疗方式包括膀胱肌瓣输尿管成型术、输尿管膀胱再植术及内镜下放置DJ管等，并对手术方式及有效性进行分析。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "手术管理包括用于输尿管重建的Boari皮瓣、神经输尿管膀胱造口术以及双J（DJ）导管置入的内镜治疗。手术过程和效果已被评估。"
+  },
+  {
+    "index": 111,
+    "source": "Results: The incidence rate of ureteral fistula following renal transplantation was 3.3%. The risk factors for ureteral fistula included elder donor age (P",
+    "reference": "结果：肾移植术后移植肾输尿管尿瘘发生率为3.3%，危险因素为供者高龄(P",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：肾脏移植后尿道瘘的发生率为3.3%。尿道瘘的危险因素包括捐赠者年龄较大（P）"
+  },
+  {
+    "index": 112,
+    "source": "To evaluate the value of shunting surgery in the treatment for patients with meningeal carcinomatosis.",
+    "reference": "目的：评估分流手术在癌性脑膜病患者治疗中的价值。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "评估分流手术在脑膜癌症患者治疗中的价值。"
+  },
+  {
+    "index": 113,
+    "source": "Methods: The therapeutic process of shunting surgery was analyzed in 5 meningeal carcinomatosis patients.",
+    "reference": "方法：回顾性分析5例采取分流手术治疗的癌性脑膜病患者的治疗经过。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：分析了5例脑膜癌转移患者的分流手术治疗过程。"
+  },
+  {
+    "index": 114,
+    "source": "Results: The intracranial pressure could effectively be controlled, and the associated symptoms could be relieved.",
+    "reference": "结果：5例患者颅内压得到了有效的控制，相关症状明显缓解。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：颅内压可以有效控制，相关症状可以得到缓解。"
+  },
+  {
+    "index": 115,
+    "source": "No complications associated with shunting surgery were found during the hospitalization and follow-up.",
+    "reference": "住院期间及随访期间未发现与分流手术相关的并发症。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在住院和随访期间未发现与分流手术相关的并发症。"
+  },
+  {
+    "index": 116,
+    "source": "One patient, who did not receive the surgery, died in 2 months later.",
+    "reference": "1例患者未实施分流手术，2月后死亡。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一名未接受手术的病人在两个月后去世。"
+  },
+  {
+    "index": 117,
+    "source": "Conclusion: Shunting surgery can effectively relieve the intracranial pressure caused by meningeal carcinomatosis, decrease the mortality and morbidity caused by intractable intracranial hypertension in these patients, and improve their live quality.",
+    "reference": "结论：分流手术可有效缓解癌性脑膜病所致的颅内压增高，可减少因顽固性颅高压所致的死亡与残障，可提高癌症患者的生活质量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：分流手术可以有效缓解由脑膜癌症引起的颅内压，降低这些患者因顽固性颅内高压导致的死亡率和发病率，并改善他们的生活质量。"
+  },
+  {
+    "index": 118,
+    "source": "Dental caries is a major disease that threaten human's oral healthy severely with the characteristics of high incidence, low rate of treatment and high rate of retreatment.",
+    "reference": "龋病是严重危害人类口腔健康的主要疾病，具有发病率高，治疗率低，再治疗率高等特点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "龋齿是一种严重威胁人类口腔健康的重大疾病，具有高发病率、治疗率低和再治疗率高的特点。"
+  },
+  {
+    "index": 119,
+    "source": "At present, restorative treatment remains the main method for caries treatment.",
+    "reference": "目前，充填修复术仍然是龋病临床治疗的主要方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目前，修复治疗仍然是龋齿治疗的主要方法。"
+  },
+  {
+    "index": 120,
+    "source": "With the development of the Minimally Invasive Cosmetic Dentistry (MICD), reasonable application of various treatment technologies, maximum preservation of tooth tissues and realizing the maximization of treatment effects become problems that call for immediate solution in dental clinics.",
+    "reference": "随着微创美学牙科理念的提出，如何合理应用各种治疗技术，最大限度地保存牙体组织，实现龋病治疗效果的最大化已成为口腔临床迫切需要解决的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着微创美容牙科（MICD）的发展，合理应用各种治疗技术，最大限度地保留牙齿组织并实现治疗效果的最大化，成为牙科诊所亟待解决的问题。"
+  },
+  {
+    "index": 121,
+    "source": "In addition, there still exist a large number of old restorations that need standard retreatments.",
+    "reference": "此外，临床上还存在大量的陈旧修复体，这些修复体的再处理也亟待规范。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，仍然存在大量需要标准重新处理的旧修复。"
+  },
+  {
+    "index": 122,
+    "source": "Here, some difficulty influence factors of dental caries clinical treatment such as systemic and oral factors, individual caries susceptibility, treatment technologies and materials, retreatment methods of old restorations and technique sensitivity are analyzed, and corresponding processing strategies are also put forward.",
+    "reference": "本文就全身因素、口腔因素、个体龋病易患性、治疗技术和材料、陈旧修复体处理，以及技术敏感性等影响龋病临床治疗的难度因素进行分析，并提出针对性的处理策略。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这里，分析了牙齿龋病临床治疗的一些影响因素，如系统性和口腔因素、个体龋齿易感性、治疗技术和材料、旧修复体的再治疗方法以及技术敏感性，并提出了相应的处理策略。"
+  },
+  {
+    "index": 123,
+    "source": "With the economic growth and better standards of living, the prevalence of non-alcoholic fatty liver disease (NAFLD) is expected to increase dramatically worldwide.",
+    "reference": "随着经济的发展和人们生活水平的提高，非酒精性脂肪性肝病(non-alcoholic fatty liver disease，NAFLD)在全球范围内的患病率明显提高。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着经济增长和生活水平的提高，全球非酒精性脂肪肝疾病（NAFLD）的患病率预计将大幅增加。"
+  },
+  {
+    "index": 124,
+    "source": "NAFLD is a common chronic inflammation disease.",
+    "reference": "NAFLD本质上是一种慢性炎症性疾病。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "非酒精性脂肪性肝病是一种常见的慢性炎症性疾病。"
+  },
+  {
+    "index": 125,
+    "source": "NF-κB is a transcription factor that plays crucial roles in inflammation, immunity, cell proliferation and apoptosis. It can facilitate the occurrence and development of NAFLD, and the underlying mechanisms are related to insulin resistance, oxidative stress, alteration of intestinal flora, activation of renin angiotensin system, etc.",
+    "reference": "NF-κB作为一种转录因子，参与机体的炎症反应、免疫反应、细胞增殖及凋亡过程，可以通过胰岛素抵抗、氧化应激、肠道菌群失调及活化肾素-血管紧张素系统等机制促进NAFLD的发生与发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "NF-κB 是一种转录因子，在炎症、免疫、细胞增殖和凋亡中发挥着至关重要的作用。它可以促进非酒精性脂肪性肝病（NAFLD）的发生和发展，相关的机制与胰岛素抵抗、氧化应激、肠道菌群变化、肾素-血管紧张素系统激活等有关。"
+  },
+  {
+    "index": 126,
+    "source": "This commentary was stimulated by discussions held at the First China Antidepressants Research and Development Summit held in Beijing in October 2015.",
+    "reference": "受2015 十月在北京举行的第一届中国抗抑郁 药研究与发展峰会上的讨论的启发，我们撰写了这 篇述评。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这篇评论是由2015年10月在北京举行的第一届中国抗抑郁药物研究与发展峰会上的讨论激发的。"
+  },
+  {
+    "index": 127,
+    "source": "Hosted by the Chinese Psychiatrist Psychopharmacology Commission and including leading clinicians, neuroscientists, and representatives of the pharmaceutical industry, the summit focused on the major problems that are limiting the development of more effective antidepressant medications.",
+    "reference": "该峰会由中国医师协会精神科医师分会精 神药理学和药物治疗工作委员会 (Chinese Psychiatrist Psychopharmacology Commission, CPPC) 发起，参与人 员包括一流的精神科临床医生、神经科学研究者和国 内外大型制药企业研发人员，会议重点讨论了那些限 制了更有效的抗抑郁药物发展的主要问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由中国精神病学家药物治疗学委员会主办，会议包括了领先的临床医生、神经科学家以及制药行业代表，峰会聚焦于限制更有效抗抑郁药物开发的主要问题。"
+  },
+  {
+    "index": 128,
+    "source": "In the absence of clear biomarkers of depression, clinicians must base treatment decisions on clinical phenomenology; the lack of clear biological targets results in currently available antidepressants that take a long time to be effective, have low rates of full remission, and high rates of relapse.",
+    "reference": "在没有明 确的抑郁症生物标志物的情况下，临床医生必须在临 床现象的基础上做出治疗决策；缺乏明确的生物靶点 导致目前可用的抗抑郁药需要很长一段时间才有效， 完全缓解率低，并且复发率高。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于缺乏明确的抑郁症生物标志物，临床医生必须根据临床现象学来做出治疗决策；缺乏明确的生物学靶点导致目前可用的抗抑郁药物需要较长时间才能起效，完全缓解率低，复发率高。"
+  },
+  {
+    "index": 129,
+    "source": "Basic research on depression by neuroscientists in China is internationally recognized, but the vast proportion of candidate chemical compounds Chinese researchers propose as potential treatments for depression fail when tested clinically.",
+    "reference": "中国神经科学家对抑 郁症的基础研究是国际公认的，但他们提出的。 作为 治疗抑郁症潜在的候选化学成分大部分在临床试验时 失败了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国神经科学家对抑郁症的基础研究在国际上得到认可，但中国研究人员提出的作为潜在抑郁症治疗的候选化学化合物，在临床测试时大多数都未能成功。"
+  },
+  {
+    "index": 130,
+    "source": "This high failure rate of proposed agents has rapidly increased the cost of bringing new drugs to market, so pharmaceutical firms prefer to 'tweak' currently approved medications rather than take the financial risk of supporting the development of novel antidepressants.",
+    "reference": "这种试剂的高失败率和大部分可用药物的不 令人满意的结果迅速增加了新药进入市场的成本，所 以制药公司更喜欢“调整”目前的药物而不是冒资金 风险来支持新的抗抑郁药的发展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些提议的药物失败率高，迅速增加了将新药推向市场的成本，因此制药公司更愿意对目前已批准的药物进行“调整”，而不是承担支持新型抗抑郁药物开发的财务风险。"
+  },
+  {
+    "index": 131,
+    "source": "Thus, the development of new, more effective treatments for depression is at a stalemate.",
+    "reference": "因此，发展新的、 更有效的抑郁症治疗成为一个僵局。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，开发新的、更有效的抑郁症治疗方法已经陷入僵局。"
+  },
+  {
+    "index": 132,
+    "source": "Given the huge impact of depression on the economic development of China and other countries, it is essential to actively solicit the support of governments and communities in the efforts of clinicians, researchers, and the pharmaceutical industry to overcome this stalemate.",
+    "reference": "鉴于抑郁症对中 国和其他国家的经济发展的巨大影响，在临床医生、 研究人员和制药行业的共同努力下积极争取政府和社 区的支持来克服这种僵局是必不可少的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "鉴于抑郁症对中国及其他国家经济发展的巨大影响，积极寻求政府和社区对临床医生、研究人员和制药行业在克服这一僵局中的支持至关重要。"
+  },
+  {
+    "index": 133,
+    "source": "The importance of large cohort studies in China has been increasingly emphasized. As special group in the population, twins provide excellent natural resources since they share the same birthday, maternal intrauterine environment and early family environment. Twin cohorts are unique for and benefit on controlling the confounding factors as age, gender (same-sex twins), genetic background (monozygotic twins) or early environment (being raised together) in the etiological studies on complex diseases.",
+    "reference": "我国大型人群队列研究方兴未艾，双生子作为一种特殊人群，由于其同时出生、共享母体的宫内环境和早期家庭环境的天然对照优势，可以进行匹配的队列研究，从而很好地控制年龄、性别（同性别双生子）、遗传（同卵双生子）或早期环境（共同抚养的双生子）所带来的混杂，为慢性复杂性疾病病因研究提供不可多得的良好资源。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "中国对大型队列研究的重要性越来越重视。作为特殊群体，双胞胎提供了极好的自然资源，因为他们有相同的生日、相同的母体子宫内环境以及相似的早期家庭环境。双胞胎队列在复杂疾病的病因学研究中具有独特性，并且有助于控制混杂因素，如年龄、性别（同性双胞胎）、遗传背景（同卵双胞胎）或早期环境（共同成长）。"
+  },
+  {
+    "index": 134,
+    "source": "In this review, we briefly introduce the objectives, current situation, challenges and opportunities related to the Chinese national twin cohort, focusing on the characteristics of twins that are different from other groups in the general population.",
+    "reference": "本文将就中国双生子队列的目标、现状、挑战与机遇进行简要介绍，着重呈现双生子不同于一般人群队列的特征。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在本综述中，我们简要介绍了与中国国家双胞胎队列相关的目标、现状、挑战和机遇，重点介绍了双胞胎与一般人群中其他群体的不同特征。"
+  },
+  {
+    "index": 135,
+    "source": "Idiopathic pulmonary fibrosis (IPF) is one of the most common idiopathic interstitial pneumonia. The main symptoms for IPF are dry cough and exertional shortness of breath, which is worsen gradually with the development of pulmonary fibrosis.",
+    "reference": "特发性肺纤维化(idiopathic pulmonary fibrosis，IPF)是间质性肺炎中最常见的一种，主要症状是干咳和劳力性气促，且随着肺纤维化的发展逐渐加重。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "特发性肺纤维化（IPF）是最常见的特发性间质性肺炎之一。IPF的主要症状是干咳和运动性呼吸急促，随着肺纤维化的发展，症状逐渐加重。"
+  },
+  {
+    "index": 136,
+    "source": "Patients with IPF often suffer from sleep disordered breathing (SDB). Sleep architecture for these patients including the sleep efficiency, deep sleep, rapid eye movement sleep and arousal index, are changed, which seriously affects the quality of life.",
+    "reference": "IPF患者常发生睡眠呼吸障碍，其睡眠结构的改变包括睡眠效率降低，深睡眠、快动眼睡眠减少，而微觉醒指数增加，严重影响患者的生活质量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "IPF患者常常患有睡眠呼吸障碍（SDB）。这些患者的睡眠结构，包括睡眠效率、深度睡眠、快速眼动睡眠和觉醒指数，发生了变化，严重影响了生活质量。"
+  },
+  {
+    "index": 137,
+    "source": "In the absence of effective therapies, optimizing the quality of life may become a major therapeutic target for IPF. The diagnosis and treatment of SDB can significantly improve the quality of life for patients with IPF.",
+    "reference": "在IPF缺乏有效疗法的情况下，优化患者的生活质量为主要治疗目标，睡眠呼吸障碍的诊断和治疗能显著改善IPF患者的生活质量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在缺乏有效治疗的情况下，优化生活质量可能成为特发性肺纤维化（IPF）的主要治疗目标。睡眠呼吸暂停的诊断和治疗可以显著改善IPF患者的生活质量。"
+  },
+  {
+    "index": 138,
+    "source": "To observe the sensitivity of transcription mediated amplification (TMA), and to compare its performance with real-time reverse transcription polymerase chain reaction (real-time RT-PCR) in detecting human immunodeficiency virus RNA (HIV RNA).",
+    "reference": "目的：利用转录介导的扩增技术(transcription mediated amplification，TMA) 扩增HIV RNA，探讨TMA 技术扩增HIV RNA的敏感性及其与实时荧光定量反转录聚合酶链反应的比较。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观察转录介导的扩增（TMA）的敏感性，并将其与实时逆转录聚合酶链式反应（实时RT-PCR）在检测人类免疫缺陷病毒RNA（HIV RNA）中的表现进行比较。"
+  },
+  {
+    "index": 139,
+    "source": "Methods: TMA system was established with TaqMan probes, specific primers, moloney murine leukemia virus (MMLV) reverse transcriptase, T7 RNA polymerase, and reaction substrates.",
+    "reference": "方法：利用TaqMan探针、特异性引物、鼠白血病反转录酶、T7-RNA聚合酶及PCR底物等建立TMA 扩增体系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：TMA系统使用TaqMan探针、特定引物、摩洛尼小鼠白血病病毒（MMLV）反转录酶、T7 RNA聚合酶和反应底物建立。"
+  },
+  {
+    "index": 140,
+    "source": "The sensitivity of TMA was evaluated by amplifying a group of 10-fold diluted HIV RNA standards which were transcribed in vitro.",
+    "reference": "通过扩增一组10倍梯度稀释的HIV RNA转录标准品，评价TMA 体系的灵敏性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过扩增一组10倍稀释的HIV RNA标准品，这些标准品是在体外转录的，从而评估了TMA的敏感性。"
+  },
+  {
+    "index": 141,
+    "source": "A total of 60 plasma of HIV infected patients were measured by TMA and Cobas Amplicor HIV-1 Monitor test to observe the positive rate. The correlation and concordance of the above two technologies were investigated by linear regression and Bland-Altman analysis.",
+    "reference": "收集60例HIV感染患者的血浆，同时采用TMA试剂与Cobas Amplicor HIV-1 Monitor 1.5版试剂进行检测，比较两种方法的阳性检出率，并利用线性回归和Bland-Altman法分析两种技术的相关性和一致性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过TMA和Cobas Amplicor HIV-1 Monitor测试对60名HIV感染患者的血浆进行了测量，以观察阳性率。通过线性回归和Bland-Altman分析研究了上述两种技术的相关性和一致性。"
+  },
+  {
+    "index": 142,
+    "source": "Results: TMA system was established successfully and HIV RNA transcribed standards at concentration of equal or more than 10 copies/mL could be detected by TMA technology.",
+    "reference": "结果：成功建立了TMA 扩增体系，这种技术可以检测低至10 copies/mL 的HIV转录标准品。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：TMA系统成功建立，并且通过TMA技术可以检测到浓度为10拷贝/mL或更多的HIV RNA转录标准。"
+  },
+  {
+    "index": 143,
+    "source": "Among 60 samples of plasma from HIV infected patients, 46 were positively detected and 12 were negatively amplified by both TMA and Cobas reagents; 2 samples were positively tested by Cobas reagent but negatively tested by TMA system. The concordance rate of the two methods was 97.1% and the difference of positive detection rate between the two methods was not statistically significant (P",
+    "reference": "60份HIV感染者血浆样本中，TMA及Cobas均检测到阳性46 份，均阴性12份，TMA检测阴性而Cobas 检测阳性样本2份，检测一致率为96.7%。 两种技术阳性检出率差异无统计学意义(P",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在60个来自HIV感染患者的血浆样本中，46个样本通过TMA和Cobas试剂都被检测为阳性，12个样本通过两者都未扩增出阳性信号；2个样本通过Cobas试剂测试为阳性，但通过TMA系统测试为阴性。两种方法的符合率为97.1%，两种方法之间的阳性检测率差异无统计学意义（P）"
+  },
+  {
+    "index": 144,
+    "source": "Kandelia obovata Sheue, Liu",
+    "reference": "秋茄Kandelia obovata Sheue, Liu",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "海茄属 Kandelia obovata Sheue, Liu"
+  },
+  {
+    "index": 145,
+    "source": "To study the biological function of DNAH2 (Homo sapiens dynein, axonemal, heavy chain 2) gene, we constructed human stable U2OS cell line of DNAH2 gene knockout through CRISPR/Cas9n double nick system.",
+    "reference": "基于CRISPR/Cas9n double nick 技术构建人DNAH2 (Homo sapiens dynein, axonemal, heavy chain 2) 基因敲除的U2OS 稳定细胞株，旨在研究DNAH2 基因的生物学功能。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了研究DNAH2（人类动力蛋白，轴突，重链2）基因的生物学功能，我们通过CRISPR/Cas9n双切割系统构建了DNAH2基因敲除的人类稳定U2OS细胞系。"
+  },
+  {
+    "index": 146,
+    "source": "The A, B sgRNAs (Single guide RNA) and complementary strands were designed and synthesized. The double-stranded structures were formed during annealing, and connected with BbsⅠ cohesive ends-containing pX462 linear vector to construct the recombinant eukaryotic expression plasmids, including pX462-DNAH2-A and pX462-DNAH2-B.",
+    "reference": "首先设计并合成A、B 两个sgRNA (Single guide RNA) 以及各自的互补链，退火连接形成DNAH2 sgRNA-A、B 双链，再分别与带有BbsⅠ粘性末端的pX462 线性载体相连，形成pX462-DNAH2-A、pX462-DNAH2-B 重组真核表达质粒。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "A、B单导RNA（sgRNA）及其互补链被设计并合成。在退火过程中形成双链结构，并与含有BbsⅠ粘性末端的pX462线性载体连接，构建重组真核表达质粒，包括pX462-DNAH2-A和pX462-DNAH2-B。"
+  },
+  {
+    "index": 147,
+    "source": "After the co-transfection of the two plasmids into U2OS cells, the addition of puromycin and limiting dilution method were used to obtain positive monoclonal cell line. Western blotting assay was then performed to detect the expression of DNAH2 protein, and PCR-sequencing technology was finally utilized to analyze the mutation feature.",
+    "reference": "质粒共转染至U2OS 细胞后，加入嘌呤霉素，以有限稀释法获得阳性单克隆细胞株，再以蛋白印迹实验检测DNAH2 蛋白的表达，最后通过PCR-基因测序技术分析突变特点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在将两种质粒共同转染到U2OS细胞后，加入嘌呤霉素并使用限制性稀释法获得阳性单克隆细胞株。随后，进行Western blot实验以检测DNAH2蛋白的表达，最后采用PCR测序技术分析突变特征。"
+  },
+  {
+    "index": 148,
+    "source": "The results showed that A, B sgRNAs duplex was successfully inserted into pX462 vector, and DNAH2 protein was not expressed and DNAH2 gene suffered from the frame-shift mutation in U2OS-DNAH2-KO monoclonal cell line. These demonstrated that DNAH2 knockout U2OS stable cell line was successfully constructed through CRISPR/Cas9n double nick system, which providing a useful tool for the study of DNAH2 gene.",
+    "reference": "结果显示A、B sgRNA 双链成功插入pX462 载体，U2OS-DNAH2-KO单克隆细胞株中DNAH2 蛋白不表达，DNAH2 基因发生移码突变，从而证实利用CRISPR/Cas9n double nick系统成功构建人DNAH2 基因敲除的U2OS 稳定细胞株，为研究DNAH2 基因提供有利工具。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果表明，A、B sgRNAs 双链成功插入 pX462 载体中，且 DNAH2 蛋白未表达，并且 DNAH2 基因在 U2OS-DNAH2-KO 单克隆细胞系中发生了框移突变。这表明，DNAH2 敲除的 U2OS 稳定细胞系通过 CRISPR/Cas9n 双切割系统成功构建，为 DNAH2 基因的研究提供了有用的工具。"
+  },
+  {
+    "index": 149,
+    "source": "Studies on biofilm regulation based on Lux type quorum sensing system in wastewater treatment have attracted much attention. The intervention of quorum sensing system includes both mechanisms of positive and negative control.",
+    "reference": "基于Lux 型群体感应系统的生物被膜调控在污水处理中的研究备受关注，群体感应系统的干预包括正向强化和负向削弱两类。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基于Lux型群体感应系统的生物膜调控研究在废水处理领域引起了广泛关注。群体感应系统的干预包括正向和负向控制机制。"
+  },
+  {
+    "index": 150,
+    "source": "The positive invigorating effect improves the efficiency of biofilm wastewater treatment, promotes the production of extracellular polymeric substance (EPS) and soluble microbial products (SMP), and increases the yield of biofilm. The negative weakening effect of quorum sensing can decompose the signal molecules needed in the process of biofilm formation, interrupts the gene expression process of biofilm formation, and inhibits the formation of biofilm on MBR membrane surface effectively.",
+    "reference": "群体感应系统的正向强化作用可提高生物膜法污水处理中的挂膜速度，提高污水处理效率，促进活性污泥中胞外聚合物 (Extracellular polymeric substance，EPS) 和可溶性微生物产物 (Soluble microbial products，SMP) 的生成，提高生物被膜的产量；群体感应的负向削弱作用可以降解生物被膜形成过程中所需要的信号分子，切断生物被膜形成的基因表达过程，有效抑制MBR 膜表面生物被膜的形成，防止膜污染。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "积极的振奋效应提高了生物膜废水处理的效率，促进了胞外聚合物物质（EPS）和可溶性微生物产品（SMP）的产生，并增加了生物膜的产量。群体感应的负面削弱效应可以分解生物膜形成过程中所需的信号分子，干扰生物膜形成过程中的基因表达，且有效抑制了生物膜在MBR膜表面的形成。"
+  },
+  {
+    "index": 151,
+    "source": "The further study of the structure and mechanism of N-acyl homoserine lactone (AHLs), the immobilization technology and application of quorum quenching bacteria, the synergistic effect verification of different biofouling control methods and the application feasibility of quorum sensing system based technology in more wastewater treatment fields are the next important researches to explore.",
+    "reference": "对信号分子酰基高丝氨酸内酯 (N-acyl homoserine lactone，AHLs) 的结构和作用机理的进一步研究、群体感应淬灭菌的固定化技术与应用、多种防治膜污染方法的协同效果验证及群体感应干预在更多污水处理领域的应用可行性是该领域要研究的几个重要方向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "进一步研究N-酰基同分异构乳酸内酯（AHLs）的结构和机制，群体感应细菌的固定化技术及其应用，不同生物污染控制方法的协同效应验证，以及群体感应系统技术在更多废水处理领域的应用可行性是下一步需要探索的重要研究。"
+  },
+  {
+    "index": 152,
+    "source": "Low-intensity extracorporeal shockwave therapy (LI-ESWT) is a novel treatment for erectile dysfunction (ED).",
+    "reference": "阴茎体外低能震波治疗（LI-ESWT）是近年出现的一种治疗男性勃起功能障碍（ED）的新方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "低强度体外冲击波治疗（LI-ESWT）是一种治疗勃起功能障碍（ED）的新型治疗方法。"
+  },
+  {
+    "index": 153,
+    "source": "With the property of angiogenesis, LI-ESWT acts on vasculogenic ED by improving penile hemodynamics and endothelial function.",
+    "reference": "LI-ESWT具有促进新生血管形成的特性，可通过改善阴茎血流和内皮功能，起到治疗ED的作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "具有血管生成特性的LI-ESWT通过改善阴茎血流动力学和内皮功能，作用于血管源性勃起功能障碍。"
+  },
+  {
+    "index": 154,
+    "source": "LI-ESWT is proved to be safe and effective in the treatment of vasculogenic ED in various prospective clinical studies, including randomized, double-blind, and sham-controlled trails.",
+    "reference": "随着不同国家和地区的多个前瞻性临床试验，包括随机、双盲、安慰治疗对照试验（RCT）结果的公布，LI-ESWT治疗血管性ED的安全性和有效性已得到广泛认可。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "LI-ESWT在多项前瞻性临床研究中被证明在治疗血管源性勃起功能障碍方面安全有效，包括随机、双盲和假治疗对照试验。"
+  },
+  {
+    "index": 155,
+    "source": "With more multi-centered larger-sample randomized controlled trials, LI-ESWT will play a valuable role in the treatment of ED.",
+    "reference": "随着更大样本、多中心RCT试验的完成，LI-ESWT在未来ED治疗领域中将占据一席之地。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过更多多中心大样本的随机对照试验，LI-ESWT将在勃起功能障碍治疗中发挥重要作用。"
+  },
+  {
+    "index": 156,
+    "source": "To examine the changes of mimecan protein expression in development of atherosclerosis induced by sinoaortic denervation, and to explore the effects of mimecan knock down on the proliferation and migration of vascular smooth muscle cells.",
+    "reference": "目的：观察大鼠血压变异性增加诱导的动脉粥样硬化发展中mimecan蛋白的表达变化，以及小鼠胸主动脉平滑肌细胞敲减mimecan蛋白对细胞增殖和迁移的影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "研究在经过窦动脉去神经化诱导的动脉粥样硬化发展过程中mimecan蛋白表达的变化，并探讨mimecan敲低对血管平滑肌细胞增殖和迁移的影响。"
+  },
+  {
+    "index": 157,
+    "source": "Methods: The animals were randomly divided into a sham group and a model group (n=8 in each group).",
+    "reference": "方法：动物实验共分为假手术组和模型组，每组8只。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：动物被随机分为假手术组和模型组（每组n=8）。"
+  },
+  {
+    "index": 158,
+    "source": "The rat model of blood pressure variability was established by sinoaortic denervation, and the hemodynamic indexes were recorded 20 weeks after the surgery to confirm the success of the model.",
+    "reference": "通过大鼠去窦弓神经手术建立血压变异性升高的动物模型，20周后采用检测的血流动力学指标对模型进行验证。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通过颈动脉和主动脉去神经化建立了血压变异性的大鼠模型，并在手术后20周记录了血流动力学指标，以确认模型的成功建立。"
+  },
+  {
+    "index": 159,
+    "source": "The thoracic aorta was excised and stained with immunohistochemistry to observe the pathological changes of smooth muscle tissues and the changes of mimecan expression.",
+    "reference": "胸主动脉进行石蜡切片后，通过免疫组织化学观察血管平滑肌组织的病理学改变及mimecan蛋白的表达变化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "胸主动脉被切除并用免疫组织化学染色，以观察平滑肌组织的病理变化和mimecan表达的变化。"
+  },
+  {
+    "index": 160,
+    "source": "Results: Twenty weeks after sinoaortic denervation, the blood pressure variability in the model group was significantly increased compared with that in the sham group, suggesting the model was successfully established.",
+    "reference": "结果：手术20周后，与假手术组相比，模型组大鼠血压变异性参数明显升高，证明模型建立成功。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：在切除主动脉神经后20周，模型组的血压变异性显著高于假手术组，表明模型成功建立。"
+  },
+  {
+    "index": 161,
+    "source": "In addition, the increased blood pressure variability in the model group promoted the proliferation and migration of the vascular smooth muscle cells in thoracic aorta, while the expression of mimecan protein was significantly decreased.",
+    "reference": "同时，血压变异性增加促进了模型组大鼠胸主动脉中血管平滑肌细胞的增殖与迁移，而mimecan蛋白的表达却显著降低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，模型组中血压波动的增加促进了胸主动脉血管平滑肌细胞的增殖和迁移，而mimecan蛋白的表达显著降低。"
+  },
+  {
+    "index": 162,
+    "source": "In in vitro assays, the knock down of mimecan in mice vascular smooth muscle cells could promote the cell proliferation and migration.",
+    "reference": "敲减小鼠血管平滑肌细胞中mimecan蛋白，能显著促进细胞的增殖和迁移。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在体外实验中，小鼠血管平滑肌细胞中mimecan的敲低可促进细胞增殖和迁移。"
+  },
+  {
+    "index": 163,
+    "source": "Conclusion: Mimecan plays a protective role in the development of sinoaortic denervation induced atherosclerosis through amechanism involving suppression of the proliferation and migration of vascular smooth muscle cells.",
+    "reference": "结论：Mimecan蛋白对血压变异性增加诱导的动脉粥样硬化的潜在发展有重要的保护作用，其作用机制可能是通过抑制血管平滑细胞的增殖和迁移而延缓动脉粥样硬化的进程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：Mimecan在通过抑制血管平滑肌细胞增殖和迁移的机制中，发挥着保护作用，防止由颈主动脉去神经引起的动脉粥样硬化的发展。"
+  },
+  {
+    "index": 164,
+    "source": "Protein N-termini, as the beginning of translation, has a major impact on protein's biological functions. Its sequence and various post-translational modifications often affect protein activation, stability and cellular-localization, regulate the signal transduction, and even determine protein's final destiny.",
+    "reference": "蛋白质的N 末端作为合成的起始，其氨基酸序列组成及翻译后修饰直接影响着蛋白质的活性、稳定性和细胞内定位，调控着细胞内的信号转导，甚至决定了这些蛋白质的命运。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "蛋白质的N端，作为翻译的开始，对蛋白质的生物功能具有重要影响。其序列和各种翻译后修饰常常影响蛋白质的激活、稳定性和细胞定位，调节信号传导，甚至决定蛋白质的最终命运。"
+  },
+  {
+    "index": 165,
+    "source": "The systematic study of protein N-termini can clarify the vital function of the N-terminus, and provide in-depth knowledge of the multifunctional roles that protein has played in diverse biological processes. In addition, N-terminal research may help us to achieve high-coverage proteomics and re-annotate genomics.",
+    "reference": "对蛋白质N 末端组学的系统研究不仅可以揭示N 末端区域对整个蛋白质的重要作用，有助于我们深入地了解蛋白质在各种生命活动中所扮演的角色，同时在实现蛋白质组高覆盖、基因组重注释等方面也有着重要的价值。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "蛋白质N末端的系统研究可以阐明N末端的关键功能，并提供有关蛋白质在不同生物过程中所发挥的多功能作用的深入知识。此外，N末端研究可能有助于实现高覆盖度的蛋白质组学并重新注释基因组学。"
+  },
+  {
+    "index": 166,
+    "source": "Combined with our own research, this review highlights recent progress of N-terminomics, especially some important enrichment strategies and technologies based on mass spectrometry.",
+    "reference": "本文结合我们的现有工作，综述了近年来蛋白质N 末端组学的研究进展，尤其是一些重要的基于质谱的N 末端富集技术和方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结合我们自己的研究，本文回顾了N-末端组学的最新进展，特别是一些基于质谱的关键富集策略和技术。"
+  },
+  {
+    "index": 167,
+    "source": "Aspergillus niger, as an important industrial fermentation strain, is widely applied in the production of organic acids and industrial enzymes.",
+    "reference": "黑曲霉作为重要的工业发酵菌株，被广泛用于多种有机酸和工业用酶的生产。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "黑曲霉作为一种重要的工业发酵菌株，广泛应用于有机酸和工业酶的生产中。"
+  },
+  {
+    "index": 168,
+    "source": "With the development of diverse omics technologies, the data of genome, transcriptome, proteome and metabolome of A. niger are increasing continuously, which declared the coming era of big data for the research in fermentation process of A. niger.",
+    "reference": "随着组学技术的日益发展和成熟，黑曲霉的基因组、转录组、蛋白质组、代谢组等组学数据不断增长，宣告着黑曲霉生物过程研究大数据时代的到来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着多样化组学技术的发展，黑曲霉的基因组、转录组、蛋白质组和代谢组数据不断增加，预示着大数据时代的到来，推动黑曲霉发酵过程研究的发展。"
+  },
+  {
+    "index": 169,
+    "source": "The data analysis from single omics and the comparison of multi-omics, to the integrations of multi-omics based on the genome-scale metabolic network model largely extends the intensive and systematic understanding of the efficient production mechanism of A. niger. It also provides possibilities for the reasonable global optimization of strain performance by genetic modification and process regulation.",
+    "reference": "从单一组学的数据分析、多组学的比较到以基因组代谢网络模型为中心的多组学整合研究,人们对黑曲霉高效生产机制的理解不断深入和系统，这为通过遗传改造和过程调控对菌株的生产性能进行理性的全局优化提供了可能。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "单一组学的数据分析和多组学的比较，以及基于基因组规模代谢网络模型的多组学整合，在很大程度上扩展了对黑曲霉高效生产机制的深入和系统理解。它还为通过遗传改造和过程调控合理地进行菌株性能的全局优化提供了可能性。"
+  },
+  {
+    "index": 170,
+    "source": "We reviewed and summarized progress in omics research of A. niger, and proposed the development direction of omics research on this cell factory.",
+    "reference": "本文回顾和总结了近年来黑曲霉的组学研究进展，并提出黑曲霉组学研究未来的发展方向。 .",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们回顾并总结了黑曲霉的组学研究进展，并提出了该细胞工厂组学研究的发展方向。"
+  },
+  {
+    "index": 171,
+    "source": "Portal hypertension is one of the main performance of liver cirrhosis, in addition to anatomical factors, hyperdynamic circulatory status caused by abnormal splanchnic vascular tension is also very important in this procession.",
+    "reference": "门静脉高压是肝硬化的主要表现之一，在其形成过程中，除解剖因素外，内脏血管床张力异常引起的高动力循环状态也起到重要作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "门静脉高压是肝硬化的主要表现之一，除了解剖因素外，由于内脏血管张力异常引起的高动态循环状态在这一过程中也非常重要。"
+  },
+  {
+    "index": 172,
+    "source": "We summarised the mechanism and treatment strategies of hyperdynamic circulation in cirrhosis, so as to provide some recommendation for clinical practice.",
+    "reference": "现就肝硬化时高动力循环的发生机制及其治疗策略进行总结，以期为临床治疗提供参考。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们总结了肝硬化中高动力循环的机制和治疗策略，以便为临床实践提供一些建议。"
+  },
+  {
+    "index": 173,
+    "source": "Hepatic fibrosis is a common pathological process in the development of various chronic liver diseases into liver cirrhosis.",
+    "reference": "肝纤维化是多种慢性肝病向肝硬化发展的共同病理学过程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "肝纤维化是多种慢性肝病发展为肝硬化过程中的一种常见病理过程。"
+  },
+  {
+    "index": 174,
+    "source": "Based on current research findings, it is widely believed that the process of hepatic fibrosis is reversible, and effective treatment cannot only delay the development of hepatic fibrosis into liver cirrhosis, but also alleviate the degree of hepatic fibrosis.",
+    "reference": "根据现有的研究结果，普遍认为肝纤维化的过程是可逆的，适当有效的治疗不仅可减缓其向肝硬化的发展，甚至可减轻已有的肝纤维化程度。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "根据当前的研究结果，普遍认为肝纤维化的过程是可逆的，有效的治疗不仅可以延缓肝纤维化向肝硬化的发展，还可以减轻肝纤维化的程度。"
+  },
+  {
+    "index": 175,
+    "source": "Therefore, the research on the treatment of hepatic fibrosis is of great clinical significance.",
+    "reference": "因此，对肝纤维化治疗的研究具有重要的临床意义。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，肝纤维化治疗的研究具有重要的临床意义。"
+  },
+  {
+    "index": 176,
+    "source": "The article reviews the recent research advances in the treatment of hepatic fibrosis.",
+    "reference": "现就近期肝纤维化的主要治疗进展进行总结。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文回顾了肝纤维化治疗方面的最新研究进展。"
+  },
+  {
+    "index": 177,
+    "source": "The ubiquitin-proteasome system (UPS) is a proteasome system widely present in the human body, which is composed of ubiquitin (Ub), ubiquitin activating enzymes (E1), ubiquitin conjugating enzymes (E2), ubiquitin protein ligases (E3), 26S proteasome, and deubiquitinating enzymes (DUBs) and involved in cell cycle regulation, immune response, signal transduction, DNA repair as well as protein degradation.",
+    "reference": "泛素-蛋白酶体系统（UPS）是体内广泛存在的一种蛋白酶体系统，由泛素（Ub）、泛素激活酶（E1）、泛素结合酶（E2）、泛素连接酶（E3）、26S蛋白酶体和去泛素化酶（DUBs）组成，能够调控体内蛋白降解。 研究发现UPS除了蛋白降解功能以外，还参与细胞周期调控、免疫应答、信号传导以及DNA损伤修复等过程。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "泛素-蛋白酶体系统（UPS）是广泛存在于人体中的蛋白酶体系统，由泛素（Ub）、泛素激活酶（E1）、泛素连接酶（E2）、泛素蛋白酶连接酶（E3）、26S蛋白酶体以及去泛素化酶（DUBs）组成，参与细胞周期调控、免疫反应、信号传导、DNA修复以及蛋白质降解等过程。"
+  },
+  {
+    "index": 178,
+    "source": "Sperm DNA is vulnerable to interference or damage in the progression of chromosome association and homologous recombination.",
+    "reference": "精子发生要经历染色体联会、同源重组等过程，精子DNA在这些过程中易受干扰而出现损伤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在染色体结合和同源重组的过程中，精子DNA容易受到干扰或损伤。"
+  },
+  {
+    "index": 179,
+    "source": "Recent studies show that UPS participates in DNA repair in spermatogenesis by modulating DNA repair enzymes via ubiquitination, assisting in the identification of DNA damage sites, raising damage repair-related proteins, initiating the DNA repair pathway, maintaining chromosome stability, and ensuring the normal process of spermatogenesis.",
+    "reference": "近年来研究发现，UPS与精子发生当中的DNA损伤修复有关。 UPS参与DNA损伤的修复机制包括：泛素化调节DNA损伤修复相关酶类、协助识别DNA损伤位点、募集损伤修复相关蛋白、启动DNA损伤修复途径、维持染色体稳定，从而保证精子发生正常进行。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "近期研究表明，UPS通过泛素化调节DNA修复酶，参与精子发生中的DNA修复，帮助识别DNA损伤位点，提高损伤修复相关蛋白，启动DNA修复通路，维持染色体稳定性，并确保精子发生的正常过程。"
+  },
+  {
+    "index": 180,
+    "source": "Along with the increase in the prevalence of lipid metabolism disorders,in vitro research on the adipocytes has been a hot topic in recent years.",
+    "reference": "随着脂肪代谢性疾病的增多,有关脂肪细胞的体外研究成为近年来研究热点。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着脂质代谢紊乱的流行率增加，近年来关于脂肪细胞的体外研究已成为热点话题。"
+  },
+  {
+    "index": 181,
+    "source": "3T3-L1 preadipocyte line is one of the most commonly used cell line for establishing adipocytes models. However,for 3T3-L1 cell lines,the traditional method,known also as the \"Cocktail\" method,have disadvantages including low transformation rate and heterogeneous conversion.",
+    "reference": "3T3-L1前脂肪细胞系是建立成熟脂肪细胞模型最为常用的细胞系之一,但经典的脂肪细胞诱导方案存在转化率低、转化不均匀等问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "3T3-L1 前脂肪细胞系是建立脂肪细胞模型中最常用的细胞系之一。然而，对于 3T3-L1 细胞系，传统方法，也被称为“鸡尾酒”法，存在包括转化率低和异质性转换等缺点。"
+  },
+  {
+    "index": 182,
+    "source": "Therefore,many studies aimed to improving the induction method by changing the time of inducers or adding other new drugs have been performed(known as the improved method).",
+    "reference": "近年来,诸多学者通过改变诱导剂作用时间、增加新的诱导药物等方法,即改良诱导法,进行脂肪细胞模型的建立。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，许多研究通过改变诱导剂的时间或添加其他新药来改善诱导方法（称为改进方法）已被进行。"
+  },
+  {
+    "index": 183,
+    "source": "The present study was to summarize the progress of the traditional methods and the improved methods for inducing 3T3-L1 cell lines to mature adipocytes.",
+    "reference": "本文主要从传统诱导法和改良诱导法两方面,总结了3T3-L1脂肪细胞诱导分化的研究进展。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究旨在总结传统方法和改进方法在诱导3T3-L1细胞系分化为成熟脂肪细胞方面的进展。"
+  },
+  {
+    "index": 184,
+    "source": "With the rapid economic development in China, the incidence of all sorts of accidental injury, such as traffic injuries and fall-induced injuries, increased significantly.",
+    "reference": "随着我国经济社会的快速发展，各种意外伤害如交通事故伤、坠落伤等创伤的发生率明显增加。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着中国经济的快速发展，各种意外伤害的发生率显著增加，例如交通伤害和跌倒引起的伤害。"
+  },
+  {
+    "index": 185,
+    "source": "Trauma, particularly severe trauma, often involves multiple organs and multiple system damage, and needs a scientific, standardized comprehensive multidisciplinary approach for treatment.",
+    "reference": "创伤尤其是严重创伤常涉及多器官、多系统，需要多学科联合进行科学、规范的综合性救治。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "创伤，特别是严重创伤，通常涉及多个器官和多个系统损伤，需要科学、规范的综合多学科治疗方法。"
+  },
+  {
+    "index": 186,
+    "source": "Due to meticulous sub-division of clinical department sand lack of professional trauma treatment team in general hospitals in China's major cities, the overall level of trauma rescue in China is much lower than the developed countries. So the urgent need is to establish and form an efficient and standardized urban trauma treatment system.",
+    "reference": "我国各大城市综合医院分科过细，缺乏专业创伤救治团队，导致我国创伤总体救治水平远低于发达国家，亟待建立并形成高效、规范的城市创伤救治体系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于中国大城市的临床科室精细化划分和综合医院缺乏专业创伤治疗团队，中国的创伤救治整体水平远低于发达国家。因此，迫切需要建立和形成高效、规范的城市创伤治疗体系。"
+  },
+  {
+    "index": 187,
+    "source": "In order to further guarantee the establishment of urban trauma rescue system, and to further improve the success rate of trauma rescue in China, nationally well-known trauma experts of China developed the \"Expert consensus document on the establishment of urban trauma rescue system in China\" based on its previous research results, foreign countries' successful experience and China's national conditions. This document would be an important reference for our local governments at all levels to create urban trauma rescue system.",
+    "reference": "为进一步促进我国城市创伤救治体系的建立，进一步提高创伤救治成功率，国内创伤领域知名专家在已有研究成果的基础上，借鉴国外成功经验并结合我国国情，共同制定本共识，以期为我国各级地方政府创建城市创伤救治体系提供参考。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了进一步保障城市创伤救援体系的建立，进一步提高中国创伤救援的成功率，中国全国知名创伤专家根据之前的研究成果、外国成功经验以及中国的国情，制定了《我国城市创伤救援体系建设的专家共识文件》。该文件将成为各级地方政府建立城市创伤救援体系的重要参考。"
+  },
+  {
+    "index": 188,
+    "source": "This study aimed to assess the nutritional status of infants aged 0 to 5 months by different feeding approaches. A cross-sectional study on infant nutrition was performed in eight cities in China.",
+    "reference": "为了评价不同喂养方式0-5月婴儿的营养状况，我们在中国8城市实施了婴儿营养 横断面调查。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究旨在通过不同的喂养方式评估0至5个月婴儿的营养状况。该研究在中国八个城市进行，属于婴儿营养的横断面研究。"
+  },
+  {
+    "index": 189,
+    "source": "A total of 622 infants from birth to 2 months of age and 456 infants from 3 months to 5 months of age were included in this study.",
+    "reference": "总共调查了622名0-2月婴儿和456名3-5月婴儿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究共纳入622名出生至2个月大的婴儿和456名3个月至5个月大的婴儿。"
+  },
+  {
+    "index": 190,
+    "source": "For artificially fed infants who received only complementary foods, approximately 20% and 12.5% infants received inadequate dietary vitamin A and zinc intakes, respectively.",
+    "reference": "对于只摄入辅食的人工 喂养儿来说，大约分别有20%和12.5%的婴儿摄入维生素A和锌的量不足。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对于仅接受辅食的人工喂养婴儿，约20%和12.5%的婴儿分别摄入了不足的维生素A和锌。"
+  },
+  {
+    "index": 191,
+    "source": "The vitamin A and zinc intakes of half of the infants exceeded the ULs.",
+    "reference": "而超 过一半的人工喂养儿摄入过量的维生素A和锌。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一半婴儿的维生素A和锌摄入量超过了UL值。"
+  },
+  {
+    "index": 192,
+    "source": "Results showed that the usual intake distribution of the infants from 3 months to 5 months of age were similar to that of the infants from birth to 2 months of age. The common vitamin A and zinc intakes were also severely imbalanced.",
+    "reference": "3-5月的婴儿营养摄入状况与0-2 月婴儿的营养摄入状况大致相同，也存在严重的维生素A和锌摄入失衡状况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果显示，3个月到5个月大的婴儿的常规摄入分布与出生到2个月大的婴儿相似。常见的维生素A和锌摄入量也严重失衡。"
+  },
+  {
+    "index": 193,
+    "source": "In addition, higher disease prevalence and lower Z scores of length-forage, weight-for-age, and weight-for-length were found in artificially fed infants and mix-fed infants compared with those in breast-fed infants.",
+    "reference": "此 外，与母乳喂养儿相比，人工喂养儿和混合喂养儿有较高的疾病发病率和较低 的年龄别身高，年龄别体重和身高别体重评分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "此外，与母乳喂养的婴儿相比，人工喂养婴儿和混合喂养婴儿的疾病患病率更高，且身长与年龄、体重与年龄、体重与身长的Z评分更低。"
+  },
+  {
+    "index": 194,
+    "source": "In conclusion, the usual nutrient intakes were adequate for the majority of Chinese infants, except for an important number of infants at risk for imbalance of vitamin A and zinc intakes.",
+    "reference": "总之，对于中国城市0-5月婴儿 来说，除了维生素A和锌存在不同程度的营养失衡状况之外，其他大多数的营养 素均摄入充足。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "总之，大多数中国婴儿的常规营养摄入量是足够的，除了有相当一部分婴儿存在维生素A和锌摄入失衡的风险。"
+  },
+  {
+    "index": 195,
+    "source": "Cancer can exhibit different forms depending on the site of origin, cell types, the different forms of genetic mutations which also affect cancer therapeutic effect.",
+    "reference": "由于起源部位、细胞类型、基因突变形式的不同，肿瘤可表现出不同的形态。 这些因素同时影响肿瘤的治疗效果。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "癌症可以根据起源部位、细胞类型以及不同的基因突变形式表现出不同的形式，这些也会影响癌症的治疗效果。"
+  },
+  {
+    "index": 196,
+    "source": "Although many genes have been demonstrated to change a direct result of the change in phenotype, however, many cancers lineage complex molecular mechanisms are still not fully elucidated.",
+    "reference": "虽然已经证实许多基因的改变直接导致了表型的改变，然而，许多肿瘤谱系中复杂分子机制依然未完全阐明。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管许多基因已被证明是表型变化的直接结果，但许多癌症谱系的复杂分子机制仍未完全阐明。"
+  },
+  {
+    "index": 197,
+    "source": "Therefore, The Cancer Genome Atlas (TCGA) Research Network analyzed a large human tumors, in order to find the molecular changes in DNA, RNA, protein and epigenetic level, The results contain a wealth of data provides us with an opportunity for common, personality and new ideas throughout the cancer lineages form a whole description.",
+    "reference": "因此，肿瘤基因组图谱（The Cancer Genome Atlas, TCGA）研究网络分析了大量人类肿瘤，以期发现DNA、RNA、蛋白质和表观遗传学水平的分子改变。 含丰富数据的结果给我们提供了一个机会，对整个肿瘤谱系的共性、个性及新观点形成一个整体描绘。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，癌症基因组图谱（TCGA）研究网络分析了大量人类肿瘤，以寻找DNA、RNA、蛋白质和表观遗传层面的分子变化。结果包含丰富的数据，为我们提供了一个机会，通过对整个癌症谱系的描述，形成共同性、个性化和新的思路。"
+  },
+  {
+    "index": 198,
+    "source": "Pan-cancer genome program first compares the 12 kinds of cancer types.",
+    "reference": "基因组图谱泛癌计划最先比较了12种肿瘤类型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "泛癌症基因组计划首先比较了12种癌症类型。"
+  },
+  {
+    "index": 199,
+    "source": "Analysis of different tumor molecular changes and their functions, will tell us how effective treatment method is applied to a similar phenotype of the tumor.",
+    "reference": "对不同肿瘤分子改变及其功能的分析，未来会告诉我们如何将有效的治疗方法应用于类似基因表型的肿瘤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不同肿瘤分子变化及其功能的分析，将告诉我们如何将有效的治疗方法应用于相似表型的肿瘤。"
+  },
+  {
+    "index": 200,
+    "source": "A case of portopulmonary hypertension characterized by repeated syncope was retrospectively analyzed.",
+    "reference": "回顾性分析1例以反复晕厥为主要表现的门脉性肺动脉高压患者。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一例以反复晕厥为特征的门脉肺动脉高压病例进行了回顾性分析。"
+  },
+  {
+    "index": 201,
+    "source": "Intrahepatic or extrahepatic factor-induced portal hypertension complicated with metabolic disorder of vasoactive substances, vascular pressure, inflammation, etc. may result in systolic and diastolic dysfunction of pulmonary arteries and systemic hyperdynamic circulation, the long-term effect of which can induce vascular remodeling and consequently, pulmonary hypertension.",
+    "reference": "各种肝内外原因引起门静脉高压的基础上，血管活性物质代谢异常、血管压力、炎症等因素使肺血管收缩舒张功能失衡、全身高动力循环状态，长期作用下将出现血管重构，最终引起肺动脉高压。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "肝内或肝外因素引起的门静脉高压并伴有血管活性物质、血管压力、炎症等的代谢紊乱，可能导致肺动脉的收缩和舒张功能障碍以及全身性高动力循环，其长期影响可能引起血管重塑，从而导致肺动脉高压。"
+  },
+  {
+    "index": 202,
+    "source": "Currently available therapeutic approaches include drug therapy targeting on pulmonary hypertension and liver transplantation.",
+    "reference": "目前治疗方法主要有肺动脉高压靶向治疗药物、肝移植手术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目前可用的治疗方法包括针对肺动脉高压的药物治疗和肝脏移植。"
+  },
+  {
+    "index": 203,
+    "source": "Hypertension is one of the most common chronic diseases affecting more than 25% of adults worldwide.",
+    "reference": "高血压是一种常见的慢性疾病，全球超过25%的成年人受其影响。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "高血压是最常见的慢性病之一，全球超过25%的成年人受到其影响。"
+  },
+  {
+    "index": 204,
+    "source": "In Pakistan, 33% of the adult population suffers from hypertension.",
+    "reference": "在巴基斯 坦，33%的成年人患有高血压。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在巴基斯坦，33%的成年人患有高血压。"
+  },
+  {
+    "index": 205,
+    "source": "Numerous epidemiological studies have demonstrated the critical role of dietary patterns in the causation, prevention and management of hypertension.",
+    "reference": "大量的流行病学研究表明膳食模式在高血压的 因果关系、预防和管理中起关键作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "众多流行病学研究已经证明了饮食模式在高血压的发生、预防和管理中的关键作用。"
+  },
+  {
+    "index": 206,
+    "source": "There's a dearth of evidence from South Asia in this regard.",
+    "reference": "然而，来自南亚的这方面的证据不足。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这方面，来自南亚的证据稀缺。"
+  },
+  {
+    "index": 207,
+    "source": "The present study aimed to identify the association between dietary patterns and hypertension among 4304 low income urban adults who participated in the Control of Blood Pressure and Risk Attenuation (COBRA) study in Karachi, Pakistan.",
+    "reference": "本研究旨在确定巴基斯坦卡拉奇地区参加高血压控制和风险衰减研究的4304 名城市低收入居民的膳食模式和高血压的关系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本研究旨在确定在巴基斯坦卡拉奇参与血压控制与风险减缓（COBRA）研究的4304名低收入城市成人中，饮食模式与高血压之间的关联。"
+  },
+  {
+    "index": 208,
+    "source": "Dietary information was collected by a 33- item food frequency questionnaire and 3 unique dietary patterns namely; fat and sweet, fruit and vegetable, and seafood and yogurt patterns were derived using principal component factor analyses.",
+    "reference": "采用含33 个条目的食物频率 问卷收集饮食信息，并用主成分因子分析得到3 个独特的膳食模式，分别被命 名为脂肪和甜食、蔬菜和水果、海鲜和酸奶模式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "膳食信息通过一份包含33个项目的食物频率问卷收集，并通过主成分因子分析得出了三种独特的膳食模式，即：脂肪和甜食模式，水果和蔬菜模式，海鲜和酸奶模式。"
+  },
+  {
+    "index": 209,
+    "source": "We used univariate and multivariable logistic regression to examine the association between dietary patterns and hypertension.",
+    "reference": "我们采用单因素和多因素 logistic 回归分析研究膳食模式和高血压之间的关系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们使用单变量和多变量逻辑回归分析了饮食模式与高血压之间的关联。"
+  },
+  {
+    "index": 210,
+    "source": "Men were more likely to have hypertension, while increase in age, and body mass index were also associated with hypertension (p",
+    "reference": "男性更容易患高血压， 而年龄和体质指数的增加也与高血压有关（p",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "男性更容易患高血压，同时年龄和体重指数的增加也与高血压相关（p"
+  },
+  {
+    "index": 211,
+    "source": "Circle dance, which derives from the tradition of folk dances, is practised worldwide.",
+    "reference": "圆圈舞派生自民间舞蹈传统，现在风靡全球。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "圆圈舞起源于民间舞蹈的传统，全球范围内都有练习。"
+  },
+  {
+    "index": 212,
+    "source": "This article explores the meanings participants attribute to it.",
+    "reference": "本文探讨对于参与者而言它的意义所在。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文探讨了参与者赋予其的意义。"
+  },
+  {
+    "index": 213,
+    "source": "In-depth interviews with 39 participants, teachers and coordinators of teacher training programmes from the circle dance network in the United Kingdom were undertaken.",
+    "reference": "对来自英国圆圈舞群体的39名学员、教师和网络教师培训计划组织者进行了深入采访。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对来自英国圆舞蹈网络的39名参与者、教师和教师培训项目协调员进行了深入访谈。"
+  },
+  {
+    "index": 214,
+    "source": "This article specifically focuses on the first major category, termed \"I can't imagine life without it\", which relates to the experience of 22 dancers.",
+    "reference": "本文集中讨论第一大类，这一类被称为“我不能想象生活中没有它”，涉及到22个舞者的经历。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "本文专门关注第一个主要类别，称为“我无法想象没有它的生活”，它与22位舞者的经历有关。"
+  },
+  {
+    "index": 215,
+    "source": "From an occupational perspective, the study reveals how participants realise a sense of meaning and satisfaction through engagement in circle dance and the potential contribution of this occupation to well-being.",
+    "reference": "从休闲角度来看，研究揭示了参与者如何通过参加跳圆圈舞而产生一种意义感和满足感, 也揭示了这种休闲活动对人们福祉的潜在作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "从职业角度来看，这项研究揭示了参与者如何通过参与圈舞体验意义和满足感，以及这一职业对福祉的潜在贡献。"
+  },
+  {
+    "index": 216,
+    "source": "To explore differences in visual information processing for smoking addicts between before and after smoking cessation based on functional magnetic resonance imaging technology.",
+    "reference": "目的：利用功能磁共振成像技术观察吸烟成瘾者在戒烟前后视觉信息处理的差异。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "基于功能性磁共振成像技术，探索吸烟成瘾者戒烟前后视觉信息处理的差异。"
+  },
+  {
+    "index": 217,
+    "source": "Methods: Seventeen volunteers, with heavy dependence on nicotine, agreed to give up smoking and to complete the test.",
+    "reference": "方法：17名吸烟成瘾者同意戒烟并完成了试验。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：十七名有重度尼古丁依赖的志愿者同意戒烟并完成测试。"
+  },
+  {
+    "index": 218,
+    "source": "The primary visual network and secondary visual network were extracted by independent component analysis technology.",
+    "reference": "利用独立分量分析方法分解出初级视觉网络和次级视觉网络。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "主要视觉网络和次要视觉网络通过独立成分分析技术提取。"
+  },
+  {
+    "index": 219,
+    "source": "The region of interest was defined as the region with significant difference between before and after smoking cessation. The functional connectivity analysis was carried out based on the selected region of interest.",
+    "reference": "在两个网络内，戒烟前后存在显著差异的区域作为感兴趣区域，并对这些区域进行基于感兴趣区的功能连接分析。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "感兴趣区域定义为吸烟停止前后具有显著差异的区域。功能连接性分析是基于选定的感兴趣区域进行的。"
+  },
+  {
+    "index": 220,
+    "source": "Results: After the subjects quitting smoking for 14 days, the increased functional connectivity was observed not only within secondary visual network but also between 2 interested networks; however, no functional connectivity was changed within primary visual network.",
+    "reference": "结果：戒烟14 d后在次级视觉网络内、两个网络之间的功能连接均有所增强，在初级视觉网络内的功能连接相对稳定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：在受试者戒烟14天后，不仅在次级视觉网络内观察到功能连接的增加，而且在两个感兴趣的网络之间也观察到连接增加；然而，初级视觉网络内的功能连接没有变化。"
+  },
+  {
+    "index": 221,
+    "source": "Conclusion: The ability of visual information processing for smoking addicts could be significantly enhanced after 14 days of smoking cessation.",
+    "reference": "结论：吸烟成瘾者在戒烟14 d后视觉信息处理能力显著增强。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结论：吸烟成瘾者在戒烟14天后，视觉信息处理能力显著提高。"
+  },
+  {
+    "index": 222,
+    "source": "Liver cirrhosis is the severe period of chronic liver diseases, especially decompensated liver cirrhosis and its complications, such as ascites, esophagogastric variceal bleeding, hepatic encephalopathy, acute kidney injury, and hepatocellular carcinoma, which greatly affect patients' quality of life and even threaten their lives.",
+    "reference": "肝硬化是慢性肝病进展的严重时期，尤其失代偿期肝硬化及相关并发症，如腹水、食管胃静脉曲张出血、肝性脑病、急性肾损伤及肝细胞癌等，严重影响患者的生活质量、甚至危及生命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "肝硬化是慢性肝病的严重阶段，尤其是代偿失代偿性肝硬化及其并发症，如腹水、食管胃底静脉曲张出血、肝性脑病、急性肾损伤和肝细胞癌，这些都会极大地影响患者的生活质量，甚至威胁到他们的生命。"
+  },
+  {
+    "index": 223,
+    "source": "Early prevention and treatment of the causes of development and progression and pathogenic mechanism may slow down or reverse liver cirrhosis and its severe complications. Once the disease progresses to portal hypertension and related complications, it is very important to select preventive measures for acute exacerbation of different complications, as well as the methods and timing for treatment in acute stage, which may help to save patients' lives and improve their prognosis.",
+    "reference": "针对其发生发展的病因、致病机制早期防治可减缓或逆转肝硬化及其严重并发症的发生，一旦疾病进展至发生门静脉高压及相关并发症，针对不同并发症急性发作的预防措施的选择、急性期救治方法与时机的选择，是挽救患者生命与改善预后的重要策略。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "早期预防和治疗发展和进展的原因及病理机制，可以减缓或逆转肝硬化及其严重并发症。一旦病情进展至门脉高压及相关并发症，选择不同并发症急性加重的预防措施，以及急性期治疗的方法和时机非常重要，这可能有助于挽救患者生命并改善预后。"
+  },
+  {
+    "index": 224,
+    "source": "Acute agitation and aggression are common symptoms in patients with bipolar disorder and schizophrenia.",
+    "reference": "急性激越和敌对是双相障碍和精神分裂症患者的常见症状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "急性躁动和攻击行为是双相障碍和精神分裂症患者常见的症状。"
+  },
+  {
+    "index": 225,
+    "source": "In this review, we discuss the prevalence, clinical assessment strategies, treatment options, and current Western and Chinese guidelines for the management of acute agitation and aggression in patients with bipolar disorder or schizophrenia.",
+    "reference": "本综述中，我们讨论在双相障碍或精神分裂症患者中上述症状的发生率、临床评估策略、治疗方案以及目前国内外针对这些症状的治疗指南。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在本综述中，我们讨论了躁狂症或精神分裂症患者急性激动和攻击的流行情况、临床评估策略、治疗方案以及当前西方和中国的管理指南。"
+  },
+  {
+    "index": 226,
+    "source": "Among available approaches, we discuss in detail recent evidence supporting the use of intramuscular (IM) antipsychotics and some recently approved oral atypical antipsychotics for the management of acute aggression and agitation in hospitalized patients with bipolar disorder or schizophrenia presenting with acute agitation or aggression, highlighting some differences between individual antipsychotic agents.",
+    "reference": "在现有的方法中，有使用肌肉注射的抗精神病药物和最近获得批准的口服非典型抗精神病药物治疗双相障碍或精神分裂症住院患者的急性激越和敌对，我们详细讨论了支持这些方法的最新证据，并强调各个抗精神病药物之间的一些差异。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在现有的方法中，我们详细讨论了近期的证据，支持使用肌肉注射（IM）抗精神病药物以及一些最近批准的口服非典型抗精神病药物，用于治疗住院患者中双相情感障碍或精神分裂症引起的急性激动或攻击，重点强调了不同抗精神病药物之间的差异。"
+  },
+  {
+    "index": 227,
+    "source": "To observe the clinical characteristics with different peritoneal transport type in patients with continuous ambulatory peritoneal dialysis (CAPD), and to investigate the factors associated with peritoneal transport function.",
+    "reference": "目的：观察不同腹膜转运类型的持续性非卧床腹膜透析(continuous ambulatory peritoneal dialysis，CAPD)患者的临床特征，探讨影响腹膜转运功能的相关因素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观察不同腹膜透析类型患者在持续性步态腹膜透析（CAPD）中的临床特征，并研究与腹膜透析功能相关的因素。"
+  },
+  {
+    "index": 228,
+    "source": "Methods: The clinical data of 158 CAPD patients were analyzed retrospectively. According to peritoneal equilibration test, a method for evaluation of the peritoneal transport function, the patients were divided into 2 groups: a high average and high peritoneal transport group (Group A, n=84) and a low average and low peritoneal transport group (Group B, n=74). The demographics, clinical biochemical indexes and the incidence of cardiovascular complications were compared between the 2 groups. Logistic regression analysis was used to find the factors relevant to peritoneal transport function.",
+    "reference": "方法：回顾性总结158例CAPD患者的临床资料，根据腹膜平衡试验评价患者的腹膜转运功能并将其分为高平均转运+高转运组(A组，n=84)和低平均转运+低转运组(B组，n=74)，并对两组患者的人口学资料、临床生物化学指标以及心血管并发症情况进行比较；应用logistic回归分析寻找影响患者腹膜转运功能的相关因素。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "方法：回顾性分析了158名CAPD患者的临床数据。根据腹膜透析平衡试验（用于评估腹膜透析功能的方法），将患者分为两组：高平均腹膜透析功能组（A组，n=84）和低平均腹膜透析功能组（B组，n=74）。比较了两组的基本情况、临床生化指标和心血管并发症的发生率。采用Logistic回归分析找出与腹膜透析功能相关的因素。"
+  },
+  {
+    "index": 229,
+    "source": "Results: The level of serum albumin (ALB) in the Group B was significantly higher than that in the Group A (P",
+    "reference": "结果：B组患者血清白蛋白(albumin，ALB)水平显著高于A组(P",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果：B组血清白蛋白(ALB)水平显著高于A组(P"
+  },
+  {
+    "index": 230,
+    "source": "Hyponatremia is a rare, yet potentially life threatening complication of antipsychotics.",
+    "reference": "低钠血症是一种罕见的具有潜在生命危险的抗 精神病药物治疗的不良反应。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "低钠血症是抗精神病药物的一种罕见但可能威胁生命的并发症。"
+  },
+  {
+    "index": 231,
+    "source": "Here, we report a case of a 45-year-old female diagnosed with schizophrenia who developed hyponatremia soon after addition of olanzapine to the existing treatment.",
+    "reference": "这里，我们报告一个病例， 45 岁女性精神分裂症患者在奥氮平治疗后不久出现低 钠血症。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这里，我们报告了一例45岁女性患者的病例，该患者被诊断为精神分裂症，在添加奥氮平至现有治疗后不久发展为低钠血症。"
+  },
+  {
+    "index": 232,
+    "source": "This prompted us to evaluate the relationship between hyponatremia and olanzapine, as timely management is crucial.",
+    "reference": "为此我们评估了低钠血症和奥氮平治疗之间 的关系， 因为及时的药物监测至关重要。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这促使我们评估低钠血症与奥氮平之间的关系，因为及时的管理至关重要。"
+  },
+  {
+    "index": 233,
+    "source": "Naranjo algorithm established a \"probable\" causal relation between olanzapine and hyponatremia.",
+    "reference": "根据 Naranjo 算法， 在奥氮平和低钠血症之间的关联性评价，可评 价为“ 可能”。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "Naranjo算法建立了奥氮平和低钠血症之间的“可能”因果关系。"
+  },
+  {
+    "index": 234,
+    "source": "Possible etiological reasons of this clinically significant and life threatening adverse event have been discussed.",
+    "reference": "因此有必要探究低钠血症这一临床上重 大、 危及生命的不良事件产生的可能原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "已经讨论了这种临床显著且危及生命的不良事件的可能病因。"
+  },
+  {
+    "index": 235,
+    "source": "We report the case and the literature focusing on hyponatremia as a possible adverse event of olanzapine.",
+    "reference": "我们报告 的病例聚焦于奥氮平治疗引起的低钠血症的不良事件。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们报告了这一病例及相关文献，重点讨论奥氮平作为可能的不良事件引起的低钠血症。"
+  },
+  {
+    "index": 236,
+    "source": "Medical illnesses are often ignored or missed in patients with psychiatric disorders either due to patients' inability to report complaints or non-serious attitude of physicians towards such patients.",
+    "reference": "由于精神疾病患者有时无法主诉或主诉不被重视， 内 科疾病常常被忽视或错过。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于患者无法报告症状或医生对这些患者持不严肃态度，精神障碍患者的医疗疾病常常被忽视或漏诊。"
+  },
+  {
+    "index": 237,
+    "source": "A high index of suspicion should be kept while dealing with this probable complication.",
+    "reference": "在处理这种可能的不良反 应时， 应保持高度警觉性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在处理这种可能的并发症时，应保持高度的怀疑态度。"
+  },
+  {
+    "index": 238,
+    "source": "Objective To study the single nucleotide polymorphisms (SNPs)that predict a patient's risk of grade 2-3 paclitaxel-induced peripheral sensory neuropathy (PSN) in Chinese Han populations.Methods Totally 216 patients received paclitaxel in Peking Union Medical College Hospital from May 2014 to December 2016 were enrolled.DNA was isolated from peripheral blood.Genotyping for eight candidate SNPs was performed on Sequenom-MassARRARYiPLEX platform.Patients were followed up and PSN was assessed by trained physicians according to National Cancer Institute-Common Terminology Criteria for Adverse Events v4.03.",
+    "reference": "目的 在中国汉族人群中研究与2/3级紫杉醇介导的外周感觉神经病变(PSN)相关的单核苷酸基因多态性(SNP)位点及临床特点。 方法 以2014年5月至2016年12月在北京协和医院接受紫杉醇方案化疗的216例患者为研究对象,提取外周血DNA,选取8个候选SNP位点,采用Sequenom-MassARRARYiPLEX平台测定基因型。 依据美国国家癌症研究院-不良反应常见术语评定标准,由受训的临床医生完成患者随访及PSN分级。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "目标：研究预测患者患2-3级紫杉醇引起的外周感觉神经病变（PSN）风险的单核苷酸多态性（SNPs），并且研究对象为中国汉族人群。方法：2014年5月至2016年12月期间，216名患者在北京协和医学院医院接受紫杉醇治疗。DNA从外周血中分离，采用Sequenom-MassARRAY iPLEX平台进行8个候选SNP的基因分型。对患者进行了随访，并由受过训练的医生根据国家癌症研究所-不良事件术语标准（v4.03）评估PSN。"
+  },
+  {
+    "index": 239,
+    "source": "Results A total of 209 patients entered the final analysis.Among the candidate SNPs,only rs4141404:A",
+    "reference": "结果 共有209例患者最终纳入分析。 在候选SNP位点中,仅rs4141404:A",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "结果共有209名患者进入最终分析。在候选SNP中，只有rs4141404:A"
+  },
+  {
+    "index": 240,
+    "source": "Screening has been always considered as a double-edged sword.",
+    "reference": "筛查历来就是一把双刃剑。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "筛选一直被认为是一把双刃剑。"
+  },
+  {
+    "index": 241,
+    "source": "Cancer screening could save lives in some cases, however, in other cases, it might also turn people into overdiagnosis.",
+    "reference": "癌症筛查在给部分人带来收益的同时，也会给另一部分人带来过度诊断。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "癌症筛查在某些情况下可能挽救生命，但在其他情况下，它也可能导致人们过度诊断。"
+  },
+  {
+    "index": 242,
+    "source": "Overdiagnosis is the diagnosis of cancer that will never cause symptoms or death during a patient's lifetime. Therefore, overdiagnosis might lead to unnecessary treatments and lifetime surveillance, and then increase economic burden and psychological burden.",
+    "reference": "过度诊断是对永远不会导致症状出现或威胁生命的癌症的诊断，由此可能造成被诊断者接受不必要的治疗及终身监测，进而造成不必要的经济负担以及身体和心理上的损害。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "过度诊断是指那些在患者一生中永远不会引起症状或死亡的癌症诊断。因此，过度诊断可能导致不必要的治疗和终生监测，从而增加经济负担和心理负担。"
+  },
+  {
+    "index": 243,
+    "source": "After systematically reviewing the previous studies, we will try to identify the potential reasons associated with overdiagnosis in breast cancer screening with mammography, address how to correctly evaluate the overdiagnosis rate, and finally provide some suggestions to reduce the overdiagnosis.",
+    "reference": "本文在系统总结既往相关研究的基础上，详细阐述乳腺X线筛查乳腺癌引起过度诊断产生的原因、评价方法，以及避免过度诊断可采取的措施。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在系统回顾了之前的研究后，我们将尝试识别与乳腺癌筛查中过度诊断相关的潜在原因，探讨如何正确评估过度诊断率，并最终提供减少过度诊断的一些建议。"
+  }
+]

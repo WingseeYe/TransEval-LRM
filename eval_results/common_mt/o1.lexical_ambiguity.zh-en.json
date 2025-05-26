@@ -1,0 +1,3202 @@
+[
+  {
+    "index": 0,
+    "source": "他想拉同村的干部一起下水去贩毒。",
+    "reference": "He wants to take the cadres of the same village to sell drugs with him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He wants to pull the cadres from the same village into drug trafficking with him."
+  },
+  {
+    "index": 1,
+    "source": "放学后这几个学生约好一起去水库下水。",
+    "reference": "After school, these students agreed to go to the reservoir together for swimming.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After school, these students agreed to go swimming in the reservoir together."
+  },
+  {
+    "index": 2,
+    "source": "吃掉敌人一个师。",
+    "reference": "Destroy a division of the enemy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Wipe out one of the enemy’s divisions."
+  },
+  {
+    "index": 3,
+    "source": "他喜欢吃苹果。",
+    "reference": "He likes to eat apples.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He likes to eat apples."
+  },
+  {
+    "index": 4,
+    "source": "到现在也没给我安排住房，晚上只好到处游击。",
+    "reference": "I have not been arranged accommodation until now, so I had to look around for it at night.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They still haven’t arranged a place for me to stay, so at night I have no choice but to roam around."
+  },
+  {
+    "index": 5,
+    "source": "我们部队到处游击敌人。",
+    "reference": "Our troops guerrapped the enemy everywhere.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Our troops carry out guerrilla operations against the enemy everywhere."
+  },
+  {
+    "index": 6,
+    "source": "九十年代很多人下海经商。",
+    "reference": "In the 1990s, many people ventured into business.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In the 1990s, many people went into business (became entrepreneurs)."
+  },
+  {
+    "index": 7,
+    "source": "海边的渔民靠下海捕鱼为生。",
+    "reference": "The fishermen who live by the sea earn their living by fishing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Fishermen living on the coast rely on going out to sea to fish for a living."
+  },
+  {
+    "index": 8,
+    "source": "他这个人真是一块朽木。",
+    "reference": "He is a man who can't be taught.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He really is a piece of rotten wood."
+  },
+  {
+    "index": 9,
+    "source": "这个家具的用料里面夹着一些朽木。",
+    "reference": "There is some decayed wood in the material of this furniture.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is some rotten wood mixed in the materials used for this piece of furniture."
+  },
+  {
+    "index": 10,
+    "source": "他是一个爱丢东西的人。",
+    "reference": "He is a person who is often prone to lose things.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is someone who often loses things."
+  },
+  {
+    "index": 11,
+    "source": "他爱穿红色的衣服。",
+    "reference": "He loves to wear red clothes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He loves wearing red clothes."
+  },
+  {
+    "index": 12,
+    "source": "警察在这里安了几个人。",
+    "reference": "The police arranged several people here.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The police have stationed a few people here."
+  },
+  {
+    "index": 13,
+    "source": "火车站安了自动检票机。",
+    "reference": "The automatic ticket gate was installed at the train station.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The train station has installed automatic ticket checking machines."
+  },
+  {
+    "index": 14,
+    "source": "汛期已过，河流安澜。",
+    "reference": "The flood season has passed and the river is quiet.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The flood season has passed, and the rivers are calm."
+  },
+  {
+    "index": 15,
+    "source": "国家安澜，才能搞好建设。",
+    "reference": "Only when the country is safe, can we build it well.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Only when the country is stable and peaceful can we effectively carry out development."
+  },
+  {
+    "index": 16,
+    "source": "他的罪还够不上行政警告处分。",
+    "reference": "His fault is still not enough for administrative warnings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His offense is not serious enough to warrant an administrative warning."
+  },
+  {
+    "index": 17,
+    "source": "犯了罪，就要受法律惩罚。",
+    "reference": "If you commit a crime, you will be punished by law.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If you commit a crime, you must be punished by law."
+  },
+  {
+    "index": 18,
+    "source": "他接到命令要求拔敌人岗楼。",
+    "reference": "He received an order to take the enemies'  watchtower.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He received orders to take down the enemy's watchtower."
+  },
+  {
+    "index": 19,
+    "source": "用火罐拔两下，痛苦就会减轻。",
+    "reference": "With a cupping twice, the pain will be alleviated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Use a fire cupping therapy a couple of times, and the pain will be relieved."
+  },
+  {
+    "index": 20,
+    "source": "保卫科的几个人把门特严，谁也别想私带公物出厂。",
+    "reference": "Several people in the security department guarded the entrance strictly, and no one could bring public properties out the factory secretely.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A few people from the security department are guarding the gate very strictly, so no one should even think about secretly taking company property out of the factory."
+  },
+  {
+    "index": 21,
+    "source": "言多必失，嘴上要有个把门的。",
+    "reference": "One is bound to have a slip of the tongue if he talks too much, so we sometimes should keep our mouths shut.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If you talk too much, you're bound to make mistakes. Keep a guard on what you say."
+  },
+  {
+    "index": 22,
+    "source": "白了他一眼。",
+    "reference": "gave him an angry stare.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She rolled her eyes at him."
+  },
+  {
+    "index": 23,
+    "source": "白跑了一趟。",
+    "reference": "had a wasted journey.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "That was a wasted trip."
+  },
+  {
+    "index": 24,
+    "source": "他猜谜语百发百中。",
+    "reference": "He is good at guessing riddles.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He guesses riddles with perfect accuracy."
+  },
+  {
+    "index": 25,
+    "source": "他是神枪手，百发百中。",
+    "reference": "He is a sharpshooter and the shooting is accurate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is a sharpshooter who never misses."
+  },
+  {
+    "index": 26,
+    "source": "你的嘴太快了。",
+    "reference": "You spoke too fast.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "You speak too quickly."
+  },
+  {
+    "index": 27,
+    "source": "他的嘴可不小。",
+    "reference": "His mouth is not small.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He sure has a big mouth."
+  },
+  {
+    "index": 28,
+    "source": "我国有我国的国情，完全搬人家的管理方法不行。",
+    "reference": "Our national conditions is different from other countries, so it is impossible to completely use others' management methods",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Our country has its own national conditions; simply adopting other people's management methods in their entirety won't work."
+  },
+  {
+    "index": 29,
+    "source": "把花盆搬到阳台上去。",
+    "reference": "Move the flower pot to the balcony.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Move the flower pot onto the balcony."
+  },
+  {
+    "index": 30,
+    "source": "他板着面孔，显得很生气的样子。",
+    "reference": "His kept a straight face and looked very angry.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He wore a stern expression, looking very angry."
+  },
+  {
+    "index": 31,
+    "source": "地很板，不好犁。",
+    "reference": "The ground is very hard and make it difficult to be ploughed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ground is hard and not easy to plow."
+  },
+  {
+    "index": 32,
+    "source": "那时候的留学生要住一年预科。",
+    "reference": "At that time, international students were required to take a one-year preparatory course.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "At that time, international students were required to attend a one-year preparatory program."
+  },
+  {
+    "index": 33,
+    "source": "我家住在黄土高坡。",
+    "reference": "My family lives in the loess high slope.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I live on the Loess Plateau."
+  },
+  {
+    "index": 34,
+    "source": "这块地不薄。",
+    "reference": "This land is fertile.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This piece of land is not thin."
+  },
+  {
+    "index": 35,
+    "source": "书架格子太薄承受不住书的压力。",
+    "reference": "The grid on the bookshelf is too thin to bear the pressure of the books.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The bookshelf compartments are too thin to withstand the pressure of the books."
+  },
+  {
+    "index": 36,
+    "source": "大臣们准备奏一份奏折。",
+    "reference": "The ministers were ready to write a memorial.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ministers are preparing to submit a memorial."
+  },
+  {
+    "index": 37,
+    "source": "一群学生正在奏国歌。",
+    "reference": "A group of students are playing the national anthem.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A group of students is playing the national anthem."
+  },
+  {
+    "index": 38,
+    "source": "一颗子弹报销一个敌人。",
+    "reference": "A bullet eliminates an enemy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "One bullet kills an enemy."
+  },
+  {
+    "index": 39,
+    "source": "这批扳手要向厂里报销另领新的。",
+    "reference": "These wrenches will be reimbursed to the factory for new ones.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This batch of wrenches needs to be written off at the factory and replaced with new ones."
+  },
+  {
+    "index": 40,
+    "source": "合理支配工作与学习。",
+    "reference": "Arrange work and study properly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Manage work and study in a reasonable manner."
+  },
+  {
+    "index": 41,
+    "source": "行动是受思想支配的。",
+    "reference": "Action is controlled by thought.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Action is governed by thought."
+  },
+  {
+    "index": 42,
+    "source": "这个房间里的小孩需要整治。",
+    "reference": "The children in this room need to be punished.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The child in this room needs to be disciplined."
+  },
+  {
+    "index": 43,
+    "source": "这辆自行车需要整治。",
+    "reference": "This bike needs repair.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This bicycle needs to be repaired."
+  },
+  {
+    "index": 44,
+    "source": "他在文章中多次援引了古文。",
+    "reference": "He cited ancient proses for many times in his article.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He quoted classical Chinese texts multiple times in his article."
+  },
+  {
+    "index": 45,
+    "source": "他擅长于援引未被发掘的人才。",
+    "reference": "He is good at recommending undiscovered talent.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He excels at bringing in undiscovered talent."
+  },
+  {
+    "index": 46,
+    "source": "他逼他父母买钢琴。",
+    "reference": "He forced his parents to buy a piano.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He forced his parents to buy a piano."
+  },
+  {
+    "index": 47,
+    "source": "大军已逼城郊。",
+    "reference": "The army has approached the suburbs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The army has already approached the outskirts of the city."
+  },
+  {
+    "index": 48,
+    "source": "比着身子做衣服。",
+    "reference": "take measurement to make clothes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tailor the clothes to fit the body."
+  },
+  {
+    "index": 49,
+    "source": "今年不比往年。",
+    "reference": "This year can't be compared with previous years.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This year is not like previous years."
+  },
+  {
+    "index": 50,
+    "source": "晚饭后散步是他的必修课。",
+    "reference": "Walking after dinner is a must for him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Taking a walk after dinner is a must for him."
+  },
+  {
+    "index": 51,
+    "source": "现代汉语是我们的必修课。",
+    "reference": "Modern Chinese is our compulsory course.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Modern Chinese is our required course."
+  },
+  {
+    "index": 52,
+    "source": "链条和齿轮咬住了。",
+    "reference": "The chain was stuck in the gear.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The chain and the gear are jammed."
+  },
+  {
+    "index": 53,
+    "source": "你要说实话，不要乱咬别人。",
+    "reference": "You have to tell the truth, and don't involve others into this.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "You should speak the truth and not make unfounded accusations against others."
+  },
+  {
+    "index": 54,
+    "source": "我们决不让祖国的江山变色。",
+    "reference": "We will never let the motherland's mountains and rivers change to the wrong direction.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We will never allow the rivers and mountains of our motherland to change color."
+  },
+  {
+    "index": 55,
+    "source": "这种广告颜料质量好，不变色。",
+    "reference": "This kind of advertising pigment is of good quality and does not change color.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This type of advertising paint is of good quality and does not fade."
+  },
+  {
+    "index": 56,
+    "source": "这届全运会，我省派出了四百名选手参战。",
+    "reference": "In this National Games, our province assigned 400 players to participate in the competition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For this year's National Games, our province dispatched four hundred athletes to compete."
+  },
+  {
+    "index": 57,
+    "source": "淮海战役打响后，解放军参战部队共约五十万人。",
+    "reference": "When the Huaihai Campaign started, the liberation troops had a total of about 500,000 people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After the Huaihai Campaign began, the Liberation Army had approximately 500,000 troops participating in the battle."
+  },
+  {
+    "index": 58,
+    "source": "他下马向观众示意。",
+    "reference": "He dismounted from his horses and gestured to the audience.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He dismounted and signaled to the audience."
+  },
+  {
+    "index": 59,
+    "source": "这个工程已经下马。",
+    "reference": "This project has been abandoned.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This project has been discontinued."
+  },
+  {
+    "index": 60,
+    "source": "这个工程师是一个大草包。",
+    "reference": "This engineer is a person who has no ability.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This engineer is a total incompetent."
+  },
+  {
+    "index": 61,
+    "source": "导演用草包当粮袋。",
+    "reference": "The director used the straw bag as a grain bag.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The director used a straw bag as a grain sack."
+  },
+  {
+    "index": 62,
+    "source": "如果不用心，就治不好学。",
+    "reference": "If you don't study by heart, you can't do scholarly research.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If you don't pay close attention, you won't be able to master your studies."
+  },
+  {
+    "index": 63,
+    "source": "他的脚气治好了。",
+    "reference": "His athlete's foot was cured.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His athlete's foot has been cured."
+  },
+  {
+    "index": 64,
+    "source": "这些士兵已经抄了两次家。",
+    "reference": "These soldiers have searched and confiscated their homes twice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These soldiers have already raided homes twice."
+  },
+  {
+    "index": 65,
+    "source": "昨天没来上课的他正在抄笔记。",
+    "reference": "The man who didn' attend class yesterday was copying notes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He, who didn't attend class yesterday, is now copying notes."
+  },
+  {
+    "index": 66,
+    "source": "他赤身闯商界，如今已经是一家公司的董事长。",
+    "reference": "He started business by scratch but now is  the president of a company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He entered the business world with nothing, and now he is the chairman of a company."
+  },
+  {
+    "index": 67,
+    "source": "模特儿赤身裸体，是在为艺术献身。",
+    "reference": "The naked model is dedicated to art.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The model is nude, devoting themselves to art."
+  },
+  {
+    "index": 68,
+    "source": "这个人戴着的表走了3分钟。",
+    "reference": "The watch worn by this person was turned for 3 minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The watch this person is wearing is three minutes fast."
+  },
+  {
+    "index": 69,
+    "source": "这个人走了3分钟。",
+    "reference": "This person walked for 3 minutes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This person walked for 3 minutes."
+  },
+  {
+    "index": 70,
+    "source": "请你把这两句话串在一起。",
+    "reference": "Please put these two sentences together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please combine these two sentences."
+  },
+  {
+    "index": 71,
+    "source": "他正在串这座美丽城市的大街小巷。",
+    "reference": "He is visiting the streets of this beautiful city.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is wandering through every street and alley of this beautiful city."
+  },
+  {
+    "index": 72,
+    "source": "春意在两个年轻人的胸中荡漾。",
+    "reference": "Love is rippling in the chest of two young people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The sense of spring ripples in the hearts of the two young people."
+  },
+  {
+    "index": 73,
+    "source": "春意盎然。",
+    "reference": "Spring is full of vitality.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Spring is in the air."
+  },
+  {
+    "index": 74,
+    "source": "这只猫正在到处乱窜。",
+    "reference": "The cat is running around.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This cat is running around all over the place."
+  },
+  {
+    "index": 75,
+    "source": "江水窜起来比桥都高。",
+    "reference": "The river jumped to a height  ,  and was higher than the bridge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The river water surged higher than the bridge."
+  },
+  {
+    "index": 76,
+    "source": "他正在打军队急需要收到的一封电报。",
+    "reference": "He is sending a telegram that the army urgently needs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is sending a telegram that the army urgently needs to receive."
+  },
+  {
+    "index": 77,
+    "source": "他正在打他讨厌的那个人。",
+    "reference": "He is fighting the person he hates.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is hitting the person he hates."
+  },
+  {
+    "index": 78,
+    "source": "这条街有很多可以当首饰的店铺。",
+    "reference": "There are many pawnshops in this street where the jewelries can be pawned for money.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are many shops on this street that sell items you can wear as jewelry."
+  },
+  {
+    "index": 79,
+    "source": "他不把这件事情当大的事情。",
+    "reference": "He does not take this matter as a big deal.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He doesn't consider this matter a big deal."
+  },
+  {
+    "index": 80,
+    "source": "那个女人嘴里往外倒粪。",
+    "reference": "That woman swears out in her mouth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "That woman is spewing excrement from her mouth."
+  },
+  {
+    "index": 81,
+    "source": "在没有卫生设备的住宅区，居民们每天早晨往指定的粪车里倒粪。",
+    "reference": "In residential areas without sanitation, residents pour out dung into designated manure vehicles every morning.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In residential areas without sanitation facilities, residents dump their feces into designated fecal trucks every morning."
+  },
+  {
+    "index": 82,
+    "source": "在他的名字下面画了一条道。",
+    "reference": "Draw a line under his name.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A line was drawn under his name."
+  },
+  {
+    "index": 83,
+    "source": "前面没道啦，你还往哪走？",
+    "reference": "There is no road ahead,where are you going?",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There's no road ahead—where are you going?"
+  },
+  {
+    "index": 84,
+    "source": "这家商店用次品顶正品。",
+    "reference": "This store replaces genuine products with defective products.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This store substitutes substandard products for genuine ones."
+  },
+  {
+    "index": 85,
+    "source": "店铺已经顶出去了。",
+    "reference": "The store has been transferred.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The store has already been transferred."
+  },
+  {
+    "index": 86,
+    "source": "一上考场，他心里就发毛。",
+    "reference": "As soon as he got to the examination room, he was panicked.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "As soon as he stepped into the exam room, he felt very nervous."
+  },
+  {
+    "index": 87,
+    "source": "稍不如意，他就发毛。",
+    "reference": "If he was a little unsatisfactory, he lost his temper.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "At the slightest displeasure, he freaks out."
+  },
+  {
+    "index": 88,
+    "source": "局长受贿的事最近终于翻车了。",
+    "reference": "The director's bribery has been disclosed finnally.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The bureau chief’s bribery scandal has finally come to light recently."
+  },
+  {
+    "index": 89,
+    "source": "这一带路面很容易翻车。",
+    "reference": "It is easy to turn over for cars on this on the roads in this area.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It's easy to overturn on this stretch of road."
+  },
+  {
+    "index": 90,
+    "source": "他的爱好就是钻书本。",
+    "reference": "His hobby is to dig into books.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His hobby is immersing himself in books."
+  },
+  {
+    "index": 91,
+    "source": "在墙壁上钻一个小孔。",
+    "reference": "Drill a small hole in the wall.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Drill a small hole in the wall."
+  },
+  {
+    "index": 92,
+    "source": "贩卖资产阶级的精神鸦片。",
+    "reference": "Inculcate the spiritual opium of the bourgeoisie.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Selling the bourgeoisie’s spiritual opium."
+  },
+  {
+    "index": 93,
+    "source": "贩卖毒品。",
+    "reference": "Trafficking in drugs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "selling drugs"
+  },
+  {
+    "index": 94,
+    "source": "听了他安慰的话，一股暖流涌上心头。(好像第二个是对的）",
+    "reference": "After listening to his words for comfort, a warm emotion came to my heart.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After hearing his comforting words, a warm surge rose in my heart. (It seems the second one is correct.)"
+  },
+  {
+    "index": 95,
+    "source": "这股暖流给这片海洋带去了丰富的食物资源。",
+    "reference": "This warm current brought a wealth of food resources to the ocean.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This warm current has brought abundant food resources to this ocean."
+  },
+  {
+    "index": 96,
+    "source": "他这句话简直就是在拍卖青春。",
+    "reference": "His words is simply selling youth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "That sentence of his is practically auctioning off youth."
+  },
+  {
+    "index": 97,
+    "source": "他的画被拍卖出了1万美元。",
+    "reference": "His paintings were auctioned for $10,000.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His painting was auctioned for 10,000 US dollars."
+  },
+  {
+    "index": 98,
+    "source": "银行工作肥的很。",
+    "reference": "Working in the bank means high income",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A job at a bank is really cushy."
+  },
+  {
+    "index": 99,
+    "source": "这条连衣裙肥了点。",
+    "reference": "This dress is a bit loose.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This dress is a bit too loose."
+  },
+  {
+    "index": 100,
+    "source": "沸腾的群众运动场面。",
+    "reference": "The boiling scene of the mass movement.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A stirring scene of the mass movement."
+  },
+  {
+    "index": 101,
+    "source": "沸腾的汤。",
+    "reference": "Boiling soup.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Boiling soup."
+  },
+  {
+    "index": 102,
+    "source": "调查组的同志分发各个地方。",
+    "reference": "The comrades of the investigation team were distributed to the various places.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The members of the investigation team have been assigned to various places."
+  },
+  {
+    "index": 103,
+    "source": "调查组的同志分发劳保用品 。",
+    "reference": "The comrades of the investigation team distributed personal protective equipments.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Members of the investigation team are distributing labor protection supplies."
+  },
+  {
+    "index": 104,
+    "source": "请大家不要在发传单时分散自己的注意力。",
+    "reference": "Please don't distract yourself when you send out flyers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please do not get distracted when handing out flyers."
+  },
+  {
+    "index": 105,
+    "source": "请大家分散自己手上的传单。",
+    "reference": "Please distribute the flyers in your hand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please distribute the flyers in your hands."
+  },
+  {
+    "index": 106,
+    "source": "今年风调雨顺，农民的秋景一定很好。",
+    "reference": "This year's weather is good, and the harvest of the farmers' autumn must be very good.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This year the weather has been favorable, and farmers are sure to enjoy a great autumn."
+  },
+  {
+    "index": 107,
+    "source": "这个旅游城市的秋景很好。",
+    "reference": "The autumn scenery of this tourist city is very good.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The autumn scenery in this tourist city is very beautiful."
+  },
+  {
+    "index": 108,
+    "source": "打探风声。",
+    "reference": "Inquire about the news.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Gather intelligence (or probe for information)"
+  },
+  {
+    "index": 109,
+    "source": "听着窗外的风声，他一夜都没睡觉。",
+    "reference": "hearing the sounds of the wind outside the window, he didn't sleep all night.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Listening to the wind outside the window, he didn’t sleep all night."
+  },
+  {
+    "index": 110,
+    "source": "这药用温水送服。",
+    "reference": "This mediciine is taken with warm water.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Take this medicine with warm water."
+  },
+  {
+    "index": 111,
+    "source": "不要以势压人，而要以理服人。",
+    "reference": "Don't press people with power, but convince them by easonning.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Do not use power to oppress others; instead, use reason to convince them."
+  },
+  {
+    "index": 112,
+    "source": "他是个老江湖了。",
+    "reference": "He is a man who has a lot of experience.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is an old hand."
+  },
+  {
+    "index": 113,
+    "source": "他自十四岁起，便流落江湖。",
+    "reference": "Since he was fourteen, he has leaded a vagabond life.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has been roaming the land since he was fourteen."
+  },
+  {
+    "index": 114,
+    "source": "他在官场已经浮沉过好几次了，很有经验。",
+    "reference": "He has  experienced several ups and downs in the official circle, so he is quite experienced",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has gone through several ups and downs in official circles and is thus very experienced."
+  },
+  {
+    "index": 115,
+    "source": "小船随着巨浪在海上浮沉。",
+    "reference": "The boat drifted on the sea with huge waves.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The small boat rises and falls with the giant waves at sea."
+  },
+  {
+    "index": 116,
+    "source": "这些建筑工人正在盖的是一个专门用于卖被子的商场。",
+    "reference": "These builders are building a shopping mall specialized in  selling quilts.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These construction workers are building a mall specifically for selling quilts."
+  },
+  {
+    "index": 117,
+    "source": "在这种寒冷的天他只盖一床毛毯睡觉。",
+    "reference": "On this cold day he was only covered with a blanket to sleep.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In such cold weather, he only sleeps with one blanket."
+  },
+  {
+    "index": 118,
+    "source": "老师在他的作文本上画了许多杠。",
+    "reference": "The teacher drew a lot of lines on his text.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The teacher drew many marks on his composition book."
+  },
+  {
+    "index": 119,
+    "source": "他手上拿着一条长长的杠。",
+    "reference": "He has a long bar in his hand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is holding a long pole in his hand."
+  },
+  {
+    "index": 120,
+    "source": "唱歌唱到高调的时候，他的嗓子顶不上去了。",
+    "reference": "When the song was pitched high , he could not raises his voice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When he reached the high notes while singing, his voice couldn’t keep up anymore."
+  },
+  {
+    "index": 121,
+    "source": "他说的内容是挺高调的，但并不容易做到。",
+    "reference": "What he said is quite high-profile, but it is not easy to do.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What he said was quite high-profile, but it’s not easy to accomplish."
+  },
+  {
+    "index": 122,
+    "source": "他的写作计划搁浅了。",
+    "reference": "His writing plan cannot be carried out.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His writing plan has been put on hold."
+  },
+  {
+    "index": 123,
+    "source": "这艘货船搁浅了，要想办法从陆路运输了。",
+    "reference": "The cargo ship was stranded， so it was necessary to work out a way to  transport  by land.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This cargo ship has run aground. We need to find a way to transport it by land."
+  },
+  {
+    "index": 124,
+    "source": "主力部队已经对敌人的建筑展开了攻关。",
+    "reference": "The main force has already launched an attack on the enemy's building.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The main forces have already launched an assault on the enemy’s buildings."
+  },
+  {
+    "index": 125,
+    "source": "经过两年的攻关，终于解决了这道技术难题。",
+    "reference": "After two years' research, this technical problem was finally solved.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After two years of dedicated effort, we have finally solved this technical challenge."
+  },
+  {
+    "index": 126,
+    "source": "这个器物还不知道是哪一年的古董。",
+    "reference": "The year when this antique was made is unkown.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We still don’t know which year this antique dates back to."
+  },
+  {
+    "index": 127,
+    "source": "与他交流过的人都认为这个人是个古董。",
+    "reference": "Anyone who has talked with him thinks this person is antique.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Everyone who has spoken with him considers him an antique."
+  },
+  {
+    "index": 128,
+    "source": "车上的雨刷正在刮玻璃。",
+    "reference": "The wiper on the car is scraping the windscreen.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The windshield wipers on the car are wiping the windshield."
+  },
+  {
+    "index": 129,
+    "source": "这小两口经常刮父母。",
+    "reference": "This young couple often fleeced  their parents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This young couple often sponges off their parents."
+  },
+  {
+    "index": 130,
+    "source": "他的心里还是挂着厂里的事情。",
+    "reference": "His heart was still worried about the things in the factory.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He still had the factory’s concerns on his mind."
+  },
+  {
+    "index": 131,
+    "source": "天上挂着月亮。",
+    "reference": "The moon is hanging in the sky.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A moon is hanging in the sky."
+  },
+  {
+    "index": 132,
+    "source": "办事真不容易，哪一个关节都可能卡壳。",
+    "reference": "Carrying out this matter is not easy, for it may got stuck in every procedure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It’s really not easy to get things done; any step in the process can get stuck."
+  },
+  {
+    "index": 133,
+    "source": "每到下雨的时候，她就感到浑身关节酸痛。",
+    "reference": "Every time when it rains, her joints are ache.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Whenever it rains, she feels aches in all her joints."
+  },
+  {
+    "index": 134,
+    "source": "我起早惯了，睡懒觉不舒服。",
+    "reference": "I get used to geting up early, and I don't feel well when I get up late.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I'm used to getting up early, so sleeping in feels uncomfortable."
+  },
+  {
+    "index": 135,
+    "source": "现在有些家庭，经常是惯孩子。",
+    "reference": "Some families nowadays often spoil their children.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Nowadays, some families often spoil their children."
+  },
+  {
+    "index": 136,
+    "source": "他做了不该做的事情，心中有鬼。",
+    "reference": "He did something that should not be done, so he was quite guilty.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He did something he shouldn’t have done and now he feels guilty."
+  },
+  {
+    "index": 137,
+    "source": "家里的父母经常用有关于鬼的故事来吓唬小孩。",
+    "reference": "Parents at home often use stories about ghosts to scare children.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Parents at home often use ghost stories to scare their children."
+  },
+  {
+    "index": 138,
+    "source": "对于这件事情，他心里有着谱。",
+    "reference": "For this matter, he has assurance in his heart.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has a plan in mind for this matter."
+  },
+  {
+    "index": 139,
+    "source": "一束光通过棱镜就会形成光谱。",
+    "reference": "A beam of light passes through the prism to form a spectrum.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A beam of light passing through a prism will form a spectrum."
+  },
+  {
+    "index": 140,
+    "source": "野草横生。",
+    "reference": "The grasses grew wildly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Wild grass grows profusely."
+  },
+  {
+    "index": 141,
+    "source": "车祸横生。",
+    "reference": "The car accident happened unexpectedly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Car accidents happen unexpectedly."
+  },
+  {
+    "index": 142,
+    "source": "他从后门搞到了不少名酒。",
+    "reference": "He got a lot of famous wines from the road of fraud.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He managed to acquire quite a lot of premium liquor through the back door."
+  },
+  {
+    "index": 143,
+    "source": "离后门不远的地方有一口小池塘。",
+    "reference": "There is a small pond not far from the back door.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is a small pond not far from the back door."
+  },
+  {
+    "index": 144,
+    "source": "丁老汉这手绝门，连他女儿都不会。",
+    "reference": "Even  Ding Laohan’s daughter does not master his unique skill.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Old Man Ding has a unique skill that even his daughter doesn't know."
+  },
+  {
+    "index": 145,
+    "source": "这家都绝门了，已经没有人了。",
+    "reference": "As this family has no descendants, so there is no one existing in the family",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This family’s line has ended; there is no one left."
+  },
+  {
+    "index": 146,
+    "source": "幼儿园的老师精心培育着祖国的花朵。",
+    "reference": "Kindergarten teachers carefully cultivate children in the motherland.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Kindergarten teachers meticulously nurture the nation’s children."
+  },
+  {
+    "index": 147,
+    "source": "再艳丽的花朵也有凋谢的时候。",
+    "reference": "The brightest flowers would also be withered.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Even the most splendid flower will eventually wither."
+  },
+  {
+    "index": 148,
+    "source": "公司招聘了几个花瓶，是专门用来招待客人的。",
+    "reference": "The company recruited several beautiful persons to entertain guests.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The company hired a few pretty faces specifically to entertain guests."
+  },
+  {
+    "index": 149,
+    "source": "无人的客厅里放着一只漂亮的花瓶。",
+    "reference": "There is a beautiful vase in the empty living room .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is a beautiful vase in the unoccupied living room."
+  },
+  {
+    "index": 150,
+    "source": "暴雨引起的大面积山体的滑坡引起了政府的高度重视。",
+    "reference": "The massive landslides caused by heavy rains got a great deal of attention from government.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The large-scale landslides caused by the heavy rain have received great attention from the government."
+  },
+  {
+    "index": 151,
+    "source": "这家工厂收集到的树木数量一直在滑坡，导致产量一直低下。",
+    "reference": "The number of trees collected by this factory has been declining, resulting in low yields.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The number of trees collected by this factory has been declining, resulting in consistently low production."
+  },
+  {
+    "index": 152,
+    "source": "他正在回家里给他写的信。",
+    "reference": "He is replying the letter which his family wrote to him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is currently going home to write him a letter."
+  },
+  {
+    "index": 153,
+    "source": "他正在坐车回家。",
+    "reference": "He is going home by car.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is taking a car to go home."
+  },
+  {
+    "index": 154,
+    "source": "他去年回炉，想再考一次大学。",
+    "reference": "He studied again last year and wanted to take university entrance exam again.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He went back to school last year, hoping to take the college entrance exam again."
+  },
+  {
+    "index": 155,
+    "source": "这些废铜需要回炉。",
+    "reference": "These scrap copper needs to be returned to the furnace.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These scrap copper pieces need to be remelted."
+  },
+  {
+    "index": 156,
+    "source": "在巡视这里3个月之后，纪委又给了一个回马枪。",
+    "reference": "After three months of inspecting here, the Commission for Discipline Inspection gave a sudden return visit.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After conducting an inspection here for three months, the Disciplinary Inspection Commission came back with another surprise move."
+  },
+  {
+    "index": 157,
+    "source": "在战场上他给了敌人一个回马枪。",
+    "reference": "On the battlefield he gave the enemy a sudden counterattack.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On the battlefield, he launched a surprise counterattack on the enemy."
+  },
+  {
+    "index": 158,
+    "source": "他对着山谷大喊，收到的只有回音。",
+    "reference": "He shouted at the valley alone, and only received an echo.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He shouted into the valley, but only received echoes."
+  },
+  {
+    "index": 159,
+    "source": "他按了半天的门铃，没有收到屋子里的回音。",
+    "reference": "He pressed the doorbell for a long time and did not receive a reply from the room.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He rang the doorbell for a long time, but received no response from inside."
+  },
+  {
+    "index": 160,
+    "source": "他的说话充满火药味。",
+    "reference": "His words are combative.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His words were full of hostility."
+  },
+  {
+    "index": 161,
+    "source": "战场上充满了火药味。",
+    "reference": "The battlefield was full of the smell of gunpowder.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The battlefield was filled with the smell of gunpowder."
+  },
+  {
+    "index": 162,
+    "source": "好的作品要经过多次的锤炼。",
+    "reference": "Good works have to be revised many times.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A good piece of work must undergo multiple rounds of refinement."
+  },
+  {
+    "index": 163,
+    "source": "好的钢铁要经过多次的锤炼。",
+    "reference": "Good steel has to be hammered many times.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Good steel requires multiple rounds of forging."
+  },
+  {
+    "index": 164,
+    "source": "孩子已经在很努力准备高考了，不要再给他加温了。",
+    "reference": "The child has already been hardworking enough for the college entrance examination, so it is unnecessary to impose additional pressure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The child is already working very hard to prepare for the college entrance exam, so don't add any more pressure on them."
+  },
+  {
+    "index": 165,
+    "source": "冷饭最好还是加温后再吃。",
+    "reference": "Cold food should be heated up before eatting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It’s best to heat up leftover (cold) rice before eating it."
+  },
+  {
+    "index": 166,
+    "source": "这个家伙太笨重，不好拿得动。",
+    "reference": "This thing is too cumbersome to take.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This thing is too bulky and heavy; it’s not easy to lift."
+  },
+  {
+    "index": 167,
+    "source": "这个家伙没有怀着好意。",
+    "reference": "This guy had no good intentions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This guy has no good intentions."
+  },
+  {
+    "index": 168,
+    "source": "计划一定要有相应的合理的措施，才不会架空。",
+    "reference": "There must be corresponding reasonable measures in the plan, otherwise the plan would be  impracticable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A plan must have corresponding and reasonable measures in place to avoid becoming hollow."
+  },
+  {
+    "index": 169,
+    "source": "这栋房子是架空的，离地有5尺高。",
+    "reference": "The house is overhead and 5 feet above the ground.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This house is elevated, about five feet above the ground."
+  },
+  {
+    "index": 170,
+    "source": "写小说前要先搭好小说的架子。",
+    "reference": "Before writing a novel, you must first set up the organizational structure of the novel.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Before writing a novel, you need to first establish its structure."
+  },
+  {
+    "index": 171,
+    "source": "他的家中有一个很大的书架子。",
+    "reference": "There is a big bookshelf in his home.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is a very large bookshelf in his house."
+  },
+  {
+    "index": 172,
+    "source": "今年西瓜很贱。",
+    "reference": "This year watermelon was very cheap.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Watermelons are very cheap this year."
+  },
+  {
+    "index": 173,
+    "source": "他这个人就是很贱。",
+    "reference": "He is a very despicable person.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He’s just really despicable."
+  },
+  {
+    "index": 174,
+    "source": "二手市场卖的一般都是贱货。",
+    "reference": "The second-hand market generally sells cheap goods.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The items sold in secondhand markets are generally cheap junk."
+  },
+  {
+    "index": 175,
+    "source": "他这个人就是一个贱货。",
+    "reference": "He is a man who is a despicable  person.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is just a worthless jerk."
+  },
+  {
+    "index": 176,
+    "source": "他打算叫四个菜。",
+    "reference": "He plans to order four dishes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He plans to order four dishes."
+  },
+  {
+    "index": 177,
+    "source": "病人的嘴里叫着他妻子的名字。",
+    "reference": "The patient called his wife's name.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The patient was calling out his wife's name."
+  },
+  {
+    "index": 178,
+    "source": "这个夫妻俩又因为孩子的事情在屋内接火了。",
+    "reference": "The couple  quarreled in the house because of the child's affairs again.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The couple started arguing again indoors because of their child."
+  },
+  {
+    "index": 179,
+    "source": "这支部队在行走的途中与敌人接火了。",
+    "reference": "This troop caught fire with the enemy on the way.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "While marching, the unit exchanged fire with the enemy."
+  },
+  {
+    "index": 180,
+    "source": "这个鞋带他只用10秒钟就能解。",
+    "reference": "This shoelace can be undid in only 10 seconds.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He can untie this shoelace in just ten seconds."
+  },
+  {
+    "index": 181,
+    "source": "这道数学题非常难解。",
+    "reference": "This math problem is very difficult to solve.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This math problem is very difficult to solve."
+  },
+  {
+    "index": 182,
+    "source": "电话铃声截断了他的话。",
+    "reference": "The phone ringing interrupted his words.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ringing telephone cut him off."
+  },
+  {
+    "index": 183,
+    "source": "这颗大树被从中间截断了。",
+    "reference": "This big tree was cut off from the middle.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The big tree was cut in half."
+  },
+  {
+    "index": 184,
+    "source": "为了利益，他把朋友给卖了。",
+    "reference": "For the sake of profit, he betrayed his friend.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For profit, he sold out his friend."
+  },
+  {
+    "index": 185,
+    "source": "他在校门口卖鸡蛋。",
+    "reference": "He sells eggs at the school gate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He sells eggs at the school gate."
+  },
+  {
+    "index": 186,
+    "source": "他进了一家卖鞋的商店。",
+    "reference": "He entered a shop selling shoes.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He entered a shoe store."
+  },
+  {
+    "index": 187,
+    "source": "他进了一批鞋。",
+    "reference": "He purchased a stock of shoes",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He purchased a batch of shoes."
+  },
+  {
+    "index": 188,
+    "source": "我不愿意挖别人公司的墙角。",
+    "reference": "I don't want to poach from other company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I don’t want to poach employees from other companies."
+  },
+  {
+    "index": 189,
+    "source": "墙角下堆着很多砖头。",
+    "reference": "There are a lot of bricks under the corner.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are many bricks piled up in the corner."
+  },
+  {
+    "index": 190,
+    "source": "这周月底是开保洁人员的工资的时候。",
+    "reference": "The end of this week is the time to pay the salary of the cleaning staff.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We’ll be paying the cleaning staff’s wages at the end of this week."
+  },
+  {
+    "index": 191,
+    "source": "屋里好闷，需要开窗户。",
+    "reference": "The house is so stuffy that you need to open the window.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It's stuffy inside; we need to open the window."
+  },
+  {
+    "index": 192,
+    "source": "你要干出大事业，就肯定会摔跤。",
+    "reference": "If you want to have a big business, you will definitely suffer failure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If you want to accomplish great things, you will inevitably stumble along the way."
+  },
+  {
+    "index": 193,
+    "source": "路很滑，你注意不要摔跤。",
+    "reference": "The road is very slippery, so you must pay attention not to stumble and fell",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The road is slippery; be careful not to fall."
+  },
+  {
+    "index": 194,
+    "source": "工厂亏损了数十万元。",
+    "reference": "The factory lost hundreds of thousands of yuan.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The factory lost hundreds of thousands of yuan."
+  },
+  {
+    "index": 195,
+    "source": "他的身体在连续工作了数天后亏损了。",
+    "reference": "His body was weak after working for several days in a row.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His body was depleted after working continuously for several days."
+  },
+  {
+    "index": 196,
+    "source": "他愁苦很久的心事终于落地了。",
+    "reference": "His melancholy mind for a long time was finally relieved.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The worry that had troubled him for a long time has finally been resolved."
+  },
+  {
+    "index": 197,
+    "source": "秋天的树叶纷纷落地了。",
+    "reference": "The autumn leaves all have fallen to the land.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The autumn leaves are falling to the ground one after another."
+  },
+  {
+    "index": 198,
+    "source": "他有关怀孕女性的研究在当前研究条件下容易陷入难产的境地。",
+    "reference": "His research on pregnant women is prone to be difficult of fulfillment under current research conditions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His research on pregnant women is likely to run into serious difficulties under current research conditions."
+  },
+  {
+    "index": 199,
+    "source": "中年妇女的怀孕容易难产。",
+    "reference": "The middle-aged pregnant is prone to suffer dystocia.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Middle-aged women's pregnancies are prone to difficult labor."
+  },
+  {
+    "index": 200,
+    "source": "这句话是引用古书里的。",
+    "reference": "This words is quoted in the ancient book.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This sentence is quoted from an ancient text."
+  },
+  {
+    "index": 201,
+    "source": "他引用的都是他的亲戚。",
+    "reference": "All of the person he appointed were his relatives.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "All the people he cites are his relatives."
+  },
+  {
+    "index": 202,
+    "source": "这部发动机的内耗很严重。",
+    "reference": "The internal friction of this engine is very serious.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This engine has serious internal friction."
+  },
+  {
+    "index": 203,
+    "source": "他们部门的内耗很严重。",
+    "reference": "The internal incoordination of their department is very serious.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is serious internal friction in their department."
+  },
+  {
+    "index": 204,
+    "source": "他站在远处接小球。",
+    "reference": "He stood in the distance to pick up the ball.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He stands at a distance to catch the small ball."
+  },
+  {
+    "index": 205,
+    "source": "他打算接厂长的工作。",
+    "reference": "He intends to take over the work of the factory manager.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He plans to take over the factory director's job."
+  },
+  {
+    "index": 206,
+    "source": "他的手一接触到火，就收回来了。",
+    "reference": "When his hand touched the fire, he withdrew it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "As soon as his hand touched the fire, he pulled it back."
+  },
+  {
+    "index": 207,
+    "source": "我们已经与敌人接触过了。",
+    "reference": "We have engaged the enemy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We have already made contact with the enemy."
+  },
+  {
+    "index": 208,
+    "source": "先冷一下这件事情。",
+    "reference": "Let's stop this thing first.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Let's put this matter on hold for now."
+  },
+  {
+    "index": 209,
+    "source": "先冷一下这个热茶。",
+    "reference": "Let's cool this hot tea off first.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Let this hot tea cool down a bit first."
+  },
+  {
+    "index": 210,
+    "source": "年已老了。",
+    "reference": "The age is old.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I am old now."
+  },
+  {
+    "index": 211,
+    "source": "一年有365天。",
+    "reference": "There are 365 days a year.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "One year has 365 days."
+  },
+  {
+    "index": 212,
+    "source": "他有着宽厚的声音。",
+    "reference": "He has a rich voice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has a deep, resonant voice."
+  },
+  {
+    "index": 213,
+    "source": "他是个宽厚的人，深得大家的尊敬。",
+    "reference": "He is a generous person and has won the respect of everyone.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is a generous and considerate person, deeply respected by everyone."
+  },
+  {
+    "index": 214,
+    "source": "小孩儿喜欢拉扯别人。",
+    "reference": "Children like pulling others.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Children like to pull on others."
+  },
+  {
+    "index": 215,
+    "source": "我把你拉扯长大。",
+    "reference": "I brought you up.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I raised you."
+  },
+  {
+    "index": 216,
+    "source": "这家知名企业是行业中的龙头。",
+    "reference": "This well-known company is the leader in the industry.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This well-known enterprise is the leading company in the industry."
+  },
+  {
+    "index": 217,
+    "source": "请师父来修一修龙头。",
+    "reference": "Ask repairman to repair the faucet.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please ask the master to come and fix the faucet."
+  },
+  {
+    "index": 218,
+    "source": "他不停地捏弄手中的橡皮泥。",
+    "reference": "He kept pinching the plasticine in his hand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He keeps kneading the modeling clay in his hands."
+  },
+  {
+    "index": 219,
+    "source": "这是他捏弄出来的新事物。",
+    "reference": "This is the new thing he produced.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This is the new thing he molded."
+  },
+  {
+    "index": 220,
+    "source": "他在干活的时候扭了腰。",
+    "reference": "He strained his back while he was working.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He twisted his waist while working."
+  },
+  {
+    "index": 221,
+    "source": "他扭了他自己的坏习惯。",
+    "reference": "He corrected his own bad habits.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He overcame his own bad habit."
+  },
+  {
+    "index": 222,
+    "source": "他扭曲着身体，摇摇晃晃地走着。",
+    "reference": "He twisted his body and staggered.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He twisted his body and walked unsteadily."
+  },
+  {
+    "index": 223,
+    "source": "他的灵魂被这件事情扭曲了。",
+    "reference": "His soul was distorted by this thing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His soul has been distorted by this incident."
+  },
+  {
+    "index": 224,
+    "source": "遇到地震，他立马趴下了。",
+    "reference": "In the event of an earthquake, he immediately threw himself down.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When the earthquake struck, he immediately dropped to the ground."
+  },
+  {
+    "index": 225,
+    "source": "遇到一点困难，他立马趴下了。",
+    "reference": "After running up against a little difficulty, he immediately collapsed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "As soon as he encountered a bit of difficulty, he immediately gave up."
+  },
+  {
+    "index": 226,
+    "source": "他们正在拍摄浪涛拍堤岸的场景。",
+    "reference": "They are shooting scenes  of waves crashing into the embankment.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are filming the scene of waves crashing against the embankment."
+  },
+  {
+    "index": 227,
+    "source": "他们正在拍电影。",
+    "reference": "They are making a movie.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are shooting a movie."
+  },
+  {
+    "index": 228,
+    "source": "他善于贿赂，不久便爬上了局长的宝座。",
+    "reference": "He ofen bribed and soon hot the position of director.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He was skilled at bribery and soon rose to the position of bureau chief."
+  },
+  {
+    "index": 229,
+    "source": "参观故宫，我们那看到了清代皇帝的宝座。",
+    "reference": "When visiting the Forbidden City, we saw the the Qing emperor' s throne.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "While visiting the Forbidden City, we saw the throne of the Qing Dynasty emperor."
+  },
+  {
+    "index": 230,
+    "source": "在现代，只有大学生的牌子也是找不到好的工作。",
+    "reference": "In modern times, only the brand of college students can't help secure a good job.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Nowadays, simply having a college degree still won’t guarantee you a good job."
+  },
+  {
+    "index": 231,
+    "source": "请你去把那个路口的牌子立起来。",
+    "reference": "Please set up the sign at road junction.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please go and set up that sign at the intersection."
+  },
+  {
+    "index": 232,
+    "source": "背离故土。",
+    "reference": "Left the homeland.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Leaving one's homeland behind."
+  },
+  {
+    "index": 233,
+    "source": "背离正确原则。",
+    "reference": "Be deviated from the correct principle.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Deviate from correct principles."
+  },
+  {
+    "index": 234,
+    "source": "他喜欢攀陡峭的山崖。",
+    "reference": "He likes climbing steep cliffs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He likes climbing steep cliffs."
+  },
+  {
+    "index": 235,
+    "source": "他喜欢攀他的上司。",
+    "reference": "He likes seeking connections with his superior.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He likes to cozy up to his boss."
+  },
+  {
+    "index": 236,
+    "source": "这个棋已经进入到了一个残局。",
+    "reference": "This chess game has proceeded into a final stage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This chess game has already entered an endgame."
+  },
+  {
+    "index": 237,
+    "source": "收拾这个事情的残局。",
+    "reference": "Clean up the mess of this matter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Deal with the aftermath of this matter."
+  },
+  {
+    "index": 238,
+    "source": "现在市场不好，赶紧把手中的货物抛出去。",
+    "reference": "Now the market is not good, so we should lose no time to sell the goods that we have .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The market isn’t good right now. Quickly sell off the goods you have."
+  },
+  {
+    "index": 239,
+    "source": "他被命令把手里的球抛出去。",
+    "reference": "He was ordered to throw the ball out of his hand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He was ordered to throw away the ball he was holding."
+  },
+  {
+    "index": 240,
+    "source": "这人真是个饭桶，什么事都干不好。",
+    "reference": "This person is really a good-for-nothing, and he can do nothing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This person is really good for nothing and can’t do anything right."
+  },
+  {
+    "index": 241,
+    "source": "饭桶里没有饭。",
+    "reference": "There is no rice in the rice bucket.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is no rice in the rice bucket."
+  },
+  {
+    "index": 242,
+    "source": "部队里的炮的威力很大。",
+    "reference": "The guns in the troops are very powerful.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The cannons in the troops are very powerful."
+  },
+  {
+    "index": 243,
+    "source": "政府规定过年期间，家里不能放炮。",
+    "reference": "The government stipulates that during the Chinese New Year, the family cannot put firecrackers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The government has stipulated that no fireworks may be set off at home during the New Year period."
+  },
+  {
+    "index": 244,
+    "source": "这个教师认真地培养着他的学生。",
+    "reference": "This teacher carefully trained his students.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This teacher conscientiously nurtures his students."
+  },
+  {
+    "index": 245,
+    "source": "这个园丁正在仔细地培养他的植物。",
+    "reference": "The gardener is carefully cultivating his plants.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This gardener is carefully cultivating his plants."
+  },
+  {
+    "index": 246,
+    "source": "这些衣服都是好皮毛。",
+    "reference": "These clothes are all good fur.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These clothes are all made of high-quality fur."
+  },
+  {
+    "index": 247,
+    "source": "关于这个领域，我只知道皮毛。",
+    "reference": "I only know about superficial things about this field.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Regarding this field, I only have superficial knowledge."
+  },
+  {
+    "index": 248,
+    "source": "下个礼拜我们再碰头。",
+    "reference": "We will meet again next week.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Let's meet again next week."
+  },
+  {
+    "index": 249,
+    "source": "他们选的题目碰头了。",
+    "reference": "The topics they chose collided.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The topics they chose overlapped."
+  },
+  {
+    "index": 250,
+    "source": "请你给这本书包一层皮。",
+    "reference": "Please wrap this book with a cover.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please put a cover on this book."
+  },
+  {
+    "index": 251,
+    "source": "他的手掉了一层皮。",
+    "reference": "The skin were peeled off his hands.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He lost a layer of skin on his hand."
+  },
+  {
+    "index": 252,
+    "source": "他忙了一天，感觉很疲困。",
+    "reference": "He has been busy for a day and felt very tired.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He was busy all day and felt very tired."
+  },
+  {
+    "index": 253,
+    "source": "图书市场已经很疲困了。",
+    "reference": "The book market has already been in a downward trend.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The book market is already quite sluggish."
+  },
+  {
+    "index": 254,
+    "source": "他刚刚搬完家，感到很疲劳。",
+    "reference": "He just moved house and felt tired.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He just finished moving and feels very tired."
+  },
+  {
+    "index": 255,
+    "source": "磁铁使用时间长，会变得疲劳。",
+    "reference": "Magnets become fatigued if they are used for a long time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Over extended use, magnets can become fatigued."
+  },
+  {
+    "index": 256,
+    "source": "谁也不愿意聘她做媳妇儿。",
+    "reference": "No one want to marry her as a wife.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "No one is willing to take her as a daughter-in-law."
+  },
+  {
+    "index": 257,
+    "source": "这个律师事务所想聘一名法律顾问。",
+    "reference": "The law firm wants to hire a legal adviser.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This law firm wants to hire a legal consultant."
+  },
+  {
+    "index": 258,
+    "source": "政府平了动乱。",
+    "reference": "The government surpressed the turmoil.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The government quelled the unrest."
+  },
+  {
+    "index": 259,
+    "source": "这个成绩平了世界记录。",
+    "reference": "This achievement equalled the world record",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This result tied the world record."
+  },
+  {
+    "index": 260,
+    "source": "海面平复了。",
+    "reference": "The sea was calm again.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The sea has calmed down."
+  },
+  {
+    "index": 261,
+    "source": "我的伤口平复了。",
+    "reference": "My wound has been healed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "My wound has healed."
+  },
+  {
+    "index": 262,
+    "source": "他这次上街又破了不少钱。",
+    "reference": "He spent a lot of money during this shopping.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He spent a lot of money again when he went out this time."
+  },
+  {
+    "index": 263,
+    "source": "他这次比赛又破了世界纪录。",
+    "reference": "He broke the world record again this time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He once again broke the world record in this competition."
+  },
+  {
+    "index": 264,
+    "source": "他们竟然剖了自己的肚子。",
+    "reference": "They unexpectedly opened their stomachs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They actually cut open their own stomachs."
+  },
+  {
+    "index": 265,
+    "source": "这个文章深刻地剖了这个问题。",
+    "reference": "This article analyzes this issue profoundly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article thoroughly dissects the problem."
+  },
+  {
+    "index": 266,
+    "source": "他已经成为了全军的旗帜。",
+    "reference": "He has become an examplary person for the entire army.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has become the banner for the entire army."
+  },
+  {
+    "index": 267,
+    "source": "今天街道上有很多飘扬的旗帜。",
+    "reference": "There are many flying flags on the streets today.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Today, there are many flags fluttering on the street."
+  },
+  {
+    "index": 268,
+    "source": "你家别起火了，到我家吃饭吧。",
+    "reference": "Your family do not need to cook today, just come to my home and eat.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Don’t bother cooking at home; come over to my place for a meal."
+  },
+  {
+    "index": 269,
+    "source": "你别起火了，注意心情保持平静。",
+    "reference": "Don't be angry,pay attention to keep calm.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Don't get worked up. Pay attention to your mood and stay calm."
+  },
+  {
+    "index": 270,
+    "source": "海水在这次暴风雨中起立。",
+    "reference": "The sea surged during the storm.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The sea rose up during this storm."
+  },
+  {
+    "index": 271,
+    "source": "如果你有问题，请起立。",
+    "reference": "If you have questions, please stand up.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If you have any questions, please stand up."
+  },
+  {
+    "index": 272,
+    "source": "这两个人牵扯一头母牛。",
+    "reference": "The two men pulled a cow.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "These two people are leading a cow."
+  },
+  {
+    "index": 273,
+    "source": "这个事情牵扯领导。",
+    "reference": "This matter involves leaders.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This matter involves the leadership."
+  },
+  {
+    "index": 274,
+    "source": "他潜入了这座城市。",
+    "reference": "He sneaked into the city.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He sneaked into the city."
+  },
+  {
+    "index": 275,
+    "source": "他潜入海底。",
+    "reference": "He dived into the ocean floor.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He dived to the bottom of the sea."
+  },
+  {
+    "index": 276,
+    "source": "这个颜色太浅了。",
+    "reference": "This color is too light.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This color is too light."
+  },
+  {
+    "index": 277,
+    "source": "我有关衣服色彩方面的知识太浅了。",
+    "reference": "My knowledge about the color of clothes is too shallow.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "My knowledge of clothing colors is too shallow."
+  },
+  {
+    "index": 278,
+    "source": "这个计划被枪毙了。",
+    "reference": "This plan was abandoned.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This plan was scrapped."
+  },
+  {
+    "index": 279,
+    "source": "他因为犯了罪被警察枪毙了。",
+    "reference": "He was shot by the police for his crime.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He was shot dead by the police for committing a crime."
+  },
+  {
+    "index": 280,
+    "source": "强奸民意。",
+    "reference": "Forcibly impose opinions on the public.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Rape public opinion."
+  },
+  {
+    "index": 281,
+    "source": "他强奸了一个未成年少女。",
+    "reference": "He raped a underage girl.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He raped an underage girl."
+  },
+  {
+    "index": 282,
+    "source": "这个妇女很俏。",
+    "reference": "This woman is pretty.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This woman is quite pretty."
+  },
+  {
+    "index": 283,
+    "source": "这批大米在市场上很俏。",
+    "reference": "This batch of rice was sold well in the market.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This batch of rice is very popular on the market."
+  },
+  {
+    "index": 284,
+    "source": "老百姓都把这个人称作青天。",
+    "reference": "People called this man a just judge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The common people all call this person 'Qingtian.'"
+  },
+  {
+    "index": 285,
+    "source": "这个地方的天气难得见到青天。",
+    "reference": "The blue sky can be rarely seen in this place.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It's rare to see a clear sky in this place."
+  },
+  {
+    "index": 286,
+    "source": "这个地方天空上飘过一朵青云。",
+    "reference": "A blue cloud floated across the sky above this place.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "In this place, a green cloud drifted across the sky."
+  },
+  {
+    "index": 287,
+    "source": "他已经是一个登上青云的人。",
+    "reference": "He has became a man who has ascended the positions of senior officials.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has already become someone who has soared to great heights."
+  },
+  {
+    "index": 288,
+    "source": "这是一份轻薄但却有意义的礼物。",
+    "reference": "This is a little but meaningful gift.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This is a light but meaningful gift."
+  },
+  {
+    "index": 289,
+    "source": "桌上有着一张轻薄的纸。",
+    "reference": "There was a thin sheet of paper on the table.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There is a thin piece of paper on the table."
+  },
+  {
+    "index": 290,
+    "source": "天上的云彩显得很轻浮。",
+    "reference": "The clouds in the sky seemed very light.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The clouds in the sky appear quite frivolous."
+  },
+  {
+    "index": 291,
+    "source": "一看就感觉他是个轻浮的人。",
+    "reference": "He is a frivolous man at first sight.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Just by looking at him, you can sense he is a frivolous person."
+  },
+  {
+    "index": 292,
+    "source": "他的歌声让剧院里的人都倾倒了。",
+    "reference": "His singing was admired by everyone in the theater.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His singing mesmerized everyone in the theater."
+  },
+  {
+    "index": 293,
+    "source": "这个茅屋在飓风中倾倒了。",
+    "reference": "The hut was collapsed in the hurricane.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This thatched hut collapsed during the hurricane."
+  },
+  {
+    "index": 294,
+    "source": "她把一车煤都倾倒在屋外。",
+    "reference": "She dumped a cart of coal outside the house.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She dumped a cartful of coal outside the house."
+  },
+  {
+    "index": 295,
+    "source": "她流下眼泪，把委屈都倾倒了出来。",
+    "reference": "She shed tears and poured out her grievances.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She shed tears and poured out all her grievances."
+  },
+  {
+    "index": 296,
+    "source": "这一句话需要去几个错误的字。",
+    "reference": "Few wrong words need to be dropped in this sentence",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We need to remove a few incorrect characters from this sentence."
+  },
+  {
+    "index": 297,
+    "source": "明天，这只熊猫要去北京。",
+    "reference": "Tomorrow, this panda will go to Beijing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tomorrow, this panda will go to Beijing."
+  },
+  {
+    "index": 298,
+    "source": "明天拔河比赛，我们公司将会全军都出动。",
+    "reference": "Fort tug of war tomorrow, our company will dispatch all employees.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tomorrow is the tug-of-war competition, and our entire company will be out in full force."
+  },
+  {
+    "index": 299,
+    "source": "经过这一场战斗，敌人全军都被击垮了。",
+    "reference": "After this battle, the entire army of the enemy was defeated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After this battle, the enemy's entire army was defeated."
+  },
+  {
+    "index": 300,
+    "source": "宝剑的锻造需要热处理。",
+    "reference": "The sword need to be heated when being forged.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Forging a treasured sword requires heat treatment."
+  },
+  {
+    "index": 301,
+    "source": "这个问题不能热处理。",
+    "reference": "This problem cannot be handled immediately.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This problem cannot be heat treated."
+  },
+  {
+    "index": 302,
+    "source": "物体燃烧需要一定的热度。",
+    "reference": "Objects need a certain amount of temperature to burn.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Objects require a certain amount of heat to burn."
+  },
+  {
+    "index": 303,
+    "source": "他对这件事情的热度持续很久。",
+    "reference": "His enthusiasm for this matter lasted for a long time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He remained passionate about this matter for a long time."
+  },
+  {
+    "index": 304,
+    "source": "日一般都是从东方升起。",
+    "reference": "The sun generally rises from the east.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The sun usually rises in the east."
+  },
+  {
+    "index": 305,
+    "source": "一年有365日。",
+    "reference": "There are 365 days in a year.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are 365 days in a year."
+  },
+  {
+    "index": 306,
+    "source": "这个食物太苦而不能入口。",
+    "reference": "This food is too bitter to drink.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This food is too bitter to eat."
+  },
+  {
+    "index": 307,
+    "source": "货物入口要经过海关。",
+    "reference": "The imported goods  should go through customs.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Goods must go through customs upon entry."
+  },
+  {
+    "index": 308,
+    "source": "这个食物十分入味。",
+    "reference": "This food is very tasty",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This dish is very flavorful."
+  },
+  {
+    "index": 309,
+    "source": "这个电影十分入味。",
+    "reference": "This movie is very amusing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This movie is really engaging."
+  },
+  {
+    "index": 310,
+    "source": "请把这些花润泽一下。",
+    "reference": "Please moisten these flowers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please water these flowers a bit."
+  },
+  {
+    "index": 311,
+    "source": "用机油润泽一下机器的转动部位。",
+    "reference": "Lubricate the rotating parts of the machine with oil.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Use engine oil to lubricate the rotating parts of the machine."
+  },
+  {
+    "index": 312,
+    "source": "这个柿子很涩。",
+    "reference": "This persimmon is very bitter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This persimmon is very astringent."
+  },
+  {
+    "index": 313,
+    "source": "这个文章很涩。",
+    "reference": "This article is very obscure.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article is difficult to read."
+  },
+  {
+    "index": 314,
+    "source": "请你伸出舌头。",
+    "reference": "Please put out your tongue.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please stick out your tongue."
+  },
+  {
+    "index": 315,
+    "source": "他们在敌人阵营捉了个舌头回来。",
+    "reference": "They caught an enemy back from the enemy camp.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They captured an enemy soldier from the enemy camp and brought him back."
+  },
+  {
+    "index": 316,
+    "source": "夜已经很深了。",
+    "reference": "The night has already grown late.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It's already very late at night."
+  },
+  {
+    "index": 317,
+    "source": "这口井很深。",
+    "reference": "This well is deep.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This well is very deep."
+  },
+  {
+    "index": 318,
+    "source": "我的小孩子开始换牙了。",
+    "reference": "My child begins to grow permanent teeth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "My child has started to lose their baby teeth."
+  },
+  {
+    "index": 319,
+    "source": "他的筷子都是牙制的。",
+    "reference": "His chopsticks are made of ivory.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His chopsticks are all made of ivory."
+  },
+  {
+    "index": 320,
+    "source": "这个小孩子需要收拾。",
+    "reference": "This child needs to be punished.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This child needs to be disciplined."
+  },
+  {
+    "index": 321,
+    "source": "这个破了的桌子需要收拾。",
+    "reference": "This broken table needs to be repaired.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This broken table needs to be fixed."
+  },
+  {
+    "index": 322,
+    "source": "这个犯了罪的人需要修理。",
+    "reference": "The offender needs to be punished.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This criminal needs to be punished."
+  },
+  {
+    "index": 323,
+    "source": "这个出了故障的机器需要修理。",
+    "reference": "This failed machine needs to be repaired.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This malfunctioning machine needs to be repaired."
+  },
+  {
+    "index": 324,
+    "source": "疏通堵塞的下水道。",
+    "reference": "Dredge blocked sewers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Unclog the blocked sewer line."
+  },
+  {
+    "index": 325,
+    "source": "疏通两个村子之间的冲突。",
+    "reference": "Mediate the conflict between the two villages.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Mediate the conflict between the two villages."
+  },
+  {
+    "index": 326,
+    "source": "这篇文章的水太多。",
+    "reference": "There is too much useless stuff in this article.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This article has too much filler."
+  },
+  {
+    "index": 327,
+    "source": "这个锅里的水会沸腾。",
+    "reference": "The water in this pot will boil.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The water in the pot will boil."
+  },
+  {
+    "index": 328,
+    "source": "这点钱可是我的私房。",
+    "reference": "This money is my private savings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This money is my private stash."
+  },
+  {
+    "index": 329,
+    "source": "这一带的私房都要拆除。",
+    "reference": "The private houses in this area must be demolished.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "All the privately owned houses in this area will be demolished."
+  },
+  {
+    "index": 330,
+    "source": "他的嘴真碎，一天到晚就在说。",
+    "reference": "His is so garrulous, and he is talking all the day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is really talkative and just talks all day long."
+  },
+  {
+    "index": 331,
+    "source": "这个玻璃碎了。",
+    "reference": "This glass is broken.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The glass is broken."
+  },
+  {
+    "index": 332,
+    "source": "这部科幻影片描述了一个太空人和地球上的一个男孩接触的故事。",
+    "reference": "This science fiction film describes the story about the interaction between an alien and a boy on the Earth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This science fiction film tells the story of an astronaut’s encounter with a boy on Earth."
+  },
+  {
+    "index": 333,
+    "source": "她是第一个随地球的宇宙飞船上天的女性太空人。",
+    "reference": "She was the first female astronaut to go to outer space with the spacecraft of the Earth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She is the first female astronaut to go into space aboard an Earth spacecraft."
+  },
+  {
+    "index": 334,
+    "source": "这个老师所教授的桃李在各行各业都是精英。",
+    "reference": "The students taught by this teacher are elite in all walks of life.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "All of the students taught by this teacher are top professionals in a variety of fields."
+  },
+  {
+    "index": 335,
+    "source": "家门口的桃李绚丽多彩。",
+    "reference": "The peaches and plums in front of the house are gorgeous and colorful.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The peach and plum trees at the entrance to the house are brilliantly colorful."
+  },
+  {
+    "index": 336,
+    "source": "理论性强的文章也可以写得通俗易懂，不一定要写成天书。",
+    "reference": "Articles that are highly theoretical can also be written in a simple and understandable way, and do not have to be written as  double Dutch.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Highly theoretical articles can also be written in a clear, easy-to-understand way; there’s no need to make them incomprehensible."
+  },
+  {
+    "index": 337,
+    "source": "他昨晚梦见一个仙人给了他一本天书。",
+    "reference": "He dreamed last night that a fairy gave him a heavenly book.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Last night, he dreamed that an immortal gave him a heavenly book."
+  },
+  {
+    "index": 338,
+    "source": "他打算去邮局投信。",
+    "reference": "He intends to go to the post office to send a letter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He plans to go to the post office to mail a letter."
+  },
+  {
+    "index": 339,
+    "source": "他昨天投井了。",
+    "reference": "He plunged into the well yesterday.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He jumped into a well yesterday."
+  },
+  {
+    "index": 340,
+    "source": "这个玻璃窗很透亮。",
+    "reference": "This glass window is very translucent.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This glass window is very clear."
+  },
+  {
+    "index": 341,
+    "source": "听完这句话，他的心里很透亮。",
+    "reference": "After hearing this words, he knew very well in his heart.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After hearing those words, he felt a bright clarity inside."
+  },
+  {
+    "index": 342,
+    "source": "这种坦克已经退役。",
+    "reference": "This kind of tank has been decommissioned.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This type of tank has already been decommissioned."
+  },
+  {
+    "index": 343,
+    "source": "他是个已经退役的军人。",
+    "reference": "He is a retired soldier.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is a retired soldier."
+  },
+  {
+    "index": 344,
+    "source": "必须要办带头犯罪的人。",
+    "reference": "Those who led the crime must be punished.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We must punish those who lead the criminal activity."
+  },
+  {
+    "index": 345,
+    "source": "许多家庭正在办年货。",
+    "reference": "Many families are purchasing New Year's products.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Many families are doing their New Year shopping."
+  },
+  {
+    "index": 346,
+    "source": "这部书可是他刚在书店买的宝贝。",
+    "reference": "This book is the treasure he just bought at the bookstore.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This book is a real treasure that he just bought at the bookstore."
+  },
+  {
+    "index": 347,
+    "source": "这个母亲带她刚出生的宝贝出去玩了。",
+    "reference": "This mother took her newborn baby out to play.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This mother took her newborn baby out to play."
+  },
+  {
+    "index": 348,
+    "source": "这个老师请这个学生背刚刚他在黑板上写的课文。",
+    "reference": "The teacher asked the student to recite the text he had just written on the blackboard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The teacher asked the student to recite the text he just wrote on the blackboard."
+  },
+  {
+    "index": 349,
+    "source": "学校规定学生上学要背书包。",
+    "reference": "The school requires students to carry school bags.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The school requires students to carry a backpack to school."
+  },
+  {
+    "index": 350,
+    "source": "他正在编明天晚会上要唱的歌的歌词。",
+    "reference": "He is compiling the lyrics of the song to be sung at the party tomorrow.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is composing the lyrics for the song that will be performed at tomorrow evening’s party."
+  },
+  {
+    "index": 351,
+    "source": "他正在编明天打仗要穿的草鞋。",
+    "reference": "He is weaving straw shoes that needs to be worn in tomorrow's fight.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is weaving the straw sandals that he will wear in tomorrow's battle."
+  },
+  {
+    "index": 352,
+    "source": "这个魔术师正在变一个魔术。",
+    "reference": "The magician is doing a magic tricks.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This magician is performing a magic trick."
+  },
+  {
+    "index": 353,
+    "source": "这座荒山变良田。",
+    "reference": "This barren hill becomes a fertile land.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This barren mountain has been transformed into fertile farmland."
+  },
+  {
+    "index": 354,
+    "source": "这个军人回家的时候会穿便衣。",
+    "reference": "This soldier will wear plain clothes when he goes home.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This soldier will wear civilian clothes when he returns home."
+  },
+  {
+    "index": 355,
+    "source": "这个领导人私访的时候会带几个便衣保护自己。",
+    "reference": "The leader will bring a few men dressing plain clothes to protect himself during a private visit.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When this leader makes private visits, he is accompanied by several plainclothes officers for protection."
+  },
+  {
+    "index": 356,
+    "source": "请如实写这个有关开设钟表店的表。",
+    "reference": "Please write this form about opening watch shop.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please fill out this form truthfully regarding the opening of a watch shop."
+  },
+  {
+    "index": 357,
+    "source": "他正在钟表店修表。",
+    "reference": "He is repairing a watch in a watch shop.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is repairing a watch at the watch shop."
+  },
+  {
+    "index": 358,
+    "source": "他习惯吃完饭用纸巾擦嘴。",
+    "reference": "He used to wipe his mouth with a tissue after eating.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is used to wiping his mouth with a tissue after meals."
+  },
+  {
+    "index": 359,
+    "source": "飞机擦着山顶。",
+    "reference": "The plane approached the top of the mountain.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The plane brushed against the mountaintop."
+  },
+  {
+    "index": 360,
+    "source": "这是土匪从山里出世的季节。",
+    "reference": "This is the season when the bandits haunt from the mountains.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This is the season when bandits emerge from the mountains."
+  },
+  {
+    "index": 361,
+    "source": "这个季节有很多婴儿出世。",
+    "reference": "Many babies are born in this season.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Many babies are born during this season."
+  },
+  {
+    "index": 362,
+    "source": "他正在穿这家服装店旁边的马路。",
+    "reference": "He is crossing the street next to this clothing store.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is crossing the road next to this clothing store."
+  },
+  {
+    "index": 363,
+    "source": "他正在穿一件红色的衣服。",
+    "reference": "He is wearing a red dress.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is wearing a red piece of clothing."
+  },
+  {
+    "index": 364,
+    "source": "他正在搭今晚要睡的帐篷。",
+    "reference": "He is setting up a tent to sleep tonight.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is setting up the tent that he will be sleeping in tonight."
+  },
+  {
+    "index": 365,
+    "source": "他正在搭一艘豪华的船回家。",
+    "reference": "He is riding a luxurious boat to return home.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He is taking a luxury ship home."
+  },
+  {
+    "index": 366,
+    "source": "这个演员的嗓子倒了。",
+    "reference": "The actor lost his voice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This actor has lost his voice."
+  },
+  {
+    "index": 367,
+    "source": "这座房子在暴风雨中倒了。",
+    "reference": "The house fell down in the storm.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The house collapsed in the storm."
+  },
+  {
+    "index": 368,
+    "source": "如果他离职，没有人能抵他的工作。",
+    "reference": "If he leaves, no one can take over his job.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If he leaves his job, no one can replace him."
+  },
+  {
+    "index": 369,
+    "source": "这个列车即将抵上海。",
+    "reference": "This train is about to arrive in Shanghai.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This train is about to arrive in Shanghai."
+  },
+  {
+    "index": 370,
+    "source": "这个堡垒里的敌人经常出来祸害百姓，部队打算拔掉这个钉子。",
+    "reference": "The enemies in this fort often come out to harm the people, and the troops intend to eliminate this scourge.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The enemies in this fortress frequently come out to harm the local population, and the troops plan to remove this threat."
+  },
+  {
+    "index": 371,
+    "source": "桌脚需要钉两个钉子防止破裂。",
+    "reference": "The table foot needs to nail two nails to prevent cracking.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The table legs need two nails to prevent them from cracking."
+  },
+  {
+    "index": 372,
+    "source": "你的眼睛真毒，能在这么多人中找到犯罪分子。",
+    "reference": "Your eyes are so acute that you can find criminals in so many people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "You have really sharp eyes to be able to pick out the criminal among so many people."
+  },
+  {
+    "index": 373,
+    "source": "这个蛇很毒，能瞬间杀死人。",
+    "reference": "This snake is very poisonous and can kill people instantly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This snake is highly venomous and can kill a person instantly."
+  },
+  {
+    "index": 374,
+    "source": "利用风能来发电是新的能源政策。",
+    "reference": "The use of wind energy to generate electricity is a new energy policy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Using wind power to generate electricity is a new energy policy."
+  },
+  {
+    "index": 375,
+    "source": "这支部队遭受了敌人攻击，正在给总部发电。",
+    "reference": "The army was attacked by the enemy and is sending a telegram to headquarters.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This unit has been attacked by the enemy and is currently sending a telegram to headquarters."
+  },
+  {
+    "index": 376,
+    "source": "这个寺庙刚刚被装修的工人翻过。",
+    "reference": "This temple has just been renovated by the decorated workers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This temple has just been gone through by the renovation workers."
+  },
+  {
+    "index": 377,
+    "source": "这个炸弹炸翻了这个坦克。",
+    "reference": "The bomb overturned the tank.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This bomb flipped over the tank."
+  },
+  {
+    "index": 378,
+    "source": "他上课讲话，又一次犯了在学校不应该犯的错误。",
+    "reference": "He spoke in class and made a mistake again that should not be made in school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He spoke during class, once again making a mistake that shouldn't be made at school."
+  },
+  {
+    "index": 379,
+    "source": "他上课讲话，又一次犯了学校的规矩。",
+    "reference": "He spoke in class and violated school rules again.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He talked during class and once again broke the school’s rules."
+  },
+  {
+    "index": 380,
+    "source": "这种食品严禁添加防腐剂。",
+    "reference": "It is strictly forbidden to add preservatives to this food.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is strictly prohibited to add preservatives to this kind of food."
+  },
+  {
+    "index": 381,
+    "source": "一个好的读者在看书的时候都有自己的防腐剂。",
+    "reference": "A good reader has his own ability to resist bad ideas when reading a book.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A good reader always has their own “preservative” when reading."
+  },
+  {
+    "index": 382,
+    "source": "这个车开得飞快。",
+    "reference": "This car is driving fast.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This car goes extremely fast."
+  },
+  {
+    "index": 383,
+    "source": "这个刀口飞快。",
+    "reference": "This knife edge is sharpened.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This blade is extremely sharp."
+  },
+  {
+    "index": 384,
+    "source": "这里正在铺设高压电线。",
+    "reference": "High-voltage wires are being laid here.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "High-voltage power lines are being laid here."
+  },
+  {
+    "index": 385,
+    "source": "这个电网工人在医院测血压，他的高压太高。",
+    "reference": "The grid worker was taking blood pressure at the hospital, and his high blood pressure was too high.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This power grid worker had his blood pressure measured at the hospital, and his systolic pressure was too high."
+  },
+  {
+    "index": 386,
+    "source": "他的皮肤上有一个疙瘩。",
+    "reference": "There is a pimple on his skin.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has a bump on his skin."
+  },
+  {
+    "index": 387,
+    "source": "经历了一次背叛之后，他们的关系之间有了一个疙瘩。",
+    "reference": "After experiencing a betrayal, there was a misunderstanding in their relationship.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After experiencing a betrayal, there’s now a knot in their relationship."
+  },
+  {
+    "index": 388,
+    "source": "这个人没骨头。",
+    "reference": "This person has no moral integrity.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This person is spineless."
+  },
+  {
+    "index": 389,
+    "source": "一个人总共有206块骨头。",
+    "reference": "There are 206 bones in one person.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A person has a total of 206 bones."
+  },
+  {
+    "index": 390,
+    "source": "你应该用这种叶子裹粽子。",
+    "reference": "You should wrap the rice dumplings with this kind of leaves.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "You should use this type of leaf to wrap zongzi."
+  },
+  {
+    "index": 391,
+    "source": "你不要把两个不同的东西裹到一起。",
+    "reference": "You don't mix two different things together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Don't bundle two different things together."
+  },
+  {
+    "index": 392,
+    "source": "工作认真的她是铁路部门的一面红旗。",
+    "reference": "She who is working hard is an advanced individual of the railway department.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Because of her conscientious work, she is a shining example in the railway department."
+  },
+  {
+    "index": 393,
+    "source": "每天早上，学校的操场都要升红旗。",
+    "reference": "Every morning,the red flag will raised in the school's playground.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Every morning, the red flag is raised on the school playground."
+  },
+  {
+    "index": 394,
+    "source": "这种思想又再次回潮。",
+    "reference": "This kind of thinking has resurrected again.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This kind of thinking has resurfaced once again."
+  },
+  {
+    "index": 395,
+    "source": "这个地板在夏季会回潮。",
+    "reference": "This floor will regain moisture in summer.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This floor becomes damp in the summer."
+  },
+  {
+    "index": 396,
+    "source": "她打算在这里开一家超市。",
+    "reference": "She plans to open a supermarket here.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She plans to open a supermarket here."
+  },
+  {
+    "index": 397,
+    "source": "这个机长今天的飞行任务是开一架大的飞机。",
+    "reference": "The captain's mission today is to fly a large aircraft.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The captain’s flight mission today is to fly a large airplane."
+  },
+  {
+    "index": 398,
+    "source": "过去他很穷，但是现在他变阔了。",
+    "reference": "He was poor in the past, but now he is wealthy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He used to be poor, but now he has become wealthy."
+  },
+  {
+    "index": 399,
+    "source": "这个房子很宽阔。",
+    "reference": "This house is very wide.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This house is very spacious."
+  }
+]

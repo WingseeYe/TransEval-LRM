@@ -1,0 +1,1738 @@
+[
+  {
+    "index": 0,
+    "source": "Bei älteren Patienten ist noch wenig bekannt über den Nutzen der bimodalen Versorgung.",
+    "reference": "There is limited data on bimodal stimulation in elderly patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "There is still little known about the benefits of bimodal care in older patients."
+  },
+  {
+    "index": 1,
+    "source": "Ziel der Studie war, den subjektiven und objektiven Nutzen der bimodalen Versorgung im hohen Alter zu untersuchen, und einen möglichen Zusammenhang mit dem Restgehör herzustellen.",
+    "reference": "We compare the outcome of bimodal stimulation and analyzed the correlation of bimodal benefit and residual hearing in elderly patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The aim of the study was to investigate the subjective and objective benefits of bimodal treatment in older age and to establish a possible correlation with residual hearing."
+  },
+  {
+    "index": 2,
+    "source": "Wir konnten einen deutlichen subjektiven Nutzen der bimodalen Versorgung im hohen Alter bestätigen.",
+    "reference": "Most elderly patients benefit from bimodal stimulation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We were able to confirm a significant subjective benefit of bimodal care in advanced age."
+  },
+  {
+    "index": 3,
+    "source": "In Ruhe und im Vergleich mit CI alleine erreichte die Mehrzahl der Patienten bimodal zwar nur eine gering verbesserte Einsilberverständlichkeit, alle trugen jedoch das HG ganztägig.",
+    "reference": "In quiet and in comparison with CI alone, most patients showed some improvement in word recognition scores using bimodal fitting, and all of them were using the contralateral hearing aid all day long.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In quiet conditions and compared to using only a cochlear implant, the majority of patients achieved only a slightly improved single-syllable understanding with bimodal use; however, all of them wore the hearing aid throughout the day."
+  },
+  {
+    "index": 4,
+    "source": "Im Juli 2012 wurde eine überarbeitete Nomenklatur zur kolposkopischen Untersuchung der Cervix uteri durch die IFCPC verabschiedet.",
+    "reference": "In July 2012 a revised terminology on colposcopic examinations of the cervix uteri was adopted by IFCPC.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In July 2012, a revised nomenclature for the colposcopic examination of the cervix uteri was adopted by the IFCPC."
+  },
+  {
+    "index": 5,
+    "source": "Im Mittelpunkt steht die Beschreibung von Merkmalen, die helfen sollen, Krankheitsbilder an der Cervix uteri zu definieren.",
+    "reference": "Central aspect is a description of characteristics that should aid in the definition of the disease entity cervix uteri.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The focus is on describing features that are intended to help define conditions of the cervix uteri."
+  },
+  {
+    "index": 6,
+    "source": "Die Nomenklatur ist so aufgebaut, dass der Untersucher nach einem bestimmten Schema kolposkopische Kriterien beurteilt.",
+    "reference": "The nomenclature is built up in such a way that the examiner can evaluate colposcopic criteria according to a specific scheme.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The nomenclature is set up in such a way that the examiner evaluates colposcopic criteria according to a specific scheme."
+  },
+  {
+    "index": 7,
+    "source": "Zunächst wird geprüft, ob die Kolposkopie repräsentativ ist.",
+    "reference": "Firstly it is assessed whether the colposcopy is representative.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "First, it is checked whether the colposcopy is representative."
+  },
+  {
+    "index": 8,
+    "source": "Dann soll geklärt werden, ob ein Normalbefund vorliegt.",
+    "reference": "Then it should be clarified whether or not the findings are normal.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Then it should be clarified whether there is a normal finding."
+  },
+  {
+    "index": 9,
+    "source": "Liegen keine Normalbefunde, sondern abnorme Befunde vor, wird die Schwere der Läsion in sog. Grad-1- (minor change) und Grad-2-Befunde (major change) festgelegt.",
+    "reference": "If the findings are not normal but rather abnormal the severity of the lesion is classified according to the so-called grade 1 (minor change) and grade 2 findings (major change).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "If there are no normal findings but rather abnormal ones, the severity of the lesion is determined as so-called Grade 1 (minor change) or Grade 2 (major change)."
+  },
+  {
+    "index": 10,
+    "source": "Es werden auch nicht spezifische abnorme Befunde – die Leukoplakie, die Erosion und die Lugol-Probe – definiert.",
+    "reference": "Specific abnormal findings such as leukoplakia, erosion and Lugol's finding are also not defined at this point.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Non-specific abnormal findings—leukoplakia, erosion, and the Lugol test—are also defined."
+  },
+  {
+    "index": 11,
+    "source": "Gesondert werden Merkmale beschrieben, die verdächtig auf eine Invasion sind, insbesondere wird hier auf die atypischen Gefäßmuster hingewiesen.",
+    "reference": "Characteristics suspicious for an invasion are described separately, in particular, atypical vessel patterns are mentioned here.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Separately, characteristics suspicious for an invasion are described, with particular emphasis on the atypical vascular patterns."
+  },
+  {
+    "index": 12,
+    "source": "Wie schon in der letzten überarbeiteten Nomenklatur (Barcelona) werden in einer letzten Gruppe verschiedene Befunde beschrieben: kongenitale Transformationszone (KTZ), kongenitale Anomalie, Kondylome (Papillome), Endometriose, Polypen (ektozervikal, endozervikal) Entzündung, Stenose, postoperative Veränderung (vernarbte Portio, Scheidenblindsack).",
+    "reference": "As already held in the previous revised nomenclature (Barcelona), various findings are described in a last group: congenital transformation zones (CTZ), congenital anomalies, condylomas (papillomas), endometriosis, polyps (ectocervical, endocervical), inflammation, stenosis, postoperative changes (scarred portio, vaginal stump).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "As in the most recently revised nomenclature (Barcelona), various findings are described in a final group: congenital transformation zone (CTZ), congenital anomaly, condylomas (papillomas), endometriosis, polyps (ectocervical, endocervical), inflammation, stenosis, postoperative changes (scarred cervix, vaginal blind sac)."
+  },
+  {
+    "index": 13,
+    "source": "Wir diskutieren die Häufigkeit dieser Komplikation, die diagnostischen Methoden und die möglichen Therapieoptionen.",
+    "reference": "Diagnostics, etiology and therapeutic options are discussed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We discuss the frequency of this complication, the diagnostic methods, and the possible therapy options."
+  },
+  {
+    "index": 14,
+    "source": "Die Implementierungsstrategien wurden in 10 Rehabilitationskliniken zufällig zugewiesen und der Zeitaufwand mittels Erhebungsbögen erfasst.",
+    "reference": "The implementation strategies were assigned by chance to 10 rehabilitation clinics. Expenditure of time was evaluated by questionnaire.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The implementation strategies were randomly assigned to 10 rehabilitation clinics, and the time required was recorded using survey forms."
+  },
+  {
+    "index": 15,
+    "source": "Zudem wurden die Kosten für Sachmittel sowie Reisekosten berücksichtigt.",
+    "reference": "Additionally materials and travel expenses were calculated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition, the costs for materials as well as travel expenses were taken into account."
+  },
+  {
+    "index": 16,
+    "source": "Die höheren Kosten der Implementierung über ein TTT-Seminar waren insbesondere auf den höheren personellen Ressourcenverbrauch durch das zeitintensive Seminar zurückzuführen.",
+    "reference": "The higher total implementation costs can basically be attributed to higher personnel costs due to the time-consuming seminar.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The higher costs of implementation via a TTT seminar were primarily due to the increased consumption of personnel resources caused by the time-intensive nature of the seminar."
+  },
+  {
+    "index": 17,
+    "source": "Das Harnblasenkarzinom ist die zweithäufigste urologische Tumorerkrankung.",
+    "reference": "Bladder cancer is the second most common urological malignant disease.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Bladder carcinoma is the second most common urological tumor disease."
+  },
+  {
+    "index": 18,
+    "source": "Je nach Tumorstadium und Tumorgrad stehen unterschiedliche Behandlungskonzepte zur Verfügung, um Rezidiv- und Progressionsrate der Erkrankung zu minimieren.",
+    "reference": "There are various treatment strategies which, depending on tumor stage and grade, can minimize recurrence and lower progression rate.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Depending on the tumor stage and tumor grade, different treatment approaches are available to minimize the disease’s recurrence and progression rates."
+  },
+  {
+    "index": 19,
+    "source": "Ausgehend von der ersten Veröffentlichung zur Thermochemotherapie mit Mitomycin C (Synergo) bis hin zur ersten vergleichenden Studie zwischen Thermochemotherapie mit Mitomycin C und der klassischen Instillationstherapie mit BCG.",
+    "reference": "The article starts with the first publication presenting thermochemotherapy with Mitomycin C using the Synergo device and highlights the first randomized controlled study comparing Mitomycin C (Synergo",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Starting from the first publication on thermochemotherapy with mitomycin C (Synergo) up to the first comparative study between thermochemotherapy with mitomycin C and the classic instillation therapy with BCG."
+  },
+  {
+    "index": 20,
+    "source": "Die 18F-Fluordesoxyglukose-Positronenemissionstomografie-Computertomografie (FDG-PET-CT) hat eine hohe diagnostische Genauigkeit bei vaskulären Graft-Infekten. Auch bei Therapieverlaufskontrollen von Graft-Infekten scheint der Einsatz der FDG-PET-CT sinnvoll, da ein signifikanter Einfluss auf das Patientenmanagement gezeigt werden konnte; ergänzende Daten größerer Studien sind aktuell jedoch noch ausstehend.",
+    "reference": "18F-fluorodeoxyglucose positron emission tomography-computed tomography (FDG-PET-CT) exhibits high diagnostic accuracy in the detection of vascular graft infections.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The 18F-fluorodeoxyglucose positron emission tomography-computed tomography (FDG-PET-CT) has a high diagnostic accuracy in vascular graft infections. The use of FDG-PET-CT also appears to be sensible for monitoring the therapeutic course of graft infections, as a significant impact on patient management could be demonstrated; however, additional data from larger studies are still pending."
+  },
+  {
+    "index": 21,
+    "source": "",
+    "reference": "Therapy control in vascular graft infection with FDG-PET-CT appears to be useful, as a significant impact on patient management has been described; however, supplemental data from large outcome studies are still pending.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": ""
+  },
+  {
+    "index": 22,
+    "source": "Funktionelle und anatomische Einschränkungen der Harnblasenfunktion können auf dem Boden vielzähliger pathophysiologischer Mechanismen entstehen.",
+    "reference": "Urinary bladder injury or malfunction may occur due to a variety of underlying diseases or trauma mechanisms.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Functional and anatomical restrictions of bladder function can arise from numerous pathophysiological mechanisms."
+  },
+  {
+    "index": 23,
+    "source": "Die vorliegende Übersichtsarbeit fasst operative Prinzipien und chirurgische Techniken zu Harnblasenrekonstruktion und Funktionserhalt zusammen.",
+    "reference": "This review discusses surgical principles and approaches for urinary bladder reconstruction and function preservation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The present review article summarizes operative principles and surgical techniques for bladder reconstruction and functional preservation."
+  },
+  {
+    "index": 24,
+    "source": "Das spannungsfreie suburethrale Vaginalband wird zur Behandlung der Belastungsinkontinenz mit hohen Erfolgsraten eingesetzt.",
+    "reference": "Suburethral tension-free vaginal tape is used for the treatment of stress urinary incontinence with a high success rate.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The tension-free suburethral vaginal tape is used to treat stress incontinence with high success rates."
+  },
+  {
+    "index": 25,
+    "source": "Oft berichten Patientinnen mit Belastungsinkontinenz aber auch von gleichzeitig bestehenden Miktionsproblemen, die dem Syndrom der überaktiven Harnblase (engl. overactive bladder – OAB) zuzuordnen sind.",
+    "reference": "Often patients report having stress incontinence, as well as co-existing micturition problems which are attributable to overactive bladder syndrome (OAB).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Often, female patients with stress incontinence also report concurrent voiding problems that can be attributed to overactive bladder (OAB)."
+  },
+  {
+    "index": 26,
+    "source": "Die vorliegende Studie prüft die Wirkung des suburethralen Bandes auf die Symptome der OAB.",
+    "reference": "The present study examines the effect of suburethral tape on the symptoms of OAB.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The present study examines the effect of the suburethral sling on OAB symptoms."
+  },
+  {
+    "index": 27,
+    "source": "In der Studie verwendeten wir ein transobturatorisch geführtes Band in der Inside-out-Technik (TVT-O).",
+    "reference": "In the study, we used the transobturator vaginal tape inside-out technique (TVT-O).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the study, we used a transobturator-guided tape in the inside-out technique (TVT-O)."
+  },
+  {
+    "index": 28,
+    "source": "Wir berichten über einen 52-jährigen Schweizer mit Halsschmerzen und progredienter Heiserkeit.",
+    "reference": "A 52 year old Swiss presented with a sore throat and progressive hoarseness.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We report on a 52-year-old Swiss man with sore throat and progressive hoarseness."
+  },
+  {
+    "index": 29,
+    "source": "Histologisch fand sich eine granulomatöse Entzündung der Epiglottis.",
+    "reference": "The histology showed a granulomatous inflammation of the epiglottis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Histologically, a granulomatous inflammation of the epiglottis was found."
+  },
+  {
+    "index": 30,
+    "source": "Das Histoplasma-Antigen war positiv im Urin und Serum.",
+    "reference": "The histoplasma antigen was positive in urine and serum.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The Histoplasma antigen was positive in the urine and serum."
+  },
+  {
+    "index": 31,
+    "source": "Als alternative Therapie der disseminierten Histoplasmose kommt eine Therapie mit Voriconazol infrage.",
+    "reference": "An alternative therapy for the disseminated histoplasmosis is voriconazol.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "As an alternative therapy for disseminated histoplasmosis, treatment with voriconazole is an option."
+  },
+  {
+    "index": 32,
+    "source": "Die Erhebung einer Reiseanamnese ist wichtig.",
+    "reference": "The investigation of the travel history is an important point.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Gathering a travel history is important."
+  },
+  {
+    "index": 33,
+    "source": "Im deutschen Gesundheitssystem gibt es einen zunehmenden Wettbewerb bei der Rekrutierung von Fachpersonal, insbesondere für die medizinische Rehabilitation, die als weniger attraktiv angesehen wird.",
+    "reference": "In the German Health system there is an increasing competition in the recruitment of specialised staff, especially for rehabilitation centres, which are deemed less attractive.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the German healthcare system, there is increasing competition in recruiting specialized personnel, particularly for medical rehabilitation, which is regarded as less attractive."
+  },
+  {
+    "index": 34,
+    "source": "Die vorliegende Studie untersucht daher die Attraktivität des Arbeitsfeldes der medizinischen Rehabilitation aus der Sicht des ärztlichen Personals.",
+    "reference": "Therefore, this study examines the attractiveness of the field of medical rehabilitation from the point of view of medical professionals.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This present study therefore examines the attractiveness of the field of medical rehabilitation from the perspective of medical staff."
+  },
+  {
+    "index": 35,
+    "source": "Wir haben 16 leitfadengestützte Interviews mit Ärztinnen und Ärzten aus 7 Reha-Einrichtungen unterschiedlicher fachlicher Ausrichtung geführt.",
+    "reference": "We conducted 16 semi-structured interviews with doctors from 7 rehabilitation centres with different medical specialisations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We conducted 16 semi-structured interviews with male and female physicians from 7 rehabilitation facilities with different professional orientations."
+  },
+  {
+    "index": 36,
+    "source": "Die Interviews wurden digitalisiert, transkribiert und nach der strukturierenden Inhaltsanalyse mithilfe der Analysesoftware MAXQDA 11 ausgewertet.",
+    "reference": "The interviews were digitized and transcribed. A structured content analysis was carried out using the software MAXQDA 11.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The interviews were digitized, transcribed, and evaluated using the MAXQDA 11 analysis software following a structuring content analysis."
+  },
+  {
+    "index": 37,
+    "source": "Identifiziert wurden 745 Codes mit den übergeordneten Kategorien „Attraktivität“, „Ungünstige Aspekte“ und „Besonderheiten“ der Rehabilitation.",
+    "reference": "745 codes were identified and assigned to the categories \"attractiveness\", \"unfavourable aspects\" and \"special features\" of rehabilitation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A total of 745 codes were identified under the overarching categories “Attractiveness,” “Unfavorable Aspects,” and “Special Features” of rehabilitation."
+  },
+  {
+    "index": 38,
+    "source": "Die Befragten schätzten im Vergleich zur Akutmedizin vor allem das planbare, flexible und mit weniger Zeitdruck verbundene Arbeiten in der medizinischen Rehabilitation.",
+    "reference": "Regarding medical rehabilitation, the interviewees appreciated especially the predictable, flexible working environment with little time pressure.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Compared to acute medicine, the respondents especially valued the predictable, flexible work with less time pressure in medical rehabilitation."
+  },
+  {
+    "index": 39,
+    "source": "Zu den Besonderheiten der Rehabilitation gehört die im Vergleich zur Akutmedizin höhere Relevanz des bio-psycho-sozialen Modells von Gesundheit und Krankheit sowie der höhere Kommunikations- und Organisationsbedarf.",
+    "reference": "Among the special features of rehabilitation in comparison with acute care were the higher relevance of the bio-psycho-social model of health and illness as well as the higher proportion of communication and organisation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Among the special features of rehabilitation are the greater relevance of the bio-psycho-social model of health and illness compared to acute medicine, as well as the increased need for communication and organization."
+  },
+  {
+    "index": 40,
+    "source": "Strahlenbedingte Gefässwandveränderungen der Arteria carotis sind klinisch relevante Langzeitfolgen nach therapeutischer Bestrahlung von Malignomen im Kopf- und Halsbereich.",
+    "reference": "Radiation induced atherosclerosis of the carotid artery is a clinically relevant late complication after head and neck radiotherapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Radiation-induced vessel wall changes of the carotid artery are clinically relevant long-term consequences following therapeutic irradiation of malignancies in the head and neck region."
+  },
+  {
+    "index": 41,
+    "source": "Wir untersuchten die zytotoxischen Effekte von Chaetocin auf Zellen von klarzelligem Nierenzellkarzinom (ccRCC) und die Möglichkeit, die Effekte von Chaetocin mit den Effekten von Zytokin-induzierten Killerzellen (CIK) zu kombinieren mit Hilfe von MTT Assay und FACS-Analyse.",
+    "reference": "We examined the cytotoxic effects of chaetocin on clear cell renal cell carcinoma (ccRCC) cells and the possibility to combine the effects of chaetocin with the effects of cytokine-induced killer cells (CIK) assayed by MTT assay and FACS analysis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We investigated the cytotoxic effects of chaetocin on cells of clear cell renal cell carcinoma (ccRCC) and the possibility of combining the effects of chaetocin with those of cytokine-induced killer cells (CIK) using an MTT assay and FACS analysis."
+  },
+  {
+    "index": 42,
+    "source": "Chaetocin ist ein Thiodioxopiperazin hergestellt von Pilzen aus der Familie der Chaetomiaceae.",
+    "reference": "Chaetocin is a thiodioxopiperazine produced by fungi belonging to the chaetomiaceae family.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Chaetocin is a thiodioxopiperazine produced by fungi from the family Chaetomiaceae."
+  },
+  {
+    "index": 43,
+    "source": "In 2007 wurde erstmals berichtet, dass Chaetocin potente und selektive ex vivo Anti-Krebs-Aktivität durch Induzierung von reaktivem Sauerstoff besitzt. CIK-Zellen wurden aus CD3+/CD56- T-Lymphozyten aus menschlichem Blut hergestellt mit negativem CD4-/CD8- Phänotyp.",
+    "reference": "In 2007, it was first reported that chaetocin shows potent and selective ex vivo anti-cancer activity by inducing reactive oxygen species.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In 2007, it was reported for the first time that Chaetocin possesses potent and selective ex vivo anti-cancer activity by inducing reactive oxygen. CIK cells were generated from CD3+/CD56- T lymphocytes from human blood with a negative CD4-/CD8- phenotype."
+  },
+  {
+    "index": 44,
+    "source": "Die Addition von bestimmten Interleukinen und Antikörpern führte zu der Herstellung von CIK-Zellen mit spezifischer Ausrichtung auf Nierenzellkarzinomzellen.",
+    "reference": "CIK cells are generated from CD3+/CD56- T lymphocytes with double negative CD4-/CD8- phenotype that are isolated from human blood.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The addition of certain interleukins and antibodies led to the production of CIK cells with a specific orientation toward renal cell carcinoma cells."
+  },
+  {
+    "index": 45,
+    "source": "klarzelligen Nierenzellkarzinomzellen besitzen. Obwohl CIK-Zellen einen hohen Grad an selektiver anti-ccRCC Aktivität besitzen, konnte dieser Effekt nicht durch die Zugabe von Chaetocin gesteigert werden.",
+    "reference": "The results of this research state that the anti-ccRCC activity of chaetocin is weak and does not show a high grade of selectivity on clear cell renal cell carcinoma cells.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "They possess clear cell renal carcinoma cells. Although CIK cells have a high degree of selective anti-ccRCC activity, this effect could not be enhanced by the addition of Chaetocin."
+  },
+  {
+    "index": 46,
+    "source": "Daher erscheint Chaetocin keine geeignete Substanz für ein spezifisches Targeting von ccRCC-Zellen oder für die Kombinationstherapie mit CIK-Zellen beim Nierenzellkarzinom zu sein.",
+    "reference": "Although the CIK cells show a high grade of selective anti-ccRCC activity, this effect could not be improved by the addition of chaetocin.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Therefore, Chaetocin does not appear to be a suitable substance for specific targeting of ccRCC cells or for combination therapy with CIK cells in renal cell carcinoma."
+  },
+  {
+    "index": 47,
+    "source": "",
+    "reference": "So chaetocin seems to be no suitable agent for specific targeting ccRCC cells or for the combination therapy with CIK cells in renal cancer.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "It seems no German sentence was provided for translation."
+  },
+  {
+    "index": 48,
+    "source": "Eine Meningeosis neoplastica ist eine seltene, aber schwerwiegende Komplikation solider Neopasien (Melanome, Mamma-, Bronchial- oder gastrointestinale Karzinome).",
+    "reference": "Leptomeningeal carcinomatosis is a rare but serious complication of solid tumors such as melanoma, breast and lung cancer, as well as gastrointestinal carcinomas.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Meningeosis neoplastica is a rare but serious complication of solid neoplasms (melanomas, breast, bronchial, or gastrointestinal carcinomas)."
+  },
+  {
+    "index": 49,
+    "source": "Die klinische Manifestation der Meningeosis ist äußerst variabel. Sie äußert sich z. B. in radikulären Schmerzen mit oder ohne neurologischen Ausfällen sowie in Kopfschmerzen bis hin zu halluzinatorischen Reizsymptomen.",
+    "reference": "Its clinical manifestation is highly variable, presenting as radicular pain with or without neurological deficits, as well as with headaches and hallucinatory irritation symptoms.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The clinical manifestation of meningeosis is extremely variable. It can present, for example, with radicular pain with or without neurological deficits, as well as headaches up to and including hallucinatory irritative symptoms."
+  },
+  {
+    "index": 50,
+    "source": "Wir berichten hier über den seltenen Fall einer Patientin mit einem lymphatisch und ossär metastasierten BRAF-mutierten Mikrosatelliten-stabilen Kolonkarzinom, welche einen Monat nach der Diagnosestellung neurologische Reiz- und Ausfallsymptome entwickelte.",
+    "reference": "Here we report a rare case of a patient with BRAF-mutated microsatellite stable colon carcinoma with lymphatic and skeletal metastases, who developed neurological symptoms one month after the initial diagnosis of malignancy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We report here on the rare case of a female patient with a BRAF-mutated, microsatellite-stable colon carcinoma that had metastasized to the lymphatic system and bones, who developed neurological irritative and deficit symptoms one month after the diagnosis was made."
+  },
+  {
+    "index": 51,
+    "source": "Durch den zytologischen Nachweis von Tumorzellen im Liquorsediment konnte – trotz einer unauffälligen MRT-Diagnostik – eine Meningeosis carcinomatosa gesichert werden.",
+    "reference": "Based on the cytological detection of tumor cells in the cerebrospinal fluid, a leptomeningeal carcinomatosis was diagnosed, despite normal findings on MRI.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Through the cytological detection of tumor cells in the cerebrospinal fluid sediment, meningeal carcinomatosis could be confirmed despite unremarkable MRI findings."
+  },
+  {
+    "index": 52,
+    "source": "Unter einer intrathekalen Therapie mit Methotrexat, kombiniert mit einer intensiven systemischen Antikörperchemotherapie, wurde passager eine gute partielle Remission der Tumorerkrankung erreicht.",
+    "reference": "Intrathecal chemotherapy with methotrexate, combined with intensive systemic immunochemotherapy, resulted in a good partial remission of the underlying malignant disease.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Under intrathecal therapy with methotrexate, combined with intensive systemic antibody chemotherapy, a temporary good partial remission of the tumor disease was achieved."
+  },
+  {
+    "index": 53,
+    "source": "Ca. 8 Monate nach Therapiebeginn entwickelte jedoch die Patientin eine progrediente Meningeosis und verstarb wenige Wochen später.",
+    "reference": "However, approximately 8 months after the start of therapy, the patient developed progressive leptomeningeal carcinomatosis and died a few weeks later.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "About eight months after the start of therapy, however, the patient developed progressive meningeosis and died a few weeks later."
+  },
+  {
+    "index": 54,
+    "source": "Verbraucher und Patienten wollen in Entscheidungen zu ihrer Gesundheit miteinbezogen werden. Sie haben einen ethisch legitimierten Anspruch auf informierte Entscheidungen.",
+    "reference": "Consumers and patients want to be included in decisions regarding their own health and have an ethically justified claim on informed decisions.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Consumers and patients want to be involved in decisions concerning their health. They have an ethically legitimate claim to informed decisions."
+  },
+  {
+    "index": 55,
+    "source": "Dazu brauchen sie gute Informationen. Gesundheitsinformationen sind jedoch oft irreführend und interessengeleitet.",
+    "reference": "Therefore, sound information is required, but health information is often misleading and based on different interests.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "For this, they need good information. However, health information is often misleading and driven by special interests."
+  },
+  {
+    "index": 56,
+    "source": "Krankheitsrisiken und der Nutzen medizinischer Maßnahmen werden üblicherweise überschätzt, der Schaden unterschätzt.",
+    "reference": "The risks of disease and the benefits of medical interventions tend to be overestimated, whereas harm is often underestimated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Disease risks and the benefits of medical interventions are typically overestimated, while harm is underestimated."
+  },
+  {
+    "index": 57,
+    "source": "Evidenzbasierte Gesundheitsinformationen müssen bestimmte Kriterien erfüllen. Sie müssen wissenschaftsbasiert, unabhängig, vollständig, ehrlich und verständlich sein.",
+    "reference": "Evidence-based health information has to fulfil certain criteria, for instance, it should be evidence-based, independent, complete, true as well as understandable.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Evidence-based health information must meet certain criteria. They must be based on science, independent, complete, honest, and understandable."
+  },
+  {
+    "index": 58,
+    "source": "Das Ziel einer medizinischen Maßnahme muss erklärt werden.",
+    "reference": "The aim of a medical intervention has to be explained.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The goal of a medical measure must be explained."
+  },
+  {
+    "index": 59,
+    "source": "Die möglichen Optionen, einschließlich der Option auf eine Intervention zu verzichten, müssen dargestellt werden.",
+    "reference": "The different therapeutic options including the option not to intervene have to be delineated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The possible options, including the option to forego an intervention, must be presented."
+  },
+  {
+    "index": 60,
+    "source": "Die Wahrscheinlichkeiten für Erfolg, fehlenden Erfolg und unerwünschte Effekte müssen numerisch und verständlich kommuniziert werden.",
+    "reference": "The probabilities for success, lack of success and unwanted side effects have to be communicated in a numerical and understandable manner.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The probabilities of success, lack of success, and undesirable effects must be communicated numerically and in an understandable manner."
+  },
+  {
+    "index": 61,
+    "source": "Medizinische Eingriffe müssen ohne Sanktionen abgelehnt werden können.",
+    "reference": "Patients have the right to reject medical interventions without any sanctions.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Medical interventions must be able to be refused without sanctions."
+  },
+  {
+    "index": 62,
+    "source": "Die Neurofibromatose Typ 1 (NF1) ist eine autosomal dominante Erbkrankheit mit hoher Penetranz bei breiter Variabilität des Phänotyps.",
+    "reference": "Neurofibromatosis type 1 (NF1) is an autosomal dominant disease that shows high penetrance with a wide variability in the phenotype.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Neurofibromatosis type 1 (NF1) is an autosomal dominant hereditary disease with high penetrance and broad phenotypic variability."
+  },
+  {
+    "index": 63,
+    "source": "Der vorliegende Fallbericht beschreibt Diagnose und Therapie der unilateralen Gynäkomastie eines Kleinkindes mit klinischen Stigmata der NF1 und bietet eine Übersicht bisheriger Fälle mit ähnlichem Erscheinungsbild.",
+    "reference": "The present case report describes diagnosis and therapy of unilateral gynaecomastia in a toddler showing integumental stigmata of NF1. Furthermore, the report provides a brief review of the literature concerning this finding in NF1.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This case report describes the diagnosis and treatment of unilateral gynecomastia in a toddler with clinical stigmata of NF1 and provides an overview of previous cases with a similar presentation."
+  },
+  {
+    "index": 64,
+    "source": "Das akute Abdomen ist ein Krankheitsbild, welches regelmäßig in der Notfallmedizin anzutreffen ist.",
+    "reference": "The clinical picture of an acute abdomen is frequently encountered in emergency medicine.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The acute abdomen is a clinical condition that is regularly encountered in emergency medicine."
+  },
+  {
+    "index": 65,
+    "source": "In den meisten Fällen sind intra-abdominelle Pathologien ursächlich, jedoch können sich auch extra-abdominelle Krankheiten als akutes Abdomen manifestieren oder dieses hervorrufen.",
+    "reference": "In most cases abdominal pathologies underlie this condition, however, also extra-abdominal diseases may present or cause an acute abdomen.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In most cases, intra-abdominal pathologies are the underlying cause, but extra-abdominal diseases can also present as an acute abdomen or trigger it."
+  },
+  {
+    "index": 66,
+    "source": "Da das akute Abdomen immer potentiell lebensbedrohlich ist, ist das sofortige Handeln von großer Wichtigkeit.",
+    "reference": "The fact that this condition is potentially life-threatening highlights the importance of instant action.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Because an acute abdomen is always potentially life-threatening, immediate action is of great importance."
+  },
+  {
+    "index": 67,
+    "source": "Hier berichten wir von einer jungen Frau, die sich mit dem Bild eines akuten Abdomens in unserer Klinik vorstellte.",
+    "reference": "Here, we report on the case of a young woman that presented with an acute abdomen in our clinic.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Here we report on a young woman who presented to our clinic with signs of an acute abdomen."
+  },
+  {
+    "index": 68,
+    "source": "Die Bildgebung zeigte einen massiv dilatierten Magen, der bis in das kleine Becken reichten.",
+    "reference": "Imaging revealed a massively distended stomach reaching the lesser pelvis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The imaging showed a massively dilated stomach that extended into the small pelvis."
+  },
+  {
+    "index": 69,
+    "source": "Notfallmäßig erfolgte eine explorative Laparotomie, in der über eine Gastrotomie große Mengen verbackener, unverdauter Speisereste geborgen wurden.",
+    "reference": "On the same day we performed an explorative laparotomy in which massive amounts of clotted, undigested food was recovered via a gastrotomy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "An exploratory laparotomy was performed on an emergency basis, during which large quantities of caked, undigested food remnants were removed via a gastrotomy."
+  },
+  {
+    "index": 70,
+    "source": "Postoperativ konnte in der Anamnese durch einen hinzugezogenen Psychiater eine Essstörung mit täglichen Essattacken als Ursache für den massiv dilatierten Magen diagnostiziert werden.",
+    "reference": "Postoperatively, upon psychiatric consultation, an eating disorder with daily eating binges could be revealed as being the cause for the acute and dramatic gastric dilatation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Postoperatively, in the medical history, a consulted psychiatrist was able to diagnose an eating disorder with daily binge episodes as the cause of the massively dilated stomach."
+  },
+  {
+    "index": 71,
+    "source": "Die Patientin erholte sich schnell von dem Eingriff und konnte in gutem Allgemeinzustand und mit einer psychiatrischen Weiterbetreuung entlassen werden.",
+    "reference": "The patient fully recovered from surgery and psychiatric co-treatment was initiated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The patient recovered quickly from the procedure and was discharged in good general condition with continued psychiatric care."
+  },
+  {
+    "index": 72,
+    "source": "Dieser ungewöhnliche Fall zeigt, wie eine psychiatrische Grunderkrankung ein akutes Abdomen verursachen kann. Weiter macht es deutlich, dass ein schnelles Handeln für die richtige Diagnosestellung und adäquate Therapie von Wichtigkeit ist, um Komplikation zu vermeiden und eine vollständige Genesung zu ermöglichen.",
+    "reference": "This unique case report demonstrates how a psychiatric condition may lead to an acute abdomen, however, it also emphasizes the importance of prompt diagnosis and adequate therapy to avoid complications and allowing for full recovery.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This unusual case shows how a psychiatric underlying condition can cause an acute abdomen. Furthermore, it makes clear that prompt action is crucial for the correct diagnosis and adequate therapy in order to prevent complications and enable a full recovery."
+  },
+  {
+    "index": 73,
+    "source": "Die herkömmliche Chemotherapie wird üblicherweise in hohen Dosen verabreicht, gefolgt von einer behandlungsfreien Periode, die dem Körper die nötige Erholungszeit gibt.",
+    "reference": "Conventional chemotherapy is generally administered in high doses followed by a treatment-free period to give the body needful time to recover.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Conventional chemotherapy is usually administered in high doses, followed by a treatment-free period that gives the body the necessary recovery time."
+  },
+  {
+    "index": 74,
+    "source": "Dieser Ansatz, bei welchem dem Patienten die „maximal verträgliche Dosis“ verabreicht wird, ist mit hohen Ansprechraten verbunden.",
+    "reference": "This \"maximum tolerated dose\" approach results in high response rates.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This approach, in which the patient is given the “maximum tolerated dose,” is associated with high response rates."
+  },
+  {
+    "index": 75,
+    "source": "Die langen Abstände zwischen den einzelnen Therapiezyklen können jedoch die Entwicklung von Resistenzmechanismen begünstigen und folglich zu einem Fortschreiten der Erkrankung führen.",
+    "reference": "However, long periods between therapy cycles can lead to development of resistance mechanisms and consequently disease progression.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The long intervals between the individual therapy cycles can, however, promote the development of resistance mechanisms and consequently lead to a progression of the disease."
+  },
+  {
+    "index": 76,
+    "source": "Die metronomische Chemotherapie stellt daher eine interessante Alternative dar.",
+    "reference": "One of the most interesting alternative strategies is metronomic chemotherapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Metronomic chemotherapy therefore represents an interesting alternative."
+  },
+  {
+    "index": 77,
+    "source": "Das Konzept beruht auf der kontinuierlichen Verabreichung eines niedrig dosierten Chemotherapeutikums und zielt auch auf die Endothelzellen im Tumorbett ab.",
+    "reference": "This concept relies on the continuous administration of chemotherapy at low doses and aims at targeting endothelial cells in the tumor bed as well.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The concept is based on the continuous administration of a low-dose chemotherapy drug and also targets the endothelial cells in the tumor bed."
+  },
+  {
+    "index": 78,
+    "source": "Vor Kurzem wurde die metronomische Chemotherapie in die vom Expertengremium der AGO herausgegebenen Empfehlungen aufgenommen (www.ago-online.de).",
+    "reference": "Recently, metronomic chemotherapy has been incorporated into the recommendations issued by the German AGO expert panel (www.ago-online.de).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Recently, metronomic chemotherapy was added to the recommendations issued by the AGO expert panel (www.ago-online.de)."
+  },
+  {
+    "index": 79,
+    "source": "Es wurde eine systematische Recherche in PubMed/Medline, ClinicalTrials.gov, European Clinical Trials Database (EudraCT) sowie Cochrane Database durchgeführt.",
+    "reference": "A systematic review of PubMed/Medline, ClinicalTrials.gov, the European Clinical Trials Database (EudraCT) and the Cochrane Database was conducted.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A systematic search was conducted in PubMed/Medline, ClinicalTrials.gov, the European Clinical Trials Database (EudraCT), and the Cochrane Database."
+  },
+  {
+    "index": 80,
+    "source": "In der hier vorgestellten Literaturübersicht werden die aktuellen Erkenntnisse über die metronomische Chemotherapie bei der Behandlung von metastasierendem Brustkrebs diskutiert.",
+    "reference": "In the present review, we discuss the current evidence on metronomic chemotherapy in metastatic breast cancer.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the literature review presented here, the current findings on metronomic chemotherapy in the treatment of metastatic breast cancer are discussed."
+  },
+  {
+    "index": 81,
+    "source": "Viele Kinder zeigen in den ersten Lebensjahren Auffälligkeiten in ihrer Entwicklung.",
+    "reference": "Many children show developmental abnormalities in the first years of life.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Many children show abnormalities in their development during their first years of life."
+  },
+  {
+    "index": 82,
+    "source": "Der Artikel stellt Methoden der Früherfassung von Entwicklungsauffälligkeiten im Vorschulalter dar, beschreibt die Terminologie von Entwicklungsstörungen, zeigt die notwendigen Abklärungen bei Kindern mit Entwicklungsbehinderungen auf und thematisiert die interdisziplinäre Zusammenarbeit zwischen medizinischen, sonderpädagogischen und psychologischen Fachpersonen.",
+    "reference": "This article presents current developmental screening methods in primary care, defines the terminology of developmental disorders in young children, demonstrates the essential diagnostic procedures in developmentally impaired children and describes the interdisciplinary collaboration between physicians, psychologists, therapists and special needs educators.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The article presents methods for the early detection of developmental abnormalities in preschool-aged children, describes the terminology of developmental disorders, outlines the necessary assessments for children with developmental disabilities, and addresses interdisciplinary collaboration between medical, special education, and psychological professionals."
+  },
+  {
+    "index": 83,
+    "source": "Pauciimmun bezeichnet die fehlende Ablagerung von Immunkomplexen im Gewebe.",
+    "reference": "The term \"pauci-immune\" defines the characteristic absence of immune complexes in the tissues.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Pauci-immune refers to the absence of immune complex deposition in tissue."
+  },
+  {
+    "index": 84,
+    "source": "Pathogenetisch und diagnostisch wichtig sind zirkulierende antineutrophile zytoplasmatische Antikörper (ANCA).",
+    "reference": "Circulating antineutrophil cytoplasmic antibodies (ANCA) are of pathogenic and diagnostic relevance.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Circulating antineutrophil cytoplasmic antibodies (ANCA) are pathogenetically and diagnostically important."
+  },
+  {
+    "index": 85,
+    "source": "Um diagnostische Verzögerungen zu vermeiden, sollte auch in der Praxis die Hemmschwelle zur Bestimmung der ANCA bei akuter Niereninsuffizienz mit Hämaturie tief sein.",
+    "reference": "To prevent diagnostic delay practitioners should measure ANCA promptly in case of acute kidney injury with hematuria.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In order to avoid diagnostic delays, the threshold for determining ANCA in acute renal insufficiency with hematuria should also be low in clinical practice."
+  },
+  {
+    "index": 86,
+    "source": "Patienten mit kritischer Beinischämie repräsentieren die schwerste Form der peripher-arteriellen Verschlusskrankheit was mit einer hohen Mortalität assoziiert ist.",
+    "reference": "Patients with critical limb ischemia (CLI) represent the most severe form of peripheral arterial disease (PAD) and exhibit high mortality rates.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Patients with critical limb ischemia represent the most severe form of peripheral arterial occlusive disease, which is associated with high mortality."
+  },
+  {
+    "index": 87,
+    "source": "Die infrapopliteale Strombahn ist bei Patienten mit kritischer Beinischämie häufig mitbetroffen, was eine grosse Herausforderung für die endovaskuläre Revaskularisation darstellt.",
+    "reference": "Frequently, PAD in CLI patients involves the infrapopliteal arterial segment challenging endovascular revascularization strategies.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The infrapopliteal vascular pathways are frequently involved in patients with critical limb ischemia, which poses a major challenge for endovascular revascularization."
+  },
+  {
+    "index": 88,
+    "source": "Die Inzidenz für Restenose nach infrapoplitealer Ballon Angioplastie in Patienten mit kritischer Beinischämie wird auf über zwei Drittel beziffert.",
+    "reference": "Restenosis remains the major drawback of tibial angioplasty encountered in more than two thirds of CLI patients undergoing tibial revascularization.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The incidence of restenosis after infrapopliteal balloon angioplasty in patients with critical limb ischemia is estimated to be over two-thirds."
+  },
+  {
+    "index": 89,
+    "source": "Telefonkonsultationen gehören zum hausärztlichen Alltag.",
+    "reference": "Telephone consultations are part of GP's daily routine.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Telephone consultations are part of a general practitioner's daily routine."
+  },
+  {
+    "index": 90,
+    "source": "Der rasche und unkomplizierte Zugang zu einer medizinischen Beratung via Telefon wird von den Patienten sehr geschätzt, und die Nachfrage nach Telefonkonsultationen nimmt stetig zu.",
+    "reference": "The patients appreciate the quick and uncomplicated access to consultations via phone and therefore the demand for telephone consultations is increasing steadily.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The rapid and straightforward access to medical advice by telephone is greatly appreciated by patients, and the demand for telephone consultations is steadily increasing."
+  },
+  {
+    "index": 91,
+    "source": "Telefonkonsultationen stellen für medizinisches Fachpersonal eine Herausforderung dar.",
+    "reference": "Nevertheless, telephone consultations pose a challenge to healthcare professionals.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Phone consultations pose a challenge for medical professionals."
+  },
+  {
+    "index": 92,
+    "source": "Das Einhalten von Empfehlungen hilft, die Sicherheit zu erhöhen.",
+    "reference": "Safety is improved by adhering to recommendations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Following recommendations helps to increase security."
+  },
+  {
+    "index": 93,
+    "source": "Die zur Handhabung benötigten Fertigkeiten sind erlernbar.",
+    "reference": "The required skills are learnable.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The skills required for handling can be learned."
+  },
+  {
+    "index": 94,
+    "source": "Um geeignete Lösungsansätze zu entwickeln, wurde die bestehende Situation in Deutschland und in ausgewählten Staaten Europas analysiert.",
+    "reference": "To develop appropriate solutions, the existing situation in Germany and selected European countries was analyzed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In order to develop suitable solution approaches, the existing situation in Germany and in selected European countries was analyzed."
+  },
+  {
+    "index": 95,
+    "source": "Als Bestandteil dieser Analyse wurden in 27 Arztpraxen und 14 Krankenhäusern der Regelversorgung mittels Fragebogen, Checkliste und einer Vor-Ort-Besichtigung die realen Bedingungen der Aufbereitung ermittelt.",
+    "reference": "Additionally, in 27 medical practitioners' offices and 14 hospitals, the true practice of reprocessing was analyzed using a questionnaire, a checklist, and inspection on site.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "As part of this analysis, the actual conditions for reprocessing were determined in 27 medical practices and 14 standard care hospitals through questionnaires, checklists, and an on-site inspection."
+  },
+  {
+    "index": 96,
+    "source": "In der Auswertung der Ergebnisse und der strukturierten Recherche der europäischen Situation werden mögliche Alternativen zur Aufbereitung in der eigenen Gesundheitseinrichtung aufgezeigt.Die Analyse in den überprüften Gesundheitseinrichtungen im Süden Hessens (Deutschland) hat ergeben, dass die Voraussetzungen für die Durchführung des Aufbereitungsprozesses nicht den gesetzlichen Bestimmungen entsprechen.",
+    "reference": "A structured analysis of potential alternatives to the internal reprocessing was conducted within the German and European context. The results indicate that the conditions for the execution of the reprocessing process in the analyzed health facilities in southern Hesse (Germany) do not satisfy legal requirements.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the evaluation of the results and the structured examination of the European situation, possible alternatives for reprocessing in one's own healthcare facility are presented. The analysis carried out in the reviewed healthcare facilities in southern Hesse (Germany) revealed that the prerequisites for performing the reprocessing procedure do not meet the legal requirements."
+  },
+  {
+    "index": 97,
+    "source": "Die vorgefundenen Defizite decken sich weitgehend mit anderen Berichten aus Deutschland und Europa.",
+    "reference": "The detected deficiencies were consistent with other reports from Germany and Europe.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The identified deficits largely coincide with other reports from Germany and Europe."
+  },
+  {
+    "index": 98,
+    "source": "Die Analyse der erhobenen Daten lässt auf verschiedene Ursachen für die Mängel schließen.",
+    "reference": "The analysis gave insight into several reasons for the detected deficiencies.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The analysis of the collected data suggests various causes for the deficiencies."
+  },
+  {
+    "index": 99,
+    "source": "Die drei Hauptursachen sind die hohen Kosten bei ordnungsgemäßer Durchführung der Aufbereitung, der Stellenwert der Aufbereitungs-Abteilung innerhalb der Gesundheitseinrichtung und Defizite bei der behördlichen Überwachung.",
+    "reference": "The three main reasons were the high costs for proper implementation, the subjective value assigned to the reprocessing unit in health care facilities, and deficits in monitoring by the health authority.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The three main causes are the high costs associated with properly carrying out reprocessing, the significance of the reprocessing department within the healthcare facility, and shortcomings in governmental oversight."
+  },
+  {
+    "index": 100,
+    "source": "Während für die Durchführung des Aufbereitungsprozesses europaweit ähnliche rechtliche Bestimmungen bestehen, sind die Rahmenbedingungen, die Strukturen der Gesundheitssysteme und die behördliche Überwachung unterschiedlich.",
+    "reference": "Throughout the European Union, a similar regulatory framework for the performance of the reprocessing process exists, while the environment, structures of the health systems and administrative supervision vary significantly.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "While similar legal regulations exist throughout Europe for conducting the reprocessing process, the framework conditions, the structures of the health systems, and official supervision vary."
+  },
+  {
+    "index": 101,
+    "source": "Sowohl verschiedene Bundesländer in Deutschland als auch die ausgewählten europäischen Staaten diskutieren verstärkt die Problematik der qualitätsgesicherten Durchführung des Aufbereitungsprozesses.",
+    "reference": "The German states as well as selected European countries are currently discussing the challenges of increased quality-assured execution of the reprocessing process.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Both various federal states in Germany and the selected European countries are increasingly discussing the issue of ensuring a quality-assured implementation of the reprocessing process."
+  },
+  {
+    "index": 102,
+    "source": "Beispielsweise sollte für die Überprüfung von Aufbereitungseinheiten in Krankenhäusern und in Arztpraxen derselbe Überwachungsstandard vorliegen.",
+    "reference": "For instance, the same supervisory system for hospitals and medical practitioners should be established at an equal standard.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "For example, the same monitoring standard should be in place for the inspection of reprocessing units in hospitals and in medical practices."
+  },
+  {
+    "index": 103,
+    "source": "Eine 10-jährige männlich-kastrierte Kurzhaarkatze wurde wegen einer asymptomatischen Tachykardie vorgestellt, die erstmalig vor zwei Wochen diagnostiziert worden war.",
+    "reference": "A 10-year-old male castrated Domestic Shorthair cat was evaluated for an asymptomatic tachyarrhythmia noted two weeks prior.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A 10-year-old neutered male shorthair cat was presented due to asymptomatic tachycardia first diagnosed two weeks ago."
+  },
+  {
+    "index": 104,
+    "source": "Bei der elektrokardiographischen Untersuchung wurde ein normaler Sinusrhythmus mit atrialen Extraystolen und Perioden von paroxysmaler supraventrikulärer Tachykardie mit einer Herzfrequenz von 300 bis 400 min–1 festgestellt.",
+    "reference": "Electrocardiography revealed a normal sinus rhythm with atrial premature complexes and paroxysms of supraventricular tachycardia with a heart rate between 300 and 400 min-1.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "During the electrocardiographic examination, a normal sinus rhythm with atrial extrasystoles and periods of paroxysmal supraventricular tachycardia at a heart rate of 300 to 400 beats per minute was detected."
+  },
+  {
+    "index": 105,
+    "source": "Die echokardiographische Untersuchung war unauffällig und die Blutkonzentrationen von kardialem Troponin I, Gesamtthyroxin sowie Taurin lagen in den jeweiligen Normbereichen.",
+    "reference": "Echocardiography was unremarkable, and concentrations of circulating cardiac troponin I, T4, and blood taurine were within reference ranges.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The echocardiographic examination was unremarkable, and the blood concentrations of cardiac troponin I, total thyroxine, and taurine were within their respective normal ranges."
+  },
+  {
+    "index": 106,
+    "source": "Die Katze wurde mit Sotalol (2.1 mg/kg zweimal täglich, per os) behandelt, was allerdings nicht zur gewünschten Kontrolle der Arrhythmie führte, wie bei wiederholten Untersuchungen innerhalb einer zweijährigen Zeitperiode festgestellt wurde.",
+    "reference": "The cat was treated with sotalol (2.1 mg/kg q12h, PO) but the arrhythmia was insufficiently controlled as determined during several re-examinations within a two-year time period.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The cat was treated with Sotalol (2.1 mg/kg twice daily, orally), which, however, did not achieve the desired control of the arrhythmia, as was determined in repeated examinations over a two-year period."
+  },
+  {
+    "index": 107,
+    "source": "Die lange Dauer der Tachyarrhythmie, die progressiven strukturellen und funktionellen Veränderungen des Herzens sowie die ähnlichen pathologischen und histologischen Befunde lassen auf das Vorliegen einer Tachykardie-induzierten Kardiomyopathie schliessen.",
+    "reference": "The persistent nature of the tachyarrhythmia, the progressive structural and functional cardiac changes, and comparative gross and histopathologic post-mortem findings are consistent with the diagnosis of tachycardia-induced cardiomyopathy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The prolonged duration of the tachyarrhythmia, the progressive structural and functional changes of the heart, as well as the similar pathological and histological findings suggest the presence of a tachycardia-induced cardiomyopathy."
+  },
+  {
+    "index": 108,
+    "source": "Die Klassifizierung diabetischer Fußulzerationen nach Wagner wird von Wundfachleuten oft verwendet.",
+    "reference": "The Wagner as well as the Armstrong classification is used for diabetic foot ulcers.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The classification of diabetic foot ulcers according to Wagner is often used by wound specialists."
+  },
+  {
+    "index": 109,
+    "source": "Die Kombination mit den Armstrong-Stadien hat Vorteile, da diese das Vorliegen einer Ischämie und/oder eines Infektes mitberücksichtigen.",
+    "reference": "The advantage of the Armstrong stages is that important informations like wound infection or ischemia are considered.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The combination with the Armstrong stages has advantages, as they take the presence of ischemia and/or infection into account."
+  },
+  {
+    "index": 110,
+    "source": "In dieser Arbeit sind die Ergebnisse der zwischen Juni und September 2011 in den nach den Kriterien der Deutschen Krebsgesellschaft e. V. (DKG) zertifizierten Brustkrebszentren durchgeführten Befragung von Schlüsselpersonen dargestellt.",
+    "reference": "This paper presents the results of a survey among key informants that was conducted between June and September 2011 in Breast Cancer Centers that were accredited according to the criteria of the German Cancer Society (DKG).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In this paper, the results are presented from the survey of key individuals carried out between June and September 2011 in breast cancer centers certified according to the criteria of the German Cancer Society (DKG)."
+  },
+  {
+    "index": 111,
+    "source": "Zum Einsatz kam der Fragebogen für Schlüsselpersonen in Brustkrebszentren 2011 (FRIZ 2011).",
+    "reference": "The Questionnaire for Breast Cancer Centres Key Informants 2011 (FRIZ 2011) was used with two reminders having been sent out.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The questionnaire for key personnel in breast cancer centers 2011 (FRIZ 2011) was used."
+  },
+  {
+    "index": 112,
+    "source": "Dies entspricht einem Rücklauf von 61,3 %. Die weit überwiegende Mehrheit der Personen, die den Fragebogen ausgefüllt haben, gab an, Teil der Brustzentrumsleitung zu sein und regelmäßig an den Qualitätszirkeln mit den Hauptkooperationspartnern der Brustkrebszentren teilzunehmen.",
+    "reference": "The vast majority of respondents indicated to be part of the Breast Cancer Center management.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This corresponds to a response rate of 61.3%. The vast majority of the people who completed the questionnaire indicated that they are part of the breast center management and regularly participate in the quality circles with the main cooperation partners of the breast cancer centers."
+  },
+  {
+    "index": 113,
+    "source": "Das Konzept wird insgesamt fast durchgehend als gut oder sehr gut bewertet.",
+    "reference": "Overall, the concept is regarded as \"good\" or \"very good\" by almost all respondents.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Overall, the concept is almost consistently rated as good or very good."
+  },
+  {
+    "index": 114,
+    "source": "Sowohl der Kontakt zu den niedergelassenen Ärzten als auch das Ansehen der Häuser haben sich in der Wahrnehmung der Befragten seit Einführung des Konzepts in der weit überwiegenden Zahl der Häuser verbessert.",
+    "reference": "Both contact to resident doctors and the hospitals' reputations improved since the implementation of the concept.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Both the contact with private practice physicians and the reputation of the hospitals have improved in the perception of those surveyed since the introduction of the concept in the vast majority of facilities."
+  },
+  {
+    "index": 115,
+    "source": "Wir berichten über eine 72-jährige Patientin mit B-Symptomatik und einem persistierenden pulmonalen Infiltrat trotz antibiotischer Behandlung.",
+    "reference": "We report the case of a 72 year old patient with B-symptoms and a persistent pulmonary infiltrate despite an antibiotic therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We report on a 72-year-old female patient with B symptoms and a persistent pulmonary infiltrate despite antibiotic treatment."
+  },
+  {
+    "index": 116,
+    "source": "In der transbronchialen Biopsie fand sich intraalveoläres Granulationsgewebe vereinbar mit einer organisierenden Pneumonie.",
+    "reference": "Buds of granulation tissue were found by transbronchial biopsy proving an organizing pneumonia.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the transbronchial biopsy, intra-alveolar granulation tissue was found, consistent with organizing pneumonia."
+  },
+  {
+    "index": 117,
+    "source": "Eine Steroid-Therapie führte zu einer prompten Besserung der B-Symptomatik sowie zu einer Regredienz des Infiltrates.",
+    "reference": "B-Symptoms and pulmonary infiltrate were improved immediately by a therapy with steroids.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A steroid therapy led to a prompt improvement in the B symptoms as well as a regression of the infiltrate."
+  },
+  {
+    "index": 118,
+    "source": "Auch wenn aufgrund einer chronisch-lymphatischen Leukämie (CLL) sowie einer vier Monate früher behandelten Pneumonie eine mögliche Ursache für eine sekundär organisierende Pneumonie vorlag, handelte es sich am ehesten trotzdem um eine kryptogen organisierende Pneumonie (COP).",
+    "reference": "Even though there were reasons for a secondary organizing pneumonia due to a known chronic lymphocytic leukemia and a pneumonia treated four months before, we consider a cryptogenic organizing pneumonia as most probable.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Although there was a possible cause for secondary organizing pneumonia due to chronic lymphocytic leukemia (CLL) and pneumonia treated four months earlier, it was still most likely cryptogenic organizing pneumonia (COP)."
+  },
+  {
+    "index": 119,
+    "source": "Operative Augenbrauenhebung ist mit verschiedensten Methoden in offener und endoskopischer Technik beschrieben.",
+    "reference": "Surgical eyebrow lift has been described by using many different open and endoscopic methods.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Surgical eyebrow elevation has been described using a variety of methods in both open and endoscopic techniques."
+  },
+  {
+    "index": 120,
+    "source": "Komplizierte Technik und Resultate, die oft nur von kurzer Dauer sind, führen zu Beschwerden der Patienten.",
+    "reference": "Difficult techniques and only short time benefits oft lead to patients' complaints.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Complicated techniques and results that are often only short-lived lead to complaints from patients."
+  },
+  {
+    "index": 121,
+    "source": "Neben Einfachheit und Sicherheit zeigt unsere Technik ein langzeitiges ästhetisches Ergebnis mit versteckten Narben und einer hohen Patientenzufriedenheit.",
+    "reference": "Besides simplicity and safety, our technique shows long lasting aesthetic results with hidden scars and a high rate of patient satisfaction.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to simplicity and safety, our technique delivers a long-lasting aesthetic result with concealed scars and high patient satisfaction."
+  },
+  {
+    "index": 122,
+    "source": "Im Zeitalter der Kostensteigerung und reduzierten Ressourcen im deutschen Gesundheitswesen gewinnen Versorgungsforschung und Gesundheitsökonomie immer mehr an Wert.",
+    "reference": "In the era of cost increases and reduced resources in the German healthcare system, the value of health services research and health economics is increasing more and more.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In an era of rising costs and reduced resources within the German healthcare system, health services research and health economics are becoming increasingly valuable."
+  },
+  {
+    "index": 123,
+    "source": "Ziele der Versorgungsforschung sind u. a. die Bewertung des Nutzens wie auch der ökonomischen Vor- und Nachteile neuer diagnostischer Methoden und neuer, und auch langjährig eingesetzter Arzneimittel und Impfstoffe.",
+    "reference": "Goals are the assessment of benefits and the economic advantages and disadvantages of new and established diagnostic methods, drugs and vaccines.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The aims of health services research include, among other things, evaluating the benefits as well as the economic advantages and disadvantages of new diagnostic methods and of both new and long-established pharmaceuticals and vaccines."
+  },
+  {
+    "index": 124,
+    "source": "Dementsprechend wird deutlich, dass dieses Hand in Hand mit der Gesundheitsökonomie einhergeht, welche die Kosten von diagnostischen und therapeutischen Maßnahmen mit dem jeweiligen Nutzen in Relation bringt.",
+    "reference": "Regarding these goals, it is clear that health services research goes hand in hand with health economics, which evaluates the benefits of diagnostic and therapeutic procedures in relation to the costs.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Accordingly, it becomes clear that this goes hand in hand with health economics, which relates the costs of diagnostic and therapeutic measures to the respective benefits."
+  },
+  {
+    "index": 125,
+    "source": "In Deutschland haben beide Forschungsbereiche vor allem einen Schwerpunkt in der Frauenheilkunde bzw. insbesondere in der gynäkologischen Onkologie, was durch zahlreiche Publikationen belegt wird.",
+    "reference": "Both scientific fields have focus principally on gynaecology and particularly on gynaecological oncology in Germany, as can be seen by numerous publications.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In Germany, both areas of research primarily focus on women’s health and, in particular, on gynecological oncology, as evidenced by numerous publications."
+  },
+  {
+    "index": 126,
+    "source": "Diese haben im Vergleich zu klinischen Studien deutliche Vorteile – sie decken Lücken in der Versorgung auf, hinterfragen die notwendigen materiellen und personellen und somit auch finanziellen Ressourcen und ermöglichen erst die Ermittlung des Wertes und somit den Vergleich unterschiedlicher Innovationen, um die beste Option für Ratsuchende und Patientinnen zu identifizieren.",
+    "reference": "These present several advantages compared with clinical trials - they uncover gaps in health care, question the material, staffing and consequently the financial resources required and they allow the estimation of value and the comparison of different innovations to identify the best options for our patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "They have significant advantages compared to clinical studies – they reveal gaps in care, question the necessary material and personnel resources (and thus also financial ones), and only make it possible to determine the value and thereby compare different innovations in order to identify the best option for those seeking advice and patients."
+  },
+  {
+    "index": 127,
+    "source": "Patienten mit einem Thoraxtrauma können in den meisten Fällen durch die Anlage einer großlumigen Thoraxsaugdrainage und eine adäquate analgetische Therapie erfolgreich therapiert werden.",
+    "reference": "Patients with a thoracic trauma are commonly treated by large bore chest tube thoracostomy and appropriate analgesia.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Patients with thoracic trauma can, in most cases, be successfully treated by the placement of a large-bore thoracic suction drainage and adequate analgesic therapy."
+  },
+  {
+    "index": 128,
+    "source": "Allerdings handelt es sich meist um akut lebensbedrohliche Situationen. Nach der initialen Stabilisierung stellt die Bildgebung eine essenzielle Grundlage der richtigen Versorgung und einer folgenden Operation dar.",
+    "reference": "After primary stabilisation of the patients, imaging studies should be performed to assess the extent of the injuries and determine the treatment of choice.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "However, these are usually acutely life-threatening situations. After the initial stabilization, imaging forms an essential basis for proper treatment and any subsequent operation."
+  },
+  {
+    "index": 129,
+    "source": "Daher sollten Patienten mit Thoraxtraumata stets in spezialisierten Zentren mit der erforderlichen Fachexpertise behandelt werden.",
+    "reference": "For this reason, patients with thoracic traumas should always be treated in specialised centers.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Therefore, patients with thoracic injuries should always be treated in specialized centers with the necessary specialist expertise."
+  },
+  {
+    "index": 130,
+    "source": "Dies führt zur Senkung der Sterblichkeit und Verkürzung der Langzeitbehandlung der Patienten.",
+    "reference": "This approach reduces overall mortality and shortens the length of hospital stay.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This leads to a reduction in mortality and shortens the long-term treatment of patients."
+  },
+  {
+    "index": 131,
+    "source": "Die ärztliche Weiterbildung in Deutschland befindet sich im Umbruch.",
+    "reference": "The German graduate medical education system is going through an important phase of changes.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Continuing medical education in Germany is undergoing major changes."
+  },
+  {
+    "index": 132,
+    "source": "Neben der aktuellen Reform der Musterweiterbildungsordnung spielen gesellschaftliche, demographische, gesundheits- und forschungspolitische Faktoren eine wichtige Rolle für die Zukunft und Konkurrenzfähigkeit der ärztlichen Weiterbildung.Der Ausschuss für Weiterbildung der Gesellschaft für Medizinische Ausbildung (GMA) möchte mit diesem Positionspapier auf zentrale Fragen in diesem Prozess aufmerksam machen und Impulse für den aktuellen Diskurs geben.Dabei kann die GMA als interdisziplinäre und interprofessionelle Fachgesellschaft wichtige Beiträge zu einer evidenzbasierten und zukunftsorientierten Weiterbildungsstrategie liefern.Im vorliegenden Papier werden anhand von vier Leitfragen zu Weiterbildungszielen, Qualitätssicherung, Kompetenzvermittlung und gesundheitspolitischen Rahmenbedingungen die wesentlichen Punkte für die Zukunft der medizinischen Weiterbildung in Deutschland angesprochen.",
+    "reference": "Besides the ongoing reform of the national guidelines for graduate medical education (Musterweiterbildungsordnung), other factors like societal and demographic changes, health and research policy reforms also play a central role for the future and competitiveness of graduate medical education. With this position paper, the committee on graduate medical education of the Society for Medical Education (GMA) would like to point out some central questions for this process and support the current discourse. As an interprofessional and interdisciplinary scientific society, the GMA has the resources to contribute in a meaningful way to an evidence-based and future-oriented graduate medical education strategy. In this position paper, we use four key questions with regards to educational goals, quality assurance, teaching competence and policy requirements to address the core issues for the future of graduate medical education in Germany.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to the current reform of the model regulations for specialist training, social, demographic, healthcare, and research-policy factors play an important role in shaping the future and competitiveness of medical training. With this position paper, the Committee for Continuing Education of the Society for Medical Education (GMA) aims to draw attention to central questions in this process and provide impetus for the ongoing discourse. In doing so, the GMA, as an interdisciplinary and interprofessional scientific society, can make important contributions to an evidence-based and future-oriented training strategy. In this paper, four guiding questions on training objectives, quality assurance, competence development, and healthcare policy conditions are used to address the key issues for the future of medical training in Germany."
+  },
+  {
+    "index": 133,
+    "source": "Endokrinologische Erkrankungen sind in der allgemein-internistischen Praxis häufig.",
+    "reference": "Endocrine disorders are common in internal medicine.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Endocrine disorders are common in general internal medicine practice."
+  },
+  {
+    "index": 134,
+    "source": "Neben Anamnese und Klinik sind in der Diagnostik verschiedener Krankheitsbilder Laborabklärung notwendig.",
+    "reference": "Diagnosis of endocrine diseases are usually based on patient history, clinical assessment and laboratory investigations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to the medical history and clinical examination, laboratory tests are necessary in the diagnosis of various medical conditions."
+  },
+  {
+    "index": 135,
+    "source": "In diesem Artikel soll auf häufig durchgeführte endokrinologische Laborabklärungen bei Diabetes mellitus, Hypo- bzw. Hyperthyreose, beim Hypogonadismus des Mannes und der Nebenniereninsuffizienz eingegangen werden.",
+    "reference": "This article will focus on frequently used laboratory investigations for endocrine diseases such as diabetes, thyroid dysfunction, male hypogonadism and adrenal insufficiency.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This article will address commonly performed endocrinological laboratory evaluations for diabetes mellitus, hypo- and hyperthyroidism, male hypogonadism, and adrenal insufficiency."
+  },
+  {
+    "index": 136,
+    "source": "Insbesondere werden präanalytische und analytische Aspekte der verschiedenen Laborparameter beleuchtet und der Einfluss deren Bestimmung für den klinischen Alltag diskutiert.",
+    "reference": "In particular, pre-analytical and analytical variability of biochemical measures as well as its significance in clinical practice will be discussed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In particular, the pre-analytical and analytical aspects of various laboratory parameters are highlighted, and the impact of their determination on clinical practice is discussed."
+  },
+  {
+    "index": 137,
+    "source": "Dazu wurde die systematisch gesuchte Literatur nach Kriterien des Oxford Centre of Evidence Based Medicine bewertet.",
+    "reference": "The literature was systematically searched and evaluated using the criteria of the Oxford Center of Evidence Based Medicine.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "For this purpose, the systematically identified literature was evaluated according to the criteria of the Oxford Centre of Evidence Based Medicine."
+  },
+  {
+    "index": 138,
+    "source": "Der enorme Evidenzkörper bildete die Grundlage für die Empfehlungen, die von Mandatsträgern aus 17 Fachgesellschaften konsentiert wurden.",
+    "reference": "The body of evidence used to formulate these recommendations was reviewed and approved by representatives of 17 national societies.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The enormous body of evidence formed the basis for the recommendations that were agreed upon by representatives from 17 professional societies."
+  },
+  {
+    "index": 139,
+    "source": "In den Empfehlungen wurden die Grade „A“ (starke Empfehlung), „B“ (Empfehlung) und „0“ (offene Empfehlung) gewählt.",
+    "reference": "Three grades of recommendation were used as follows: Grade \"A\" (strong recommendation), Grade \"B\" (recommendation) and Grade \"0\" (open recommendation).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the recommendations, the grades “A” (strong recommendation), “B” (recommendation), and “0” (open recommendation) were chosen."
+  },
+  {
+    "index": 140,
+    "source": "Als Ergebnis dieses Prozesses liegt nun die weltweit umfassendste, interdisziplinär erarbeitete evidenz- und konsensbasierte Stufe 3 Leitlinie vor.",
+    "reference": "The result is a comprehensive, interdisciplinary, evidence and consensus-based set of level 3 guidelines.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "As a result of this process, the most comprehensive, interdisciplinary, evidence- and consensus-based Level 3 guideline in the world is now available."
+  },
+  {
+    "index": 141,
+    "source": "Die Leitlinie richtet sich an alle auf der Intensivstation tätigen Berufsgruppen, die Empfehlungen berücksichtigen alle intensivmedizinisch-behandelten Patientengruppen.",
+    "reference": "This publication was designed for all ICU professionals, and takes into account all critically ill patient populations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The guideline is aimed at all professional groups working in the intensive care unit, and the recommendations take into account all patient groups receiving intensive medical treatment."
+  },
+  {
+    "index": 142,
+    "source": "Patienten mit peripherer arterieller Gefäßerkrankung haben eine hohe Komorbidität an kardialen, zerebrovaskulären oder pulmonalen Erkrankungen.",
+    "reference": "Patients with peripheral arterial disease have a high rate of cardiac, cerebrovascular, or pulmonary comorbidities.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Patients with peripheral arterial disease have a high comorbidity of cardiac, cerebrovascular, or pulmonary conditions."
+  },
+  {
+    "index": 143,
+    "source": "Peripher arterielle gefäßchirurgische Eingriffe sind mit einem moderaten bis hohem kardialen Risiko assoziiert.",
+    "reference": "Peripheral arterial surgical interventions are associated with a moderate to high perioperative cardiac risk.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Peripheral arterial vascular surgical interventions are associated with a moderate to high cardiac risk."
+  },
+  {
+    "index": 144,
+    "source": "Einfache klinische Score-Systeme zur präoperativen Risikostratifizierung dienen der Identifizierung von Hochrisikopatienten.",
+    "reference": "Simple clinical scoring systems for preoperative risk stratification can be used to identify high-risk patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Simple clinical scoring systems for preoperative risk stratification serve to identify high-risk patients."
+  },
+  {
+    "index": 145,
+    "source": "Bei diesen Patienten sind weitere diagnostische und therapeutische Maßnahmen erforderlich, um die perioperative Morbidität und Mortalität zu reduzieren.",
+    "reference": "In these patients further diagnostic and therapeutic measures are required to reduce perioperative morbidity and mortality.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In these patients, further diagnostic and therapeutic measures are required in order to reduce perioperative morbidity and mortality."
+  },
+  {
+    "index": 146,
+    "source": "Zudem kann eine Gruppe von Patienten identifiziert werden, die keine zusätzliche kardiopulmonale Diagnostik benötigen und zeitnah operiert werden können.",
+    "reference": "In contrast, a group of patients can be identifed that do not require additional cardiopulmonary diagnostics and can immediately proceed to the intervention.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Furthermore, a group of patients can be identified who do not require additional cardiopulmonary diagnostics and can be operated on promptly."
+  },
+  {
+    "index": 147,
+    "source": "Nach Evidenz-basierten Empfehlungen sollen bei Patienten mit hohem kardialen Risiko präoperativ Betablocker auftitriert und eine Statintherapie initiiert werden.",
+    "reference": "According to evidence-based recommendations in patients at risk beta blocker should be uptitrated and statin therapy should be initiated preoperatively.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "According to evidence-based recommendations, beta-blockers should be titrated preoperatively and statin therapy should be initiated in patients with high cardiac risk."
+  },
+  {
+    "index": 148,
+    "source": "Präoperative Nikotinkarenz reduziert perioperative Komplikationen und sollte bei allen Patienten angestrebt werden.",
+    "reference": "Quitting smoking preoperatively also reduces perioperative complications and should be encouraged in all patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Preoperative nicotine abstinence reduces perioperative complications and should be pursued in all patients."
+  },
+  {
+    "index": 149,
+    "source": "Der Artikel möchte dem Hausarzt (die weibliche Form ist immer eingeschlossen) klare Richtlinien geben, welche Augennotfälle er problemlos selber versorgen kann, welche ein Ophthalmologe noch am selben Tag sehen sollte und wann er den Patienten als Notfall sofort weiterschicken muss.",
+    "reference": "This article point out guidelines for the general practitioner when he can manage himself ophthalmic emergencies, which patients an ophthamologist should see on the same day and when an immediate intervention by an ophthalmologist is necessary.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The article aims to provide the general practitioner (the female form is always included) with clear guidelines on which eye emergencies they can easily handle themselves, which ones should be seen by an ophthalmologist on the same day, and when they must refer the patient immediately as an emergency."
+  },
+  {
+    "index": 150,
+    "source": "Eine Verletzung des kaudalen Kreuzbandes stellt eine moegliche Komplikation nach einer Tibial Plateau Levelling Osteotomy (TPLO) dar (Slocum und Slocum, 1993); vor allem, wenn der Tibia Plateau Winkel (Tibial Plateau Angle, TPA) kleiner als 5 Grad ist.",
+    "reference": "Caudal cruciate ligament injury can be a complication following tibial plateau leveling osteotomy (TPLO) (Slocum und Slocum, 1993) especially if the post-operative Tibial Plateau Angle (TPA) is less than 5 degree.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "An injury to the caudal cruciate ligament is a possible complication following a Tibial Plateau Leveling Osteotomy (TPLO) (Slocum and Slocum, 1993), especially when the Tibial Plateau Angle (TPA) is less than 5 degrees."
+  },
+  {
+    "index": 151,
+    "source": "Wir beschreiben einen Fall mit negativem TPA in Zusammenhang mit einem partiellen kranialen und kaudalen Kreuzbandriss, der mit einer center of rotation of angulation (CORA) basierten Tibia Keilosteotomie und Tuberositas Tibia Transposition behandelt wurde.",
+    "reference": "We describe a case of negative TPA associated with partial cranial and caudal ligament rupture treated with a center of rotation of angulation (CORA) based cranial tibial opening wedge osteotomy and tibial tuberosity transposition.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We describe a case with a negative TPA in connection with a partial cranial and caudal cruciate ligament tear that was treated with a center of rotation of angulation (CORA)–based tibial wedge osteotomy and tibial tuberosity transposition."
+  },
+  {
+    "index": 152,
+    "source": "Ein 13 kg Mischlingshund wurde aufgrund einer Lahmheit an der rechten Hintergliedmasse vorgestellt.",
+    "reference": "A 13 kg, mixed breed dog was presented for right pelvic limb lameness.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A 13 kg mixed-breed dog was presented due to lameness in the right hind limb."
+  },
+  {
+    "index": 153,
+    "source": "Auf den Röntgenbildern beider Kniegelenke wurden eine bilaterale Patella Baja und eine malformierte Tuberositas Tibia zusammen mit einem bilateralen TPA von –8 Grad nachgewiesen.",
+    "reference": "Radiographically a bilateral patella baja and a malformed tibia tuberosity along with a bilateral TPA of -8 degree were detected.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "On the X-rays of both knee joints, a bilateral patella baja and a malformed tibial tuberosity were detected, along with a bilateral TPA of -8 degrees."
+  },
+  {
+    "index": 154,
+    "source": "Arthroskopisch wurde eine partielle Ruptur des vorderen und hinteren Kreuzbandes diagnostiziert.",
+    "reference": "Arthroscopically a partial rupture of the cranial and caudal cruciate ligaments were found.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Arthroscopically, a partial rupture of the anterior and posterior cruciate ligaments was diagnosed."
+  },
+  {
+    "index": 155,
+    "source": "Die Osteotomie wurde mit einer 8-Loch Advanced Locking Plate System (ALPS) 9 Platte (KYON, Schweiz) und einer 3-Loch 2.0 mm UniLock-Platte (Synthes, Schweiz) fixiert.",
+    "reference": "The osteotomy was fixed with a 8 holes ALPS 9 (KYON, Switzerland) and a 3-holes 2.0mm UniLock plate (Synthes, Switzerland).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The osteotomy was fixed using an 8-hole Advanced Locking Plate System (ALPS) 9 plate (KYON, Switzerland) and a 3-hole 2.0 mm UniLock plate (Synthes, Switzerland)."
+  },
+  {
+    "index": 156,
+    "source": "Anschliessend wurde eine proximale Tuberositas Tibiae Transposition von 10 mm durchgeführt und diese mit einer Drahtzuggurtung stabilisiert .",
+    "reference": "Then a proximal tibial tuberosity transposition of 10mm was performed and fixed with a pin and tension band construct.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Subsequently, a 10 mm proximal tibial tuberosity transposition was performed and stabilized with a tension band wire."
+  },
+  {
+    "index": 157,
+    "source": "Der postoperative TPA betrug 15 Grad.",
+    "reference": "The postoperative TPA was 15 degree.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The postoperative TPA was 15 degrees."
+  },
+  {
+    "index": 158,
+    "source": "Die Röntgenkontrollen 6 und 10 Wochen, 6 und 12 Monaten nach der Operation zeigten eine unveränderte Position der Implantate und progressive Heilung der Osteotomien.",
+    "reference": "The radiographic controls at 6, 10 weeks, 6 months and 1 year after surgery revealed an unchanged position of the implants and progressive healing of the osteotomies.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The X-ray examinations at 6 and 10 weeks, and at 6 and 12 months after the operation showed an unchanged position of the implants and progressive healing of the osteotomies."
+  },
+  {
+    "index": 159,
+    "source": "Bei der Nachkontrolle nach 6 und 12 Monaten hatte der Hund keine Anzeichen von Lahmheit oder Schmerzen und die Röntgenaufnahmen wiesen eine vollständige Heilung der Osteotomie und keine Anzeichen von Implantatversagen auf.",
+    "reference": "At the 6 and 12 months recheck evaluation the dog had no evidence of lameness or stifle pain and radiographs revealed complete healing of the osteotomy site and no implant failure.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "At the follow-up appointments after 6 and 12 months, the dog showed no signs of lameness or pain, and the X-rays indicated complete healing of the osteotomy with no signs of implant failure."
+  },
+  {
+    "index": 160,
+    "source": "Die diaphysäre CORA basierte Osteotomie ermöglichte die Korrektur einer proximalen Tibia Deformation verbunden mit einem negativen TPA.",
+    "reference": "The diaphyseal CORA based osteotomy allowed accurate correction of a proximal tibial deformity associated with negative TPA.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The diaphyseal CORA-based osteotomy enabled the correction of a proximal tibia deformity associated with a negative TPA."
+  },
+  {
+    "index": 161,
+    "source": "Mit zementaugmentierten Pedikelschrauben kann die Festigkeit von Fixateuren bei instabilen Wirbelfrakturen im Alter erhöht werden.",
+    "reference": "Cement-augmented pedicle screws can increase the stability of fixators for unstable vertebral fractures in the elderly.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Using cement-augmented pedicle screws can increase the strength of fixators in cases of unstable vertebral fractures in the elderly."
+  },
+  {
+    "index": 162,
+    "source": "Die Fixateure können minimalinvasiv und schnell eingebracht werden und verringern das Operationsrisiko.",
+    "reference": "Fixators can be inserted quickly and with minimally invasive techniques, reducing surgical risks.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The fixators can be inserted in a minimally invasive and quick manner, and they reduce the surgical risk."
+  },
+  {
+    "index": 163,
+    "source": "Wir haben von März 2012 bis Juli 2014 40 Patienten mit instabilen Wirbelfrakturen mit einem perkutanen augmentierten Fixateur versorgt.",
+    "reference": "From March 2012 until July 2014, we treated 40 patients with percutaneous augmented fixators for unstable vertebral fractures.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We treated 40 patients with unstable vertebral fractures using a percutaneous augmented fixator from March 2012 to July 2014."
+  },
+  {
+    "index": 164,
+    "source": "Das Durchschnittsalter betrug 77,5 Jahre.",
+    "reference": "Average age was 77.5 years.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The average age was 77.5 years."
+  },
+  {
+    "index": 165,
+    "source": "Kein Patient verstarb im Beobachtungszeitraum von 6 Monaten.",
+    "reference": "During the six month observation period, no patients died.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "No patient died during the 6-month observation period."
+  },
+  {
+    "index": 166,
+    "source": "Neurologische Ausfälle traten nicht auf.",
+    "reference": "There were no neurological deficits.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "No neurological deficits occurred."
+  },
+  {
+    "index": 167,
+    "source": "Die Schmerzen konnten von im Mittel 8,5 Punkten auf der VAS auf 4,1 Punkte postoperativ gesenkt werden.",
+    "reference": "On VAS, average pain decreased from 8.5 to 4.1 points postoperatively.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The pain could be reduced from an average of 8.5 points on the VAS to 4.1 points postoperatively."
+  },
+  {
+    "index": 168,
+    "source": "Durch die Operation konnte der Cobb-Winkel im Mittel um 4,1° verbessert werden.",
+    "reference": "The average Cobb angle of 4.1° was improved after surgery.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Through the operation, the Cobb angle could be improved by an average of 4.1°."
+  },
+  {
+    "index": 169,
+    "source": "Nach 6 Monaten kam es nur zu einer Sinterung von 1° bis max. 4°, im Mittel 2,6°.",
+    "reference": "After 6 months, bony consolidation yielded angles of 1 to 4°, average 2.6°.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "After 6 months, there was only a sintering of 1° to a maximum of 4°, with an average of 2.6°."
+  },
+  {
+    "index": 170,
+    "source": "Häufig kam es aber zu venösen Paravasaten durch Zementabflüsse aus den augmentierten Wirbeln bis hin zur Lungenembolie.",
+    "reference": "There was often venous extravasation of cement leaking from the augmented vertebrae, even extending to pulmonary embolism.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Frequently, however, venous extravasations occurred due to cement leakage from the augmented vertebrae, sometimes even leading to pulmonary embolism."
+  },
+  {
+    "index": 171,
+    "source": "Meist bleiben diese Embolien asymptomatisch.",
+    "reference": "The emboli were usually asymptomatic.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Usually, these emboli remain asymptomatic."
+  },
+  {
+    "index": 172,
+    "source": "Wir berichten über einen Patienten, der unmittelbar nach der Zementapplikation aufgrund von Lungenembolien reanimationspflichtig wurde.",
+    "reference": "We report a case where the patient required resuscitation immediately after cement application because of pulmonary emboli.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We report on a patient who required resuscitation immediately after cement application due to pulmonary embolisms."
+  },
+  {
+    "index": 173,
+    "source": "Der Patient überlebte aufgrund der sofort durchgeführten intensivmedizinischen Maßnahmen.",
+    "reference": "The patient survived because of the immediately implemented critical care measures.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The patient survived due to the immediate intensive care measures."
+  },
+  {
+    "index": 174,
+    "source": "Das Risiko ist in der Literatur wenig bekannt und bislang unterschätzt trotz steigender Operationszahlen mit augmentierten Fixateuren.",
+    "reference": "Little has been published about this risk, which is underestimated despite increasing numbers of augmented fixator operations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The risk is little known in the literature and has so far been underestimated, despite the increasing number of operations with augmented fixators."
+  },
+  {
+    "index": 175,
+    "source": "Eine Reduzierung des Risikos ist durch langsame Zementinjektion, kleinere Zementapplikatoren und kurzfristiger Überdruckbeatmung mit PEEP (positive expiratory pressure) möglich.",
+    "reference": "The risk can be reduced with slower cement injection, smaller cement applicators, and short term positive pressure ventilation with PEEP.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A reduction of the risk is possible through slow cement injection, smaller cement applicators, and short-term overpressure ventilation with PEEP (positive end-expiratory pressure)."
+  },
+  {
+    "index": 176,
+    "source": "Bei vielen prämenopausalen Patientinnen, die an einem Mammakarzinom erkranken, ist die Familienplanung noch nicht abgeschlossen, sodass für den Erhalt des fertilen Potenzials Maßnahmen der Fertilitätsprotektion sinnvoll sind.",
+    "reference": "Many premenopausal patients who develop breast cancer have not yet completed their family planning, so measures of fertility protection to preserve their fertile potential would be beneficial.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In many premenopausal patients who develop breast cancer, family planning is not yet complete, so measures to preserve fertility make sense to maintain their reproductive potential."
+  },
+  {
+    "index": 177,
+    "source": "Durch eine Polychemotherapie – unabhängig ob im neoadjuvanten oder adjuvanten Setting – kommt es zu einer irreversiblen Schädigung der Follikel, was unter Umständen zu einer permanenten Infertilität führen kann.",
+    "reference": "Polychemotherapy causes irreversible damage to the ovarian follicles - irrespective of whether in a neoadjuvant or adjuvant setting - and this can sometimes result in permanent infertility.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Due to polychemotherapy—regardless of whether it is administered in the neoadjuvant or adjuvant setting—there is irreversible damage to the follicles, which can potentially result in permanent infertility."
+  },
+  {
+    "index": 178,
+    "source": "Abhängig von den verwendeten Zytostatika und der altersabhängigen Ovarialreserve der Frau, muss das gonadotoxische Risiko als niedrig, mittel oder hoch eingeschätzt werden.",
+    "reference": "Depending on which cytostatic agents are used and on the age-related ovarian reserve of the woman, gonadotoxic risk must be classified as low, moderate or high.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Depending on the cytostatic agents used and the woman’s age-dependent ovarian reserve, the gonadotoxic risk must be assessed as low, moderate, or high."
+  },
+  {
+    "index": 179,
+    "source": "Möglichkeiten des Fertilitätserhalts sind: a) die Kryokonservierung von fertilisierten oder unfertilisierten Oozyten.",
+    "reference": "Options of fertility preservation include: a) cryopreservation of fertilised or unfertilised oocytes.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Options for preserving fertility include: a) the cryopreservation of fertilized or unfertilized oocytes."
+  },
+  {
+    "index": 180,
+    "source": "Hierbei werden nach ovarieller Hyperstimulation reife Oozyten mittels transvaginaler Follikelaspiration gewonnen und im Anschluss entweder unfertilisiert oder nach erfolgter IVF- oder ICSI-Behandlung kryokonserviert.",
+    "reference": "After ovarian hyperstimulation, mature oocytes are retrieved by transvaginal follicle aspiration, after which they are cryopreserved, either unfertilised or on completion of IVF or ICSI treatment.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In this procedure, after ovarian hyperstimulation, mature oocytes are obtained via transvaginal follicle aspiration and then cryopreserved either unfertilized or following IVF or ICSI treatment."
+  },
+  {
+    "index": 181,
+    "source": "Bei b) der Kryokonservierung von Ovarialgewebe wird mithilfe eines laparoskopischen Eingriffs etwa 50% des Ovarkortex eines Ovars reseziert und kryokonserviert.",
+    "reference": "During b) cryopreservation of ovarian tissue, about 50% of the ovarian cortex of one ovary is resected with the aid of a laparoscopic procedure and cryopreserved.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "During cryopreservation of ovarian tissue, about 50% of the ovarian cortex from one ovary is resected using a laparoscopic procedure and cryopreserved."
+  },
+  {
+    "index": 182,
+    "source": "Die Verwendung von c) GnRH-Agonisten als medikamentöse Therapieoption unternimmt den Versuch einer endokrinen Ovarialsuppression, um Oozyten, Granulosa- und Thekazellen vor dem zytotoxischen Einfluss der Chemotherapie zu schützen.",
+    "reference": "The application of c) GnRH agonists as a medicinal therapy option is an attempt at endocrine ovarian suppression in order to protect oocytes, granulosa cells and theca cells from the cytotoxic effect of chemotherapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The use of c) GnRH agonists as a pharmacological therapy option attempts endocrine ovarian suppression in order to protect oocytes, granulosa cells, and theca cells from the cytotoxic effects of chemotherapy."
+  },
+  {
+    "index": 183,
+    "source": "Die parenterale Ernährung ist elementarer Bestandteil der Therapie kritisch kranker Patienten.",
+    "reference": "Parenteral nutrition is a fundamental part of any therapeutic concept in critically ill patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Parenteral nutrition is an essential component of the therapy for critically ill patients."
+  },
+  {
+    "index": 184,
+    "source": "Trotz einer zum Teil ausgesprochen kontrovers geführten Diskussion kristallisiert sich eine Strategie heraus, die die parenterale Ernährung als besonders wichtigen, ergänzenden Baustein einer möglichst früh begonnenen enteralen Ernährung sieht.",
+    "reference": "Despite a controversial discussion newer strategies recommend the parenteral nutrition as a very important supplemental component to an early enteral nutrition therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Despite sometimes highly controversial debate, a strategy is emerging that views parenteral nutrition as a particularly important, complementary component of an enteral feeding regimen started as early as possible."
+  },
+  {
+    "index": 185,
+    "source": "„HIV-positiv“ ist auch heute noch eine belastende Diagnose.",
+    "reference": "The diagnosis \"HIV infection\" has severe consequences.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "\"HIV-positive\" is still a burdensome diagnosis even today."
+  },
+  {
+    "index": 186,
+    "source": "Falsch positive wie falsch negative HIV-Test-Resultate herauszugeben, muss unbedingt vermieden werden.",
+    "reference": "False positive or false negative HIV results must be avoided.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Issuing both false-positive and false-negative HIV test results must absolutely be avoided."
+  },
+  {
+    "index": 187,
+    "source": "Das Bundesamt für Gesundheit (BAG) hat ein HIV-Testkonzept entworfen, das dieser Anforderung gerecht wird und darüber hinaus das Virus im betroffenen Patienten detailliert für eine optimale medizinische Betreuung charakterisiert.",
+    "reference": "The Swiss Federal Office of Public Health generated a concept for HIV testing which also includes the characterization of HIV for optimal medical care of the HIV-infected patient.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The Federal Office of Public Health (FOPH) has developed an HIV test concept that meets this requirement and also characterizes the virus in the affected patient in detail to enable optimal medical care."
+  },
+  {
+    "index": 188,
+    "source": "Das Testkonzept fordert hierzu die Beantwortung der folgenden vier Fragen: 1.",
+    "reference": "This concept requests that the following four questions are answered: 1.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The test concept requires answering the following four questions: 1."
+  },
+  {
+    "index": 189,
+    "source": "Ist die getestete Person tatsächlich HIV-infiziert?",
+    "reference": "Is the patient indeed HIV-infected?",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Is the tested person actually HIV-infected?"
+  },
+  {
+    "index": 190,
+    "source": "Handelt es sich um eine Infektion mit HIV-1 oder HIV-2, und im Falle von HIV-1, um welche Virusgruppe, M oder O?",
+    "reference": "Is it HIV-1 or HIV-2, and if the patient is tested positive for HIV-1, what group, M or O?",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Is it an infection with HIV-1 or HIV-2, and in the case of HIV-1, which virus group, M or O?"
+  },
+  {
+    "index": 191,
+    "source": "Ärztliches Rezeptieren ist ein wichtiger erster Schritt im Medikationsprozess.",
+    "reference": "An important initial step in the medication process is prescription writing.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Medical prescribing is an important first step in the medication process."
+  },
+  {
+    "index": 192,
+    "source": "Je perfekter dies ausgeführt wird, umso erfolgreicher kann die Therapie ausgeführt werden.",
+    "reference": "The more perfect it is, the more successfully can a therapy be performed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The more perfectly this is done, the more successful the therapy can be."
+  },
+  {
+    "index": 193,
+    "source": "Ungenauigkeiten und fehlende Angaben führen zu unnötigen Rückfragen oder können Anlass für Fehler sein, welche oft erst zufällig bei Folgekonsultationen aufgedeckt werden.",
+    "reference": "Imprecisions and missing information lead to unnecessary queries or to errors which are often randomly discovered during a later consultation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Inaccuracies and missing details lead to unnecessary follow-up questions or can give rise to errors that are often only discovered by chance during subsequent consultations."
+  },
+  {
+    "index": 194,
+    "source": "Ein „perfektes Rezept“ dient allen Beteiligten im Medikationsprozess und ist als Dokument die Anweisung für Patienten, Apotheker, Pflegefachleute und andere in der Therapie eingebundene Fachpersonen.",
+    "reference": "A \"perfect prescription\" serves every individual involved in the medication process. The prescription document contains the instructions for the patient, the pharmacist, the nurse, and other health professionals involved in the therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A 'perfect prescription' serves everyone involved in the medication process and, as a document, provides instructions for patients, pharmacists, nursing professionals, and other specialists involved in therapy."
+  },
+  {
+    "index": 195,
+    "source": "Der Verordnungsprozess wird durch vielfältige Gesetze und Verordnungen geregelt, welche allesamt im Hinblick auf größtmögliche Arzneimittelsicherheit erlassen werden.",
+    "reference": "The prescription writing process is regulated by several laws and decrees which were enacted to assure the greatest possible drug safety.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The prescribing process is regulated by a range of laws and regulations, all of which are enacted with the goal of ensuring the highest possible level of drug safety."
+  },
+  {
+    "index": 196,
+    "source": "Im Einzelfall können Abweichungen von den Normen nötig werden, welche eine umso sorgfältigere Verordnung und explizite Kennzeichnung erfordern.",
+    "reference": "Deviations from the norm may be necessary in individual cases, which require an even more responsible prescribing and explicit indication.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In individual cases, deviations from the norms may be necessary, which require particularly careful regulation and explicit labeling."
+  },
+  {
+    "index": 197,
+    "source": "Auch besteht unter Anästhesisten, Chirurgen und Internisten vielfach Unsicherheit im perioperativen Umgang mit der Dauermedikation.",
+    "reference": "Similarly, there is considerable uncertainty among anaesthesiologists, internists and surgeons with respect to the perioperative management of the patient's long-term medication.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "There is also often uncertainty among anesthesiologists, surgeons, and internists regarding the perioperative management of long-term medication."
+  },
+  {
+    "index": 198,
+    "source": "Die deutschen wissenschaftlichen Fachgesellschaften für Anästhesiologie und Intensivmedizin (DGAI), Chirurgie (DGCH) und Innere Medizin (DGIM) haben daher eine gemeinsame Empfehlung zur präoperativen Evaluation erwachsener Patienten vor elektiven, nicht herz-thoraxchirurgischen Eingriffen erarbeitet und erstmals im Jahr 2010 publiziert.",
+    "reference": "Therefore, the German Scientific Societies of Anaesthesiology and Intensive Care Medicine (DGAI), Internal Medicine (DGIM) and Surgery (DGCH) have joined to elaborate recommendations on the preoperative evaluation of adult patients prior to elective, non-cardio-thoracic surgery, which have been initially published in 2010.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The German scientific societies for Anesthesiology and Intensive Care Medicine (DGAI), Surgery (DGCH), and Internal Medicine (DGIM) therefore developed a joint recommendation on the preoperative evaluation of adult patients prior to elective, non-cardiothoracic surgery and first published it in 2010."
+  },
+  {
+    "index": 199,
+    "source": "Zunächst werden die allgemeinen Prinzipien der präoperativen Evaluation dargestellt (Teil A).",
+    "reference": "In the first part the general principles of preoperative evaluation are described (part A).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "First, the general principles of preoperative evaluation are presented (Part A)."
+  },
+  {
+    "index": 200,
+    "source": "Das Vorgehen bei Patienten mit bekannten oder vermuteten kardiovaskulären Vorerkrankungen wird gesondert betrachtet (Teil B: „Erweiterte kardiale Diagnostik“). Abschließend wird der perioperative Umgang mit der Dauermedikation diskutiert (Teil C).",
+    "reference": "The current concepts for extended evaluation of patients with known or suspected major cardiovascular disease are presented in part B. Finally, the perioperative management of patients' long-term medication is discussed (part C).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The approach for patients with known or suspected cardiovascular conditions is discussed separately (Part B: “Advanced Cardiac Diagnostics”). Finally, the perioperative management of long-term medication is addressed (Part C)."
+  },
+  {
+    "index": 201,
+    "source": "Daher werden eine regelmäßige Überprüfung und Aktualisierung der Empfehlungen erfolgen, sobald gesicherte neue Erkenntnisse vorliegen.",
+    "reference": "These recommendations will be subject to regular re-evaluation and updating when new validated evidence becomes available.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Therefore, a regular review and update of the recommendations will be carried out as soon as reliable new findings are available."
+  },
+  {
+    "index": 202,
+    "source": "Eingeschlossen wurden Patienten, bei denen in den Jahren 2011–2015 die Erstdiagnose eines Morbus Castleman in der HNO-Klinik der Universität Ulm gestellt wurde.",
+    "reference": "Patients with the first diagnosis of a Castleman's disease at the ENT clinic of Ulm University during the years 2011-2015 were included.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Patients were included who received their first diagnosis of Castleman’s disease at the ENT clinic of the University of Ulm between 2011 and 2015."
+  },
+  {
+    "index": 203,
+    "source": "Die Dauer der wenig ausgeprägten Symptome war inkongruent und lag zwischen 14 Tagen und 14 Jahren.",
+    "reference": "The duration of the rather weak symptoms was inhomogenous and lasted from 14 days to 14 years.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The duration of the minimally pronounced symptoms was incongruent and ranged from 14 days to 14 years."
+  },
+  {
+    "index": 204,
+    "source": "Bei allen Patienten konnte nach diagnostischer Exstirpation der Nachweis der hyalin-vaskulären Variante eines Morbus Castleman erbracht werden.",
+    "reference": "After diagnostic exstirpation a hyaline-vascular type of Castelman's disease was confirmed in all cases.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In all patients, following diagnostic excision, the hyaline-vascular variant of Castleman’s disease was confirmed."
+  },
+  {
+    "index": 205,
+    "source": "In einem der 5 Fälle lag ein multizentrischer Typ mit zusätzlichem axillärem Befall vor, die anderen Fälle waren monozentrisch.",
+    "reference": "One of the 5 cases proved a multicentric type with an additional axillary manifestation, the others were monocentric.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In one of the five cases, there was a multicentric type with additional axillary involvement; the other cases were monocentric."
+  },
+  {
+    "index": 206,
+    "source": "Die diagnostische Exstirpation war in allen Fällen immer zugleich auch suffiziente Therapie ohne zusätzliche medikamentöse Adjuvanz.",
+    "reference": "In all patients the diagnostic exstirpation was sufficient for therapy without need for adjuvant medication.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The diagnostic excision was, in all cases, simultaneously a sufficient therapy without additional medicinal adjuvant therapy."
+  },
+  {
+    "index": 207,
+    "source": "Dem HNO-Arzt begegnet der Morbus Castleman zumeist als therapieresistente und längerfristig bestehende zervikale Lymphadenopathie mit wenig ausgeprägter Begleitsymptomatik und meist fehlenden laborchemischen Auffälligkeiten.",
+    "reference": "The ENT specialist encounters Castleman's disease mostly as a long-lasting swelling of cervical lymph nodes refractory to therapy and without severe concomittant symptoms.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The ENT specialist typically encounters Castleman’s disease as a therapy-resistant and long-standing cervical lymphadenopathy with few pronounced accompanying symptoms and generally no notable laboratory abnormalities."
+  },
+  {
+    "index": 208,
+    "source": "Aufgrund der potentiell ungünstigen Verläufe ist eine zügige diagnostische Lymphknotenexstirpation in Vollnarkose indiziert, welche in den meisten Fällen gleichzeitig die suffiziente Therapie darstellt.",
+    "reference": "Due to potentially unfavorable outcomes a timely diagnostic lymph node exstirpation under general anesthesia is indicated. In most cases this surgical intervention represents the sufficient therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Due to the potentially unfavorable progression, a prompt diagnostic lymph node excision under general anesthesia is indicated, which in most cases simultaneously constitutes sufficient therapy."
+  },
+  {
+    "index": 209,
+    "source": "Hiläre und mediastinale Lymphadenopathie stellen nicht selten eine klinisch-diagnostische Herausforderung dar.",
+    "reference": "Hilar and mediastinal lymphadenopathy may represent a diagnostic challenge in clinical practice.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Hilar and mediastinal lymphadenopathy often pose a clinical-diagnostic challenge."
+  },
+  {
+    "index": 210,
+    "source": "Diese systematische Darstellung relevanter Pathologien, fokussiert auf berufsbedingte Krankheitsbilder, soll die Differenzialdiagnostik erleichtern.",
+    "reference": "This article is intended to facilitate differential diagnosis by a systematic description of relevant pathologies, notably with occupational etiology.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This systematic presentation of relevant pathologies, focused on occupational diseases, is intended to facilitate differential diagnosis."
+  },
+  {
+    "index": 211,
+    "source": "Vergleichend werden u. a. Befunde der Tuberkulose, der chronischen Berylliose, der Sarkoidose, des Lungenkrebses, des malignen Lymphoms, der Epstein-Barr-Virusinfektion und der Histoplasmose gegenübergestellt.Anamnese, Bildgebung und Labortests geben wichtige diagnostische Hinweise, aber auch invasive Methoden zum Ausschluss und Nachweis von Malignität, Infektion oder autoimmuner Genese können indiziert sein.",
+    "reference": "Clinical findings of relevant diseases, i. e. of tuberculosis, chronic beryllium disease, sarcoidosis, lung cancer, malignant lymphoma, Epstein-Barr virus infection, and histoplasmosis are compared.Case history, imaging and laboratory tests have important diagnostic impact. But also invasive methods can be necessary in order to exclude and prove malignancy, infection or autoimmune disease.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Comparatively, findings from tuberculosis, chronic berylliosis, sarcoidosis, lung cancer, malignant lymphoma, Epstein-Barr virus infection, and histoplasmosis are juxtaposed. Patient history, imaging, and laboratory tests provide important diagnostic clues, but invasive methods to exclude or confirm malignancy, infection, or autoimmune etiology may also be indicated."
+  },
+  {
+    "index": 212,
+    "source": "Bei einer Zunahme von endoprothetischen Gelenkersatz am Kniegelenk kommt es aufgrund der hohen Rate an Weichteilproblemen (von der Wundheilungsstörung bis hin zum tiefen Wundinfekt) auch zu einer Zunahme an kritischen Wunden im Bereich des Kniegelenks.",
+    "reference": "With the increase of endoprosthetic knee replacements, there is also an increase of critical wounds to the knee due to a high incidence of soft tissue problems (ranging from wound healing defects to severe wound infections).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "With an increase in endoprosthetic knee joint replacements, the high rate of soft tissue problems (ranging from wound healing disorders to deep wound infections) also leads to a rise in critical wounds in the knee joint area."
+  },
+  {
+    "index": 213,
+    "source": "Im Oktober 2014 bildete die „European Federation of Societies for Ultrasound in Medicine and Biology“ einen Arbeitskreis „Gastrointestinaler Ultraschall“ (GIUS), um den Einsatz des GIUS in der klinischen Praxis voranzutreiben.",
+    "reference": "In October 2014 the European Federation of Societies for Ultrasound in Medicine and Biology formed a Gastrointestinal Ultrasound (GIUS) task force group to promote the use of GIUS in a clinical setting.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In October 2014, the 'European Federation of Societies for Ultrasound in Medicine and Biology' formed a 'Gastrointestinal Ultrasound' (GIUS) working group to advance the use of GIUS in clinical practice."
+  },
+  {
+    "index": 214,
+    "source": "Eines der Hauptziele des Arbeitskreises war die Erarbeitung klinischer Empfehlungen und Leitlinien für den Einsatz des GIUS unter der Schirmherrschaft des EFSUMB.",
+    "reference": "One of the main objectives of the task force group was to develop clinical recommendations and guidelines for the use of GIUS under the auspices of EFSUMB.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "One of the main objectives of the working group was to develop clinical recommendations and guidelines for the use of GIUS under the auspices of EFSUMB."
+  },
+  {
+    "index": 215,
+    "source": "Der erste Teil gibt einen Überblick über die Untersuchungsmethoden des GIUS, wie er von Experten auf diesem Gebiet empfohlen wurde.",
+    "reference": "The first part, gives an overview of the examination techniques for GIUS recommended by experts in the field.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The first part provides an overview of the GIUS examination methods, as recommended by experts in the field."
+  },
+  {
+    "index": 216,
+    "source": "Außerdem wird die derzeit aktuelle Evidenz für die Interpretation normaler sonoanatomischer und physiologischer Merkmale, wie sie mit unterschiedlichen Ultraschallmethoden untersucht wurden, präsentiert.",
+    "reference": "It also presents the current evidence for the interpretation of normal sonoanatomical and physiological features as examined with different ultrasound modalities.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition, the current evidence for interpreting normal sonoanatomical and physiological features, as they were examined using various ultrasound methods, is presented."
+  }
+]

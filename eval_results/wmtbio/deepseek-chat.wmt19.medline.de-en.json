@@ -1,0 +1,2986 @@
+[
+  {
+    "index": 0,
+    "source": "Diese können nachfolgend unsere aktuelle Therapie und dadurch unser Risikomanagement beeinflussen.",
+    "reference": "These can subsequently influence our therapy and thus our risk management.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "These can subsequently influence our current therapy and thereby our risk management."
+  },
+  {
+    "index": 1,
+    "source": "Postoperativ hat sich die TTE als Untersuchungsmethode im Aufwachraum und auf der Intensivstation bewährt, um lebensbedrohliche Ursachen für eine Kreislaufdepression zeitnah zu diagnostizieren.",
+    "reference": "Postoperatively, TTE has proved its worth as an examination method in the recovery room and in the intensive care unit to promptly diagnose life-threatening causes of circulatory depression.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Postoperatively, TTE has proven to be an effective diagnostic method in the recovery room and intensive care unit for promptly identifying life-threatening causes of circulatory depression."
+  },
+  {
+    "index": 2,
+    "source": "Akutpathologika wie eine Perikardtamponade oder die fulminante Pulmonalarterienembolie können so schnell erfasst und evtl. auch zeitintensive Transporte in eine CT vermieden werden.",
+    "reference": "Acute pathology such as a pericardial tamponade or fulminant pulmonary artery embolism can be detected quickly and thus possibly time-consuming transport to a CT can be avoided.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Acute pathologies such as pericardial tamponade or fulminant pulmonary embolism can be quickly identified and potentially avoid time-consuming transports to a CT scan."
+  },
+  {
+    "index": 3,
+    "source": "Auch präoperativ kann der Einsatz der TTE sinnvoll sein zur Beurteilung des Volumenstatus, der Pumpfunktion oder hämodynamisch relevanter Vitien.",
+    "reference": "Also, preoperatively, the use of TTE may be useful for assessing volume status, pumping function, or hemodynamically relevant heart defects.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The use of TTE (transthoracic echocardiography) can also be beneficial preoperatively for assessing volume status, pump function, or hemodynamically relevant defects."
+  },
+  {
+    "index": 4,
+    "source": "Vor allem bei Operationen mit hohem perioperativem Komplikationsrisiko können diese Erkenntnisse mit in eine „goal-directed therapy“ einfließen.",
+    "reference": "Especially in surgical interventions with a high perioperative risk of complications, these findings can be incorporated into a goal-directed therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Especially in surgeries with a high perioperative complication risk, these findings can be incorporated into a 'goal-directed therapy'."
+  },
+  {
+    "index": 5,
+    "source": "Entsprechende Algorithmen für ein erweitertes hämodynamisches Monitoring und das Volumenmanagement existieren bereits in vielen Bereichen – sie werden aber häufig nicht konsequent umgesetzt und in die Abläufe der eigenen Klinik implementiert.",
+    "reference": "Corresponding algorithms for enhanced hemodynamic monitoring and volume management already exist in many areas, but they are often not consistently implemented in the processes of their own clinic.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Corresponding algorithms for advanced hemodynamic monitoring and volume management already exist in many areas – however, they are often not consistently implemented or integrated into the processes of one's own clinic."
+  },
+  {
+    "index": 6,
+    "source": "Mit diesem Artikel legen wir Nutzen und Relevanz der hämodynamischen Evaluation mittels TTE in jeder Phase der Patientenversorgung dar.",
+    "reference": "In this article, we demonstrate the utility and relevance of TTE hemodynamic evaluation at every stage of patient care.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "With this article, we demonstrate the utility and relevance of hemodynamic evaluation using TTE in every phase of patient care."
+  },
+  {
+    "index": 7,
+    "source": "Darüber hinaus stellen wir einen möglichen Algorithmus für die Versorgung kritisch kranker Patienten vor, der auf den wichtigsten transthorakalen Untersuchungen und hämodynamischen Messverfahren basiert.",
+    "reference": "We also present a possible algorithm for the care of critically ill patients, based on the main transthoracic and hemodynamic measurements.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition, we present a potential algorithm for the care of critically ill patients, which is based on the most important transthoracic examinations and hemodynamic measurement methods."
+  },
+  {
+    "index": 8,
+    "source": "Er soll im klinischen Alltag und insbesondere im Bereitschaftsdienst eine Hilfestellung für den sinnvollen Einsatz der TTE bieten.",
+    "reference": "It is intended to provide assistance in the meaningful use of TTE in everyday clinical practice and especially for those on on-call duty.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "It is intended to provide assistance in clinical practice, especially during on-call duty, for the meaningful use of TTE."
+  },
+  {
+    "index": 9,
+    "source": "Ein standardisierter Fragebogen mit 17 Fragen und möglichen Mehrfachantworten wurde an 191 Allgemeinmediziner und Schulärzte versandt, um die geübte Praxis des Sehscreenings bei Kindern zu erheben.",
+    "reference": "A standardized questionnaire was sent to 191 general practitioners and school doctors to obtain information on the currently applied vision screening protocols for children.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A standardized questionnaire with 17 questions and possible multiple-choice answers was sent to 191 general practitioners and school doctors to survey the practiced methods of vision screening in children."
+  },
+  {
+    "index": 10,
+    "source": "61 befragte Personen (91%) bestätigten, dass ein Sehscreening durchgeführt wird.",
+    "reference": "Overall, 61 (91%) of the repliers confirmed that some sort of vision screening exists.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "61 surveyed individuals (91%) confirmed that a vision screening is conducted."
+  },
+  {
+    "index": 11,
+    "source": "45 der Befragten (67%) bestätigten verbindliche Richtlinien.",
+    "reference": "According to 45 (67%) repliers, a mandatory examination exists.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "45 of the respondents (67%) confirmed binding guidelines."
+  },
+  {
+    "index": 12,
+    "source": "Die Untersuchung wird von einem breiten Personenkreis durchgeführt: In 39 Fällen (44%) werden diese durch die Sekretärin oder durch medizinisches Assistenzpersonal ausgeführt, in 15 Fällen (17%) obliegt sie dem Schularzt und in 25 Fällen (28%) dem Hausarzt oder dem Pädiater.",
+    "reference": "As to the question about the person performing the examination, multiple answers were given; 39 (44%) answered that the secretary or the medical practical assistant performs the vision tests, 15 (17%) indicated the school doctor, and 25 (28%) indicated the general practitioner or the pediatrician.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The investigation is conducted by a wide range of individuals: in 39 cases (44%), it is carried out by the secretary or medical support staff, in 15 cases (17%) it is the responsibility of the school doctor, and in 25 cases (28%) it is the responsibility of the general practitioner or pediatrician."
+  },
+  {
+    "index": 13,
+    "source": "Die Untersuchung erfolgt zumeist in der Praxis des Hausarztes (32, 40%), aber auch im Kindergarten (17, 21%) und beim Kinderarzt (17, 21%).",
+    "reference": "Most screening tests are performed in a general practitioner's practice (32; 40%), some are done in the kindergartens (17; 21%), and others are done in a pediatrician's practice (17; 21%).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The examination mostly takes place in the general practitioner's practice (32, 40%), but also in kindergarten (17, 21%) and at the pediatrician's office (17, 21%)."
+  },
+  {
+    "index": 14,
+    "source": "Gemäß Umfrage wird in erster Linie der Visus erhoben (61, 91%).",
+    "reference": "Sixty-one (91%) of the repliers indicated that at least the children's visual acuity is measured.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "According to the survey, visual acuity is primarily assessed (61.91%)."
+  },
+  {
+    "index": 15,
+    "source": "Die Visusprüfung erfolgt unterschiedlich; vor allem mit Snellen-Optotypen (33, 49%), Zahlen (23, 34%) und Kinderbildern (20, 30%).",
+    "reference": "Acuity is assessed with different methods, mainly, with pictures (20; 30%), numbers (23; 34%), and Snellen optotypes (33; 49%).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The visual acuity test is conducted differently; primarily using Snellen optotypes (33, 49%), numbers (23, 34%), and children's pictures (20, 30%)."
+  },
+  {
+    "index": 16,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSIONS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 17,
+    "source": "Einheitliche Richtlinien für das Sehscreening bei Kindern existieren im Kanton St. Gallen nicht.",
+    "reference": "There are no consistent regulations regarding vision screening in the Canton of St. Gallen.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Uniform guidelines for vision screening in children do not exist in the canton of St. Gallen."
+  },
+  {
+    "index": 18,
+    "source": "Eine Vereinheitlichung der Screeningabläufe auf kantonaler und nationaler Ebene scheint sinnvoll.",
+    "reference": "A standardization of the applied screening procedures at cantonal and national levels seems reasonable.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A standardization of screening procedures at the cantonal and national levels seems sensible."
+  },
+  {
+    "index": 19,
+    "source": "Neben Nierenerkrankungen können prärenale und postrenale Ursachen eine Azotämie zur Folge haben.",
+    "reference": "In addition to renal diseases, prerenal and postrenal conditions can induce azotemia.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to kidney diseases, prerenal and postrenal causes can result in azotemia."
+  },
+  {
+    "index": 20,
+    "source": "Der Artikel gibt einen Überblick über Diagnose und Therapie häufiger Azotämieursachen bei Kaninchen und Nagern.",
+    "reference": "The article provides an overview of the diagnosis and therapy of common causes of azotemia in rabbits and rodents.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The article provides an overview of the diagnosis and treatment of common causes of azotemia in rabbits and rodents."
+  },
+  {
+    "index": 21,
+    "source": "Der Erfahrungsbereich „Medizinische Reha“ auf der Website www.krankheitserfahrungen.de soll mit qualitätsgesicherten Darstellungen subjektiver Erfahrungsberichte von Rehabilitanden zu einer Vorbereitung auf eine medizinische Rehabilitation beitragen.",
+    "reference": "The website \"medical rehabilitation (Medizinische Reha)\" at www.krankheitserfahrungen.de presents patients' experiences concerning medical rehabilitation and aims at supporting people in preparation for medical rehabilitation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The 'Medical Rehabilitation' experience section on the website www.krankheitserfahrungen.de aims to contribute to the preparation for medical rehabilitation through quality-assured presentations of subjective experience reports from rehabilitation patients."
+  },
+  {
+    "index": 22,
+    "source": "METHODIK",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHODOLOGY"
+  },
+  {
+    "index": 23,
+    "source": "Mit 38 ehemaligen Rehabilitanden, welche nach dem Prinzip des Purposeful Sampling ausgewählt wurden, wurden narrative, leitfadengestützte Interviews zu ihren Erfahrungen mit der medizinischen Rehabilitation durchgeführt.",
+    "reference": "Using purposeful sampling 38 former rehabilitation patients were selected. They took part in a guided narrative interview about their experiences concerning medical rehabilitation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Narrative, guided interviews were conducted with 38 former rehabilitation patients, who were selected based on the principle of purposeful sampling, to gather their experiences with medical rehabilitation."
+  },
+  {
+    "index": 24,
+    "source": "Die Interviews wurden transkribiert und in einer systematischen Analyse nach der Grounded Theory thematisch kodiert und zusammengefasst.",
+    "reference": "Interview transcripts were coded and systematically aggregated based on Grounded Theory.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The interviews were transcribed and thematically coded and summarized in a systematic analysis according to Grounded Theory."
+  },
+  {
+    "index": 25,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 26,
+    "source": "Alle in den Interviews erwähnten Erfahrungen wurden in der Analyse zu 8 Themenblöcken kondensiert und in themenspezifischen Texten auf der Website mit Originalausschnitten im Video-, Audio- und Textformat illustriert.",
+    "reference": "Analysis revealed 8 categories of specific issues and subtopics. These topics are illustrated by original excerpts of the interviews as video, audio or text on the website.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "All experiences mentioned in the interviews were condensed into 8 thematic blocks in the analysis and illustrated in theme-specific texts on the website with original excerpts in video, audio, and text formats."
+  },
+  {
+    "index": 27,
+    "source": "Die Themen behandeln den Weg in die Rehabilitation und den dortigen Alltag, Therapien und andere Angebote der Klinik, Familie, Beruf, was die Rehabilitation gebracht hat und die Zeit danach sowie Botschaften und Empfehlungen.",
+    "reference": "Topics are the way to and daily routine in rehabilitation, therapies and other offers of the clinic, family, profession, profits of the rehabilitation, the time afterwards, messages and recommendations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The topics cover the path to rehabilitation and daily life there, therapies and other offerings of the clinic, family, career, what the rehabilitation has brought, the time afterward, as well as messages and recommendations."
+  },
+  {
+    "index": 28,
+    "source": "Es werden Hürden und Herausforderungen sowie unterstützende Erfahrungen und Tipps thematisiert.",
+    "reference": "Patients mentioned obstacles and challenges as well as supporting experiences and advice.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Hurdles and challenges as well as supportive experiences and tips are addressed."
+  },
+  {
+    "index": 29,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 30,
+    "source": "Auf der Website finden künftige Rehabilitanden und Fachpersonal ein kosten- und barrierefreies Informationsangebot über die medizinische Rehabilitation aus der Patientenperspektive.",
+    "reference": "The website provides free and barrier-free information about medical rehabilitation for prospective patients and professionals, exclusively focusing on patients' perspectives.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "On the website, future rehabilitation patients and professional staff will find a cost-free and barrier-free information offering about medical rehabilitation from the patient's perspective."
+  },
+  {
+    "index": 31,
+    "source": "Aufgrund der hohen Wirksamkeit der Elektrokonvulsionstherapie (EKT) in der leitliniengerechten Behandlung therapieresistenter depressiver Episoden und der klinischen Bedeutung kognitiver Beeinträchtigungen ist eine Optimierung des Nebenwirkungsmanagements notwendig.",
+    "reference": "Due to the efficacy of electroconvulsive therapy (ECT) in the guideline-based treatment of therapy-resistant depressive episodes and the clinical significance of cognitive impairments, it is necessary to optimize the management of potential side effects.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Due to the high efficacy of electroconvulsive therapy (ECT) in the guideline-compliant treatment of treatment-resistant depressive episodes and the clinical significance of cognitive impairments, an optimization of side effect management is necessary."
+  },
+  {
+    "index": 32,
+    "source": "Diese Übersichtsarbeit stellt die klinische Relevanz und die Messverfahren kognitiver Nebenwirkungen dar, die bei einer EKT-Behandlung auftreten können.",
+    "reference": "In this review we present the clinical relevance and measurement of cognitive side effects that may occur during electroconvulsive therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This review paper presents the clinical relevance and measurement methods of cognitive side effects that can occur during ECT treatment."
+  },
+  {
+    "index": 33,
+    "source": "Es wird diskutiert, welche patientenindividuellen, technischen und pharmakologischen Faktoren die Auswirkung der EKT auf die Kognition moderieren können.",
+    "reference": "The individual characteristics of the patient as well as the technical and pharmacological parameters that influence the effect of ECT on cognition will be discussed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "It is being discussed which patient-specific, technical, and pharmacological factors can moderate the impact of ECT on cognition."
+  },
+  {
+    "index": 34,
+    "source": "Ferner werden die Empfehlungen hinsichtlich des Monitorings kognitiver Nebenwirkungen in nationalen und internationalen Leitlinien zusammengefasst.",
+    "reference": "Furthermore, the recommendations of national and international treatment guidelines for the monitoring of cognitive side effects will be summarized.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Furthermore, the recommendations regarding the monitoring of cognitive side effects are summarized in national and international guidelines."
+  },
+  {
+    "index": 35,
+    "source": "Bei der EKT werden Beeinträchtigungen der globalen Kognition sowie anterograde und retrograde Gedächtnisstörungen beobachtet.",
+    "reference": "After ECT, impairments of global cognition, and anterograde as well as retrograde amnesia may occur.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "During ECT, impairments in global cognition as well as anterograde and retrograde memory disorders are observed."
+  },
+  {
+    "index": 36,
+    "source": "In den ersten beiden Bereichen scheinen diese nur vorübergehend von Bedeutung zu sein, wohingegen das Ausmaß der retrograden Gedächtnisdefizite, darunter vor allem das des autobiografischen Gedächtnisses, nach aktuellem Kenntnisstand nicht klar definiert ist und potenziell länger anhaltend beeinträchtigt sein kann.",
+    "reference": "While the first two side effects appear to be transient, the extent of retrograde amnesia, particularly for autobiographical information, is not yet well understood and may potentially be present for a longer period.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the first two areas, these seem to be only of temporary significance, whereas the extent of retrograde memory deficits, particularly those of autobiographical memory, is not clearly defined according to current knowledge and may potentially be impaired for a longer duration."
+  },
+  {
+    "index": 37,
+    "source": "Mit einem 5-Jahres-Überleben von mittlerweile 80% rückt die postoperative Lebensqualität nach onkologischer Rektumresektion zunehmend in den Fokus des Interesses.",
+    "reference": "As 5-year survival after rectal cancer surgery has reached 80%, there is increasing interest in quality of life.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "With a 5-year survival rate now reaching 80%, the postoperative quality of life after oncological rectal resection is increasingly becoming the focus of interest."
+  },
+  {
+    "index": 38,
+    "source": "Das Low anterior Resection Syndrome (LARS) fasst die postoperative Morbidität infolge des operativen Eingriffes zusammen.",
+    "reference": "Low anterior resection syndrome (LARS) is an overall measure of the postoperative functional disorder due to the surgical resection.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The Low Anterior Resection Syndrome (LARS) summarizes the postoperative morbidity resulting from the surgical procedure."
+  },
+  {
+    "index": 39,
+    "source": "MATERIAL UND METHODE",
+    "reference": "MATERIAL AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MATERIAL AND METHOD"
+  },
+  {
+    "index": 40,
+    "source": "Es wurde eine selektive Literaturrecherche durchgeführt, um das Bild des LARS näher zu definieren und Verständnis für seine Pathophysiologie, Diagnose, Therapie und Prophylaxe zu entwickeln.",
+    "reference": "A thorough review of the literature was undertaken to help to define LARS and develop an understanding of its pathophysiology, diagnosis, therapy, and prophylaxis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A selective literature review was conducted to further define the picture of LARS and to develop an understanding of its pathophysiology, diagnosis, therapy, and prophylaxis."
+  },
+  {
+    "index": 41,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 42,
+    "source": "LARS wird in bis zu 80% nach allen stomavermeidenden operativen Eingriffen beobachtet, die beim Rektumkarzinom durchgeführt werden.",
+    "reference": "LARS is observed after up to 80% of stoma sparing procedures performed for rectal carcinoma.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "LARS is observed in up to 80% of cases following all stoma-avoiding surgical procedures performed for rectal cancer."
+  },
+  {
+    "index": 43,
+    "source": "Die Kapazität des Rektumstumpfes wie auch die Verletzung nervaler Strukturen scheinen die wichtigsten pathogenetischen Faktoren zu sein, die zu einer signifikanten Einschränkung der Lebensqualität führen.",
+    "reference": "The capacity of the rectal remnant as well as intraoperative damage to neuronal structures seem to be the most important pathogenetic factors resulting in a substantial impairment of the quality of life.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The capacity of the rectal stump as well as the injury to neural structures appear to be the most important pathogenic factors leading to a significant reduction in quality of life."
+  },
+  {
+    "index": 44,
+    "source": "Nichtsdestotrotz wird in der Zukunft noch viel Arbeit notwendig sein, um nicht nur das Überleben, sondern auch die Lebensqualität nach einem Rektumkarzinom zu verbessern.",
+    "reference": "Nevertheless, considerable work has to be done in the future not only to improve survival but also the quality of live after rectal carcinoma.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Nevertheless, much work will still be necessary in the future to improve not only survival but also the quality of life after rectal cancer."
+  },
+  {
+    "index": 45,
+    "source": "Die Lithiumaugmentation ist eine der Behandlungsoptionen bei therapieresistenter Depression.",
+    "reference": "Augmentation with lithium is one of the treatment options in therapy-resistant depression.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Lithium augmentation is one of the treatment options for treatment-resistant depression."
+  },
+  {
+    "index": 46,
+    "source": "In diesem Review soll die Studienlage zu der Anwendung von Lithium im höheren Lebensalter bei unipolarer Depression zusammengefasst werden.",
+    "reference": "This review presents the current data concerning the use of lithium in elderly patients with unipolar depression.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This review aims to summarize the state of research on the use of lithium in older adults with unipolar depression."
+  },
+  {
+    "index": 47,
+    "source": "METHODE",
+    "reference": "METHOD",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHOD"
+  },
+  {
+    "index": 48,
+    "source": "Ergebnisse: Sowohl die klinischen Studien als auch die Reviews sprechen sich positiv für die Lithiumaugmentation im Alter aus.",
+    "reference": "Both the clinical trials and reviews report in favor of lithium augmentation in elderly patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Results: Both the clinical studies and the reviews speak positively for lithium augmentation in the elderly."
+  },
+  {
+    "index": 49,
+    "source": "Nierenschäden als gefürchtete Nebenwirkungen treten nur selten auf.",
+    "reference": "Kidney damage, a feared side effect, is rarely seen.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Kidney damage as a feared side effect occurs only rarely."
+  },
+  {
+    "index": 50,
+    "source": "Auch über längere Anwendung hinaus zeigt sich das Lithium als wirksam und verträglich, wobei Laborkontrollen engmaschiger durchgeführt werden sollten.",
+    "reference": "Even over longer periods of use, lithium is effective; however, close monitoring under laboratory tests must be carried out.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Even beyond prolonged use, lithium proves to be effective and tolerable, although laboratory controls should be conducted more frequently."
+  },
+  {
+    "index": 51,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 52,
+    "source": "Lithium präsentiert sich als wirksames Medikament bei therapieresistenter unipolaren Altersdepression.",
+    "reference": "Lithium represents an effective drug in the treatment of unipolar old age depression.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Lithium presents itself as an effective medication for treatment-resistant unipolar geriatric depression."
+  },
+  {
+    "index": 53,
+    "source": "Die Hämostase umfasst eine Reihe von streng regulierten Abläufen wie Vasokonstriktion, Thrombozytenaktivierung und Blutgerinnung.",
+    "reference": "Haemostasis encompasses a set of strictly regulated actions, such as vasoconstriction, platelet activation and blood coagulation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Hemostasis encompasses a series of strictly regulated processes such as vasoconstriction, platelet activation, and blood coagulation."
+  },
+  {
+    "index": 54,
+    "source": "Endothelzellen spielen eine entscheidende Rolle in all diesen Prozessen und sind ein integraler Bestandteil der vaskulären Antwort auf Verletzungen, die zur Thrombusbildung führen.",
+    "reference": "Endothelial cells play a crucial role in all of these processes and are an integral part of the vascular response to injury resulting in thrombus formation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Endothelial cells play a crucial role in all these processes and are an integral part of the vascular response to injuries that lead to thrombus formation."
+  },
+  {
+    "index": 55,
+    "source": "Gesundes Endothel exprimiert Mediatoren zur Verhinderung der Thrombozytenaktivierung einschließlich Prostacyclin und Stickoxid und zur Hemmung der Gerinnung, wie Thrombomodulin oder RNase1.",
+    "reference": "Healthy endothelium expresses mediators to prevent platelet activation, including prostacyclin and nitric oxide, and to inhibit coagulation, such as thrombomodulin or RNase1.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Healthy endothelium expresses mediators to prevent platelet activation, including prostacyclin and nitric oxide, and to inhibit coagulation, such as thrombomodulin or RNase1."
+  },
+  {
+    "index": 56,
+    "source": "Nach der Aktivierung exponieren Endothelzellen den von Willebrand-Faktor, Integrine und andere Rezeptoren, um mit aktivierten Thrombozyten, Erythrozyten bzw. Gerinnungsfaktoren zu interagieren, was zur Bildung von Blutgerinnseln führt.",
+    "reference": "Upon activation, endothelial cells expose von Willebrand factor, integrins and other receptors to interact with activated platelets, erythrocytes and coagulation factors, respectively, resulting in blood clot formation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "After activation, endothelial cells expose von Willebrand factor, integrins, and other receptors to interact with activated platelets, erythrocytes, or clotting factors, leading to the formation of blood clots."
+  },
+  {
+    "index": 57,
+    "source": "Die Endothelzellenantwort auf Cytokine und Wachstumsfaktoren, die von aktivierten Blutplättchen und Immunzellen in arteriellen und venösen Thromben freigesetzt werden, spielt ebenfalls eine wichtige Rolle bei der Thrombusauflösung, während eine unvollständige Auflösung von Thromben fibrotische Umbauprozesse und einen chronischen Gefäßverschluss sowohl im arteriellen als auch im venösen Bereich auslösen kann.",
+    "reference": "The endothelial cell response to cytokines and growth factors released from activated platelets and immune cells abundantly present in arterial and venous thrombi also plays an important role for thrombus resolution, whereas failure to completely resolve thrombi may initiate fibrotic remodelling and chronic vascular occlusion both in the arterial and venous tree.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The endothelial cell response to cytokines and growth factors released by activated platelets and immune cells in arterial and venous thrombi also plays an important role in thrombus resolution, while incomplete resolution of thrombi can trigger fibrotic remodeling processes and chronic vascular occlusion in both the arterial and venous regions."
+  },
+  {
+    "index": 58,
+    "source": "Daher werden Endothelzellen zunehmend als potenzielles Ziel zur Vorbeugung thrombotischer Ereignisse und zur Beschleunigung der Thrombusauflösung erkannt.",
+    "reference": "Therefore, endothelial cells are increasingly recognized as potential target to prevent thrombotic events and to accelerate thrombus resolution.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Therefore, endothelial cells are increasingly recognized as a potential target for the prevention of thrombotic events and the acceleration of thrombus resolution."
+  },
+  {
+    "index": 59,
+    "source": "Hier diskutieren wir aktuelle Publikationen aus unserer Gruppe im Zusammenhang mit anderen Studien zur Rolle des Endothels bei akuten und chronischen thrombotischen Ereignissen.",
+    "reference": "Here, we discuss recent publications from our group in the context of other studies on the role of the endothelium during acute and chronic thrombotic events.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Here we discuss current publications from our group in relation to other studies on the role of the endothelium in acute and chronic thrombotic events."
+  },
+  {
+    "index": 60,
+    "source": "METHODE",
+    "reference": "METHOD",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHOD"
+  },
+  {
+    "index": 61,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 62,
+    "source": "Bei 5,2% wurde bereits einmal eine stationäre psychosomatische Rehabilitation durchgeführt, und jetzt nicht nochmals eine Rehaindikation gestellt.",
+    "reference": "In 5.2% of cases an inpatient rehabilitation had been done before, but there was no indication for a renewal.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "At 5.2%, inpatient psychosomatic rehabilitation has already been conducted once, and now no further rehabilitation indication has been made."
+  },
+  {
+    "index": 63,
+    "source": "Bei 27% wurde bislang noch keine Rehamaßnahme durchgeführt, wurde jetzt aber konsiliarärztlich erstmals empfohlen.",
+    "reference": "In 27% there was no rehabilitation in the past five years but now seen indicated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "For 27%, no rehabilitation measure has been carried out so far, but it has now been recommended for the first time by a consulting physician."
+  },
+  {
+    "index": 64,
+    "source": "Von 35 Patienten, bei denen der Konsiliararzt die Neubeantragung einer psychosomatischen Rehabilitation empfahl, wurde bei 13 im Verlauf der folgenden 6 Monate ein Antrag gestellt.",
+    "reference": "In 13 out of 35 patients who got a recommendation for a new psychosomatic rehabilitation, this rehabilitation was initiated within 6 months after the consult.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Out of 35 patients for whom the consulting physician recommended reapplying for psychosomatic rehabilitation, 13 submitted an application within the following 6 months."
+  },
+  {
+    "index": 65,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 66,
+    "source": "Der hochintensive fokussierte Ultraschall (HIFU) ermöglicht das nichtinvasive Erhitzen tief gelegener Gewebsschichten.",
+    "reference": "High-intensity focused ultrasound (HIFU) allows noninvasive heating of deep-seated tissues.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "High-intensity focused ultrasound (HIFU) enables the noninvasive heating of deep tissue layers."
+  },
+  {
+    "index": 67,
+    "source": "METHODEN",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHODS"
+  },
+  {
+    "index": 68,
+    "source": "Publikationen zu MR-HIFU wurden studiert und in diesem Review zusammengefasst.",
+    "reference": "Peer-reviewed publications on MR-HIFU were studied and are summarized in this review.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Publications on MR-HIFU were studied and summarized in this review."
+  },
+  {
+    "index": 69,
+    "source": "Hierbei wurde die Literatur auf onkologische Applikationen beschränkt.",
+    "reference": "Literature was restricted to applications in oncology.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In this case, the literature was limited to oncological applications."
+  },
+  {
+    "index": 70,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 71,
+    "source": "Zur MR-HIFU-Therapie des Mammakarzinoms und Tumorerkrankungen der abdominellen Organe wurden bisher Machbarkeitsstudien publiziert.",
+    "reference": "For the treatment of breast cancer and malignancies within abdominal organs, MR-HIFU has been applied so far only in proof of concept studies.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Feasibility studies on MR-HIFU therapy for breast cancer and tumor diseases of the abdominal organs have been published so far."
+  },
+  {
+    "index": 72,
+    "source": "ZUSAMMENFASSUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "SUMMARY"
+  },
+  {
+    "index": 73,
+    "source": "MR-HIFU wird derzeitig für die Thermoablation von malignem Gewebe bei verschiedenen Krebsentitäten untersucht.",
+    "reference": "MR-HIFU is currently being investigated for the ablative treatment of malignant tissue in a variety of oncological applications.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MR-HIFU is currently being investigated for the thermoablation of malignant tissue in various cancer entities."
+  },
+  {
+    "index": 74,
+    "source": "Die sowohl transrektale als auch transurethrale Ablation des Prostatakarzinoms mittels MR-HIFU erwies sich als patientenfreundlich und sichere Alternative mit geringen Komplikationen im Vergleich zu anderen lokalen Therapieoptionen.",
+    "reference": "For example, the transrectal as well as transurethral ablation of prostate cancer using MR-HIFU was shown to be a patient-friendly, safe alternative to other local treatment options with low side effects.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Both transrectal and transurethral ablation of prostate cancer using MR-HIFU proved to be a patient-friendly and safe alternative with low complications compared to other local therapy options."
+  },
+  {
+    "index": 75,
+    "source": "KERNAUSSAGEN",
+    "reference": "KEY POINTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "KEY MESSAGES"
+  },
+  {
+    "index": 76,
+    "source": "· Die MR-Steuerung ermöglicht Therapieplanung auf MR-Bildern, nichtinvasive Temperaturmessungen in Echtzeit sowie postinterventionelle Therapiekontrolle..",
+    "reference": "· MR guidance offers high soft tissue contrast for treatment planning, near-real-time temperature monitoring, and post-interventional therapy evaluation..",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The MR control enables therapy planning on MR images, non-invasive temperature measurements in real time, as well as post-interventional therapy control."
+  },
+  {
+    "index": 77,
+    "source": "Von den meisten psychosomatischen Kliniken werden Wartezeiten berichtet, es existieren bisher jedoch keine Studien und verlässlichen Daten hierzu.",
+    "reference": "It is reported that most psychosomatic hospitals have waiting times, but there are no studies on data on that.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Most psychosomatic clinics report waiting times, but so far there are no studies and reliable data on this."
+  },
+  {
+    "index": 78,
+    "source": "Daher war es das Ziel dieser Studie, in einer definierten Region prospektiv zu untersuchen, wie lange es bis zu einem ambulanten Vorgespräch und bis zur Klinikaufnahme dauert.",
+    "reference": "Therefore, it was the aim of this study to access prospectively in a defined region, how long it takes for the patients to get an outpatient preliminary talk and thereafter, how long they have to wait for their admission.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Therefore, the aim of this study was to prospectively investigate, in a defined region, how long it takes until an outpatient preliminary discussion and until hospital admission."
+  },
+  {
+    "index": 79,
+    "source": "METHODE",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHOD"
+  },
+  {
+    "index": 80,
+    "source": "7 Kliniken aus der Region Süd-Württemberg nahmen an dieser Untersuchung teil, 2 davon betreiben größere Tagesklinken.",
+    "reference": "7 hospitals out of the region of South-Württemberg took part on this study, 2 of them had bigger day hospitals.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "7 clinics from the South Württemberg region participated in this study, 2 of which operate larger day clinics."
+  },
+  {
+    "index": 81,
+    "source": "Die Daten wurden 2015 über 9 Monate prospektiv erhoben, insgesamt wurden 916 Aufnahmen erfasst.",
+    "reference": "Data were assessed prospectively in 2015 over 9 months, in total 916 admissions were assessed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The data were collected prospectively over 9 months in 2015, with a total of 916 recordings captured."
+  },
+  {
+    "index": 82,
+    "source": "Patienten, die auf einen Tagesklinikplatz warteten, mussten noch länger warten.",
+    "reference": "Patients who waited for a day treatment had to wait even longer.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Patients who were waiting for a spot in the day clinic had to wait even longer."
+  },
+  {
+    "index": 83,
+    "source": "Ein Dringlichkeitsvermerk durch den Therapeuten des Vorgesprächs sowie eine private Krankenversicherung führten zu etwas kürzeren Wartezeiten.",
+    "reference": "An urgency remark, given by the therapist of the preliminary talk, as well as a private illness insurance led to shorter waiting times.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "An urgency note from the therapist of the preliminary consultation as well as private health insurance led to somewhat shorter waiting times."
+  },
+  {
+    "index": 84,
+    "source": "Die Diagnosegruppe hatte keinen Einfluss auf die Wartezeit.",
+    "reference": "The diagnosis had no influence on the waiting time.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The diagnostic group had no influence on the waiting time."
+  },
+  {
+    "index": 85,
+    "source": "SCHLUSSFOLGERUNGEN",
+    "reference": "CONCLUSIONS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSIONS"
+  },
+  {
+    "index": 86,
+    "source": "Die Wartezeiten sind beträchtlich und belasten den Patienten, aber auch das Gesundheitssystem.",
+    "reference": "The waiting times are substantial and imply a burden for the patient and also for the health care system.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The waiting times are considerable and burden the patient, but also the healthcare system."
+  },
+  {
+    "index": 87,
+    "source": "Es wäre wünschenswert, wenn solche Wartezeiten systematisch erhoben und veröffentlicht würden.",
+    "reference": "It is recommended to assess and publish these waiting times on a regularly basis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "It would be desirable if such waiting times were systematically collected and published."
+  },
+  {
+    "index": 88,
+    "source": "Die Politik, aber auch die Handelnden im Gesundheitswesen sollten in einem Gesprächsprozess klären, ob und wie dieser Missstand verändert werden kann.",
+    "reference": "Politics, but also the actors in the health care system should discuss if and how this deficit can be changed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Politics, but also the actors in the healthcare system, should clarify in a discussion process whether and how this issue can be changed."
+  },
+  {
+    "index": 89,
+    "source": "METHODEN",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHODS"
+  },
+  {
+    "index": 90,
+    "source": "Augenuntersuchungen (inklusive Tränen film-Aufrisszeit [TFBUT] und Meibometrie) wurden bei drei verschiedenen Gruppen von Hunden (Möpsen mit und ohne Augenveränderungen sowie brachyzephalen Hunden mit einer bekannten Augenerkrankung) vorgenommen.",
+    "reference": "Ophthalmic examin ation (including tear film break-up time [TFBUT] and meibometry) was undertaken on three groups (pugs with and without ophthalmologic abnormalities as well as on other brachycephalic breeds with history of ophthalmologic abnormalities).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Eye examinations (including tear film break-up time [TFBUT] and meibometry) were conducted on three different groups of dogs (pugs with and without eye changes as well as brachycephalic dogs with a known eye disease)."
+  },
+  {
+    "index": 91,
+    "source": "Die histologische Untersuchung der Lidrandbioptate, die während einer medialen Kanthoplastik entnommen wurden, erfolgte nach Hämatoxylin-Eosin- und Öl-Rot-O-Färbung.",
+    "reference": "Histology of eyelid tissue obtained during medial canthoplasty was performed, using hematoxylin-eosin and oil-red-O-staining.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The histological examination of the eyelid margin biopsy specimens, which were taken during a medial canthoplasty, was performed after hematoxylin-eosin and oil red O staining."
+  },
+  {
+    "index": 92,
+    "source": "ERGEB NISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 93,
+    "source": "Die Untersuchungen erstreckten sich auf 78 Möpse und 11 brachyzephale Hunde mit einem durchschnittlichen Alter von 3,54 bzw. 5,5 Jahren.",
+    "reference": "Seventy-eight pugs and 11 brachycephalic dogs were included. Mean ages were 3.54 and 5.5 years respectively.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The investigations extended to 78 pugs and 11 brachycephalic dogs with an average age of 3.54 and 5.5 years, respectively."
+  },
+  {
+    "index": 94,
+    "source": "Werte des Schirmer-Tränentests 1 (STT 1) unter 15 mm/min ergaben sich bei 12 von 150 Augen von Möpsen und bei drei von 18 Augen brachyzephaler Hunde.",
+    "reference": "STT 1 values below 15 mm/min were found in 12 of 150 eyes of pugs and in three of 18 eyes of other brachycephalic dogs.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Values of the Schirmer tear test 1 (STT 1) below 15 mm/min were found in 12 out of 150 eyes of pugs and in three out of 18 eyes of brachycephalic dogs."
+  },
+  {
+    "index": 95,
+    "source": "Tränenfilmaufreißzeiten unter 20 Sekunden waren bei 118 von 126 Augen von Möpsen und bei acht von 18 Augen brachyzephaler Hunde messbar.",
+    "reference": "Tear film break-up time values below 20 seconds were determined in 118 of 126 eyes of pugs, and in eight of 18 eyes of other brachycephalic dogs.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Tear film breakup times of less than 20 seconds were measurable in 118 out of 126 eyes of pugs and in eight out of 18 eyes of brachycephalic dogs."
+  },
+  {
+    "index": 96,
+    "source": "Histologisch zeigten die Lidrandproben von Möpsen (n = 21) eine hö-here Anzahl von Entzündungszellen als die Proben brachyzephaler Hunde (n = 11).",
+    "reference": "Eyelid tissue of 21 pugs and 11 brachycephalic dogs was obtained. All pugs had a higher number of inflammatory cells in eyelid tissue than other brachycephalic breeds.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Histologically, the eyelid margin samples from pugs (n = 21) showed a higher number of inflammatory cells than the samples from brachycephalic dogs (n = 11)."
+  },
+  {
+    "index": 97,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSIONS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 98,
+    "source": "Junge Möpse werden oft mit physiologischen STT-1- sowie niedrigen TFBUT- und Meibometriewerten vorgestellt.",
+    "reference": "Young pugs are often presented with STT 1 values within the reference range and low TFBUT and meibometry values.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Young pugs are often presented with physiological STT-1 as well as low TFBUT and meibometry values."
+  },
+  {
+    "index": 99,
+    "source": "Da Hunde anderer brachyzephaler Rassen ebenso physiologische STT-1- und niedrige TFBUT- und Meibometriewerte zeigen, liegt der größte Unterschied zwischen diesen zwei Gruppen in den niedrigen Meibometriewerten und der hohen Anzahl von Entzündungszellen im Lidrand des medialen Kanthus bei Möpsen.",
+    "reference": "As other brachycephalic breeds are often presented with STT 1 values within reference ranges as well as low TFBUT values, the only marked difference between pugs and other brachycephalic breeds are low meibometry values and the higher number of inflammatory cells in the medial canthal lid margins.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Since dogs of other brachycephalic breeds also exhibit physiological STT-1 and low TFBUT and Meibometry values, the greatest difference between these two groups lies in the low Meibometry values and the high number of inflammatory cells in the eyelid margin of the medial canthus in Pugs."
+  },
+  {
+    "index": 100,
+    "source": "Kardiovaskuläre und insbesondere thrombotische Erkrankungen sind nach wie vor eine der Hauptursachen für Morbidität und Mortalität weltweit.",
+    "reference": "Cardiovascular and especially thrombotic diseases remain a major cause of morbidity and mortality worldwide.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Cardiovascular and particularly thrombotic diseases remain one of the main causes of morbidity and mortality worldwide."
+  },
+  {
+    "index": 101,
+    "source": "In den vergangenen Jahren wurden signifikante Verbesserungen hinsichtlich des Verständnisses von Krankheitsprozessen, der Risikobewertung und der Vorhersage des klinischen Ergebnisses auf dem Gebiet der Thrombose und Hämostase unter Verwendung von Biodatenbanken im großen Maßstab erzielt.",
+    "reference": "In past years, significant improvements in understanding disease processes, risk assessment, and prediction of clinical outcome in the field of thrombosis and haemostasis have been made by using large-scale biodatabases.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In recent years, significant improvements have been made in the understanding of disease processes, risk assessment, and prediction of clinical outcomes in the field of thrombosis and hemostasis through the use of large-scale biobanks."
+  },
+  {
+    "index": 102,
+    "source": "Diese wichtigen Forschungsressourcen ermöglichen einen umfassenden Forschungsansatz, indem klinische, Umwelt-, Genom- und molekulare Informationen integriert werden.",
+    "reference": "These important research resources enable a comprehensive research approach by integrating clinical, environmental, genomic, and molecular information.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "These important research resources enable a comprehensive research approach by integrating clinical, environmental, genomic, and molecular information."
+  },
+  {
+    "index": 103,
+    "source": "Spitzentechnologien mit hohem Durchsatz eröffnen neue Datendimensionen für klinische Großuntersuchungen.",
+    "reference": "Cutting edge, high throughput technologies open new data dimensions for clinical large-scale investigations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "High-throughput cutting-edge technologies open up new data dimensions for large-scale clinical studies."
+  },
+  {
+    "index": 104,
+    "source": "Das Zusammenfügen mehrerer Informationsebenen aus mehreren pathophysiologischen Wegen im Gegensatz zu einem einzelnen Marker kann die Komplexität der Pathogenese von Krankheiten besser modellieren.",
+    "reference": "Joining multiple information levels from several pathophysiological pathways in contrast to a single marker approach might better model the complexity of disease pathogenesis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Combining multiple layers of information from several pathophysiological pathways, as opposed to a single marker, can better model the complexity of the pathogenesis of diseases."
+  },
+  {
+    "index": 105,
+    "source": "Diese Übersichtsarbeit konzentriert sich auf die Möglichkeiten, welche die Durchführung breit angelegter Analysen ermöglichen, um das vielfältige Wechselspiel zwischen Koagulation und zellulären (z. B. Blutplättchen) Elementen bei der Entwicklung einer thrombotischen Erkrankung aufzuklären.",
+    "reference": "This review focuses on the possibilities that ultimately allow conducting wide-scale analyses for unravelling the multifaceted interplay between coagulation and cellular (e.g., platelets) elements in the development of thrombotic disease.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This review focuses on the possibilities that conducting broad-based analyses offers to elucidate the complex interplay between coagulation and cellular (e.g., platelet) elements in the development of a thrombotic disease."
+  },
+  {
+    "index": 106,
+    "source": "Sie bietet außerdem Beispiele für die Verwendung von Biodatenbanken im Bereich der Venenthromboembolie, untersucht die Verbindungen zwischen venösen und arteriellen thrombotischen Erkrankungen und informiert schließlich über die derzeitige Verwendung von Blutplättchen-Biomarkern im Bereich von Thrombose und Hämostase.",
+    "reference": "It further provides examples for the use of biodatabases in the field of venous thromboembolism, explores the links between venous and arterial thrombotic diseases, and finally informs on the current use of platelet biomarkers in the thrombosis and haemostasis field.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "It also provides examples of the use of biobanks in the field of venous thromboembolism, examines the connections between venous and arterial thrombotic diseases, and finally informs about the current use of platelet biomarkers in the areas of thrombosis and hemostasis."
+  },
+  {
+    "index": 107,
+    "source": "Antivirale Therapieoptionen beinhalten topisches Ganciclovir oder systemisches Valganciclovir.",
+    "reference": "Antiviral treatment options include topical ganciclovir or systemic valganciclovir.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Antiviral therapy options include topical Ganciclovir or systemic Valganciclovir."
+  },
+  {
+    "index": 108,
+    "source": "Allerdings sind Rezidive nach Therapiestopp häufig.",
+    "reference": "However, recurrences are common after stopping treatment.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "However, relapses after stopping therapy are common."
+  },
+  {
+    "index": 109,
+    "source": "Wir evaluierten die Effektivität einer topischen Langzeittherapie mit Ganciclovir als Rezidivprophylaxe.",
+    "reference": "We evaluated the efficacy of long-term topical ganciclovir therapy as prophylaxis for recurrent activity.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We evaluated the effectiveness of a long-term topical therapy with Ganciclovir as relapse prophylaxis."
+  },
+  {
+    "index": 110,
+    "source": "METHODEN UND PATIENTEN",
+    "reference": "METHODS AND PATIENTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHODS AND PATIENTS"
+  },
+  {
+    "index": 111,
+    "source": "Retrospektive Analyse konsekutiver CMV-Uveitis-Patienten, die zwischen 2011 und 2018 in unserer Institution gesehen wurden.",
+    "reference": "Retrospective analysis of all CMV uveitis patients seen between 2011 and 2018 at Zurich University Hospital.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Retrospective analysis of consecutive CMV uveitis patients who were seen at our institution between 2011 and 2018."
+  },
+  {
+    "index": 112,
+    "source": "Einschlusskriterien waren die Präsenz einer anterioren Uveitis und CMV-Nachweis mittels PCR (polymerase chain reaction) aus der Vorderkammerpunktion.",
+    "reference": "Inclusion criteria were suspected viral anterior uveitis and a positive CMV polymerase chain reaction of the anterior chamber (AC) tap.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Inclusion criteria were the presence of anterior uveitis and CMV detection via PCR (polymerase chain reaction) from anterior chamber paracentesis."
+  },
+  {
+    "index": 113,
+    "source": "Bei CMV-Nachweis wurde topisch mit Ganciclovir-Gel 5 × täglich therapiert und die Dosis aktivitätsabhängig reduziert.",
+    "reference": "After diagnosis, topical therapy with ganciclovir gel 5 × daily was started and tapered according to clinical activity.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the case of CMV detection, topical treatment with Ganciclovir gel was administered 5 times daily, and the dose was reduced depending on activity."
+  },
+  {
+    "index": 114,
+    "source": "Topische Steroide und drucksenkende Medikation wurden gemäß klinischer Notwendigkeit appliziert.",
+    "reference": "Topical steroids and glaucoma medication were used according to clinical assessment.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Topical steroids and pressure-lowering medication were applied according to clinical necessity."
+  },
+  {
+    "index": 115,
+    "source": "Eine aktive Episode war definiert als Anstieg des Vorderkammerreizes und/oder ein Intraokulardruckanstieg über 25 mmHg. Die Episoden wurden vor und nach Beginn der Ganciclovir-Therapie analysiert.",
+    "reference": "An active episode was defined as increase in AC inflammatory activity and/or a uveitis-related rise in intraocular pressure (IOP) greater than 25 mmHg. Episodes were analysed before and after initiation of ganciclovir therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "An active episode was defined as an increase in anterior chamber flare and/or an intraocular pressure rise above 25 mmHg. The episodes were analyzed before and after the initiation of ganciclovir therapy."
+  },
+  {
+    "index": 116,
+    "source": "RESULTATE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 117,
+    "source": "Sechs Patienten, median 51 Jahre (Range 24 – 62), wurden eingeschlossen.",
+    "reference": "Six patients, median age 51 (range 24 - 62) years old, were included.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Six patients, median age 51 years (range 24–62), were included."
+  },
+  {
+    "index": 118,
+    "source": "Alle Patienten hatten eine hypertensive unilaterale anteriore Uveitis mit feinen bis mittelgroßen Endothelpräzipitaten und 0,5+ bis 2+ Vorderkammerzellreiz.",
+    "reference": "All patients had hypertensive unilateral anterior uveitis and presented with small to medium sized endothelial precipitates and with 0.5+ to 2+ AC cells.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "All patients had hypertensive unilateral anterior uveitis with fine to medium-sized endothelial precipitates and 0.5+ to 2+ anterior chamber cell flare."
+  },
+  {
+    "index": 119,
+    "source": "Die mediane Tensio bei Vorstellung lag am betroffenen Auge bei 43 mmHg (Range 36 – 60).",
+    "reference": "Median IOP in the affected eye at initial presentation was 43 mmHg (range 36 - 60).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The median intraocular pressure at presentation was 43 mmHg (range 36–60) in the affected eye."
+  },
+  {
+    "index": 120,
+    "source": "Das mediane Follow-up betrug 26 Monate (Range 4 – 62), mit median 1 (Range 0 – 6) aktiven Schüben und einer mittleren Häufigkeit von 0,19 jährlichen Episoden (p = 0,04, 2-seitiger gepaarter t-Test).",
+    "reference": "Median follow-up time after initiation of ganciclovir medication was 26 (range 4 to 62) months. Median number of episodes under treatment was 1 (range 0 - 6), corresponding to a mean of 0.19 episodes per year (p = 0.04, 2-sided paired t-test).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The median follow-up was 26 months (range 4–62), with a median of 1 (range 0–6) active relapses and a mean frequency of 0.19 annual episodes (p=0.04, two-sided paired t-test)."
+  },
+  {
+    "index": 121,
+    "source": "Die individuell ermittelte mediane prophylaktische Dosis betrug für Ganciclovir 2 × täglich (Range 0 – 4 ×) sowie für Steroide 1 × täglich (0 – 2 ×). Niedrigere Dosierungen führten bei 3 Patienten (50%) zu Rezidiven.",
+    "reference": "The median (range) for the individually chosen long-term prophylactic dose was ganciclovir gel 2 (0 - 4) times daily, and topical steroids 1 (0 - 2) times daily. Lower doses lead to recurrences in 3 patients (50%).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The individually determined median prophylactic dose was twice daily for Ganciclovir (range 0–4 times) and once daily for steroids (0–2 times). Lower dosages led to relapses in 3 patients (50%)."
+  },
+  {
+    "index": 122,
+    "source": "Glaukom- und Kataraktoperationen waren bei 2 Patienten (33%) notwendig.",
+    "reference": "Glaucoma and cataract surgery were performed in 2 patients (33%).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Glaucoma and cataract surgeries were necessary in 2 patients (33%)."
+  },
+  {
+    "index": 123,
+    "source": "KONKLUSION",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 124,
+    "source": "Obwohl die CMV-Uveitis eine seltene Entität darstellt, ist sie aufgrund des hypertensiven und rezidivierenden Charakters bedeutend.",
+    "reference": "Although a rare entity in Central Europe, the important feature of CMV uveitis is its hypertensive and recurrent nature.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Although CMV uveitis is a rare entity, it is significant due to its hypertensive and recurrent nature."
+  },
+  {
+    "index": 125,
+    "source": "In den aufgearbeiteten Fällen war topisches Ganciclovir eine wirksame Behandlung.",
+    "reference": "In our cases, topical ganciclovir was found to be an effective treatment.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the reviewed cases, topical ganciclovir was an effective treatment."
+  },
+  {
+    "index": 126,
+    "source": "Größere Studien sind zur Beurteilung der Langzeitprophylaxe wünschenswert.",
+    "reference": "Larger studies assessing long-term prophylaxis are desirable.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Larger studies are desirable for the assessment of long-term prophylaxis."
+  },
+  {
+    "index": 127,
+    "source": "Mittels der repräsentativen Längsschnittserhebung von Daten einer Stichprobe von 1.060 Schülern aus Heidelberg und Umgebung (SEYLE Studie) wurde der Zusammenhang zwischen (pathologischer) Internetnutzung und Schlafproblemen im Jugendalter untersucht.",
+    "reference": "The relationship between (pathological) Internet use and sleep problems in adolescence was investigated by a representative longitudinal survey of data from a sample of 1,060 students from Heidelberg and the surrounding area (SEYLE study).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Using the representative longitudinal survey of data from a sample of 1,060 students from Heidelberg and its surrounding area (SEYLE study), the relationship between (pathological) internet use and sleep problems in adolescence was examined."
+  },
+  {
+    "index": 128,
+    "source": "Die Schüler, im Durchschnitt 15 Jahre alt, beantworteten zu einer Baseline und nach einem Jahr eine Befragung zum Schlaf und zur Internetnutzung.",
+    "reference": "The students, on average 15 years old, responded at a baseline and after one year to a survey on sleep and Internet use.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The students, on average 15 years old, responded to a survey about sleep and internet usage at a baseline and after one year."
+  },
+  {
+    "index": 129,
+    "source": "Neben der Anzahl Stunden der Internetnutzung, wurde die pathologische Internetnutzung mit dem Young Diagnostic Questionnaire (YDQ) eingeschätzt.",
+    "reference": "In addition to the number of hours of Internet use, pathological Internet use was assessed using the Young Diagnostic Questionnaire (YDQ).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to the number of hours of internet use, pathological internet use was assessed using the Young Diagnostic Questionnaire (YDQ)."
+  },
+  {
+    "index": 130,
+    "source": "Zudem wurde Schlafdauer und Schlafprobleme mittels Selbsteinschätzung erhoben.",
+    "reference": "Sleep duration and sleep problems were surveyed by self-assessment.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition, sleep duration and sleep problems were assessed through self-report."
+  },
+  {
+    "index": 131,
+    "source": "Die Prävalenzzahl von Jugendlichen mit pathologischem Internetgebrauch lag bei der Follow-up Erhebung bei 3.71 %. Des Weiteren berichteten 20.48 % der Jugendlichen von Schlafproblemen.",
+    "reference": "The prevalence of adolescents with pathological Internet use was 3.71 % in the follow-up survey. Furthermore, 20.48 % of adolescents reported sleep problems.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The prevalence rate of adolescents with pathological internet use was 3.71% in the follow-up survey. Furthermore, 20.48% of the adolescents reported sleep problems."
+  },
+  {
+    "index": 132,
+    "source": "Pathologische und exzessive Internetnutzung waren Prädiktoren für Schlafprobleme im Verlauf von einem Jahr.",
+    "reference": "Pathological and excessive Internet use were predictors of sleep problems over the course of one year.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Pathological and excessive internet use were predictors of sleep problems over the course of one year."
+  },
+  {
+    "index": 133,
+    "source": "Jugendliche die zu der Baseline die Kriterien einer Internetsucht erfüllten hatten ein 3.6-mal größere Chance, im Verlauf von einem Jahr Schlafprobleme zu entwickeln.",
+    "reference": "Adolescents who met the criteria for Internet addiction to the baseline had a 3.6 times greater risk of developing sleep problems in the course of one year.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Adolescents who met the criteria for internet addiction at baseline had a 3.6 times greater chance of developing sleep problems over the course of a year."
+  },
+  {
+    "index": 134,
+    "source": "Schlafprobleme zur Baseline erhöhten die YDQ Symptome im Durchschnitt hingegen nur um 0.22. Schlafprobleme treten häufig in Folge einer pathologischen Internetnutzung auf und könnten einen suchtverstärkenden Einfluss haben sowie Mediator für weitere psychiatrische Komorbiditäten sein.",
+    "reference": "Whereas sleep problems to the baseline increased the YDQ symptoms only by 0.22. Sleep problems often occur as a result of pathological Internet use and could have an addiction-enhancing effect as well as mediating further psychiatric comorbidities.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Sleep problems at baseline, on the other hand, increased the YDQ symptoms on average by only 0.22. Sleep problems frequently occur as a result of pathological internet use and could have an addiction-enhancing influence as well as act as a mediator for further psychiatric comorbidities."
+  },
+  {
+    "index": 135,
+    "source": "Somit sollten Schlafprobleme bei frühzeitigen Interventionen und therapeutischen Maßnahmen berücksichtigt werden.",
+    "reference": "Thus, sleep problems should be targeted for early intervention and therapeutic measures.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Thus, sleep problems should be considered in early interventions and therapeutic measures."
+  },
+  {
+    "index": 136,
+    "source": "Dabei ist stets zu berücksichtigen, dass auch gleichzeitig eine Gerinnungsstörung und eine Misshandlung vorliegen kann.",
+    "reference": "The coexistence of child abuse and a bleeding disorder must always be considered.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "It must always be taken into account that a coagulation disorder and abuse can occur simultaneously."
+  },
+  {
+    "index": 137,
+    "source": "Eine erweiterte Gerinnungsdiagnostik ist erforderlich, wenn die Blutungsmorphe nicht eindeutig für eine Misshandlung spricht und beim Fehlen typischer Begleitverletzungen, wie Frakturen.",
+    "reference": "An extended coagulation diagnostic is required if the morphology of bleedings is not clearly suspicious for child abuse and in the absence of typical concomitant injuries, e.g., bone fractures.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "An extended coagulation diagnostic is required if the bleeding morphology is not clearly indicative of abuse and in the absence of typical accompanying injuries, such as fractures."
+  },
+  {
+    "index": 138,
+    "source": "In diesen Fällen ist ein interdisziplinäres Vorgehen unter Einbeziehung eines Rechtsmediziners und eines pädiatrischen Hämostaseologen zur Beurteilung der Symptome, den Erklärungen für das vorliegende klinische Bild und eine kritische Bewertung der Befunde der Gerinnungsdiagnostik notwendig.",
+    "reference": "An interdisciplinary approach involving a forensic pathologist and a paediatric haemostaseologist for assessment of bleeding symptoms, the explanation of the clinical findings, and the critical evaluation of laboratory results are essential in such cases.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In these cases, an interdisciplinary approach involving a forensic pathologist and a pediatric hemostaseologist is necessary to assess the symptoms, the explanations for the present clinical picture, and a critical evaluation of the coagulation diagnostics findings."
+  },
+  {
+    "index": 139,
+    "source": "Diese Übersichtsarbeit fokussiert auf Symptome bei akzidentellen und nicht-akzidentellen Verletzungen und soll eine Entscheidungshilfe für Hämostaseologen in Kinderschutzfällen darstellen.",
+    "reference": "This review is focussed on symptoms in accidental and nonaccidental injuries in children assisting haemostaseologists in decision making in cases of child protection issues.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This review focuses on symptoms in accidental and non-accidental injuries and aims to provide a decision-making aid for hemostaseologists in child protection cases."
+  },
+  {
+    "index": 140,
+    "source": "In einem Kurs des Train-the-Trainer-Konzepts (TTT-Konzepts) der Chirurgischen Arbeitsgemeinschaft Lehre (CAL) wurden dabei Lehrende (TN) verschiedener Professionen und Karrierestufen gemeinsam unterrichtet.",
+    "reference": "In a course of the Train-the-Trainer (TTT) concept of the Surgical Working Group for Teaching, teachers (TN) from different medical professions and career levels were taught together.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In a course based on the Train-the-Trainer concept (TTT concept) of the Surgical Teaching Working Group (CAL), educators (participants) from various professions and career stages were taught together."
+  },
+  {
+    "index": 141,
+    "source": "ZIEL DER ARBEIT",
+    "reference": "AIM OF THE WORK",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "OBJECTIVE OF THE WORK"
+  },
+  {
+    "index": 142,
+    "source": "Einschätzungen zur eigenen Lehrtätigkeit im klinischen Alltag durch verschiedene Gruppen, wie assistenzärztliches (AÄ), oberärztliches Personal (OÄ) und Pflegende (KP), deren Wahrnehmung von Erschwernissen und Artikulation von Wünschen zur Lehrverbesserung.",
+    "reference": "Assessments of teaching activities in everyday clinical practice of residents (AÄ), senior staff (OÄ) and nurses (KP), their perception of teaching obstacles and requirements to improve teaching.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Assessments of one's own teaching activities in clinical practice by various groups, such as assistant physicians (AÄ), senior physicians (OÄ), and nursing staff (KP), their perception of difficulties, and articulation of wishes for teaching improvement."
+  },
+  {
+    "index": 143,
+    "source": "MATERIAL UND METHODEN",
+    "reference": "MATERIAL AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MATERIAL AND METHODS"
+  },
+  {
+    "index": 144,
+    "source": "Nach Abschluss wurden die TN gebeten, den Kurs zu bewerten.",
+    "reference": "Upon completion, the participants were asked to rate the course.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "After completion, the participants were asked to evaluate the course."
+  },
+  {
+    "index": 145,
+    "source": "Die Antworten zu den geschlossenen und offenen Fragen wurden quantitativ und qualitativ ausgewertet.",
+    "reference": "The answers to the closed and open questions were evaluated quantitatively and qualitatively.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The responses to the closed and open-ended questions were evaluated quantitatively and qualitatively."
+  },
+  {
+    "index": 146,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 147,
+    "source": "Von 2014 bis 2017 wurden 6 Basiskurse (TTT-A) an 3 Standorten durchgeführt.",
+    "reference": "From 2014 to 2017, six basic courses (TTT-A) were conducted at three locations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "From 2014 to 2017, 6 basic courses (TTT-A) were conducted at 3 locations."
+  },
+  {
+    "index": 148,
+    "source": "97 TN nahmen an den Befragungen teil (AÄ n = 44, OÄ n = 19, KP n = 17).",
+    "reference": "97 participants participated in the surveys (AÄ n = 44, OÄ n = 19, KP n = 17).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "97 participants took part in the surveys (AÄ n = 44, OÄ n = 19, KP n = 17)."
+  },
+  {
+    "index": 149,
+    "source": "Mehr als ⅔ verfügten bereits über didaktische Vorkenntnisse.",
+    "reference": "More than two-thirds declared previously acquired teaching knowledge.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "More than two-thirds already had prior didactic knowledge."
+  },
+  {
+    "index": 150,
+    "source": "Zwischen ärztlichen und pflegerischen Berufsgruppen fanden sich hierbei keine signifikanten Unterschiede.",
+    "reference": "There were no significant differences between medical and nursing staff.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "No significant differences were found between medical and nursing professional groups in this regard."
+  },
+  {
+    "index": 151,
+    "source": "Während AÄ und KP primär am Krankenbett unterrichteten, lehrten OÄ überwiegend im Rahmen von Vorlesungen, Wahlfächern und Seminaren.",
+    "reference": "While AÄ and KP primarily taught at the bedside, OÄ taught mainly in the context of lectures, electives and seminars.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "While AÄ and KP primarily taught at the bedside, OÄ mainly taught in the context of lectures, elective courses, and seminars."
+  },
+  {
+    "index": 152,
+    "source": "Für die Lehre im klinischen Alltag fühlte sich nur ein geringer Anteil aus allen Berufsgruppen gut vorbereitet.",
+    "reference": "Only a small proportion of all occupational groups felt well prepared for teaching in everyday clinical practice.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Only a small proportion of all professional groups felt well prepared for teaching in clinical practice."
+  },
+  {
+    "index": 153,
+    "source": "Als Haupterschwernisse wurden Zeit- und Personalmangel, eine zu hohe Anzahl von Studierenden und zu geringe eigene didaktische Vorkenntnisse angegeben.",
+    "reference": "The main drawbacks were lack of time and staff, too many students per group and too little teaching knowledge.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The main difficulties cited were lack of time and personnel, an excessively high number of students, and insufficient prior didactic knowledge."
+  },
+  {
+    "index": 154,
+    "source": "Fast ⅔ der AÄ empfanden die studentische Lehre als starke oder moderate Belastung, gegenüber ca. 50% der OÄ und 60% KP. Als Wünsche zur Lehrverbesserung wurden differenziertere Vorgaben zu Inhalt und Aufbau der Lehrveranstaltungen, eine höhere Wertschätzung der Lehre insgesamt sowie die regelmäßige didaktische Qualifizierung der Lehrenden genannt.",
+    "reference": "Nearly two-thirds of the AÄ found teaching in general as a strong or moderate burden, compared to about 50% of the OÄ and 60% KP. Aspirations for improvement of teaching included more precise characterisation of the learning objectives, greater appreciation of teaching as a whole, and regular measures to make teaching professional.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Nearly two-thirds of the assistant physicians (AÄ) perceived student teaching as a strong or moderate burden, compared to about 50% of the senior physicians (OÄ) and 60% of the chief physicians (KP). As wishes for improving teaching, more differentiated guidelines on the content and structure of the courses, greater overall appreciation of teaching, and regular didactic qualification of the instructors were mentioned."
+  },
+  {
+    "index": 155,
+    "source": "DISKUSSION",
+    "reference": "DISCUSSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "DISCUSSION"
+  },
+  {
+    "index": 156,
+    "source": "Berufsgruppenbedingte Unterschiede im klinischen Alltag und individueller Karrierefortschritt üben einen Einfluss auf Art, Umsetzung und Wahrnehmung der Lehrtätigkeit aus.",
+    "reference": "Occupational group-related differences in everyday clinical practice and individual career progression, impact type, implementation and perception of the teaching activity.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Occupation-related differences in clinical practice and individual career progression influence the nature, implementation, and perception of teaching activities."
+  },
+  {
+    "index": 157,
+    "source": "Durch Fokussierung auf Lernziele und wesentliche für den Unterricht am Krankenbett relevante Lehr- und Prüfungsformate können Dozententrainingsprogramme berufsgruppenübergreifend zum Wissens- und Kompetenzzuwachs beitragen.",
+    "reference": "By focusing on learning objectives and essential teaching methods and examination formats relevant to teaching at the bedside, teacher training programs across professional groups can contribute to knowledge and expertise growth.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "By focusing on learning objectives and teaching and examination formats essential for bedside teaching, faculty training programs can contribute to the increase in knowledge and competence across professional groups."
+  },
+  {
+    "index": 158,
+    "source": "Hinweise auf einen nachhaltigen Effekt ermutigen zur Fortsetzung und Weiterentwicklung des TTT-Konzepts.",
+    "reference": "Indications of a sustainable effect encourage the continuation and further development of the TTT concept.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Indications of a sustainable effect encourage the continuation and further development of the TTT concept."
+  },
+  {
+    "index": 159,
+    "source": "Wir berichten über einen interessanten Fall einer Vaskulitis des zentralen Nervensystems, der eine schubförmig-remittierende Natur und ein bisher nicht berichtetes Profil kognitiver Defizite bei dieser Variante der Erkrankung aufweist.",
+    "reference": "We report an interesting case of a central nervous system vasculitis, presenting with a relapsing remitting nature and a previously unreported profile of cognitive deficits in this variant of the disease.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We report on an interesting case of vasculitis of the central nervous system, which exhibits a relapsing-remitting nature and a previously unreported profile of cognitive deficits in this variant of the disease."
+  },
+  {
+    "index": 160,
+    "source": "Der Patient stellte sich mit beidseitigem Kopfschmerz, Gesichtsfeldverlust des linken Auges, Dyschromatopsie und vorübergehender Bewusstlosigkeit vor.",
+    "reference": "The patient presented with bilateral headache, left eye upper temporal quarter visual field loss, dyschromatopsia and a transient loss of consciousness.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The patient presented with bilateral headache, loss of visual field in the left eye, dyschromatopsia, and temporary loss of consciousness."
+  },
+  {
+    "index": 161,
+    "source": "Er wurde in den letzten acht Jahren auf ähnliche Symptome untersucht.",
+    "reference": "He was previously evaluated for similar set of symptoms over the past eight years.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "He was examined for similar symptoms over the past eight years."
+  },
+  {
+    "index": 162,
+    "source": "Es gab eine klare schubförmig-remittierende Geschichte, mit Perioden voller Remission von 4-6 Monaten.",
+    "reference": "There was a clear relapsing-remitting history, with periods of full remission of 4-6 months.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "There was a clear history of relapsing-remitting, with periods of full remission lasting 4-6 months."
+  },
+  {
+    "index": 163,
+    "source": "MRT-Untersuchungen zeigten bilaterale Bereiche von Hyperintensitäten, repräsentativ für kleine „nicht-charakteristische“ Veränderungen, wahrscheinlich vaskulären Ursprungs.",
+    "reference": "MR studies showed bilateral areas of hyperintensities, representative of small \"non-characteristic\" changes, likely of a vascular origin.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MRI scans showed bilateral areas of hyperintensities, representative of small 'non-characteristic' changes, likely of vascular origin."
+  },
+  {
+    "index": 164,
+    "source": "In diesem Bericht wird die klinische Konundra während der Evaluation des Patienten diskutiert, mögliche Differentialdiagnosen untersucht und über die hypothetische Rolle der Statinverwendung in ähnlichen Fällen kommentiert.",
+    "reference": "The case discusses clinical conundra during the patient's evaluation, examines possible differential diagnoses and comments on the hypothesised role of statin use in similar cases.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This report discusses the clinical conundrum during the patient's evaluation, examines possible differential diagnoses, and comments on the hypothetical role of statin use in similar cases."
+  },
+  {
+    "index": 165,
+    "source": "Daraus resultiert nicht nur eine Belastung für das Kind, sondern häufig auch für die Eltern, die dann in ihrer Not den Rat des/der behandelnden Arztes/Ärztin erfragen.",
+    "reference": "This results not only in a burden for the child, but regularly also for the parents, who in their need for help, often seek the advice of the attending physician.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This not only results in a burden for the child but often also for the parents, who then in their distress seek the advice of the treating physician."
+  },
+  {
+    "index": 166,
+    "source": "Der kinder- und jugendspezifische Fragebogen BEARS, der von J. Owens und K. Mindell entwickelt wurde, erlaubt es, anhand der wichtigsten Kardinalsymptome Bettzeitprobleme, exzessive Tagesschläfrigkeit, nächtliches Aufwachen, Probleme in der Regelmässigkeit und Schlafdauer sowie nächtliche Atemstörungen erste diagnostische Schritte und Zuordnungen zu machen.",
+    "reference": "The child- and adolescent-specific questionnaire BEARS, which was developed by J. Owens and K. Mindell, allows the first diagnostic steps and classifications based on the most important symptoms such as bedtime problems, excessive daytime sleepiness, waking up at night, problems with regularity and sleep duration as well as nocturnal breathing disorders.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The BEARS questionnaire, developed by J. Owens and K. Mindell, specifically for children and adolescents, allows for initial diagnostic steps and classifications based on the main cardinal symptoms: bedtime problems, excessive daytime sleepiness, nighttime awakenings, issues with regularity and sleep duration, as well as nocturnal breathing disorders."
+  },
+  {
+    "index": 167,
+    "source": "Ziel dieses Artikels ist es, dass daraus im Praxisalltag wichtige Schlüsse gezogen werden können, welche Symptome wodurch und mit welcher Dringlichkeit abgeklärt werden müssen, und welche in die Hände eines spezialisierten Schlafzentrums gehören.",
+    "reference": "The aim of this article is to show that important conclusions can be drawn in the everyday practice as to which symptoms need to be clarified how and how urgently, and which belong in the hands of a specialized sleep center.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The aim of this article is to enable important conclusions to be drawn for everyday practice, determining which symptoms need to be clarified, by what means, and with what urgency, and which should be referred to a specialized sleep center."
+  },
+  {
+    "index": 168,
+    "source": "HINTERGRUND",
+    "reference": "BACKGROUND",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "BACKGROUND"
+  },
+  {
+    "index": 169,
+    "source": "Eine gut ausgeprägte Rumpfstabilität ist eine wichtige Voraussetzung für die Mobilität der oberen und unteren Extremitäten während des sportlichen Bewegungsvollzugs.",
+    "reference": "Good trunk stability is an important prerequisite for the mobility of the upper and lower limbs during sport-specific movements.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Well-developed core stability is an important prerequisite for the mobility of the upper and lower extremities during athletic movement execution."
+  },
+  {
+    "index": 170,
+    "source": "Vor diesem Hintergrund könnte die Rumpfkraft ein leistungsdeterminierender Faktor bei der Ausführung judospezifischer Bewegungen darstellen.",
+    "reference": "Therefore, trunk muscle strength may represent an important performance determinant for judo-specific movements.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Against this background, core strength could be a performance-determining factor in the execution of judo-specific movements."
+  },
+  {
+    "index": 171,
+    "source": "Das Ziel der vorliegenden Studie war es, statistische Zusammenhänge zwischen der Rumpfkraft und kinetischen Parametern bei Anriss-Bewegungen von Judoka zu untersuchen.",
+    "reference": "This study aimed at evaluating statistical correlations between trunk muscle strength and kinetic parameters during judo-specific pulling movements in judo players.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The aim of the present study was to investigate statistical relationships between trunk strength and kinetic parameters during breaking movements of judokas."
+  },
+  {
+    "index": 172,
+    "source": "METHODE",
+    "reference": "METHOD",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHOD"
+  },
+  {
+    "index": 173,
+    "source": "An der Untersuchung nahmen 21 leistungsorientierte Judoka mit einem mittleren Alter von 22 ± 4 Jahre und einem Trainingsumfang von 15 ± 4 Stunden pro Woche teil.",
+    "reference": "Twenty-one male sub-elite judo players aged 22 ± 4 years with a mean training volume of 15 ± 4 hours per week participated in this study.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The study involved 21 performance-oriented judokas with an average age of 22 ± 4 years and a training volume of 15 ± 4 hours per week."
+  },
+  {
+    "index": 174,
+    "source": "Das maximale isokinetische Drehmoment (PIT) der Rumpfflexoren (PITFlex), -extensoren (PITEx) und -rotatoren (PITRot) wurde unter Verwendung eines isokinetischen Dynamometers (IsoMed 2000) erfasst.",
+    "reference": "Peak isokinetic torque (PIT) of the trunk flexors (PITFlex), extensors (PITEx) and rotators (PITRot) was tested using an isokinetic dynamometer (IsoMed 2000).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The maximum isokinetic torque (PIT) of the trunk flexors (PITFlex), extensors (PITEx), and rotators (PITRot) was measured using an isokinetic dynamometer (IsoMed 2000)."
+  },
+  {
+    "index": 175,
+    "source": "Die statistische Analyse zeigte signifikante Korrelationen (0,62 ≤ r P ≤ 0,72) zwischen den maximalen isokinetischen Drehmomenten (PITFlex, PITEx, PITRot) und der Anriss-Bewegung im Stand (W).",
+    "reference": "Regarding pulling movements while standing, significant correlations (0.62 ≤ r P ≤ 0.72) were found between isokinetic tests (PITFlex, PITEx, PITRot) and mechanical work during judo-specific movement.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The statistical analysis showed significant correlations (0.62 ≤ r P ≤ 0.72) between the maximum isokinetic torques (PITFlex, PITEx, PITRot) and the initiation of movement in the standing position (W)."
+  },
+  {
+    "index": 176,
+    "source": "Zudem konnten signifikante Zusammenhänge (0,59 ≤ r P ≤ 0,65) zwischen den isokinetischen Tests (PITEx, PITRot) und Fmax auf der Hubarmseite bei der Anriss-Bewegung im Stand gefunden werden.",
+    "reference": "Further, significant correlations (0.59 ≤ r P ≤ 0.65) were detected between isokinetic tests (PITEx, PITRot) and judo-specific pulling movements (Fmax).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Furthermore, significant correlations (0.59 ≤ r P ≤ 0.65) between the isokinetic tests (PITEx, PITRot) and Fmax on the lever arm side during the initiation movement in the standing position were found."
+  },
+  {
+    "index": 177,
+    "source": "Für die Anriss- mit Eindrehbewegung ergaben sich signifikante Korrelationen (0,47 ≤ r P ≤ 0,88) zwischen den isokinetischen Tests (PITFlex, PITEx, PITRot) und Leistungskennwerten der judospezifischen Bewegung (W und Fmax), unabhängig von der untersuchten Armseite.",
+    "reference": "Regarding pulling movements with a change of position, significant correlations (0.47 ≤ r P ≤ 0.88) were observed between isokinetics (PITFlex, PITEx, PITRot) and the kinetic pulling parameters (W, Fmax), irrespective of the examined arm.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "For the initiation with twisting movement, significant correlations (0.47 ≤ r P ≤ 0.88) were found between the isokinetic tests (PITFlex, PITEx, PITRot) and performance parameters of the judo-specific movement (W and Fmax), regardless of the arm side examined."
+  },
+  {
+    "index": 178,
+    "source": "Es wurden vergleichbare Korrelationskoeffizienten zwischen PIT der Rumpfflexoren, -extensoren und -rotatoren und judospezifischen Leistungskennwerten festgestellt.",
+    "reference": "No significant differences in magnitude of correlation coefficients were found between PIT of the trunk flexors, extensors, and rotators and judo-specific movements.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Comparable correlation coefficients were found between the PIT of the trunk flexors, extensors, and rotators and judo-specific performance indicators."
+  },
+  {
+    "index": 179,
+    "source": "Weiterhin identifizierte die Regressionsanalyse den Kennwert PIT bei Rumpfextension als besten Prädiktor für die mechanische Arbeit bei Anriss-Bewegung im Stand (46,9 %). Bei der Anriss- mit Eindrehbewegung konnte PIT der Rumpfrotatoren auf die Hubarmseite als bester Prädiktor für die mechanische Arbeit (69,4 %) ermittelt werden.",
+    "reference": "Further, the regression analysis indicated that PIT of the trunk extensors is the single best predictor for mechanical work during pulling movements while standing (46.9 %). Trunk rotator PIT is the single best predictor for mechanical work during pulling movements with a change of position (69.4 %).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Furthermore, the regression analysis identified the PIT value during trunk extension as the best predictor for mechanical work during the initiation of movement in a standing position (46.9%). For the initiation of movement with a turning motion, the PIT of the trunk rotators on the lifting arm side was determined to be the best predictor for mechanical work (69.4%)."
+  },
+  {
+    "index": 180,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSIONS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 181,
+    "source": "Die Ergebnisse zeigen, dass die Rumpfkraft, insbesondere bei der Rumpfrotationsbewegung, mit Variablen der judospezifischen Leistungskennwerte bei der Anriss- mit Eindrehbewegung assoziiert ist.",
+    "reference": "Findings from this study indicate that trunk muscle strength, particularly trunk rotator PIT is associated with kinetic pulling variables during pulling movements with a change of position.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The results show that core strength, particularly in trunk rotational movement, is associated with variables of judo-specific performance metrics during the lifting and turning movement."
+  },
+  {
+    "index": 182,
+    "source": "Dies impliziert, dass vor allem durch rumpfrotationskräftigende Übungen Einfluss auf die Anriss- mit Eindrehbewegung (d. h. Morote-seoi-nage) genommen werden könnte.",
+    "reference": "This implies that the development of trunk rotator strength could have an impact on pulling movements with a change of position (i. e. Morote-seoi-nage) in judo athletes.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This implies that especially through exercises strengthening the trunk rotation, an influence on the lifting and turning movement (i.e., Morote-seoi-nage) could be exerted."
+  },
+  {
+    "index": 183,
+    "source": "METHODEN",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHODS"
+  },
+  {
+    "index": 184,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 185,
+    "source": "50 PAVSD wurden pränatal diagnostiziert.",
+    "reference": "50 cases of PAVSD were diagnosed prenatally.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "50 cases of PAVSD were diagnosed prenatally."
+  },
+  {
+    "index": 186,
+    "source": "44,0 % der Feten hatten isolierte PAVSD, 4,0 % assoziierte kardiale und 10,0 % extrakardiale Anomalien, 38,0 % hatten chromosomale Anomalien, 4,0 % nicht chromosomale Syndrome.",
+    "reference": "44.0 % of fetuses had isolated PAVSD, 4.0 % had associated cardiac anomalies, 10.0 % had extra-cardiac anomalies, 38.0 % had chromosomal anomalies, 4.0 % had non-chromosomal syndromes.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "44.0% of the fetuses had isolated PAVSD, 4.0% had associated cardiac anomalies, 10.0% had extracardiac anomalies, 38.0% had chromosomal anomalies, and 4.0% had non-chromosomal syndromes."
+  },
+  {
+    "index": 187,
+    "source": "Von den 32 Lebendgeborenen hatten 56,3 % der Kinder einen reversen Fluss über einen offenen Ductus arteriosus, 25,0 % hatten major aortopulmonale Kollateralarterien (MAPCAs) mit Ductusagenesie und 18,7 % hatten einen double supply.",
+    "reference": "Among the 32 liveborn children, 56.3 % had reverse flow in the patent arterial duct, 25.0 % had major aortopulmonary collateral arteries (MAPCAs) with ductal agenesis and 18.7 % had a double supply.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Of the 32 live births, 56.3% of the children had reverse flow through a patent ductus arteriosus, 25.0% had major aortopulmonary collateral arteries (MAPCAs) with ductal agenesis, and 18.7% had a double supply."
+  },
+  {
+    "index": 188,
+    "source": "17 (34 %) Schwangerschaften wurden abgebrochen, 1 Fötus (2 %) verstarb intrauterin, 1 Kind (2 %) in der Neonatal-Zeit, 6 Kinder (12 %) im Säuglingsalter.",
+    "reference": "17 pregnancies were terminated (34.0 %), there was 1 intrauterine fetal death (2.0 %), 1 neonatal death (2.0 %), and 6 deaths (12.0 %) in infancy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "17 (34%) pregnancies were terminated, 1 fetus (2%) died intrauterine, 1 child (2%) in the neonatal period, 6 children (12%) in infancy."
+  },
+  {
+    "index": 189,
+    "source": "25 von 30 (83,3 %) Lebendgeborenen mit intention-to-treat lebten beim letzten Follow-Up.",
+    "reference": "25 of 30 (83.3 %) liveborn children with an intention to treat were alive at the latest follow-up.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "25 out of 30 (83.3%) live-born infants with intention-to-treat were alive at the last follow-up."
+  },
+  {
+    "index": 190,
+    "source": "Das durchschnittliche Follow-Up unter den Überlebenden betrug 10,0 Jahre (range 6,5 – 15,1).",
+    "reference": "The mean follow-up among survivors was 10.0 years (range 6.5 - 15.1).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The average follow-up among the survivors was 10.0 years (range 6.5–15.1)."
+  },
+  {
+    "index": 191,
+    "source": "56 % der Kinder erhielten eine 2-zeitige Korrektur, 44 % wurden 1-zeitig operiert.",
+    "reference": "56.0 % of infants underwent staged repair, 44.0 % had one-stage complete repair.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "56% of the children received a two-stage correction, while 44% underwent a one-stage surgery."
+  },
+  {
+    "index": 192,
+    "source": "Nach Ausschluss der Kinder mit chromosomalen oder syndromalen Anomalien waren 88,9 % der Kinder gesund, 11,1 % waren leicht beeinträchtigt.",
+    "reference": "After exclusion of infants with additional chromosomal or syndromal anomalies, 88.9 % were healthy, and 11.1 % had mild limitations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "After excluding children with chromosomal or syndromal anomalies, 88.9% of the children were healthy, and 11.1% were mildly impaired."
+  },
+  {
+    "index": 193,
+    "source": "Die Inzidenz von MAPCAs unterschied sich nicht signifikant zwischen Verstorbenen und Überlebenden (p = 0,360), zwischen 1-zeitig und 2-zeitig operierten (p = 0,656) und zwischen gesunden und beeinträchtigten Kindern (p = 0,319).",
+    "reference": "The presence of MAPCAs did not differ significantly between survivors and non-survivors (p = 0.360), between one-stage or staged repair (p = 0.656) and healthy and impaired infants (p = 0.319).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The incidence of MAPCAs did not differ significantly between deceased and survivors (p = 0.360), between those operated on in one stage and two stages (p = 0.656), and between healthy and impaired children (p = 0.319)."
+  },
+  {
+    "index": 194,
+    "source": "SCHLUSSFOLGERUNGEN",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSIONS"
+  },
+  {
+    "index": 195,
+    "source": "MAPCAs beeinflussen weder die Prognose noch den postoperativen Gesundheitszustand.",
+    "reference": "MAPCAs did not influence prognosis or postoperative health.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MAPCAs neither affect the prognosis nor the postoperative health status."
+  },
+  {
+    "index": 196,
+    "source": "Lediglich die Inzidenz wiederholter Interventionen durch rekurrierende Stenosen war nach 2-zeitiger operativer Korrektur signifikant häufiger als nach 1-zeitiger Korrektur.",
+    "reference": "The incidence of repeat interventions due to recurrent stenoses is significantly higher after staged compared with single-stage repair.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Only the incidence of repeated interventions due to recurrent stenoses was significantly more frequent after a two-stage surgical correction than after a one-stage correction."
+  },
+  {
+    "index": 197,
+    "source": "Zudem sollten die Produktionsdaten in zwei verschiedenen alternativen Abferkelbuchten und in der konventionellen Haltung im Kastenstand unter praktischen Bedingungen verglichen werden.",
+    "reference": "Moreover, performance data of sows in two different alternative farrowing pens and in the conventional crate were compared under practical conditions.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition, the production data should be compared under practical conditions in two different alternative farrowing pens and in conventional housing in the farrowing crate."
+  },
+  {
+    "index": 198,
+    "source": "MATERIAL UND METHODEN",
+    "reference": "MATERIAL AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MATERIAL AND METHODS"
+  },
+  {
+    "index": 199,
+    "source": "Im Versuchszeitraum (April 2016 – Februar 2017) wurden in acht Durchgängen die Produktionsdaten von insgesamt 113 Sauen in zwei alternativen Abferkelbuchten („Petra“ [P] und „Freya“ [F]) und im konventionellen Kastenstand (K) erfasst.",
+    "reference": "Over the trial period (April 2016 - February 2017), production data from a total of 113 sows in two alternative farrowing pens (\"Petra\" [P] and \"Freya\" [F]) and in the conventional crate (K) were recorded.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "During the trial period (April 2016 – February 2017), production data from a total of 113 sows were recorded in eight runs in two alternative farrowing pens (\"Petra\" [P] and \"Freya\" [F]) and in the conventional farrowing crate (K)."
+  },
+  {
+    "index": 200,
+    "source": "In Verhaltensbeobachtungen bei 103 Mutter-schweinen und ihren Ferkeln wurde das Ablegeverhalten der Sauen nach definierten Parametern für ein „vorsichtiges“ Ablegen und das Aktivitätsverhalten der Ferkel untersucht.",
+    "reference": "In behavioural observations of 103 sows and their piglets, the lying down behaviour of the sows according to defined parameters for a \"careful\" lying down behaviour and the activity behaviour of the piglets were documented.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In behavioral observations of 103 sows and their piglets, the lying-down behavior of the sows according to defined parameters for a 'careful' lying down and the activity behavior of the piglets were examined."
+  },
+  {
+    "index": 201,
+    "source": "Des Weiteren erfolgte eine Analyse der einzelnen Erdrückungsvorgänge.",
+    "reference": "Furthermore, each crushing event of piglets was analysed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Furthermore, an analysis of the individual compression processes was conducted."
+  },
+  {
+    "index": 202,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 203,
+    "source": "Die Produktionsleistungen der Tiere differierten in den drei Abferkelbuchten nicht signifikant.",
+    "reference": "There were no significant differences in production performance between the three different farrowing systems.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The production performances of the animals did not differ significantly in the three farrowing pens."
+  },
+  {
+    "index": 204,
+    "source": "Der Großteil der Erdrückungsverluste ereignete sich in allen Buchtensystemen bei geschlossenem Abferkelstand.",
+    "reference": "The majority of crushing events occurred in the farrowing pens while crating.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The majority of crushing losses occurred in all bay systems with the farrowing pen closed."
+  },
+  {
+    "index": 205,
+    "source": "In den beiden alternativen Abferkelbuchten zeigten die Sauen ein achtsameres Ablegen als im Kastenstand.",
+    "reference": "Sows in the two alternative farrowing pens showed a more careful lying down behaviour than sows in the crate.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the two alternative farrowing pens, the sows showed a more careful lying down than in the farrowing crate."
+  },
+  {
+    "index": 206,
+    "source": "Die Ferkelaktivität war in Bucht F im Vergleich zu den Buchten K und P im gesamten Beobachtungszeitraum signifikant höher (p < 0,001).",
+    "reference": "A significantly higher activity of the piglets in pen F could be shown in comparison with pens K and P throughout the entire observation period (p < 0.001).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The piglet activity in bay F was significantly higher compared to bays K and P throughout the entire observation period (p < 0.001)."
+  },
+  {
+    "index": 207,
+    "source": "SCHLUSSFOLGERUNG UND KLINISCHE RELEVANZ",
+    "reference": "CONCLUSION AND CLINICAL RELEVANCE",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION AND CLINICAL RELEVANCE"
+  },
+  {
+    "index": 208,
+    "source": "Den Ergebnissen zufolge wirkt sich eine Reduktion der Fixierungsdauer im Abferkelstand und ein höheres Platzangebot positiv auf das Verhalten der Mutterschweine aus.",
+    "reference": "According to the results, a reduction of the fixation in the crate and a greater space affects the behaviour of the sows in a positive manner.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "According to the results, reducing the fixation duration in the farrowing pen and providing more space have a positive impact on the behavior of the sows."
+  },
+  {
+    "index": 209,
+    "source": "Auch auf das Verhalten der Ferkel konnte ein positiver Einfluss der alternativen Abferkelbuchten dargestellt werden.",
+    "reference": "Moreover, a positive influence of the alternative farrowing pens on the piglets' behaviour could be demonstrated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A positive influence of the alternative farrowing pens on the behavior of the piglets could also be demonstrated."
+  },
+  {
+    "index": 210,
+    "source": "Eine Fixierung der Mutterschweine über die komplette Säugezeit zur Vermeidung von Ferkelverlusten stellt aufgrund der in dieser Untersuchung erfassten Produktionsleistungen keine Notwendigkeit dar und ist aus Tierschutzsicht nicht zu vertreten.",
+    "reference": "On the basis of the production data recorded in this study, fixation of the sows over the entire suckling period to avoid piglet losses is not necessary and this practice cannot be justified regarding animal welfare.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Fixing sows throughout the entire suckling period to avoid piglet losses is not necessary based on the production performances recorded in this study and is not justifiable from an animal welfare perspective."
+  },
+  {
+    "index": 211,
+    "source": "Die optische Kohärenztomografie (OCT) hat seit ihrer Einführung für die retinale Bildgebung in den 90er-Jahren eine rasante Entwicklung genommen und die Ophthalmologie revolutioniert.",
+    "reference": "Since its introduction for retinal imaging in the early 1990s, optical coherence tomography (OCT) has undergone rapid development and has revolutionised ophthalmology.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Optical coherence tomography (OCT) has undergone rapid development since its introduction for retinal imaging in the 1990s and has revolutionized ophthalmology."
+  },
+  {
+    "index": 212,
+    "source": "Während sie zu Beginn nur zur Untersuchung der Retina zum Einsatz kam, wurden in der Zwischenzeit auch zahlreiche Systeme zur Beurteilung des vorderen Augenabschnitts entwickelt.",
+    "reference": "Although OCT was initially used mainly for the examination of the retina, numerous systems for the assessment of the anterior segment of the eye have now been developed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "While it was initially only used for examining the retina, numerous systems for assessing the anterior segment of the eye have also been developed in the meantime."
+  },
+  {
+    "index": 213,
+    "source": "Basierend auf der Detektion und Verarbeitung des vom Gewebe zurückreflektierten und gestreuten Lichts, eröffnete sie dem Ophthalmologen völlig neue Möglichkeiten zur Untersuchung der Strukturen des vorderen Augenabschnitts.",
+    "reference": "OCT is based on the detection and processing of the light back-scattered and back-reflected by the tissue, and provides completely new possibilities for the ophthalmologist to examine the structures of the anterior eye segment.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Based on the detection and processing of the light reflected and scattered by the tissue, it opened up entirely new possibilities for the ophthalmologist to examine the structures of the anterior segment of the eye."
+  },
+  {
+    "index": 214,
+    "source": "Je nach technischer Umsetzung erlauben OCT-Systeme für den vorderen Augenabschnitt die präzise Vermessung einzelner Schichten der Kornea und des Kammerwinkels oder – in Form von ultrahoch auflösender OCT – die detailreiche Darstellung der Hornhautmorphologie mit nahezu histologischer Auflösung.",
+    "reference": "Depending on the technical implementation, OCT systems for the anterior eye allow precise measurement of individual layers of the cornea and the chamber angle or - in the form of ultrahigh resolution OCT - the detailed visualisation of corneal morphology with near histological resolution.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Depending on the technical implementation, OCT systems for the anterior segment of the eye allow for the precise measurement of individual layers of the cornea and the anterior chamber angle, or – in the form of ultra-high-resolution OCT – the detailed representation of corneal morphology with nearly histological resolution."
+  },
+  {
+    "index": 215,
+    "source": "Letztere könnte durch weitere technische Entwicklungen vor allem hinsichtlich der Erhöhung der Aufnahmegeschwindigkeit zu einem wesentlichen Werkzeug in der Differenzialdiagnose und Verlaufsbeobachtung verschiedenster Erkrankungen der Hornhaut werden, das auch neue Einsichten in die Pathophysiologie dieser Erkrankungen liefert.",
+    "reference": "Through further technical developments, especially with respect to an increase in acquisition speeds, OCT has become an essential tool in the differential diagnosis and follow-up of various diseases of the cornea and might also provide new insights into their pathophysiology.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The latter could become an essential tool in the differential diagnosis and monitoring of various corneal diseases, especially through further technical developments aimed at increasing the acquisition speed, and it could also provide new insights into the pathophysiology of these diseases."
+  },
+  {
+    "index": 216,
+    "source": "Ziel dieser Studie war eine Vergleichsanalyse der Zementaugmentation mittels Radiofrequenzsakroplastie (RFS) und Zementsakroplastie (ZSP) hinsichtlich Outcome und Wirtschaftlichkeit.",
+    "reference": "The objective of this study was a comparative analysis of cement augmentation by means of RFS and CSP with regard to outcome and cost-effectiveness.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The aim of this study was a comparative analysis of cement augmentation using radiofrequency sacroplasty (RFS) and cement sacroplasty (CSP) in terms of outcome and cost-effectiveness."
+  },
+  {
+    "index": 217,
+    "source": "PATIENTEN UND METHODEN",
+    "reference": "PATIENTS AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "PATIENTS AND METHODS"
+  },
+  {
+    "index": 218,
+    "source": "Die anfälligen Verfahrenskosten wurden den jeweiligen Erlösen gegenübergestellt.",
+    "reference": "Costs incurred for carrying out the procedure were compared with the respective reimbursements received.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The susceptible procedural costs were contrasted with the respective revenues."
+  },
+  {
+    "index": 219,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 220,
+    "source": "Beide Verfahren waren technisch gut durchführbar.",
+    "reference": "Both procedures were technically fully feasible.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Both methods were technically feasible."
+  },
+  {
+    "index": 221,
+    "source": "Eine Leckage fand sich in der RFS-Gruppe nicht, in der ZSP-Gruppe fanden sich 8,1% asymptomatische Leckagen.",
+    "reference": "No leakages were found in the RFS group, as opposed to 8.1% asymptomatic leakages in the CSP group.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "No leakage was found in the RFS group, while 8.1% asymptomatic leakages were found in the ZSP group."
+  },
+  {
+    "index": 222,
+    "source": "Der Mittelwert für Schmerzen lag vor Intervention bei 8,8 in der RFS- und 8,7 in der ZSP-Gruppe.",
+    "reference": "The mean value for pain before intervention was 8.8 in the RFS group and 8.7 in the CSP group.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The mean pain score before intervention was 8.8 in the RFS group and 8.7 in the ZSP group."
+  },
+  {
+    "index": 223,
+    "source": "Am 2. postoperativen Tag zeigte sich eine signifikante Schmerzreduktion mit einem Wert von 2,4 für beide Gruppen, die im Nachuntersuchungszeitraum weitestgehend konstant war.",
+    "reference": "On the second postoperative day, there was a significant pain reduction with a value of 2.4 for both groups, which remained more or less constant over the follow-up period.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "On the 2nd postoperative day, a significant pain reduction was observed with a value of 2.4 for both groups, which remained largely constant during the follow-up period."
+  },
+  {
+    "index": 224,
+    "source": "Der Barthel-Index stieg signifikant von durchschnittlich 30 vor der Intervention auf 80 am 4. postoperativen Tag und 70 nach 24 Monaten.",
+    "reference": "The Barthel index increased significantly from an average of 30 before the intervention to 80 on the fourth postoperative day and 70 after 24 months.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The Barthel Index increased significantly from an average of 30 before the intervention to 80 on the 4th postoperative day and 70 after 24 months."
+  },
+  {
+    "index": 225,
+    "source": "Hinsichtlich Schmerzen, Verbesserung des funktionellen Status und Zufriedenheit fanden sich für beide Verfahren keine Unterschiede.",
+    "reference": "No differences were found between the two procedures with regard to pain, improvement in functional status and satisfaction.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Regarding pain, improvement of functional status, and satisfaction, no differences were found between the two procedures."
+  },
+  {
+    "index": 226,
+    "source": "Unter Berücksichtigung des Landesbasisfallwertes verblieben 3834,75 € für die RFS und 5084,32 € für die ZSP.",
+    "reference": "Taking into account the state-wide base rate used for calculating reimbursement, 3,834.75 € remained for RFS and 5,084.32 € for CSP.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Taking into account the national base rate, €3,834.75 remained for the RFS and €5,084.32 for the ZSP."
+  },
+  {
+    "index": 227,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 228,
+    "source": "Die RFS und ZSP sind minimalinvasive Verfahren, die eine gleich gute und nachhaltige Schmerzreduktion ermöglichen, eine deutlich verbesserte Selbstständigkeit der Patienten ist die Folge.",
+    "reference": "RFS and CSP are minimally invasive procedures that achieve equally good and sustained pain reduction, leading to markedly improved self-sufficiency of the patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The RFS and ZSP are minimally invasive procedures that enable equally good and sustainable pain reduction, resulting in significantly improved independence for the patients."
+  },
+  {
+    "index": 229,
+    "source": "Hinsichtlich möglicher Zementleckagen ist die RFS das sicherere Verfahren.",
+    "reference": "With regard to possible cement leakages, RFS is the safer method.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Regarding possible cement leaks, the RFS is the safer method."
+  },
+  {
+    "index": 230,
+    "source": "Mit jeder Technik lässt sich ein Gewinn erwirtschaften.",
+    "reference": "A profit can be generated with both techniques.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A profit can be generated with every technique."
+  },
+  {
+    "index": 231,
+    "source": "Um das medizinische Personal vor allem vor der Streustrahlung zu schützen, gibt es eine Vielzahl von persönlichen Strahlenschutzmitteln.",
+    "reference": "There are various radiation protection means for protecting medical staff against scatter radiation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "To protect the medical staff, especially from scattered radiation, there are a variety of personal radiation protection measures."
+  },
+  {
+    "index": 232,
+    "source": "Diese Übersichtsarbeit soll einen Überblick über die verfügbaren Systeme, ihre Effektivität bezüglich des persönlichen Strahlenschutzes und der entsprechenden Dosimetrie geben.",
+    "reference": "This article will provide an overview of the different protection devices, their efficacy in terms of radiation protection and the corresponding dosimetry.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This review paper aims to provide an overview of the available systems, their effectiveness regarding personal radiation protection, and the corresponding dosimetry."
+  },
+  {
+    "index": 233,
+    "source": "METHODE",
+    "reference": "METHOD",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHOD"
+  },
+  {
+    "index": 234,
+    "source": "Literaturrecherche, vor allem in pubmed mit den Schlüsselwörtern: Strahlenschutz, Augenlinsendosis, Strahlenexposition in der interventionellen Radiologie, Katarakt, Tumorrisiko, Dosimetrie in der interventionellen Radiologie und Strahlendosimetrie.",
+    "reference": "The following key words were used to search the literature: radiation protection, eye lens dose, radiation exposure in interventional radiology, cataract, cancer risk, dosimetry in interventional radiology, radiation dosimetry.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Literature research, primarily in PubMed with the keywords: radiation protection, lens dose, radiation exposure in interventional radiology, cataract, tumor risk, dosimetry in interventional radiology, and radiation dosimetry."
+  },
+  {
+    "index": 235,
+    "source": "ERGEBNISSE UND SCHLUSSFOLGERUNG",
+    "reference": "RESULTS AND CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS AND CONCLUSIONS"
+  },
+  {
+    "index": 236,
+    "source": "Der Strahlenschutz und das Monitoring des Kopf-Hals-Bereichs, vor allem der Augenlinse, hat weiterhin Entwicklungs- und Akzeptanzbedarf.",
+    "reference": "Radiation protection and monitoring of the head and neck, especially of the eye lenses, is not yet sufficiently accepted and further development is needed in this field.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Radiation protection and monitoring of the head and neck area, especially the eye lens, still require development and acceptance."
+  },
+  {
+    "index": 237,
+    "source": "KERNAUSSAGEN",
+    "reference": "KEY POINTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "KEY MESSAGES"
+  },
+  {
+    "index": 238,
+    "source": "ZITIERWEISE",
+    "reference": "CITATION FORMAT",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "citation style"
+  },
+  {
+    "index": 239,
+    "source": "· König AM, Etzel R, Thomas RP et al.",
+    "reference": "· König AM, Etzel R, Thomas RP et al.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "König AM, Etzel R, Thomas RP et al."
+  },
+  {
+    "index": 240,
+    "source": "Personal Radiation Protection and Corresponding Dosimetry in Interventional Radiology: An Overview and Future Developments.",
+    "reference": "Personal Radiation Protection and Corresponding Dosimetry in Interventional Radiology: An Overview and Future Developments.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Personal Radiation Protection and Corresponding Dosimetry in Interventional Radiology: An Overview and Future Developments."
+  },
+  {
+    "index": 241,
+    "source": "Fortschr Röntgenstr 2019; DOI: 10.1055/a-0800-0113.",
+    "reference": "Fortschr Röntgenstr 2019; DOI: 10.1055/a-0800-0113.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Fortschr Röntgenstr 2019; DOI: 10.1055/a-0800-0113."
+  },
+  {
+    "index": 242,
+    "source": "Dieser narrative Review soll einen breiten Überblick zur psychosozialen Belastung bei Patienten mit Amyotropher Lateralsklerose (ALS) und diesbezüglichen psychotherapeutischen Interventionen vermitteln.",
+    "reference": "This narrative review gives a broad summary of the psychosocial strain in patients with amyotrophic lateral sclerosis (ALS) and psychotherapeutic interventions addressing these issues.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This narrative review aims to provide a broad overview of psychosocial burden in patients with Amyotrophic Lateral Sclerosis (ALS) and related psychotherapeutic interventions."
+  },
+  {
+    "index": 243,
+    "source": "Die ALS ist eine unheilbare, schnell fortschreitende neurodegenerative Erkrankung, in deren Verlauf es zur Schwächung bzw. zum Schwund fast aller Muskeln des Körpers kommt: dies macht schließlich nicht nur die Bewegung, sondern auch die Nahrungsaufnahme, Atmung und Kommunikation des Patienten unmöglich.",
+    "reference": "ALS is a fatal, rapidly progressing neurodegenerative disease, which leads to weakness and atrophy in almost all muscles of the body, resulting in impairment and finally inability in all domains of daily life including mobility, food intake, respiration or communication.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "ALS is an incurable, rapidly progressive neurodegenerative disease in which almost all muscles of the body weaken or atrophy: this eventually makes not only movement but also eating, breathing, and communication impossible for the patient."
+  },
+  {
+    "index": 244,
+    "source": "Entsprechend dieser schweren Symptomatik und der negativen Prognose kann es zu ausgeprägten psychosozialen Belastungen einschließlich erhöhter Depressivität und Ängstlichkeit, Hoffnungslosigkeit bis hin zu Sterbewunsch und Suizidalität kommen.",
+    "reference": "Due to the severe symptomatology and poor diagnosis, ALS can lead to significant psychosocial strain including heightened levels of depressive and anxious symptomatology, hopelessness and even the wish for hastened death.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In line with this severe symptomatology and negative prognosis, pronounced psychosocial burdens can arise, including increased depression and anxiety, hopelessness, and even a desire for death and suicidality."
+  },
+  {
+    "index": 245,
+    "source": "Viele Studien weisen auf den entscheidenden Einfluss psychosozialer Aspekte bei der Aufrechterhaltung der Lebensqualität bei ALS-Patienten hin.",
+    "reference": "A large body of research demonstrates the strong effect of psychosocial aspects on quality of life (QoL) in ALS patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Many studies point to the crucial influence of psychosocial aspects in maintaining the quality of life in ALS patients."
+  },
+  {
+    "index": 246,
+    "source": "Dennoch ist der Forschungsstand zu psychotherapeutischen Interventionen bei ALS-Patienten bislang äußerst dürftig.",
+    "reference": "Nevertheless, research on psychotherapeutic interventions for patients with ALS is very sparse to date.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Nevertheless, the state of research on psychotherapeutic interventions for ALS patients has so far been extremely sparse."
+  },
+  {
+    "index": 247,
+    "source": "Neben dem generellen Mangel an Interventionen und methodischen Schwachstellen bei der Evaluation ihrer Wirksamkeit lassen sich in den Interventionen nur wenig Inhalte finden, die dem palliativen Charakter sowie den spezifischen Symptomen der Erkrankung wie z. B. der eingeschränkten Kommunikation oder Problemen bei der Emotionsregulation Rechnung tragen.",
+    "reference": "Besides the general lack of interventions and the methodological limitations in testing their efficacy, few of these therapeutic concepts incorporate the palliative character and the specific symptomatology of the disease such as impaired communication or problems with emotion control.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to the general lack of interventions and methodological weaknesses in evaluating their effectiveness, only a few contents can be found in the interventions that address the palliative nature as well as the specific symptoms of the disease, such as limited communication or problems with emotion regulation."
+  },
+  {
+    "index": 248,
+    "source": "Wissenschaftliche Ansätze könnten z. B. darin bestehen, die bei anderen schwerwiegenden Erkrankungen als wirksam erwiesenen Therapiekonzepte auf die spezielle Gruppe von ALS-Patienten zu übertragen.",
+    "reference": "Future research could aim to adapt therapy programs that already have been proven to be effective in other populations with advanced diseases.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Scientific approaches could, for example, involve transferring therapy concepts proven effective for other serious illnesses to the specific group of ALS patients."
+  },
+  {
+    "index": 249,
+    "source": "Neben einer inhaltlichen Anpassung sollte auch die Anwendbarkeit der Therapieverfahren mit alternativen Kommunikationswegen, z. B. via Sprachcomputer oder Brain-Computer-Interfaces, untersucht werden.",
+    "reference": "Such research should also test the applicability of the therapy models using alternative communication including computer with a voice synthesizer or brain-computer-interfaces.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to a content-related adjustment, the applicability of therapy methods with alternative communication channels, e.g., via speech computers or brain-computer interfaces, should also be examined."
+  },
+  {
+    "index": 250,
+    "source": "MATERIAL UND METHODIK",
+    "reference": "MATERIAL AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MATERIAL AND METHODOLOGY"
+  },
+  {
+    "index": 251,
+    "source": "In diese multizentrische Kohortenstudie wurden Einlingsschwangerschaften am Termin eingeschlossen.",
+    "reference": "This historical multicentre cohort study included singleton pregnancies at term.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This multicenter cohort study included singleton pregnancies at term."
+  },
+  {
+    "index": 252,
+    "source": "Geburtseinleitungen bei SGA-/IUGR-Feten (IUGR-Gruppe) wurden mit Geburtseinleitungen bei Feten mit einem fetalen Schätzgewicht oberhalb der 10. Perzentile (Kontrollgruppe) verglichen.",
+    "reference": "Labour induction for SGA/IUGR (IUGR group) was compared with cases of fetal growth beyond the 10th percentile (control group).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Birth inductions in SGA/IUGR fetuses (IUGR group) were compared with birth inductions in fetuses with an estimated fetal weight above the 10th percentile (control group)."
+  },
+  {
+    "index": 253,
+    "source": "Der primäre Zielparameter war die Kaiserschnitt-Rate.",
+    "reference": "Primary outcome measure was caesarean section rate.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The primary target parameter was the cesarean section rate."
+  },
+  {
+    "index": 254,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 255,
+    "source": "Es gab keinen Unterschied bezüglich der Kaiserschnitt-Rate zwischen den beiden Gruppen (27,0 vs. 26,2%, p=0,9154).",
+    "reference": "The caesarean section rate was not different between the 2 groups (27.0 vs. 26.2%, p=0.9154).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "There was no difference in the cesarean section rate between the two groups (27.0 vs. 26.2%, p=0.9154)."
+  },
+  {
+    "index": 256,
+    "source": "In der IUGR-Gruppe lag jedoch häufiger ein pathologisches CTG (30,8  vs. 21,9%, p=0,0214) vor, und es wurden mehr Fetalblutanalysen (2,5 vs. 0,5%, p=0,0261) durchgeführt.",
+    "reference": "In the IUGR group, abnormal CTG was more common (30.8 vs. 21.9%, p=0.0214), and fetal blood analyses were conducted more often (2.5 vs. 0.5%, p=0.0261).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the IUGR group, however, pathological CTG findings were more frequent (30.8% vs. 21.9%, p=0.0214), and more fetal blood analyses were performed (2.5% vs. 0.5%, p=0.0261)."
+  },
+  {
+    "index": 257,
+    "source": "Die Rate an kindlichen Verlegungen in die Kinderklinik war ebenfalls in der IUGR-Gruppe höher (40,0 vs. 12,8%, p<0,0001).",
+    "reference": "There were more postpartum transfers to the NICU in the IUGR group (40.0 vs. 12.8%, p<0.0001), too.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The rate of pediatric admissions to the children's hospital was also higher in the IUGR group (40.0 vs. 12.8%, p<0.0001)."
+  },
+  {
+    "index": 258,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 259,
+    "source": "Geburtseinleitungen bei wachstumsrestringierten Feten sind nicht mit einer höheren Rate an Kaiserschnitten assoziiert.",
+    "reference": "Induction of labour for fetal growth restriction was not associated with an increased rate of caesarean section.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Induction of labor in growth-restricted fetuses is not associated with a higher rate of cesarean sections."
+  },
+  {
+    "index": 260,
+    "source": "Eine nicht-ketotische Hyperglykämie kann über eine Affektion der Basalganglien zu einer hemiballistisch-hemichoreatischen Bewegungsstörung führen.",
+    "reference": "A non-ketotic hyperglycaemia may cause an affection of basalganglia and, in the following, lead to a hemiballism-hemichorea movement-disorder.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Non-ketotic hyperglycemia can lead to a hemiballistic-hemichoreatic movement disorder through an affection of the basal ganglia."
+  },
+  {
+    "index": 261,
+    "source": "ANAMNESE",
+    "reference": "HISTORY",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MEDICAL HISTORY"
+  },
+  {
+    "index": 262,
+    "source": "Ein 68-jähriger Patient stellte sich mit einer subakut aufgetretenen und schmerzlosen hemiballistisch-choreatischen Bewegungsstörung vor.",
+    "reference": "A 68-year-old male patient was admitted at our ward with a subacute and painless hemichorea-hemiballism movement-disorder.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A 68-year-old patient presented with a subacutely occurring and painless hemiballistic-choreatic movement disorder."
+  },
+  {
+    "index": 263,
+    "source": "UNTERSUCHUNGEN UND DIAGNOSE",
+    "reference": "FINDINGS AND DIAGNOSIS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "EXAMINATIONS AND DIAGNOSIS"
+  },
+  {
+    "index": 264,
+    "source": "THERAPIE UND VERLAUF",
+    "reference": "THERAPY AND COURSE",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "THERAPY AND COURSE"
+  },
+  {
+    "index": 265,
+    "source": "FOLGERUNG",
+    "reference": "CONCLUSIONS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 266,
+    "source": "Morbus Crohn und Colitis ulcerosa sind chronisch-entzündliche Darmerkrankungen (CED) welche in den letzten Jahrzehnten in industrialisierten Ländern zunehmend häufig diagnostiziert werden.",
+    "reference": "Inflammatory bowel diseases (IBD) are comprised of Crohn's disease and ulcerative colitis. Both diseases are diagnosed with increasing frequency over the last few decades in industrialized countries.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Crohn's disease and ulcerative colitis are chronic inflammatory bowel diseases (IBD) which have been increasingly diagnosed in industrialized countries in recent decades."
+  },
+  {
+    "index": 267,
+    "source": "Aktuelle, populationsbasierte Daten aus der Schweiz zeigen eine Prävalenz von 0.4 % (1 Person auf 250 Einwohner) mit gleicher Häufigkeit für Morbus Crohn und Colitis ulcerosa (Prävalenz von je 1 Person auf 500 Einwohner).",
+    "reference": "Current, population-based data from Switzerland show a prevalence of 0.4 % for IBD in Switzerland (one affected person in 250 inhabitants) with equal shares for Crohn's disease and ulcerative colitis (one affected person in 500 inhabitants each).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Current, population-based data from Switzerland show a prevalence of 0.4% (1 person in 250 inhabitants) with equal frequency for Crohn's disease and ulcerative colitis (prevalence of 1 person in 500 inhabitants each)."
+  },
+  {
+    "index": 268,
+    "source": "Die Mortalitätsrate von Schweizer Patienten mit chronisch entzündlichen Darmerkrankungen entspricht derjenigen der Population ohne chronisch entzündliche Darmerkrankungen.",
+    "reference": "The mortality rate of Swiss IBD patients is comparable with the one of patients without IBD.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The mortality rate of Swiss patients with chronic inflammatory bowel diseases corresponds to that of the population without chronic inflammatory bowel diseases."
+  },
+  {
+    "index": 269,
+    "source": "Rund 80 % der Patienten mit chronisch entzündlichen Darmerkrankungen leiden an Komorbiditäten.",
+    "reference": "Roughly 80 % of patients with IBD suffer from co-morbidities.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Approximately 80% of patients with chronic inflammatory bowel diseases suffer from comorbidities."
+  },
+  {
+    "index": 270,
+    "source": "Am häufigsten werden kardiovaskuläre Erkrankungen beobachtet, gefolgt von rheumatologischen Affektionen, peptischen Erkrankungen, Schmerzstörungen sowie psychologischen Erkrankungen.",
+    "reference": "The most frequent co-morbidities concern cardiovascular diseases, followed by rheumatologic conditions, acid-related disorders, pain, and psychologic disorders.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Cardiovascular diseases are observed most frequently, followed by rheumatological conditions, peptic diseases, pain disorders, and psychological illnesses."
+  },
+  {
+    "index": 271,
+    "source": "In diesem Zusammenhang werden hohe Anforderungen an die kommunikative Kompetenz des Urologen gestellt.",
+    "reference": "Therefore, urologists must have a high level of communication skills in this context.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In this context, high demands are placed on the urologist's communicative competence."
+  },
+  {
+    "index": 272,
+    "source": "Die bisherige Forschung zeigt, dass MigrantInnen in vielen Bereichen über eine schlechtere Gesundheit verfügen als Menschen ohne Migrationshintergrund.",
+    "reference": "Previous research has shown migrants to have a poorer health status than those without a migration background in many respects.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Previous research shows that migrants have poorer health in many areas compared to people without a migration background."
+  },
+  {
+    "index": 273,
+    "source": "Ob sich das schlechtere gesundheitliche Abschneiden von MigrantInnen vorwiegend auf deren sozioökonomischen Status (SES) – der im Durchschnitt niedriger ausfällt als jener der nicht-migrantischen Bevölkerung – zurückführen lässt, ist bisher noch unzureichend geklärt.",
+    "reference": "So far, it is not completely clear whether the poorer health results of migrants are mainly the cause of their socioeconomic status (SES), which on average is lower than the SES of people without a migration background.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Whether the poorer health outcomes of migrants can primarily be attributed to their socioeconomic status (SES) – which is on average lower than that of the non-migrant population – has not yet been sufficiently clarified."
+  },
+  {
+    "index": 274,
+    "source": "Die vorliegende Arbeit geht der Frage nach, welche Bedeutung das Vorhandensein eines Migrationshintergrunds für verschiedene gesundheitliche Aspekte besitzt, wenn SES und gesundheitsbezogenes Verhalten berücksichtigt werden.",
+    "reference": "The present study explores the question whether the fact of having a migration background has an impact on health, even though SES and health-related behavior are taken into account.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The present work investigates the question of what significance the presence of a migration background has for various health aspects when SES and health-related behavior are taken into account."
+  },
+  {
+    "index": 275,
+    "source": "METHODE",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHOD"
+  },
+  {
+    "index": 276,
+    "source": "Mit den Daten der aktuellen österreichischen Gesundheitsbefragung (ATHIS 2014) wurden altersadjustierte und nach Geschlecht stratifizierte lineare Regressionsanalysen der Variablen physische Lebensqualität, psychische Lebensqualität, subjektive Gesundheit, Body-Mass-Index (BMI), Kopf-/muskuloskelettale Schmerzen sowie Herz-Kreislauf (HKL)-Erkrankung/Diabetes durchgeführt (n=15748).",
+    "reference": "Based on data from the current Austrian Health Interview Survey (ATHIS 2014) multiple linear regression models, adjusted for age and stratified by gender, were conducted. The dependent variables were physical quality of life, psychological quality ofZ life, self-perceived health, body-mass-index (BMI), headaches/musculoskeletal pain, and diabetes/cardiovascular diseases (n=15,748).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Using data from the current Austrian Health Interview Survey (ATHIS 2014), age-adjusted and gender-stratified linear regression analyses were conducted for the variables physical quality of life, mental quality of life, subjective health, body mass index (BMI), head/musculoskeletal pain, and cardiovascular (CV) disease/diabetes (n=15748)."
+  },
+  {
+    "index": 277,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 278,
+    "source": "Die in der altersadjustierten Analyse festgestellten Unterschiede zwischen Männern und Frauen mit Migrationshintergrund und Männern und Frauen ohne Migrationshintergrund werden nach Berücksichtigung des SES und des gesundheitsbezogenen Verhaltens überwiegend kleiner.",
+    "reference": "We found differences in health between men and women with migration background and men and women without migration background. After adjusting for age, SES and health-related behavior, almost all of the revealed differences got smaller.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The differences observed in the age-adjusted analysis between men and women with a migration background and men and women without a migration background become predominantly smaller after taking into account SES and health-related behavior."
+  },
+  {
+    "index": 279,
+    "source": "Die größte Erklärungskraft besitzt ein Migrationshintergrund für MigrantInnen aus Herkunftsländern mit einem im Vergleich zu Österreich niedrigeren ungleichheitsadjustierten Human Development Index (IHDI).",
+    "reference": "The strongest link between migrant status and health status was detected for migrants from countries with a lower Inequality-adjusted Human Development Index (IHDI) in comparison to Austria.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The greatest explanatory power lies in a migration background for migrants from countries of origin with a lower inequality-adjusted Human Development Index (IHDI) compared to Austria."
+  },
+  {
+    "index": 280,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 281,
+    "source": "Die Ergebnisse lassen darauf schließen, dass gesundheitliche Differenzen zwischen Menschen mit Migrationshintergrund und Menschen ohne Migrationshintergrund zwar nicht vollständig, jedoch zu einem großen Teil durch den SES und das gesundheitsbezogene Verhalten erklärbar sind.",
+    "reference": "The results lead to the conclusion that although SES and health-related behavior do not fully explain health differences between people with migration background and those without, they can explain the differences to a large extent.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The results suggest that health disparities between people with a migration background and those without a migration background, while not entirely, are largely explainable by SES and health-related behavior."
+  },
+  {
+    "index": 282,
+    "source": "Allerdings scheinen für die Gesundheit von MigrantInnen aus Herkunftsländern mit einem im Vergleich zu Österreich niedrigeren Lebensstandard und einer vergleichsweise schwächer ausgeprägten Verteilungsgerechtigkeit weitere Faktoren eine Rolle zu spielen.",
+    "reference": "However, for the health status of migrants who stem from countries with a lower standard of living and a weaker distributive justice in comparison to Austria, further factors might play a role.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "However, it seems that additional factors play a role in the health of migrants from countries of origin with a lower standard of living compared to Austria and a comparatively weaker level of distributive justice."
+  },
+  {
+    "index": 283,
+    "source": "Gesundheitliche Unterschiede zu Personen ohne Migrationshintergrund lassen sich bei dieser MigrantInnengruppe in vielen Bereichen nicht allein auf Unterschiede im SES und im gesundheitsbezogenen Verhalten zurückführen.",
+    "reference": "With respect to this group of migrants, differences in health compared to non-migrants are not solely attributable to SES and health-related behavior.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Health disparities compared to individuals without a migration background cannot be solely attributed to differences in SES and health-related behavior in this group of migrants."
+  },
+  {
+    "index": 284,
+    "source": "Verschiedene Faktoren sind in der Pathogenese der alkoholischen Lebererkrankung (ALE) und der alkoholvermittelten Karzinogenese beteiligt.",
+    "reference": "Various factors are involved in the pathogenesis of alcoholic liver disease (ALD) and ethanol-mediated carcinogenesis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Various factors are involved in the pathogenesis of alcoholic liver disease (ALD) and alcohol-mediated carcinogenesis."
+  },
+  {
+    "index": 285,
+    "source": "Neben genetischen, epigenetischen und immunologischen Mechanismen spielen die toxische Wirkung von Acetaldehyd, oxidativer Stress und zytokinvermittelte Entzündungen eine wesentliche Rolle.",
+    "reference": "In addition to genetic, epigenetic and immunologic mechanisms, acetaldehyde-associated toxicity, oxidative stress as well as cytokine-mediated inflammation are of major importance.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to genetic, epigenetic, and immunological mechanisms, the toxic effect of acetaldehyde, oxidative stress, and cytokine-mediated inflammation play a significant role."
+  },
+  {
+    "index": 286,
+    "source": "Oxidativer Stress mit der Generierung von reaktiven Sauerstoffspezies (ROS) entsteht entweder in der Entzündung (alkoholische Hepatitis) oder bei der Alkoholoxidation via Cytochrom P4502E1 (CYP2E1).",
+    "reference": "Oxidative stress, with the generation of reactive oxygen species (ROS), develops either in inflammation (alcoholic hepatitis) or during oxidation of ethanol via cytochrome P4502E1 (CYP2E1).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Oxidative stress with the generation of reactive oxygen species (ROS) arises either in inflammation (alcoholic hepatitis) or during alcohol oxidation via cytochrome P4502E1 (CYP2E1)."
+  },
+  {
+    "index": 287,
+    "source": "CYP2E1 wird durch Alkohol induziert, oxidiert Äthanol zu Acetaldehyd und generiert dabei ROS.",
+    "reference": "CYP2E1 is induced by ethanol, oxidizes ethanol to acetaldehyde, and generates ROS during this process.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CYP2E1 is induced by alcohol, oxidizes ethanol to acetaldehyde, and generates ROS in the process."
+  },
+  {
+    "index": 288,
+    "source": "ROS führt unter anderem zu Proteinschädigung, Fibrogenese und DNA-Mutationen.",
+    "reference": "ROS results in protein damage, enhanced fibrogenesis and DNA lesions.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "ROS leads, among other things, to protein damage, fibrogenesis, and DNA mutations."
+  },
+  {
+    "index": 289,
+    "source": "Weiterhin resultiert die CYP2E1-Induktion in einer gesteigerten Prokarzinogenaktivierung und einem verstärkten Abbau von Retinol und Retinsäure, einem Faktor, der für eine geordnete Zelldifferenzierung und Zellproliferation verantwortlich ist.",
+    "reference": "Furthermore, CYP2E1 induction results in an enhanced activation of various procarcinogens and an increased degradation of retinol and retinoic acid (RA), a compound responsible for cell differentiation and proliferation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Furthermore, the induction of CYP2E1 results in increased procarcinogen activation and enhanced degradation of retinol and retinoic acid, a factor responsible for orderly cell differentiation and cell proliferation."
+  },
+  {
+    "index": 290,
+    "source": "Eine Hemmung von CYP2E1 führt zu einer Verbesserung der ALE und zu einer Hemmung der chemisch induzierten Karzinogenese im Tierexperiment.",
+    "reference": "An inhibition of CYP2E1 results in an improvement of ALD and chemically induced carcinogenesis in animal experiments.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "An inhibition of CYP2E1 leads to an improvement of ALE and to an inhibition of chemically induced carcinogenesis in animal experiments."
+  },
+  {
+    "index": 291,
+    "source": "Beim Menschen wird CYP2E1 bereits bei 40 Gramm Alkohol pro Tag innerhalb einer Woche induziert, jedoch gibt es signifikante interindividuelle Unterschiede.",
+    "reference": "In humans, CYP2E1 is induced following the consumption of 40 grams of ethanol per day after one week. However, the induction varies inter-individually.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In humans, CYP2E1 is induced within a week with just 40 grams of alcohol per day, but there are significant interindividual differences."
+  },
+  {
+    "index": 292,
+    "source": "Der Mechanismus dafür ist unklar.",
+    "reference": "The mechanism for this is still unclear.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The mechanism for this is unclear."
+  },
+  {
+    "index": 293,
+    "source": "Bei Patienten mit ALE korreliert CYP2E1 mit dem Ausmaß von hochkarzinogenen Etheno-DNA-Addukten in Leber und Ösophagus und mit der Schwere der Leberfibrose.",
+    "reference": "Patients with ALD show a significant correlation between CYP2E1, the occurrence of highly carcinogenic etheno DNA adducts and the severity of fibrosis.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In patients with ALE, CYP2E1 correlates with the extent of highly carcinogenic etheno-DNA adducts in the liver and esophagus and with the severity of liver fibrosis."
+  },
+  {
+    "index": 294,
+    "source": "Erste Ergebnisse zu einer Hemmung von CYP2E1 durch Chlormethiazol, einem spezifischen CYP2E1-Hemmer, bei Patienten mit ALE sind in Kürze zu erwarten.",
+    "reference": "First results on the effect of CYP2E1 inhibition by chlormethiazole, a specific CYP2E1 inhibitor on ALD, can be expected soon.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Initial results on the inhibition of CYP2E1 by chlormethiazole, a specific CYP2E1 inhibitor, in patients with ALE are expected shortly."
+  },
+  {
+    "index": 295,
+    "source": "Eine aktuelle Umfrage unter Ärzten in Weiterbildung zum Facharzt für Plastische und Ästhetische Chirurgie und Klinikleitern zeigt ein großes Interesse an einer hochwertigen mikrochirurgischen Weiterbildung.",
+    "reference": "A recent survey among plastic surgery residents and directors of microsurgical clinics demonstrates a great interest in high- quality microsurgery education.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A recent survey among physicians in training to become specialists in Plastic and Aesthetic Surgery and clinic directors shows a strong interest in high-quality microsurgical training."
+  },
+  {
+    "index": 296,
+    "source": "Leider gefährden ökonomischer Druck sowie forensische Bedenken diese Bemühungen zunehmend und machen eine Verlagerung des Trainings außerhalb des OPs nötig.",
+    "reference": "Unfortunately, due to economic pressures, limited operating resources as well as forensic considerations, it has become a challenge to provide sufficient on-the-job training, which needs to be shifted outside of the OR.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Unfortunately, economic pressure as well as forensic concerns increasingly jeopardize these efforts and necessitate a shift of training outside the operating room."
+  },
+  {
+    "index": 297,
+    "source": "Pro Tag wurden jeweils mindestens 3 mikrochirurgische Eingriffe in den Fachgebieten Brust-, Nerven-, Knochen/Hand-Extremitäten- und Lymphgefäßrekonstruktion parallel durchgeführt und begleitet von Fachvorträgen.",
+    "reference": "Each day, at least three surgical procedures were performed simultaneously in the area of breast, nerve, bone/hand, extremity and lymph reconstruction, along with presentations regarding the various cases, diseases and specific operative challenges.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Each day, at least 3 microsurgical procedures in the fields of breast, nerve, bone/hand-extremity, and lymphatic vessel reconstruction were performed simultaneously and accompanied by expert lectures."
+  },
+  {
+    "index": 298,
+    "source": "Die Teilnehmer wurden gebeten, anonym ihre Erwartungen zu dem Kurskonzept zu definieren sowie den Kurs und seine Inhalte zu evaluieren.",
+    "reference": "To evaluate this course concept, we asked participants to identify their expectations and evaluate the academy and its program.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The participants were asked to anonymously define their expectations for the course concept as well as to evaluate the course and its contents."
+  },
+  {
+    "index": 299,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 300,
+    "source": "Das Format und die Ziele der Akademie werden dargestellt.",
+    "reference": "The academy and its goals were demonstrated.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The format and the goals of the academy are presented."
+  },
+  {
+    "index": 301,
+    "source": "Im zweiten Schritt erfolgte die Evaluation, an der sich 79 % der Teilnehmer beteiligten.",
+    "reference": "In a second step, the evaluation, conducted by 79 % of participants, was presented.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In the second step, the evaluation took place, in which 79% of the participants took part."
+  },
+  {
+    "index": 302,
+    "source": "Alle Teilnehmer sahen die Mikrochirurgie als Teil ihres Arbeitsspektrums und das größte Interesse bestand für die Extremitäten- (90 %) und die mikrochirurgische Rekonstruktion der Hand (80 %). Alle Teilnehmer würden den Kurs weiterempfehlen, empfohlen wurde eine Verbesserung der intraoperativen Video-Übertragung.",
+    "reference": "All participants considered microsurgery to be part of their future work spectrum, with the greatest fields of interest being extremity reconstruction (90 %) or microsurgical reconstruction of the hand (80 %). All participants would recommend the course to their colleagues, but suggest improving the intraoperative video monitoring.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "All participants considered microsurgery as part of their work spectrum, with the greatest interest in limb (90%) and microsurgical hand reconstruction (80%). All participants would recommend the course, with a suggestion to improve the intraoperative video transmission."
+  },
+  {
+    "index": 303,
+    "source": "DISKUSSION",
+    "reference": "DISCUSSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "DISCUSSION"
+  },
+  {
+    "index": 304,
+    "source": "Insbesondere der enge Austausch mit den Experten wurde als wertvoll erachtet, um ein Netzwerk innerhalb der deutschsprachigen Mikrochirurgie aufzubauen.",
+    "reference": "In particular, the close contact between senior and junior surgeons was considered highly relevant for building a network within German microsurgery.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In particular, the close exchange with the experts was considered valuable for building a network within German-speaking microsurgery."
+  },
+  {
+    "index": 305,
+    "source": "Die Akademie verfolgt das Ziel, eine junge Generation von Mikrochirurgen dauerhaft und nachhaltig zu begeistern und ein professionelles Netzwerk aufzubauen und weiterzuentwickeln.",
+    "reference": "The overall goal of the academy is to improve teaching and increase the enthusiasm of future microsurgeons and provide a network for German microsurgeons during their training and beyond.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The academy aims to permanently and sustainably inspire a young generation of microsurgeons and to build and further develop a professional network."
+  },
+  {
+    "index": 306,
+    "source": "MATERIAL UND METHODEN",
+    "reference": "MATERIAL AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "MATERIAL AND METHODS"
+  },
+  {
+    "index": 307,
+    "source": "Anhand der Röntgenbilder von 143 Kaninchen wurden Darstellbarkeit, Größe, Form und Dichte des Uterus, Ernährungszustand des Tieres sowie mögliche Metastasen in anderen Organen beurteilt.",
+    "reference": "Based on radiographs of 143 rabbits, visibility, size, shape and density of the uterus, nutritional status of the animal and possible metastasis in other organs were examined.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Based on the X-rays of 143 rabbits, the visibility, size, shape, and density of the uterus, the nutritional status of the animal, as well as possible metastases in other organs were assessed."
+  },
+  {
+    "index": 308,
+    "source": "Daraus wurde eine Verdachtsdiagnose abgeleitet.",
+    "reference": "A suspected diagnosis was deduced.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A suspected diagnosis was derived from this."
+  },
+  {
+    "index": 309,
+    "source": "Die röntgenologischen Befunde wurden anhand der Ergebnisse der histopathologischen Untersuchung überprüft.",
+    "reference": "The radiological findings were compared with the results of the histopathological examination.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The radiological findings were verified based on the results of the histopathological examination."
+  },
+  {
+    "index": 310,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 311,
+    "source": "Von den 13 nicht im Röntgenbild visualisierbaren Uteri der insgesamt 143 Kaninchen waren vier pathologisch verändert.",
+    "reference": "Among 13 of the 143 uteri that were not visible in the radiograph four were altered pathologically.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Of the 13 uteri not visualized in the X-ray images out of the total 143 rabbits, four were pathologically altered."
+  },
+  {
+    "index": 312,
+    "source": "Bei zwei der vier mageren Tiere (2,8 %) gelang eine Visualisierung des Uterus nicht, während der Bereich des Uterus bei allen 39 adipösen Tieren erkennbar war.",
+    "reference": "Visualising the uterus proved impossible in two of four skinny rabbits (2.8 %), whereas in all 39 obese rabbits the uterus was visible.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In two of the four lean animals (2.8%), visualization of the uterus was not possible, whereas the uterine region was detectable in all 39 obese animals."
+  },
+  {
+    "index": 313,
+    "source": "Nur bei einem der vier mageren Tiere ergab die histopathologische Untersuchung einen unauffälligen Uterus und bei sechs adipösen Tieren wies das Organ trotz Erkennbarkeit keine pathologische Veränderung auf.",
+    "reference": "Only in one of the four skinny rabbits was the uterus without pathological findings and six of the 39 obese rabbits showed no pathological alteration, visibility notwithstanding.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Only in one of the four lean animals did the histopathological examination reveal an unremarkable uterus, and in six obese animals, the organ, despite being identifiable, showed no pathological changes."
+  },
+  {
+    "index": 314,
+    "source": "Verkalkungen deuteten in 23 von 53 Fällen auf ein tumoröses Geschehen hin.",
+    "reference": "Calcification indicated a tumourous occurrence in 23 of 53 cases.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Calcifications indicated a tumorous process in 23 out of 53 cases."
+  },
+  {
+    "index": 315,
+    "source": "Bei 20 der 44 Patienten mit Uterusneoplasie zeigten sich im Röntgenbild keine Kalzifizierungsherde im Organ.",
+    "reference": "In 20 of the 44 patients with uterine neoplasia no calcification was seen.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In 20 of the 44 patients with uterine neoplasia, no calcification foci were visible in the organ on the X-ray image."
+  },
+  {
+    "index": 316,
+    "source": "Größenveränderungen des Uterus traten bei 118 der 143 Kaninchen auf (82,5 %), Formabweichungen bei 109 der 143 Tiere (67,1 %).",
+    "reference": "Changes in uterine size occurred in 118 of the 143 rabbits (82.5 %) and alteration of the uterine shape in 109 of the 143 rabbits (67.1 %).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Changes in the size of the uterus occurred in 118 out of 143 rabbits (82.5%), and shape deviations were observed in 109 out of 143 animals (67.1%)."
+  },
+  {
+    "index": 317,
+    "source": "SCHLUSSFOLGERUNG UND KLINISCHE RELEVANZ",
+    "reference": "CONCLUSION AND CLINICAL RELEVANCE",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION AND CLINICAL RELEVANCE"
+  },
+  {
+    "index": 318,
+    "source": "Ohrmuscheldeformitäten treten bei bis zu 5 % aller Neugeborenen auf.",
+    "reference": "Congenital ear deformities occur in 5 % of all newborns.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Ear deformities occur in up to 5% of all newborns."
+  },
+  {
+    "index": 319,
+    "source": "PATIENTEN UND METHODEN",
+    "reference": "PATIENTS AND METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "PATIENTS AND METHODS"
+  },
+  {
+    "index": 320,
+    "source": "Insgesamt 19 Neugeborene wurden in diese prospektive Studie inkludiert.",
+    "reference": "This prospective study included 19 newborns.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A total of 19 newborns were included in this prospective study."
+  },
+  {
+    "index": 321,
+    "source": "Folgende Ohrmuscheldeformitäten wurden behandelt: Tassenohr, Spock-Ohr, Schlappohr, Stahlohrdeformität, fehlende Helix- oder Anthelixausformung.",
+    "reference": "The following ear deformities were treated: cup ear, lop ear, steel ear, helical rim abnormalities, antihelical rim abnormalities.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The following ear deformities were treated: cup ear, Spock ear, lop ear, steel ear deformity, missing helix or antihelix formation."
+  },
+  {
+    "index": 322,
+    "source": "Die Ergebnisse wurden 2 Jahre nach Anwendung des EarWell™ Systems reevaluiert.",
+    "reference": "The results of the EarWell™ system were reevaluated two years after the procedure.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The results were reevaluated 2 years after the application of the EarWell™ System."
+  },
+  {
+    "index": 323,
+    "source": "Die klinische Beurteilung erfolgte durch 2 unabhängige Untersucher anhand von prä- und postinterventionellen Bildern.",
+    "reference": "Two independent examiners evaluated the clinical results on the basis of preand postprocedural pictures.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The clinical assessment was conducted by 2 independent investigators based on pre- and post-interventional images."
+  },
+  {
+    "index": 324,
+    "source": "Folgende Parameter wurden zusätzlich erhoben: Anwendungsdauer, Komplikationen, Elternzufriedenheit, Vergleich der Kosten des EarWell™ Systems mit den Kosten einer Ohranlegeplastik.",
+    "reference": "In addition, the following parameters were evaluated: time of application, complications, satisfaction of parents, cost comparison between the EarWell™ system and otoplasty.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The following parameters were additionally collected: duration of application, complications, parental satisfaction, comparison of the costs of the EarWell™ System with the costs of an ear molding procedure."
+  },
+  {
+    "index": 325,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 326,
+    "source": "Insgesamt wurden 32 Ohren bei 19 Neugeborenen mit dem EarWell™ System behandelt.",
+    "reference": "In all, 32 ears were treated with the EarWell™ system.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "A total of 32 ears in 19 newborns were treated with the EarWell™ System."
+  },
+  {
+    "index": 327,
+    "source": "Davon waren 63 % männlich und 37 % weiblich.",
+    "reference": "63 % were male and 37 % female.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Of these, 63% were male and 37% were female."
+  },
+  {
+    "index": 328,
+    "source": "Mit der Anpassung wurde innerhalb der 1.–3. Lebenswoche begonnen.",
+    "reference": "The system was placed in the first three weeks of life.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The adjustment was initiated within the 1st to 3rd week of life."
+  },
+  {
+    "index": 329,
+    "source": "Die durchschnittliche Anwendungsdauer lag zwischen 12–28 Tagen.",
+    "reference": "The average treatment time was 12-28 days.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The average duration of application was between 12–28 days."
+  },
+  {
+    "index": 330,
+    "source": "Die Komplikationsrate lag bei 1,3 %. Die klinischen Ergebnisse wurden von den Untersuchern wie folgt beurteilt: 23 % sehr zufrieden, 35 % zufriedenstellend, 30 % befriedigend, 3 % weniger zufriedenstellend und 9 % gar nicht zufriedenstellend.",
+    "reference": "The rate of complications was 1.3 %. The clinical results were rated as follows: 23 % very satisfactory, 35 % fully satisfactory, 30 % satisfactory, 3 % less satisfactory and 9 % not satisfactory.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The complication rate was 1.3%. The clinical outcomes were assessed by the investigators as follows: 23% very satisfied, 35% satisfactory, 30% adequate, 3% less satisfactory, and 9% not satisfactory at all."
+  },
+  {
+    "index": 331,
+    "source": "95 % der Eltern würden einer neuerlichen EarWell™ System-Anwendung zustimmen.",
+    "reference": "95 % of the parents would use the EarWell™ system again.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "95% of parents would agree to another application of the EarWell™ System."
+  },
+  {
+    "index": 332,
+    "source": "Die Kosten für das EarWell™ System liegen bei € 660,– und für eine Ohranlegeplastik in Allgemeinnarkose bei € 2826,–.",
+    "reference": "The costs of the EarWell™ system are EUR 660, those of otoplasty EUR 2826.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The cost for the EarWell™ System is €660, and for an ear pinning surgery under general anesthesia, it is €2826."
+  },
+  {
+    "index": 333,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 334,
+    "source": "Ohrdeformitäten lassen sich mithilfe des EarWell™ Systems innerhalb der ersten sechs Lebenswochen sehr gut behandeln.",
+    "reference": "Ear deformities are easily treated with the EarWell™ system during the first weeks of life.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Ear deformities can be very effectively treated using the EarWell™ System within the first six weeks of life."
+  },
+  {
+    "index": 335,
+    "source": "Einer Operation im höheren Alter sowie einem sozialen Stress kann somit frühzeitig entgegengewirkt werden.",
+    "reference": "It reduces the need for surgical correction at a later age and prevents children from further stress.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Thus, it is possible to counteract an operation at an advanced age as well as social stress at an early stage."
+  },
+  {
+    "index": 336,
+    "source": "Einen weiteren Vorteil stellen die niedrigen Kosten im Vergleich zur Ohranlegeplastik dar.",
+    "reference": "Another advantage is the low costs compared with the costs of otoplasty.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Another advantage is the low cost compared to ear reshaping surgery."
+  },
+  {
+    "index": 337,
+    "source": "Aufgrund immer kleinerer Querschnitte der Inzisionen müssen hochviskose Öle unter zunehmend hohem Druck injiziert und extrahiert werden.",
+    "reference": "However, due to ever-decreasing sizes of incisions and trocars, injection and removal of highly viscous silicone oils is very time-consuming.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Due to increasingly smaller cross-sections of the incisions, highly viscous oils must be injected and extracted under increasingly high pressure."
+  },
+  {
+    "index": 338,
+    "source": "Um Problemen, wie längeren Behandlungszeiten oder Hypotonie, begegnen zu können, wurden thixotrope Öle entwickelt.",
+    "reference": "To address resulting problems like longer treatment times or hypotony, thixotropic silicone oils were developed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "To address issues such as longer treatment times or hypotension, thixotropic oils were developed."
+  },
+  {
+    "index": 339,
+    "source": "Diese Öle zeichnen sich dadurch aus, dass ihre Viskosität infolge einer kontinuierlichen mechanischen Belastung abnimmt. Solange also Druck oder Sog auf die hier vorgestellten Öle einwirken, werden die Öle dünnflüssiger und fließen deutlich besser.",
+    "reference": "These oils are characterized by a diminished viscosity under constant mechanical stress; whilst there is pressure or vacuum acting on it, the oils will become more fluid and, therefore, much easier to be applied.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "These oils are characterized by the fact that their viscosity decreases as a result of continuous mechanical stress. As long as pressure or suction is applied to the oils presented here, they become thinner and flow significantly better."
+  },
+  {
+    "index": 340,
+    "source": "Neben minimalinvasiven Operationstechniken sind dabei eine Vielzahl von anästhesiologischen Aspekten wie die Wahl kurz wirksamer Narkoseregime, der Einsatz von Regionalanalgesie, eine ausgeglichene intraoperative Flüssigkeitstherapie, die Vermeidung von postoperativer Übelkeit und Erbrechen und vor allem eine protektive Beatmung zu berücksichtigen.",
+    "reference": "Besides minimally invasive surgical techniques, there are a number of anaesthesiological aspects like the choice of short acting anaesthetics, the use of regional analgesia, a balanced intraoperative fluid therapy, the avoidance of postoperative nausea and vomiting and, most importantly, protective ventilation, that need to be considered.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In addition to minimally invasive surgical techniques, a variety of anesthesiological aspects must be considered, such as the choice of short-acting anesthetic regimens, the use of regional analgesia, balanced intraoperative fluid therapy, the prevention of postoperative nausea and vomiting, and, above all, protective ventilation."
+  },
+  {
+    "index": 341,
+    "source": "Bei einem Patientenkollektiv, das zunehmend auch bei vorbestehenden, teils schweren Lungenfunktionsstörungen operiert werden muss, führt eine protektive Beatmung unter den Bedingungen einer Ein-Lungen-Ventilation häufig zu schweren Gasaustauschstörungen.",
+    "reference": "In patients undergoing thoracic surgery procedures with preexisting severe limitations in pulmonary function, protective ventilation under the conditions of one lung ventilation often leads to severe dysfunction of pulmonary gas exchange.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In a patient population that increasingly includes individuals with pre-existing, sometimes severe lung function disorders who must undergo surgery, protective ventilation under the conditions of one-lung ventilation often leads to severe gas exchange disorders."
+  },
+  {
+    "index": 342,
+    "source": "In dieser Situation stellt der Einsatz einer venovenösen extrakorporalen Membranoxygenierung (vvECMO) eine suffiziente und sichere Methode dar, die perioperative Behandlung dieser Patienten zu ermöglichen.",
+    "reference": "In this situation, establishing veno-venous membrane oxygenation (vvECMO) is a sufficient and safe method to facilitate perioperative treatment of these patients.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In this situation, the use of venovenous extracorporeal membrane oxygenation (vvECMO) represents a sufficient and safe method to enable the perioperative treatment of these patients."
+  },
+  {
+    "index": 343,
+    "source": "Zur Vermeidung von Blutungskomplikationen kann die ECMO aufgrund der Heparinbeschichtung der Schlauchsysteme intraoperativ zunächst ohne Antikoagulation betrieben werden.",
+    "reference": "To avoid bleeding complications, ECMO can be operated without anticoagulation intraoperatively with heparin-coating of the tube system.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "To avoid bleeding complications, the ECMO can initially be operated without anticoagulation during surgery due to the heparin coating of the tubing systems."
+  },
+  {
+    "index": 344,
+    "source": "Postoperative Optionen der Antikoagulation stellen Heparin, Argatroban oder Bivalirudin dar.",
+    "reference": "Postoperatively, heparin, argatroban or bivalirudin are options for anticoagulation.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Postoperative options for anticoagulation include heparin, argatroban, or bivalirudin."
+  },
+  {
+    "index": 345,
+    "source": "Auch neue Techniken, wie die minimalinvasive Thoraxchirurgie unter Regionalanästhesie mit Sedierung, können in der Zukunft möglicherweise durch den Einsatz einer vvECMO weiterentwickelt werden.",
+    "reference": "New techniques like minimally-invasive thoracic surgery under regional anaesthesia and sedation can potentially be developed further using vvECMO support in the future.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "New techniques, such as minimally invasive thoracic surgery under regional anesthesia with sedation, may also be further developed in the future through the use of vvECMO."
+  },
+  {
+    "index": 346,
+    "source": "Die Inversio uteri bezeichnet das Umstülpen der Gebärmutter in die Scheide postpartal.",
+    "reference": "An inverted uterus is defined as the eversion of the uterus into the vagina.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Uterine inversion refers to the turning inside out of the uterus into the vagina postpartum."
+  },
+  {
+    "index": 347,
+    "source": "Dies kann, wenn keine rechtzeitige Therapie erfolgt, zum hypovolämischen Schock bis zum Herz-Kreislaufversagen führen.",
+    "reference": "This can lead to hypovolemic shock and circulatory failure.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This can, if no timely therapy is administered, lead to hypovolemic shock up to cardiovascular failure."
+  },
+  {
+    "index": 348,
+    "source": "Die Therapie erfolgt durch eine Uterus-Reposition in Vollnarkose mit anschließender manueller Plazentalösung.",
+    "reference": "Therapy includes urgent uterine repositioning under narcosis and curettage after manual abruption of the placenta.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The therapy is performed by uterine repositioning under general anesthesia followed by manual placental removal."
+  },
+  {
+    "index": 349,
+    "source": "Wir berichten über eine 39-jährige III. Gravida, III. Para mit 36+3 Schwangerschaftswochen (SSW), bei der es nach spontaner Steißgeburt bei Placenta accreta zur Inversio uteri kam, die vaginal reponiert werden konnte.",
+    "reference": "We report the case of a 39 year-old gravida III, para III in the 36+3 gestational week who, after a spontaneous breech delivery with placenta accreta, experienced an inverted uterus, which was then repositioned.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "We report on a 39-year-old III. Gravida, III. Para at 36+3 weeks of gestation (WG), who experienced uterine inversion following a spontaneous breech delivery due to placenta accreta, which could be manually repositioned vaginally."
+  },
+  {
+    "index": 350,
+    "source": "Über zwei Jahrzehnte waren niedermolekulare Heparine und Fondaparinux die Eckpfeiler der venösen Thromboembolie-Prophylaxe für Patienten mit akuten internistischen Erkrankungen.",
+    "reference": "Low molecular weight heparins and fondaparinux have been the cornerstones for prevention of venous thromboembolism (VTE) in acutely ill medical patients for almost two decades.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "For over two decades, low molecular weight heparins and fondaparinux have been the cornerstones of venous thromboembolism prophylaxis for patients with acute medical conditions."
+  },
+  {
+    "index": 351,
+    "source": "In den Leitlinien wird diese Art der Prophylaxe für 6 bis 14 Tage empfohlen, jedoch wird von einer verlängerten Dauer der Prophylaxe über den Krankenhausaufenthalt hinaus wegen fehlender wissenschaftlicher Evidenz abgeraten.",
+    "reference": "Guidelines recommend the use of these parenteral anticoagulants for 6 to 14 days but advise against extended-duration thromboprophylaxis after hospital discharge because no compelling scientific evidence has been provided for pharmacological prophylaxis beyond hospital stay.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The guidelines recommend this type of prophylaxis for 6 to 14 days, but they advise against extending the duration of prophylaxis beyond the hospital stay due to a lack of scientific evidence."
+  },
+  {
+    "index": 352,
+    "source": "In fünf großen randomisierten Studien, davon eine mit niedermolekularem Heparin und vier mit Nicht-Vitamin K antagonistischen oralen Antikoagulanzien, konnte für diese Indikation kein signifikanter, klinisch relevanter Vorteil nachgewiesen werden.",
+    "reference": "Five large randomized clinical trials, one with low molecular weight heparin and four with nonvitamin K antagonist oral anticoagulants, have failed to show significant clinically relevant benefit in this indication.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In five large randomized studies, one with low molecular weight heparin and four with non-vitamin K antagonist oral anticoagulants, no significant, clinically relevant benefit could be demonstrated for this indication."
+  },
+  {
+    "index": 353,
+    "source": "Vermutlich ist die Entstehung venöser Thromboembolien bei internistischen Patienten komplexer als bei Patienten mit chirurgischen Eingriffen.",
+    "reference": "Obviously, the development of VTE is more complex in medical patients than in patients undergoing major surgical procedures.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Presumably, the development of venous thromboembolism in medical patients is more complex than in patients undergoing surgical procedures."
+  },
+  {
+    "index": 354,
+    "source": "Deshalb ist zu erwarten, dass die Leitlinienempfehlungen zur venösen Thromboembolie-Prophylaxe mit niedermolekularen Heparinen oder Fondaparinux für internistische Patienten auch im Jahr 2019 unverändert bleiben.",
+    "reference": "Thus, it can be expected that guideline recommendations for VTE prevention with low molecular weight heparins or fondaparinux in medical patients will remain unchanged in 2019.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Therefore, it is expected that the guideline recommendations for venous thromboembolism prophylaxis with low molecular weight heparins or fondaparinux for internal medicine patients will remain unchanged in 2019."
+  },
+  {
+    "index": 355,
+    "source": "Die Arthrose betrifft eine signifikante Anzahl der erwachsenen Weltbevölkerung.",
+    "reference": "Osteoarthritis (OA) affects a significant number of the world's adult population.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Osteoarthritis affects a significant number of the adult world population."
+  },
+  {
+    "index": 356,
+    "source": "Da in den letzten Jahren verschiedene kausale Ansätze zur klinischen Arthrosetherapie auf der Basis neuer translationaler Erkenntnisse entwickelt wurden, gibt dieser Artikel zunächst einen kurzen Überblick über neue Erkenntnisse zur Pathophysiologie und Genetik der Arthrose sowie das Zusammenspiel zwischen Biomechanik, Schmerz und Körpergewicht.",
+    "reference": "In recent years different causal approaches to treat OA based on new translational knowledge have been developed. This review article provides, a brief overview of new findings on the pathophysiology and genetics and the interplay between biomechanics, pain and body weight.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Since various causal approaches to clinical osteoarthritis therapy have been developed in recent years based on new translational insights, this article first provides a brief overview of new findings on the pathophysiology and genetics of osteoarthritis, as well as the interplay between biomechanics, pain, and body weight."
+  },
+  {
+    "index": 357,
+    "source": "Die Datenlage aktueller Studien zu pharmakologischen und rekonstruktiv-chirurgischen sowie zu regenerativen und molekularen Therapien der Arthrose wie bspw. durch NGF, FGF-18, TNF-α, Wnt-Signalweg-Inhibitoren und TGF-β1-Gentransfer wird diskutiert.",
+    "reference": "Current pharmacological and reconstructive surgical treatment options as well as studies on novel regenerative and molecular therapies of OA, such as applying NGF, FGF-18, TNF-α, Wnt signaling pathway inhibitors, and TGF-β1 gene therapy are discussed.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The data from current studies on pharmacological and reconstructive-surgical as well as regenerative and molecular therapies for osteoarthritis, such as through NGF, FGF-18, TNF-α, Wnt signaling pathway inhibitors, and TGF-β1 gene transfer, are discussed."
+  },
+  {
+    "index": 358,
+    "source": "Basierend auf dem biopsychosozialen Krankheitsmodell wird die Ausprägung des Reizdarmsyndroms durch die Kombination von veränderten physiologischen Prozessen, sozialen Aspekten und psychischen Faktoren beeinflusst.",
+    "reference": "Based on the biopsychosocial model the severity of the disease is affected by the combination of physiological processes, social aspects and psychological factors.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Based on the biopsychosocial disease model, the manifestation of irritable bowel syndrome is influenced by a combination of altered physiological processes, social aspects, and psychological factors."
+  },
+  {
+    "index": 359,
+    "source": "Während der Fokus bisher auf der Linderung der Darmbeschwerden mittels Diät sowie medikamentöser Therapie lag, stellen Psychotherapieverfahren angesichts der starken Assoziation mit psychischen Komorbiditäten (u. a. Depression, Angststörung) zunehmend alternative oder ergänzende Behandlungsmethoden mit mittlerweile sehr guter Evidenz dar.",
+    "reference": "While treatment approaches mainly focused on the reduction of gut complaints by dietary means or medication, psychotherapy is becoming an alternative or additional approach with very good evidence, especially in light of associated psychiatric comorbidities (e. g. depression, anxiety disorder).",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "While the focus has previously been on alleviating intestinal discomfort through diet and drug therapy, psychotherapeutic approaches are increasingly emerging as alternative or complementary treatment methods with now very good evidence, given the strong association with mental comorbidities (e.g., depression, anxiety disorders)."
+  },
+  {
+    "index": 360,
+    "source": "Grundsätzlich können zusätzliche psychische Begleitsymptome die Wahrscheinlichkeit komplizierter Krankheitsverläufe erhöhen, wobei sich psychische Symptome und Darmbeschwerden maßgeblich gegenseitig beeinflussen.",
+    "reference": "Often psychiatric symptoms/comorbidities increase the probability of a complicated course of the disease with a reciprocal interaction of gut complaints and psychiatric symptoms.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Fundamentally, additional accompanying psychological symptoms can increase the likelihood of complicated disease courses, with psychological symptoms and intestinal complaints significantly influencing each other."
+  },
+  {
+    "index": 361,
+    "source": "Mithilfe von kognitiver Verhaltenstherapie, psychodynamischer Psychotherapie, Hypnotherapie, achtsamkeitsbasierter Therapie und anderen psychotherapeutischen Verfahren sollen die Krankheitsbewältigung und -kontrolle gesteigert und fehlregulierte kognitive Prozesse umstrukturiert werden.",
+    "reference": "Behavioral therapy, psychodynamic psychotherapy, hypnotherapy, mindfulness interventions and other psychotherapeutic methods are used to increase coping as well as disease control and to restructure dysregulated cognitive processes.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "With the help of cognitive behavioral therapy, psychodynamic psychotherapy, hypnotherapy, mindfulness-based therapy, and other psychotherapeutic methods, the management and control of the illness are to be enhanced, and dysregulated cognitive processes are to be restructured."
+  },
+  {
+    "index": 362,
+    "source": "In dieser Übersichtsarbeit fokussieren wir uns auf den psychosozialen Aspekt des Reizdarmsyndroms und diskutieren den Nutzen der psychotherapeutischen Verfahren.",
+    "reference": "The current review focuses on psychosocial aspects of the irritable bowel syndrome and discusses the benefit of psychotherapeutic interventions.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In this review, we focus on the psychosocial aspect of irritable bowel syndrome and discuss the benefits of psychotherapeutic approaches."
+  },
+  {
+    "index": 363,
+    "source": "METHODIK",
+    "reference": "METHODS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "METHODOLOGY"
+  },
+  {
+    "index": 364,
+    "source": "In 39 semi-strukturierten Einzelinterviews wurden Erfahrungen und Perspektiven von Experten unterschiedlicher Versorgungsbereiche analysiert.",
+    "reference": "The experiences and perspectives of experts from different healthcare sectors were explored within 39 semi-structured individual interviews.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In 39 semi-structured individual interviews, experiences and perspectives of experts from various care sectors were analyzed."
+  },
+  {
+    "index": 365,
+    "source": "Anschließend wurden die Ergebnisse der Einzelinterviews in 2 professionsübergreifenden Fokusgruppen diskutiert.",
+    "reference": "Subsequently, the results gathered in the course of the individual interviews were discussed within 2 inter-professional focus groups.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Subsequently, the results of the individual interviews were discussed in 2 interdisciplinary focus groups."
+  },
+  {
+    "index": 366,
+    "source": "ERGEBNISSE",
+    "reference": "RESULTS",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "RESULTS"
+  },
+  {
+    "index": 367,
+    "source": "Der Zugang zur stationären Rehabilitation für Methamphetaminabhängige wird insbesondere durch strukturelle Barrieren beeinträchtigt.",
+    "reference": "Structural issues in particular impair the access to inpatient rehabilitation of methamphetamine dependents.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "Access to inpatient rehabilitation for methamphetamine addicts is particularly hindered by structural barriers."
+  },
+  {
+    "index": 368,
+    "source": "Dazu gehören z. B. eine erschwerte Zuweisung zur Reha über Hausärzte, ein zu selten bedientes Nahtlosigkeitsverfahren, Kapazitätsprobleme der Rehakliniken sowie ein intransparentes Verfahren der Klinikauswahl durch den Träger.",
+    "reference": "This includes impeded access to rehabilitation via general practitioners, rare implementation of seamless transitions, capacity problems as well as non-transparent procedures in terms of treatment facility allocations.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "This includes, for example, a more difficult assignment to rehabilitation through general practitioners, a rarely utilized seamless procedure, capacity problems of rehabilitation clinics, as well as an opaque process of clinic selection by the provider."
+  },
+  {
+    "index": 369,
+    "source": "SCHLUSSFOLGERUNG",
+    "reference": "CONCLUSION",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "CONCLUSION"
+  },
+  {
+    "index": 370,
+    "source": "Es gibt einige Indikationen, die eine künstliche Flüssigkeitsgabe rechtfertigen bzw. eher verbieten.",
+    "reference": "Nevertheless, there are indications that justify artificial hydration and others that rather forbid it.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "There are some indications that justify artificial fluid administration or rather prohibit it."
+  },
+  {
+    "index": 371,
+    "source": "Bei Unsicherheit über einen Benefit einer Flüssigkeitsgabe kann ein befristeter Therapieversuch etabliert werden.",
+    "reference": "In case of uncertainty about hydration, there is the option for a limited trial of therapy.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "In case of uncertainty about the benefit of fluid administration, a time-limited therapeutic trial can be established."
+  },
+  {
+    "index": 372,
+    "source": "Als Therapie der Wahl gilt die subkutane Flüssigkeitsgabe.",
+    "reference": "Subcutaneous application is the preferred way of hydration.",
+    "src_lang": "German",
+    "tgt_lang": "English",
+    "prediction": "The therapy of choice is considered to be subcutaneous fluid administration."
+  }
+]

@@ -1,0 +1,2802 @@
+[
+  {
+    "index": 0,
+    "source": "当地震袭击中国时，援助的是中国。",
+    "reference": "When the earthquake hit China, China was aided.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When an earthquake strikes China, it is China that provides the aid."
+  },
+  {
+    "index": 1,
+    "source": "当地震袭击日本时，援助的是中国。",
+    "reference": "When the earthquake hit Japan, China has assisted.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When an earthquake struck Japan, it was China that provided assistance."
+  },
+  {
+    "index": 2,
+    "source": "反对的是政府，这个腐败的政府不支持群众集会。",
+    "reference": "The objection is from the government. This corrupt government does not support mass gatherings.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the government that opposes; this corrupt government does not support public gatherings."
+  },
+  {
+    "index": 3,
+    "source": "反对的是政府，群众要求这个腐败的政府改革。",
+    "reference": "The objection is against the government, and the masses demand this corrupt government to reform.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are opposing the government, and the people demand that this corrupt government carry out reforms."
+  },
+  {
+    "index": 4,
+    "source": "捕猎的是老虎，老虎的数量正在急剧减少。",
+    "reference": "Tigers are hunted, so the number of tigers is drastically decreasing.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tigers are being hunted, and their numbers are rapidly declining."
+  },
+  {
+    "index": 5,
+    "source": "捕猎的是老虎，它追赶羚羊的速度很快。",
+    "reference": "Tigers are hunting, and they run very fast when they chase after the antelope.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The hunter is the tiger, and it chases antelopes very quickly."
+  },
+  {
+    "index": 6,
+    "source": "命令的是师级军官，师级军官被要求今早开会。",
+    "reference": "The commander is a division-level officer, and the officers above the division level are required to attend a meeting this morning.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The orders were given by a division-level officer, who was required to attend a meeting this morning."
+  },
+  {
+    "index": 7,
+    "source": "命令的是师级军官，师所辖旅被要求立即集合。",
+    "reference": "The division-level officer was commanded, and the division’s jurisdiction is required to gather immediately.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The order was given by a division-level officer, and the brigades under the division were ordered to assemble immediately."
+  },
+  {
+    "index": 8,
+    "source": "担心的是妻子，丈夫已经很久没有音信了。",
+    "reference": "The wife is worried, because the husband has not heard from for a long time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The wife is worried, as she hasn’t heard from her husband for a long time."
+  },
+  {
+    "index": 9,
+    "source": "担心的是妻子，在我离开之后不知道她能不能肩负起整个家庭。",
+    "reference": "What I am worried about I is my wife, because  I don’t know if she can shoulder the whole family after my leave.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I’m worried about my wife. After I leave, I’m not sure if she’ll be able to shoulder the entire family’s responsibilities."
+  },
+  {
+    "index": 10,
+    "source": "关心的是她母亲，她母亲熬了粥给生病的她。",
+    "reference": "Her mother cared for her,  and her mother cooked porridge to her when she was sick.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was her mother who was concerned about her; her mother simmered congee for her when she was ill."
+  },
+  {
+    "index": 11,
+    "source": "关心的是她母亲，她母亲生病了需要照顾。",
+    "reference": "Who was concerned about is her mother, because sh is sick and requires looking after.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She is concerned about her mother, who is sick and needs care."
+  },
+  {
+    "index": 12,
+    "source": "反对的是王老师，王老师不支持这个教学计划。",
+    "reference": "The objection is  from Mr. Wang, and Teacher Wang does not support this teaching plan.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is Teacher Wang who opposes it. Teacher Wang does not support this teaching plan."
+  },
+  {
+    "index": 13,
+    "source": "反对的是王老师，其他人认为王老师的提议是不恰当的。",
+    "reference": "Against Mr. Wang. Others think that Mr. Wang’s proposal is not appropriate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who objects is Teacher Wang, while the others believe Teacher Wang’s proposal is inappropriate."
+  },
+  {
+    "index": 14,
+    "source": "连小孩都不相信,这件事情太假了。",
+    "reference": "Even children don't believe it, for this thing is too fake.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Even children wouldn't believe it. This is too fake."
+  },
+  {
+    "index": 15,
+    "source": "连小孩都不相信,因为他是个多疑的人。",
+    "reference": "He even do not believe in children, because he is a righteous person.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He doesn’t even trust children, because he is a very suspicious person."
+  },
+  {
+    "index": 16,
+    "source": "鸡不吃了，因为这只鸡已经吃了太多了。",
+    "reference": "The chicken did not eat because the chicken had already eaten too much.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The chicken won't eat anymore, because it has already eaten too much."
+  },
+  {
+    "index": 17,
+    "source": "鸡不吃了，因为最近都在吃鸡，吃腻了。",
+    "reference": "Don't eat chicken, because we have been having chicken recently and are tired of it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I won’t eat chicken anymore because I’ve been eating chicken so much recently that I’m tired of it."
+  },
+  {
+    "index": 18,
+    "source": "小杨没找到，已经一个下午没见到小杨了。",
+    "reference": "He did not find Xiao Yang, and he hadn't seen Xiao Yang in this whole  afternoon.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We haven’t found Xiao Yang. It’s already been an entire afternoon since anyone last saw him."
+  },
+  {
+    "index": 19,
+    "source": "小杨没找到，小杨感到很诅丧。",
+    "reference": "Xiao Yang did not find it, and he felt very sad.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Xiao Yang couldn’t find it, and he felt very depressed."
+  },
+  {
+    "index": 20,
+    "source": "当刘和珍被杀时，批评的是鲁迅的文章。",
+    "reference": "When Liu Hezhen was killed, Lu Xun’s articles were criticized.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When Liu Hezhen was killed, it was Lu Xun’s article that was criticized."
+  },
+  {
+    "index": 21,
+    "source": "这个人大放厥词，批评的是鲁迅的文章。",
+    "reference": "This person was arrogant and criticized Lu Xun's articles.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This person was making grandiose remarks, and what they criticized were Lu Xun’s writings."
+  },
+  {
+    "index": 22,
+    "source": "调查的是学生，因为这些学生是这个事件的目击者。",
+    "reference": "The students were investigated because they were the witnesses to the incident.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The students are being investigated because these students are eyewitnesses to the incident."
+  },
+  {
+    "index": 23,
+    "source": "调查的是学生，因为这些学生要完成老师布置的作业。",
+    "reference": "The students are investigating because they have to complete the assignments assigned by the teacher.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The survey focuses on students because they need to complete the assignments given by their teacher."
+  },
+  {
+    "index": 24,
+    "source": "照顾孩子的妈妈，这个女人在孩子生病时时刻守在孩子身边。",
+    "reference": "The mother is taking care of the child, and this woman always accompanies the child when he is sick.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The mother who looks after the child stays by the child’s side at all times when the child is ill."
+  },
+  {
+    "index": 25,
+    "source": "照顾孩子的妈妈，她在生完小孩后需要得到精心照顾。",
+    "reference": "Take care of the child's mother, for she needs to be taken care of after giving birth.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The mother who cares for the child needs attentive care after giving birth."
+  },
+  {
+    "index": 26,
+    "source": "尊重学生的老师，这是每个学生家长应该要做到的。",
+    "reference": "Respecting the student's teacher is what every student's parents should do.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Respecting students’ teachers is something every student’s parent should do."
+  },
+  {
+    "index": 27,
+    "source": "尊重学生的老师，他总是采纳学生的建议。",
+    "reference": "This teacher who respects the students always adopts the student's advice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The teacher who respects students always adopts their suggestions."
+  },
+  {
+    "index": 28,
+    "source": "关心企业的员工，这些员工经常从企业的大局出发去工作。",
+    "reference": "These employees who care about the business often work for the overall situation of the company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Employees who care about the company often approach their work from the company’s broader perspective."
+  },
+  {
+    "index": 29,
+    "source": "关心企业的员工，老板需要提升他们的生活住宿待遇。",
+    "reference": "For concerning about the employees of the company, the boss needs to improve their living and accommodation condition.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For employees who care about the company, the boss needs to improve their living and accommodation conditions."
+  },
+  {
+    "index": 30,
+    "source": "发现了敌人的哨兵，这个哨兵需要立即汇报敌情。",
+    "reference": "The sentinel found the enemy, and the sentinel needed to report the enemy immediately.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "An enemy sentry has been discovered, and they need to report the enemy situation immediately."
+  },
+  {
+    "index": 31,
+    "source": "发现了敌人的哨兵，不能让敌人的哨兵逃走。",
+    "reference": "The enemy's sentinel was discovered and the enemy's sentinel could not be allowed to escape.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We have discovered the enemy sentry and cannot let it escape."
+  },
+  {
+    "index": 32,
+    "source": "喜欢上海的姑娘，因为那的姑娘都很追求时尚。",
+    "reference": "I like the girls in Shanghai, because the girls  there are very fashionable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I like girls from Shanghai because they are all very fashion-conscious."
+  },
+  {
+    "index": 33,
+    "source": "喜欢上海的姑娘，因为上海是一个繁华的城市。",
+    "reference": "The girl likes Shanghai because Shanghai is a bustling city.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I like girls from Shanghai, because Shanghai is a bustling city."
+  },
+  {
+    "index": 34,
+    "source": "牵连了局长的女秘书，因为女秘书的违法导致局长被问责。",
+    "reference": "This female secretary has implicated the director because the female secretary’s violation of the law led to the director being held accountable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The bureau chief’s female secretary was implicated because her illegal actions led to the bureau chief being held accountable."
+  },
+  {
+    "index": 35,
+    "source": "牵连了局长的女秘书，因为局长的违法导致女秘书被问责。",
+    "reference": "The female secretary of the director was implicated because the director’s violation led to the female secretary being held accountable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It implicated the bureau chief’s female secretary, because the chief’s unlawful conduct caused her to be held accountable."
+  },
+  {
+    "index": 36,
+    "source": "快接近期末考试了，需要复习一个学期的功课。",
+    "reference": "It is close to the final exam, you need to review a semester's homework.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Final exams are coming up soon, and we need to review the coursework from the entire semester."
+  },
+  {
+    "index": 37,
+    "source": "这个学期不讲新知识，需要复习一个学期的功课。",
+    "reference": "The teacher does not teach new knowledge in this semester and needs to take a semester to review homework.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This semester won’t cover any new material, and we need to review the entire semester’s coursework."
+  },
+  {
+    "index": 38,
+    "source": "讨厌母亲的女儿，这个母亲的儿子不喜欢妹妹。",
+    "reference": "Hate the mother's daughter,  the mother's son does not like his sister.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The daughter hates her mother, and the mother's son does not like his younger sister."
+  },
+  {
+    "index": 39,
+    "source": "讨厌母亲的女儿，这个母亲的女儿跟母亲关系不好。",
+    "reference": "This daughter hates her mother, and the mother's daughter has a bad relationship with her mother.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The daughter who hates her mother does not have a good relationship with her mother."
+  },
+  {
+    "index": 40,
+    "source": "撞倒弟弟的自行车，弟弟对他自行车被撞倒这件事情很生气。",
+    "reference": "Knocked down my brother's bicycle, and my brother was angry at the fact that his bicycle was knocked down.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He knocked over his younger brother’s bicycle, and his younger brother was very angry about his bicycle being knocked over."
+  },
+  {
+    "index": 41,
+    "source": "撞倒弟弟的自行车，幸亏弟弟没有受伤。",
+    "reference": "The bicycle knoked dowm my brother, Fortunately, my brother was not injured.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The younger brother’s bicycle was knocked over. Fortunately, he was not injured."
+  },
+  {
+    "index": 42,
+    "source": "因为要出行很多天，他们准备了一天的干粮。",
+    "reference": "Because they had to travel for many days,they are preparing dry food all day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Because they would be traveling for many days, they prepared enough dry food for one day."
+  },
+  {
+    "index": 43,
+    "source": "因为只要出行一天，他们准备了一天的干粮。",
+    "reference": "Because  they only need to  travel for one day, they just prepared a dry food for a day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Because they were only traveling for one day, they prepared a day's worth of dry food."
+  },
+  {
+    "index": 44,
+    "source": "研究鲁迅的文章一般都会写鲁迅的出生和逝世。",
+    "reference": "These articles which study Lu Xun generally writes Lu Xun's birth and death.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Articles that study Lu Xun typically mention his birth and death."
+  },
+  {
+    "index": 45,
+    "source": "研究鲁迅的文章对于近代文学研究是必须要做的。",
+    "reference": "Studying Lu Xun's article must be done for modern literature research.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Studying Lu Xun's works is essential for modern literature research."
+  },
+  {
+    "index": 46,
+    "source": "击败敌人的部队，这个部队在回国后受到了人民的欢迎。",
+    "reference": "The troops defeat the enemy,which were welcomed by the people after returning home.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The troops that defeated the enemy were welcomed by the people upon their return home."
+  },
+  {
+    "index": 47,
+    "source": "击败敌人的部队，还需要进一步追击。",
+    "reference": "Defeat the enemy's troops and still need to pursue further.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After defeating the enemy forces, we still need to pursue them further."
+  },
+  {
+    "index": 48,
+    "source": "骂孩子的父亲，因为孩子考试没考好。",
+    "reference": "The father criticized the child, because the child's exam did not test well.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Scolding the child's father because the child didn't do well on the exam."
+  },
+  {
+    "index": 49,
+    "source": "骂孩子的父亲，因为这个父亲背叛了婚姻。",
+    "reference": "Criticize the child's father because the father betrayed the marriage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are scolding the child's father because he betrayed his marriage."
+  },
+  {
+    "index": 50,
+    "source": "请把研究资料拿给我看看。",
+    "reference": "Please show me the research materials.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Please bring the research materials over for me to have a look."
+  },
+  {
+    "index": 51,
+    "source": "研究资料是每个科研人员必做的事情。",
+    "reference": "The research of data is a thing that every researcher must do.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Studying research materials is something every researcher must do."
+  },
+  {
+    "index": 52,
+    "source": "进口食品在售价上比较高。",
+    "reference": "Imported food is relatively high in price.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Imported food tends to have a higher selling price."
+  },
+  {
+    "index": 53,
+    "source": "进口食品被这个国家的政策不允许。",
+    "reference": "Importing food is not allowed by the policies of this country.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Imported food is not permitted by this country's policy."
+  },
+  {
+    "index": 54,
+    "source": "调查材料要在截止日期前上交。",
+    "reference": "The survey's materials should be submitted before the deadline.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The survey materials must be submitted before the deadline."
+  },
+  {
+    "index": 55,
+    "source": "调查材料有时需要多人一起合作。",
+    "reference": "The investigation materials sometimes require multiple people to work together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Investigation materials sometimes require multiple people to collaborate."
+  },
+  {
+    "index": 56,
+    "source": "她是去年生的小孩，现在她已经快1岁了。",
+    "reference": "She was a child born last year, and now she is almost one year old.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She was born last year, and now she’s almost one year old."
+  },
+  {
+    "index": 57,
+    "source": "她是去年生的小孩，她的小孩已经快1岁了。",
+    "reference": "She gave birth to a child last year,and her child is almost one year old.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She is a child who was born last year; her child is already almost one year old."
+  },
+  {
+    "index": 58,
+    "source": "出租汽车被网约车服务压榨了生存环境。",
+    "reference": "The living environment of taxi is squeezed by the ride-hailing service.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Taxis' livelihood has been squeezed by online ride-hailing services."
+  },
+  {
+    "index": 59,
+    "source": "出租汽车正在成长为一个新的大市场。",
+    "reference": "Renting car is growing into a new big market.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Taxis are growing into a new large market."
+  },
+  {
+    "index": 60,
+    "source": "他在校内打球时受伤了，请马上送去学校医院。",
+    "reference": "He was injured while playing in the school, please send hime to the school's hospital immediately.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He was injured while playing ball on campus. Please send him to the school hospital immediately."
+  },
+  {
+    "index": 61,
+    "source": "学校医院是人最多的两个公共场合。",
+    "reference": "School and hospital are the two public places with the most people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Schools and hospitals are the two public places with the most people."
+  },
+  {
+    "index": 62,
+    "source": "文学语言是两个联系密切的文科专业。",
+    "reference": "literature and language is two closely related liberal arts majors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Literature and language are two closely related liberal arts disciplines."
+  },
+  {
+    "index": 63,
+    "source": "文学语言是指在文学作品中使用的语言。",
+    "reference": "Literary language refers to the language used in literary works.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Literary language refers to the language used in literary works."
+  },
+  {
+    "index": 64,
+    "source": "生物历史，一个偏理科，一个偏文科。",
+    "reference": "Biology and history, a partial science, a partial liberal arts.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Biology and history—one leans more toward the sciences, the other more toward the humanities."
+  },
+  {
+    "index": 65,
+    "source": "生物历史指的是生物学的历史。",
+    "reference": "Biological history refers to the history of biology.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Biological history refers to the history of biology."
+  },
+  {
+    "index": 66,
+    "source": "其他国家的事等下一次国家会议再讨论。",
+    "reference": "Other national things will be discussed at the next national meeting.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Matters concerning other countries will be discussed at the next national meeting."
+  },
+  {
+    "index": 67,
+    "source": "其他国家的事等下一次国际会议再讨论。",
+    "reference": "Things from other countries will be discussed at the next international conference.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We’ll discuss the affairs of other countries at the next international meeting."
+  },
+  {
+    "index": 68,
+    "source": "古代战争小说指的是有关古代战争的小说。",
+    "reference": "The novels of ancient warfare refer to novels about ancient wars.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ancient war novels refer to novels about ancient warfare."
+  },
+  {
+    "index": 69,
+    "source": "古代战争小说指的是古代写的战争小说。",
+    "reference": "Ancient war novels refer to war novels written in ancient times.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Ancient war novels refer to war novels written in ancient times."
+  },
+  {
+    "index": 70,
+    "source": "非洲语言研究指的是专门研究非洲语言。",
+    "reference": "The studies of african langugae refer to specializing in studying the africa language.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "African language research refers to the specialized study of African languages."
+  },
+  {
+    "index": 71,
+    "source": "非洲语言研究是在非洲建立的一个语言研究所。",
+    "reference": "African Language Studies is an institute for language studies in Africa.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "African Language Research is a language research institute established in Africa."
+  },
+  {
+    "index": 72,
+    "source": "新教工宿舍是为新的教工专门提供的宿舍。",
+    "reference": "The dormitory of new faculty is a dormitory dedicated to new faculty.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The new faculty dormitory is a dormitory specifically provided for new faculty members."
+  },
+  {
+    "index": 73,
+    "source": "新教工宿舍是学校新建的一栋教工宿舍。",
+    "reference": "The new faculty dormitory is a newly built faculty dormitory.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The new faculty dormitory is a newly constructed staff dormitory built by the school."
+  },
+  {
+    "index": 74,
+    "source": "他这辆车已经买了5年了，他想要买一个新汽车牌照。",
+    "reference": "He has bought this car for five years and he wants to buy a new car license.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He has had this car for 5 years, and he wants to buy a new license plate."
+  },
+  {
+    "index": 75,
+    "source": "他这辆车是新买的，他想要买一个新汽车牌照。",
+    "reference": "His car is new and he wants to buy a license of new car.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He recently bought this car, and he wants to get a new license plate."
+  },
+  {
+    "index": 76,
+    "source": "大学英语教师指的是教授大学英语的教师。",
+    "reference": "College English teachers refer to teachers who teach College English.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A college English teacher refers to someone who teaches college English."
+  },
+  {
+    "index": 77,
+    "source": "大学英语教师指的是在大学教授英语的教师。",
+    "reference": "The English teachers of college refer to teachers who teach English at the university.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A university English teacher refers to a teacher who teaches English at a university."
+  },
+  {
+    "index": 78,
+    "source": "两个学校的领导一前一后在同一个开学典礼上说了话。",
+    "reference": "Two leaders of the school spoke at the same opening ceremony one by one.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leaders of both schools spoke one after the other at the same opening ceremony."
+  },
+  {
+    "index": 79,
+    "source": "两个学校的领导签署了各自的学校之间互相合作的协议。",
+    "reference": "The leaders of the two schools signed an agreement to cooperate with each other school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leaders of the two schools signed an agreement for mutual cooperation between their respective schools."
+  },
+  {
+    "index": 80,
+    "source": "公园里有三个幼儿园的孩子，总共有6个孩子在做游戏。",
+    "reference": "There are children of three kindergartens  in the park, and a total of six children are playing games.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are three children from the kindergarten in the park, and a total of six children are playing games."
+  },
+  {
+    "index": 81,
+    "source": "公园里有三个幼儿园的孩子，他们在同一个班级。",
+    "reference": "There are three kindergarten children in the park, they are in the same class.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are three children from a kindergarten in the park, and they are in the same class."
+  },
+  {
+    "index": 82,
+    "source": "办公室里有两个党的议员，他们互相攻击对方党派的观点。",
+    "reference": "There are members of two parties  in the office who attack each other's party views.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are legislators from two different parties in the office, and they are attacking each other’s party’s views."
+  },
+  {
+    "index": 83,
+    "source": "办公室里有两个党的议员，他们在竞选党主席。",
+    "reference": "There are two members of the party in the office who are running for the party chairman.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are legislators from two different parties in the office, and they are running for the position of party chairman."
+  },
+  {
+    "index": 84,
+    "source": "三个工厂的工人在一起喝酒，一人一瓶总共点了3瓶酒。",
+    "reference": "The three workers in the factory drank together and ordered a total of 3 bottles of wine in one bottle per person.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Workers from three factories were drinking together; each person had one bottle, for a total of three bottles ordered."
+  },
+  {
+    "index": 85,
+    "source": "三个工厂的工人在一起喝酒，一人一瓶总共点了10瓶酒。",
+    "reference": "The workers in the three factories drank together and ordered a total of 10 bottles of wine in one bottle per person.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Workers from three factories were drinking together, each person had one bottle, and they ordered a total of 10 bottles of alcohol."
+  },
+  {
+    "index": 86,
+    "source": "这栋大楼里有5个医院的医生，他们在讨论医院中各自科室的合作。",
+    "reference": "There are five doctors  of the hospital in the building who are discussing the cooperation of their respective departments in the hospital.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are doctors from five hospitals in this building who are discussing cooperation among their respective departments in the hospital."
+  },
+  {
+    "index": 87,
+    "source": "这栋大楼里有5个医院的医生，他们在讨论各自医院里的合作。",
+    "reference": "There are doctors from five hospitals in the building who are discussing the cooperation in their respective hospitals.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are doctors from five different hospitals in this building, and they are discussing the collaborations within each of their hospitals."
+  },
+  {
+    "index": 88,
+    "source": "两个球队的队员从小就是相互认识的好朋友。",
+    "reference": "The two players of the team are good friends who know each other from an early age.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The players of the two teams have been good friends who have known each other since childhood."
+  },
+  {
+    "index": 89,
+    "source": "两个球队的队员在体育馆为观众上演了一场精彩的比赛。",
+    "reference": "The players of the two teams played a wonderful game for the audience in the stadium.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The players from both teams put on a wonderful match for the audience in the gymnasium."
+  },
+  {
+    "index": 90,
+    "source": "在饭店门口的几个饭店的服务员，因为想拉客人去各自的饭店争吵了起来。",
+    "reference": "The waiters from several restaurants  were arguing because they wanted to pull guests to their respective restaurants in front of the restauran.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Several waiters from the restaurants at the entrance got into a quarrel because they each wanted to bring customers to their respective restaurants."
+  },
+  {
+    "index": 91,
+    "source": "在饭店门口的几个饭店的服务员，因为没有客人，所以在闲聊。",
+    "reference": "Several waiters of the restaurant were chatting because there were no guests in front of the restaurant.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A few waiters from the restaurants by the entrance were chatting idly because there were no customers."
+  },
+  {
+    "index": 92,
+    "source": "椅子上摆着两个朋友送的花瓶，这个花瓶是他的两个朋友集资买的。",
+    "reference": "On the chair was a vase sent by two friends, and this vase was bought by two of his friends.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On the chair sits a vase given by two of his friends. This vase was purchased jointly by those two friends."
+  },
+  {
+    "index": 93,
+    "source": "椅子上摆着两个朋友送的花瓶，这些花瓶是他的三个朋友集资买的。",
+    "reference": "On the chair were two vases sent by friends, which were bought by three of his friends.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On the chair are some vases given by two friends; these vases were collectively purchased by three of his friends."
+  },
+  {
+    "index": 94,
+    "source": "对他的帮助，大家都对他表示了感谢。",
+    "reference": "Everyone thanks him for his help, .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Everyone expressed their gratitude to him for his help."
+  },
+  {
+    "index": 95,
+    "source": "对他的帮助，他用实际行动回报了大家。",
+    "reference": "For the help for him, he repaied everyone with practical actions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He repaid everyone for their help with practical actions."
+  },
+  {
+    "index": 96,
+    "source": "他看了3个宠物店的猫，最后决定了中间一家宠物店购买猫。",
+    "reference": "He looked at the cats in three pet stores and finally decided to buy cats in the middle pet shop.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He looked at the cats in three pet stores and finally decided to buy a cat from the middle one."
+  },
+  {
+    "index": 97,
+    "source": "他看了3个宠物店的猫，最后决定了中间那只最可爱的猫。",
+    "reference": "He looked at three cats in the pet store and finally decided the cutest cat in the middle.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He looked at the cats in three pet stores and finally decided on the cutest one in the middle."
+  },
+  {
+    "index": 98,
+    "source": "2个城市的警察就在打击犯罪上签署了跨城市合作协议。",
+    "reference": "The police in two cities signed an inter-city cooperation agreement on combating crime.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The police from the two cities signed an inter-city cooperation agreement to combat crime."
+  },
+  {
+    "index": 99,
+    "source": "2个城市的警察正在街上进行巡逻。",
+    "reference": "Two Police in the city are patrolling the streets.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Police from two cities are patrolling the streets."
+  },
+  {
+    "index": 100,
+    "source": "小明受到了极大的鼓舞，鼓励的是老师。",
+    "reference": "Xiao Ming was greatly encouraged and it was the teacher who encouraged him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Xiao Ming was greatly encouraged, and the person who encouraged him was his teacher."
+  },
+  {
+    "index": 101,
+    "source": "给老师们发放补贴，鼓励的是老师。",
+    "reference": "Granting subsidies to teachers to encourages teachers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Providing subsidies to teachers encourages the teachers."
+  },
+  {
+    "index": 102,
+    "source": "由于老师上课认真，嘉奖的是老师们。",
+    "reference": "Because the teacher gave lesson carefully, the teachers were awarded.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Because the teachers conduct their classes seriously, it is they who receive the commendation."
+  },
+  {
+    "index": 103,
+    "source": "对于上课认真的同学，嘉奖的是老师们。",
+    "reference": "For the classmates who are serious in class, the teachers award them.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the teachers who reward the students who take class seriously."
+  },
+  {
+    "index": 104,
+    "source": "手术开刀的是他父亲，因为他父亲是医生。",
+    "reference": "It was his father who operated the surgery because his father was a doctor.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was his father who performed the surgery, because his father is a doctor."
+  },
+  {
+    "index": 105,
+    "source": "手术开刀的是他父亲，因为他父亲得了重病。",
+    "reference": "It was his father who underwent surgery, because his father was seriously ill.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was his father who underwent surgery because he was seriously ill."
+  },
+  {
+    "index": 106,
+    "source": "这是我拍于去年的照片，当时我的摄影技巧很不错。",
+    "reference": "This is a photo I took last year, when my photography skills were very good.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This is a photo I took last year, and my photography skills were quite good at that time."
+  },
+  {
+    "index": 107,
+    "source": "这是我拍于去年的照片，是一张不错的自拍。",
+    "reference": "This is a photo of me last year and it is a good selfie.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This is a photo I took last year, and it’s a pretty good selfie."
+  },
+  {
+    "index": 108,
+    "source": "调查的是省里的官员，这事惊动了中央。",
+    "reference": "The focus of this investigation was the provincial officials, which startled the central government.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They were investigating provincial officials, and the matter has alarmed the central government."
+  },
+  {
+    "index": 109,
+    "source": "调查的是省里的官员，他们对各市的情况很不满意。",
+    "reference": "The investigation was carried out by provincial officials who were very dissatisfied with the state in each city.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The investigation is being carried out by provincial officials, who are very dissatisfied with the situation in each city."
+  },
+  {
+    "index": 110,
+    "source": "表演的是周杰伦，他唱了一首成名歌曲。",
+    "reference": "The performer was given by Jay Chou, and he sang a famous song.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Jay Chou was the performer, and he sang one of his breakthrough songs."
+  },
+  {
+    "index": 111,
+    "source": "表演的是周杰伦，这位模仿高手很擅长模仿知名歌手。",
+    "reference": "The performance was imitating Jay Chou, and the adept imitator is very good at imitating famous singers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The performer is Jay Chou, and this master impersonator is highly skilled at imitating famous singers."
+  },
+  {
+    "index": 112,
+    "source": "补贴的是高科技公司，这是政府的政策。",
+    "reference": "The subsidy is provided to high-tech companies, which is the government's policy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The subsidies are for high-tech companies. This is the government’s policy."
+  },
+  {
+    "index": 113,
+    "source": "补贴的是高科技公司，用户可以收益很多。",
+    "reference": "Subsidies are provided by high-tech companies, and users can make a lot of money.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The subsidies are for high-tech companies, and users can benefit greatly."
+  },
+  {
+    "index": 114,
+    "source": "抗议的是伊拉克政府，人民对其十分不满。",
+    "reference": "The protest was against the Iraqi government, and the people were very dissatisfied with it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Iraqi government is the target of the protest, and the people are very dissatisfied with it."
+  },
+  {
+    "index": 115,
+    "source": "抗议的是伊拉克政府，他们对美国表示强烈谴责。",
+    "reference": "The Iraqi government was protesting, and strongly condemned the United States.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the Iraqi government that is protesting, and they have strongly condemned the United States."
+  },
+  {
+    "index": 116,
+    "source": "打击的是美军部队，白宫对此十分愤怒。",
+    "reference": "The attack was aganist US troops, and the White House was very angry about it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The US military was the target of the attack, and the White House is extremely angry about it."
+  },
+  {
+    "index": 117,
+    "source": "打击的是美军部队，他们对地面目标进行了空袭。",
+    "reference": "The US military was attacking and they carried out air strikes on ground targets.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The U.S. military forces were the ones targeted, and they conducted airstrikes against ground targets."
+  },
+  {
+    "index": 118,
+    "source": "送别的是王老师，同学们都十分难过。",
+    "reference": "The farewell is to Mr. Wang, and the students were very sad.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are bidding farewell to Teacher Wang, and all the students are very sad."
+  },
+  {
+    "index": 119,
+    "source": "送别的是王老师，他祝同学们一路顺风。",
+    "reference": "It was Mr. Wang who saw them off, and he wished the students a good trip.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teacher Wang was the one who bid farewell, wishing the students a smooth journey."
+  },
+  {
+    "index": 120,
+    "source": "围剿土匪的部队，随时都可以集结。",
+    "reference": "The troops that siege the bandits can gather at any time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The troops tasked with eradicating the bandits can assemble at any time."
+  },
+  {
+    "index": 121,
+    "source": "围剿土匪的部队，需要正规军出动。",
+    "reference": "Sieging the troops' bandits need the regular army.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The troops encircling the bandits require the deployment of regular forces."
+  },
+  {
+    "index": 122,
+    "source": "热爱学校的老师，时刻奋斗在教学第一线。",
+    "reference": "Teachers who love the school always struggle to be at the forefront of teaching.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teachers who love their school are constantly working on the front lines of teaching."
+  },
+  {
+    "index": 123,
+    "source": "热爱学校的老师，热爱他们的勤劳付出。",
+    "reference": "I love the teachers in the school and love their hard work.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We love the teachers who care deeply about the school, and we also appreciate their diligent efforts."
+  },
+  {
+    "index": 124,
+    "source": "思念家乡的人们，无时无刻想回去。",
+    "reference": "People who miss their hometown  want to go back all the time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "People who miss their hometown are always longing to go back."
+  },
+  {
+    "index": 125,
+    "source": "思念家乡的人们，是每个游子会有的心情。",
+    "reference": "Missing their hometown  is the mood that every wanderer has.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Missing one’s hometown is a feeling that every wanderer experiences."
+  },
+  {
+    "index": 126,
+    "source": "打倒反对派的人士，欢聚在一起庆祝。",
+    "reference": "Those people who defeated the opposition gathered together to celebrate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The people who overthrew the opposition gathered together to celebrate."
+  },
+  {
+    "index": 127,
+    "source": "打倒反对派的人士，我相信正义必胜。",
+    "reference": "Defeat the opposition, I believe that justice will win.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To those who seek to topple the opposition, I believe that justice will prevail."
+  },
+  {
+    "index": 128,
+    "source": "发现敌人的部队，我军立刻展开了攻击。",
+    "reference": "When we found the enemy's troops, our army immediately launched an attack.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Upon discovering the enemy troops, our forces immediately launched an attack."
+  },
+  {
+    "index": 129,
+    "source": "发现敌人的部队，是我军的侦察部队。",
+    "reference": "The troops who found enemy's were found to be the reconnaissance units of our army.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The troops that discovered the enemy are our army’s reconnaissance forces."
+  },
+  {
+    "index": 130,
+    "source": "遇到朋友的老师，和朋友打了个招呼。",
+    "reference": "The teacher who met friend said hello to his friend.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I ran into my friend's teacher and greeted my friend."
+  },
+  {
+    "index": 131,
+    "source": "遇到朋友的老师，我和老师打了个招呼。",
+    "reference": "When I met a friend's teacher, I said hello to the teacher.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When I ran into my friend’s teacher, I greeted them."
+  },
+  {
+    "index": 132,
+    "source": "拜访邻居的父母，同时带了许多礼物。",
+    "reference": "Visiting the neighbor's parents and bringing a lot of gifts.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I visited my neighbor’s parents and brought many gifts."
+  },
+  {
+    "index": 133,
+    "source": "拜访邻居的父母，感谢了邻居这些天对我的照护。",
+    "reference": "My parents who visited the neighbors thanked the neighbors for the neighbors' care for me these days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I visited my neighbor’s parents to express my gratitude for the neighbor’s care over the past few days."
+  },
+  {
+    "index": 134,
+    "source": "研究春秋的书籍，保存在图书馆里。",
+    "reference": "The books studying the Spring and Autumn are stored in the library.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The books that study the Spring and Autumn period are kept in the library."
+  },
+  {
+    "index": 135,
+    "source": "研究春秋的书籍，对理解那段历史很有帮助。",
+    "reference": "Studying the books of the Spring and Autumn Period is very helpful in understanding that history.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Books on the Spring and Autumn Period are very helpful for understanding that period of history."
+  },
+  {
+    "index": 136,
+    "source": "侮辱别人的父母，不是孩子的好榜样。",
+    "reference": "Parents who insult other people's parents are not good examples for children.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Insulting other people's parents is not a good example for children."
+  },
+  {
+    "index": 137,
+    "source": "侮辱别人的父母，不是一个礼貌的行为。",
+    "reference": "It is not a polite behavior to insult someone else's parents.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Insulting someone else’s parents is not a polite behavior."
+  },
+  {
+    "index": 138,
+    "source": "观察园林的游客，讨论着园林设计。",
+    "reference": "Visitors who observe garden are discussing garden design.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Tourists observing the garden are discussing its design."
+  },
+  {
+    "index": 139,
+    "source": "观察园林的游客，游客的脚步都很匆忙。",
+    "reference": "Observing garden visitors, the visitors are rushing in the footsteps of the visitors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Observing the visitors to the garden, all of them walk in a hurry."
+  },
+  {
+    "index": 140,
+    "source": "杀死了邻居的小孩儿，才仅仅十几岁。",
+    "reference": "The kid who killed neighbor was only a teenager.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He killed the neighbor’s child, and he was only in his teens."
+  },
+  {
+    "index": 141,
+    "source": "杀死了邻居的小孩儿，凶手逃走了。",
+    "reference": "After killing the neighbor's child, the murderer escaped.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "After killing the neighbor's child, the murderer fled."
+  },
+  {
+    "index": 142,
+    "source": "五个学校的校长聚在一起。",
+    "reference": "The principals of the five schools got together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The principals of five schools gathered together."
+  },
+  {
+    "index": 143,
+    "source": "五个学校的老师和他们的校长，王校长站在一起。",
+    "reference": "Five teachers of the school and their principal, President Wang stood together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teachers from five schools and their principal, Principal Wang, are standing together."
+  },
+  {
+    "index": 144,
+    "source": "两个乐队的鼓手在争吵，谁是乐队里的第一鼓手。",
+    "reference": "Two drummers of the band are arguing, who is the first drummer in the band.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The drummers from the two bands are arguing over who is the lead drummer in the band."
+  },
+  {
+    "index": 145,
+    "source": "两个乐队的鼓手在争吵，谁是第一乐队。",
+    "reference": "The drummers of the two bands are arguing, which is the first band.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The drummers of the two bands are arguing over which band is number one."
+  },
+  {
+    "index": 146,
+    "source": "两个小区的住户在讨论，谁的小区房价又涨了。",
+    "reference": "The residents of the two communities are discussing about whose residential areas where housing prices have risen again.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Residents of two neighborhoods are discussing whose neighborhood’s housing prices have gone up again."
+  },
+  {
+    "index": 147,
+    "source": "两个小区的住户在讨论，他们小区的附属医院水平如何。",
+    "reference": "Two residents of the community are discussing how the level of affiliated hospitals in their community is.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Residents from two residential communities are discussing the quality of the hospital affiliated with their neighborhood."
+  },
+  {
+    "index": 148,
+    "source": "三个工厂里的员工出去吃饭，讨论一起去找老板加工资。",
+    "reference": "Three employees in the factory dined out,  discussing about asking the boss to increase the pay together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Employees from three factories went out for a meal and discussed going together to ask the boss for a pay raise."
+  },
+  {
+    "index": 149,
+    "source": "三个工厂里的员工出去吃饭，讨论各自工厂的待遇（较高）。",
+    "reference": "The employees in the three factories dined out, discussing about  the salary of their respective factories (higher).",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Employees from three factories went out to eat and discussed the relatively high benefits at their respective factories."
+  },
+  {
+    "index": 150,
+    "source": "这边有两个明星的粉丝，在讨论今晚周杰伦的演唱会。",
+    "reference": "There are two star fans here, discussing Jay Chou's concert tonight.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are two fans of celebrities here, discussing Jay Chou's concert tonight."
+  },
+  {
+    "index": 151,
+    "source": "这边有两个明星的粉丝，在争论周杰伦和蔡徐坤谁的作品更好。",
+    "reference": "There are fans of two stars here, arguing whose  wok is better, Jay Chou's or Cai Xukun's.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are fans of two celebrities here, arguing about whose work is better—Jay Chou or Cai Xukun."
+  },
+  {
+    "index": 152,
+    "source": "五个学院的领导在商议，举办五个学院的联谊。",
+    "reference": "The leaders of the five colleges are negotiating and organizing the communication activity of five colleges.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leaders of the five colleges are discussing holding a joint event for the five colleges."
+  },
+  {
+    "index": 153,
+    "source": "五个学院的领导在商议，如何成为学校的第一学院。",
+    "reference": "Five leaders of the college are negotiating how to become the first college of the school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leaders of the five colleges are discussing how to become the first-ranked college at the school."
+  },
+  {
+    "index": 154,
+    "source": "窗台上是两个朋友送的花瓶，两位都是我的好朋友。",
+    "reference": "On the window sill is a vase sent by two friends, both of whom are my good friends.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On the windowsill are two vases given by two friends, both of whom are my good friends."
+  },
+  {
+    "index": 155,
+    "source": "窗台上是两个朋友送的花瓶，两个花瓶都很好看。",
+    "reference": "On the window sill are two vases sent by my friend, and both vases are very nice.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On the windowsill sit two vases gifted by friends, both of which look very nice."
+  },
+  {
+    "index": 156,
+    "source": "中国文化博览中心囊括了上百个国家的各色文化。",
+    "reference": "The Culture Expo Center in China encompasses a diverse culture of hundreds of countries.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The China Cultural Expo Center encompasses the diverse cultures of hundreds of countries."
+  },
+  {
+    "index": 157,
+    "source": "中国文化博览中心展示了中国千年的文化发展历程。",
+    "reference": "The Expo Center about chinese culture shows the cultural development of China's millennium.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The China Culture Expo Center showcases China’s millennia of cultural development."
+  },
+  {
+    "index": 158,
+    "source": "小学语文老师是指小学的语文老师。",
+    "reference": "The Chinese language teacher in primary school refers to the Chinese teacher of the primary school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A primary school Chinese teacher refers to a Chinese teacher in a primary school."
+  },
+  {
+    "index": 159,
+    "source": "小学语文老师是指教授小学语文的老师。",
+    "reference": "The Primary school Chinese language teachers refer to teachers who teach  Chinese in the primary school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A primary school Chinese teacher refers to a teacher who teaches Chinese in primary school."
+  },
+  {
+    "index": 160,
+    "source": "台湾汉字研究所坐落于台北，致力于研究汉字。",
+    "reference": "The Institute of Chinese Character in Taiwan is located in Taipei and is dedicated to the study of Chinese characters.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Taiwan Institute of Chinese Characters is located in Taipei and is dedicated to studying Chinese characters."
+  },
+  {
+    "index": 161,
+    "source": "台湾汉字研究所致力于促进中国大陆研究台湾的汉字发展。",
+    "reference": "The Institute of Taiwan's Chinese Character is committed to promoting the development of Taiwan's Chinese characters in mainland China.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Taiwan Chinese Character Research Institute is dedicated to promoting Mainland China’s research on the development of Taiwanese Chinese characters."
+  },
+  {
+    "index": 162,
+    "source": "苏州汽车展览会展示了苏州自主研发的汽车品牌。",
+    "reference": "The exhibition of Suzhou cars showcased the auto brand independently developed by Suzhou.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Suzhou Auto Show showcased automobile brands independently developed in Suzhou."
+  },
+  {
+    "index": 163,
+    "source": "苏州汽车展览会展示了世界各地的汽车品牌。",
+    "reference": "The car exhibition in Suzhou showcases car brands around the world.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The Suzhou Auto Exhibition showcased automobile brands from around the world."
+  },
+  {
+    "index": 164,
+    "source": "一个季度就生产了这么多设备，太棒了。",
+    "reference": "It’s great to produce so many devices in a quarter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "So many devices were produced in just one quarter—this is amazing!"
+  },
+  {
+    "index": 165,
+    "source": "一个季度就生产了这么多设备，太差劲了。",
+    "reference": "It’s too bad to produce such a few devices in a quarter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They only produced this many devices in one quarter—how disappointing."
+  },
+  {
+    "index": 166,
+    "source": "修车的人急坏了，因为他还要开车出门。",
+    "reference": "The person who needed to repair the car was in a hurry because he had to drive out.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person repairing the car was extremely worried because he still needed to drive out."
+  },
+  {
+    "index": 167,
+    "source": "修车的人急坏了，因为顾客一直在催他。",
+    "reference": "The person who repaired the car was in a hurry because the customer had been urging him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The mechanic was extremely worried because the customer kept pressuring him."
+  },
+  {
+    "index": 168,
+    "source": "我谁也看不上，因为我没钱。",
+    "reference": "Nobody thinks highly of me because I don't have money.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I don’t think highly of anyone, because I have no money."
+  },
+  {
+    "index": 169,
+    "source": "我谁也看不上，因为我很强。",
+    "reference": "I have no respect for anyone because I am strong.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I look down on everyone because I’m very strong."
+  },
+  {
+    "index": 170,
+    "source": "王老师已经通知了，王老师马上就来。",
+    "reference": "Teacher Wang has already been informed and he will come soon.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teacher Wang has already notified everyone and will be here soon."
+  },
+  {
+    "index": 171,
+    "source": "王老师已经通知了，同学们都知道了。",
+    "reference": "Teacher Wang has already notified, and the students knew it.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Teacher Wang has already notified everyone, and all the students know about it."
+  },
+  {
+    "index": 172,
+    "source": "部分损毁的仪器是全部损毁仪器的一半。",
+    "reference": "Partially damaged instruments are half of all damaged instruments.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The partially damaged instruments are half the number of the completely destroyed instruments."
+  },
+  {
+    "index": 173,
+    "source": "部分损毁的仪器损损毁得十分彻底，无法维修了。",
+    "reference": "Part of the damaged instruments was completely destroyed and could not be repaired.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The instruments that were partially damaged have now been destroyed so thoroughly that they can no longer be repaired."
+  },
+  {
+    "index": 174,
+    "source": "翻译小说不是个好差事。",
+    "reference": "Translating novels is not a good errand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Translating novels is not a good job."
+  },
+  {
+    "index": 175,
+    "source": "翻译小说有时候会不如原版，不是个好差事。",
+    "reference": "Translated novels are sometimes not as good as the original, so translatiion is not a good errand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sometimes translating novels doesn't live up to the original, so it's not a good gig."
+  },
+  {
+    "index": 176,
+    "source": "进口奶粉有时候不一定就比国产奶粉好。",
+    "reference": "Imported milk powder is sometimes not necessarily better than domestic milk powder.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sometimes, imported milk powder is not necessarily better than domestic milk powder."
+  },
+  {
+    "index": 177,
+    "source": "进口奶粉需要获得国家审批的公司才能进行。",
+    "reference": "Importing milk powder needs to be carried out by company which is approved by the state.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Only companies that have obtained national approval can import milk powder."
+  },
+  {
+    "index": 178,
+    "source": "这份报道我写不好，因为我的身份比较敏感。",
+    "reference": "I am not suitable to write this report because my identity is sensitive.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I can't write this report well because my identity is rather sensitive."
+  },
+  {
+    "index": 179,
+    "source": "这份报道我写不好，我知道你写得好。",
+    "reference": "I can't write this report well, I know that you write well.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I can’t write this report well, but I know you’re good at it."
+  },
+  {
+    "index": 180,
+    "source": "教师节老师希望学生别送礼品送祝福，心意比物品更重要。",
+    "reference": "On teachers' Day, teachers hope that students don't send gifts but blessings because their minds are more important than items.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On Teacher’s Day, the teacher hopes students will forgo gifts and instead express their well-wishes, as heartfelt sentiment is more important than material items."
+  },
+  {
+    "index": 181,
+    "source": "教师节老师希望学生别送礼品送祝福，什么都不需要。",
+    "reference": "On teacher's Day , teacher hopes that students don't send gifts but blessings because nothing is needed.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "On Teacher’s Day, the teacher hopes students won’t give gifts and will only offer their well-wishes; nothing else is needed."
+  },
+  {
+    "index": 182,
+    "source": "来的是哥哥和弟弟的朋友，兄弟二人有着相同的交际圈。",
+    "reference": "Here comes the elder brother's and the little brother's friend, and the two brothers have the same social circle.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who came were friends of both the older brother and the younger brother; the two brothers share the same social circle."
+  },
+  {
+    "index": 183,
+    "source": "来的是哥哥和弟弟的朋友，哥哥不认识弟弟的朋友。",
+    "reference": "Here comes elder brother and the little brother's friend, and the big brother doesn’t know the little brother’s friend.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who arrived were the older brother’s friend and the younger brother’s friend; the older brother did not know the younger brother’s friend."
+  },
+  {
+    "index": 184,
+    "source": "关于鲁迅的文章，我只知道孔乙己。",
+    "reference": "Regarding Lu Xun's article, I only know Kong Yiji.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Regarding Lu Xun’s works, I only know 'Kong Yiji.'"
+  },
+  {
+    "index": 185,
+    "source": "关于鲁迅的文章，许多人都写过。",
+    "reference": "Many people have written articles about Lu Xun.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Many people have written about Lu Xun’s works."
+  },
+  {
+    "index": 186,
+    "source": "对于老师的意见，老师都已经收到了。",
+    "reference": "The teacher has already received the opinions to teachers.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Regarding the teacher’s opinions, the teacher has already received them."
+  },
+  {
+    "index": 187,
+    "source": "对于老师的意见，同学们都虚心接受了。",
+    "reference": "For the teacher's opinion, the students were humbly accepted.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "All the students humbly accepted the teacher's opinion."
+  },
+  {
+    "index": 188,
+    "source": "喜欢干净的小孩很多。",
+    "reference": "There are many children who like clean.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are many children who like to be clean."
+  },
+  {
+    "index": 189,
+    "source": "喜欢干净的小孩的人很多。",
+    "reference": "There are many people who like clean children.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "There are many people who like clean children."
+  },
+  {
+    "index": 190,
+    "source": "小李说故事很有趣，大家都爱听小李讲。",
+    "reference": "Xiao Li is good at telling stories and everyone loves to hear the stories  Xiao Li tell .",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Xiao Li tells stories in a very interesting way, and everyone loves listening to Xiao Li."
+  },
+  {
+    "index": 191,
+    "source": "小李说故事很有趣，小李建议大家都去听。",
+    "reference": "Xiao Li said that the story is very interesting, and Xiao Li suggested that everyone listen.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Xiao Li said the story was very interesting, and he suggested that everyone go and listen to it."
+  },
+  {
+    "index": 192,
+    "source": "他忽然想起来，他还没吃饭。",
+    "reference": "He suddenly remembered that he had not had dinner yet.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He suddenly remembered that he still hadn't eaten."
+  },
+  {
+    "index": 193,
+    "source": "他忽然想起来，去吃饭。",
+    "reference": "He suddenly got up and went to have dinner.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He suddenly remembered and went out to eat."
+  },
+  {
+    "index": 194,
+    "source": "他想不到，这题居然如此简单。",
+    "reference": "He have nerver thought the problem was so simple.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He never expected this problem to be so simple."
+  },
+  {
+    "index": 195,
+    "source": "他想不到，这题的解法究竟是什么。",
+    "reference": "He couldn't imagine what the solution to this question was.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He couldn't figure out what the solution to this problem actually was."
+  },
+  {
+    "index": 196,
+    "source": "他这人好说话，大家都觉得跟他很好相处。",
+    "reference": "He is a good person to talk to, everyone feels very good to get alone with him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He’s a person who’s easy to talk to, and everyone feels he’s easy to get along with."
+  },
+  {
+    "index": 197,
+    "source": "他这人好说话，一说起来就滔滔不绝。",
+    "reference": "He is a good person who likes talking, and he can’t stop talking.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He’s easy to talk to, and once he starts talking, he goes on and on."
+  },
+  {
+    "index": 198,
+    "source": "他还欠款1000元，总算是还完欠款了。",
+    "reference": "He paid back 1,000 yuan, and finally paid off.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He still owed 1,000 yuan, and has finally paid off his debt."
+  },
+  {
+    "index": 199,
+    "source": "他还欠款1000元，他打算明年再还这1000元。",
+    "reference": "He still owes 1,000 yuan, and he plans to pay it back next year.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He still owes 1,000 yuan, and he plans to repay that 1,000 yuan next year."
+  },
+  {
+    "index": 200,
+    "source": "在这个银行工作的女职工和一个男人正在争吵，这个男人声称自己是一家公司的老板。",
+    "reference": "The female worker working at the bank and a man are arguing and the man claims to be the boss of a company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The female employee working at this bank is arguing with a man who claims to be the owner of a company."
+  },
+  {
+    "index": 201,
+    "source": "在这个银行工作的女职工和一个男人正在争吵，因为这个男人在银行办事插队了。",
+    "reference": "The female worker working in this bank and a man are arguing because the man jump the queue when he deal with things at the bank.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The female employee who works at this bank is arguing with a man because he cut in line while conducting his business at the bank."
+  },
+  {
+    "index": 202,
+    "source": "正在追赶的是暴徒，这些暴徒看到了一个落单的警察。",
+    "reference": "The mobs are catching up, and the mobs saw a  policeman who was alone.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones chasing are the thugs, and they have spotted a lone police officer."
+  },
+  {
+    "index": 203,
+    "source": "正在追赶的是暴徒，这个暴徒碰到了一堆警察。",
+    "reference": "What they are chasing after is a mob, and the mob has encountered a bunch of policemen.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being chased is a thug. This thug ran into a group of police officers."
+  },
+  {
+    "index": 204,
+    "source": "正在治病的是一个医生，这个医生正在履行他的职责。",
+    "reference": "A doctor is treating who is performing his duties.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who is treating the illness is a doctor, and that doctor is fulfilling his duty."
+  },
+  {
+    "index": 205,
+    "source": "正在治病的是一个医生，这个医生已经因病离职了。",
+    "reference": "What is being treated is a doctor who has left work because of illness.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person treating the patient is a doctor, but that doctor has already resigned due to illness."
+  },
+  {
+    "index": 206,
+    "source": "搜寻的是警察，警察接到群众举报有凶犯在这附近。",
+    "reference": "The police is searching, and the police received reports from the masses that there were murderers nearby.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones searching are the police. The police received a tip from the public that there is a dangerous criminal in this area."
+  },
+  {
+    "index": 207,
+    "source": "搜寻的是警察，这个警察在追赶犯人的过程中失踪了。",
+    "reference": "What is searched is a police, and the police disappeared in the process of chasing the prisoners.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are searching for a police officer who went missing while chasing a criminal."
+  },
+  {
+    "index": 208,
+    "source": "考查的是老师，这个老师想要知道班级里学生的成绩水平。",
+    "reference": "What is examining is a teacher,and this teacher wants to know the level of garde of the students in the class.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one conducting the assessment is the teacher, who wants to know the academic performance levels of the students in the class."
+  },
+  {
+    "index": 209,
+    "source": "考查的是老师，老师们正在参加教师资格考试。",
+    "reference": "The teachers are being examined and the teachers are taking the teacher qualification exam.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones being tested are the teachers, who are currently taking the teacher qualification exam."
+  },
+  {
+    "index": 210,
+    "source": "帮助的是流浪汉，这个流浪汉冲进了火场救了不少人。",
+    "reference": "It was the tramp who gave help and this tramp rushed into the fire and saved many people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person who was helped was a homeless man, who then rushed into the fire and saved many people."
+  },
+  {
+    "index": 211,
+    "source": "帮助的是流浪汉，这个流浪汉已经很多天没吃东西了。",
+    "reference": "It was a tramp who received helped, and this tramp has not eaten for many days.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We are helping a homeless man who hasn’t eaten for many days."
+  },
+  {
+    "index": 212,
+    "source": "检举的是官员，因为这个官员想要减轻自己的罪责。",
+    "reference": "The official is reporting because the official wanted to reduce his guilt.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person who made the report is an official, because that official wants to lessen their own criminal liability."
+  },
+  {
+    "index": 213,
+    "source": "检举的是官员，群众对于这个官员的腐败早就不满意了。",
+    "reference": "It was a offical who is reported, and the masses were not satisfied with the corruption of this official.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person reported is an official, and the public has long been dissatisfied with this official’s corruption."
+  },
+  {
+    "index": 214,
+    "source": "教育的是父母，因为这对父母认为小孩子的教育不能全依赖学校。",
+    "reference": "It is the parents who are educating because the parents believe that the education of children cannot rely entirely on schools.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the parents who are being educated, because these parents believe that a child’s education cannot rely entirely on schools."
+  },
+  {
+    "index": 215,
+    "source": "教育的是父母，因为这对父母经常放纵小孩做坏事。",
+    "reference": "Parents are educated because they often indulge their children to do bad things.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ones who need to be educated are the parents, because these parents often indulge their children in doing bad things."
+  },
+  {
+    "index": 216,
+    "source": "欺骗的是小孩，因为这个母亲实在是没有钱给小孩买玩具。",
+    "reference": "What is deceived is a child because the mother really has no money to buy toys for the child.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being deceived is the child, because the mother truly doesn’t have any money to buy a toy for the child."
+  },
+  {
+    "index": 217,
+    "source": "欺骗的是小孩，因为这个母亲对小孩很顺从。",
+    "reference": "It is the child who deceives because the mother is very obedient to the child.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being deceived is the child, because the mother is very submissive to the child."
+  },
+  {
+    "index": 218,
+    "source": "赞赏的是导演，这个导演的电影很好。",
+    "reference": "What is appreciated is the director, because this director's movie is very good.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being praised is the director; this director’s films are very good."
+  },
+  {
+    "index": 219,
+    "source": "赞赏的是导演，这个导演对演员们的表现很满意。",
+    "reference": "It is the director who appreciates, this director is very satisfied with the performance of the actors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being praised is the director, and this director is very satisfied with the actors’ performance."
+  },
+  {
+    "index": 220,
+    "source": "批评工厂的工人，因为这些工人已经很久没领到工资了。",
+    "reference": "The workers who are criticizing the factory because they have not received their wages for a long time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They criticized the factory workers because those workers have not received their wages for a long time."
+  },
+  {
+    "index": 221,
+    "source": "批评工厂的工人，因为这些工人经常偷懒。",
+    "reference": "Criticize the workers in the factory because these workers are often lazy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They criticized the factory workers because they often slacked off."
+  },
+  {
+    "index": 222,
+    "source": "检查乡镇政府的官员，这个乡镇政府被举报说有腐败现象。",
+    "reference": "Inspect the officials of the township government, the township government was reported to have corruption.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Investigate the officials of the township government; this township government has been reported for corruption."
+  },
+  {
+    "index": 223,
+    "source": "检查巷镇政府的官员，这个乡镇政府对上级的到来表示欢迎。",
+    "reference": "It is a offical who will inspect the township government, the township government welcomed the arrival of the superiors.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Officials from the Jianchaxiang Town Government extend their welcome to the arrival of higher-level authorities."
+  },
+  {
+    "index": 224,
+    "source": "吓唬的是小孩子，因为今天是万圣节。",
+    "reference": "The child is scaring others because today is Halloween.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We’re scaring the kids because it’s Halloween today."
+  },
+  {
+    "index": 225,
+    "source": "吓唬的是小孩子，因为这小孩经常哭。",
+    "reference": "It is a child who is scared because the child often cries.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are frightening the little child because this child often cries."
+  },
+  {
+    "index": 226,
+    "source": "恭喜的是同事，这个同事刚被评选为杰出人才。",
+    "reference": "It is my colleague who is congratulated, the colleague has just been selected as an outstanding talent.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The person being congratulated is a colleague, who has just been selected as an outstanding talent."
+  },
+  {
+    "index": 227,
+    "source": "恭喜的是同事，这个同事为他的新婚感到高兴。",
+    "reference": "It is my colleagues who are congratulating him, this colleague is happy for his new marriage.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one being congratulated is a colleague, who is happy about his new marriage."
+  },
+  {
+    "index": 228,
+    "source": "迎接的是一位领导，这位领导想要给来访的大企业的老板一个好印象。",
+    "reference": "It is a leader who greets him because the leader wanted to give a good impression to the boss of the visiting big business.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They were greeted by a leader, who wanted to leave a good impression on the visiting big company's boss."
+  },
+  {
+    "index": 229,
+    "source": "迎接的是一位领导，这位领导是来视察当地工作的。",
+    "reference": "Who was greeted is a leader,the leader came to inspect the local work.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We are receiving a leader who has come to inspect the local work."
+  },
+  {
+    "index": 230,
+    "source": "两条河里的鱼如果产生了地理隔离会有不同的进化方向。",
+    "reference": "Fish in the two rivers will have different evolutionary directions if they are geographically isolated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If the fish in the two rivers become geographically isolated, they will evolve in different directions."
+  },
+  {
+    "index": 231,
+    "source": "两条河里的鱼被一个渔夫同时捞了上来。",
+    "reference": "Two fishes in the river were fished up by a fisherman at the same time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The fish in the two rivers were caught by a fisherman at the same time."
+  },
+  {
+    "index": 232,
+    "source": "五个教育机构的高层在开会，他们想要共享机构的学员信息。",
+    "reference": "The top levels of the five educational institutions are in a meeting, and they want to share information about the students in the organization.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The top executives of five educational institutions are meeting, and they want to share their student information."
+  },
+  {
+    "index": 233,
+    "source": "五个教育机构的高层在开会，他们在商讨今年机构的经营情况。",
+    "reference": "Five top levels of the educational institution are in a meeting and they are discussing the operation of the organization this year.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Senior executives from five educational institutions are holding a meeting to discuss this year’s operational performance."
+  },
+  {
+    "index": 234,
+    "source": "这四个城市的婴儿刚刚在同一个医院出生。",
+    "reference": "The four urban babies  were just born in the same hospital.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Babies from these four cities were just born in the same hospital."
+  },
+  {
+    "index": 235,
+    "source": "这四个城市的婴儿所在地的文化习俗背景是不一样的。",
+    "reference": "The cultural backgrounds of these four cities where the babies were sited are different.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The cultural and customary backgrounds in the places where babies from these four cities live are different."
+  },
+  {
+    "index": 236,
+    "source": "六个学院的教授在教授计算机不同方向的内容。",
+    "reference": "Six professors from the college are teaching content in different computer's directions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Professors from six colleges are teaching different areas of computer science."
+  },
+  {
+    "index": 237,
+    "source": "六个学院的教授在教授不同专业的内容。",
+    "reference": "Professors from six colleges are teaching content that belongs to different professions.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The professors from six colleges are teaching content from different fields of study."
+  },
+  {
+    "index": 238,
+    "source": "三个超市的普通收银员有着不同的工资。",
+    "reference": "The typical cashiers of the three supermarkets have different wages.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The ordinary cashiers at the three supermarkets have different salaries."
+  },
+  {
+    "index": 239,
+    "source": "三个超市的普通收银员的工号是连续的。",
+    "reference": "The job number of the three typical cashiers of the supermarket is continuous.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The employee ID numbers of the ordinary cashiers in the three supermarkets are consecutive."
+  },
+  {
+    "index": 240,
+    "source": "呼喊的是明星，这个明星获得了最佳演员奖。",
+    "reference": "It is the star who was shouting, and the star won the best actor award.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are calling out to a star, and that star has won the Best Actor Award."
+  },
+  {
+    "index": 241,
+    "source": "呼喊的是明星，这个粉丝在机场看到了这个秘密的明星。",
+    "reference": "What was shouted is the name of the star, for this fan saw the mysterious star at the airport.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who was shouting was a celebrity, and the fan saw this secret celebrity at the airport."
+  },
+  {
+    "index": 242,
+    "source": "抵制议会的议员，因为这个议员感觉自己遭受了不公的对待。",
+    "reference": "The parliamentarian resist the parliament because this member feels that he has been treated unfairly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The lawmaker is boycotting the parliament because they feel they have been treated unfairly."
+  },
+  {
+    "index": 243,
+    "source": "抵制议会的议员，因为这个议员发表了不正确的言论。",
+    "reference": "What is resisted is the parliament's parliamentarian because this member made an incorrect statement.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Boycott the parliament member because they made incorrect remarks."
+  },
+  {
+    "index": 244,
+    "source": "喜欢的是他的妹妹，但他的妹妹对谁都不喜欢。",
+    "reference": "It is his sister who is liked by someone, but his sister doesn't like anyone.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He likes his younger sister, but his younger sister does not like anyone."
+  },
+  {
+    "index": 245,
+    "source": "喜欢的是他的妹妹，他的妹妹一直追求着一个不喜欢她的他。",
+    "reference": "It is his sister who likes him, his sister has been pursuing him who doesn't like her.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who is liked is his younger sister. However, his younger sister has been pursuing someone who doesn’t return her feelings."
+  },
+  {
+    "index": 246,
+    "source": "学生家长被要求去开只允许家长在场的家长会。",
+    "reference": "The parents of the students were asked to open a parent meeting where only parents were allowed to be present.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The students’ parents were asked to attend a parents’ meeting at which only parents were allowed to be present."
+  },
+  {
+    "index": 247,
+    "source": "学生家长在学校的安排下在聊对彼此的看法。",
+    "reference": "The students and parents are talking about their views on each other under the arrangement of the school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Under the school's arrangement, the students’ parents are discussing each other’s perspectives."
+  },
+  {
+    "index": 248,
+    "source": "电视遥控器需要更换新的电池。",
+    "reference": "The remote control of the TV needs to be replaced with  new battery.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The TV remote control needs new batteries."
+  },
+  {
+    "index": 249,
+    "source": "电视遥控器要求是同一个品牌的。",
+    "reference": "The TV and the remote control shall be of the same brand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The TV remote control must be of the same brand."
+  },
+  {
+    "index": 250,
+    "source": "审判的是王将军，他犯了叛国罪。",
+    "reference": "General Wang was brought to trial because he had committed treason.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one on trial is General Wang. He has committed treason."
+  },
+  {
+    "index": 251,
+    "source": "审判的是王将军，他判处罪犯入狱10年。",
+    "reference": "The trial was conducted by General Wang, who sentenced the criminal to 10 years in prison.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The trial was conducted by General Wang, and he sentenced the criminal to 10 years in prison."
+  },
+  {
+    "index": 252,
+    "source": "教导的是小李，他手把手教会我们这门手艺。",
+    "reference": "Li was teaching us and he taught us this craft hand by hand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was Xiao Li who taught us, and he guided us step by step to master this craft."
+  },
+  {
+    "index": 253,
+    "source": "教导的是小李，我教他学会了这门技术。",
+    "reference": "I taught Li and taught him the technique hand by hand.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I was teaching Xiao Li, and I taught him how to master this technique."
+  },
+  {
+    "index": 254,
+    "source": "喜欢的是这篇文章，写得太好了。",
+    "reference": "Like this article because it's too well written.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "What I like is this article; it's written so well."
+  },
+  {
+    "index": 255,
+    "source": "喜欢的是学生，学生都喜欢新鲜事物。",
+    "reference": "It is students that like because students like new things.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It is the students who like it; all students enjoy new things."
+  },
+  {
+    "index": 256,
+    "source": "怀疑的是小李，他对任何新鲜事物都抱有怀疑态度。",
+    "reference": "Xiao Li suspect it because he is skeptical of anything new.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who is skeptical is Xiao Li. He holds a doubtful attitude toward anything new."
+  },
+  {
+    "index": 257,
+    "source": "怀疑的是小李，因为小李最近行为很异常。",
+    "reference": "The suspect is Xiao Li, because Xiao Li has behaved abnormally recently.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "We suspect Xiao Li because he’s been acting very abnormally lately."
+  },
+  {
+    "index": 258,
+    "source": "支持的是王议员，他十分支持这个议案。",
+    "reference": "It got support from Mr Wang, and he supports this motion very much.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The supporter is Councillor Wang, and he strongly supports this proposal."
+  },
+  {
+    "index": 259,
+    "source": "支持的是王议员，市民都为他投票。",
+    "reference": "Mr Wang was supported and the citizens voted for him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "They are supporting Councilor Wang, and all the citizens voted for him."
+  },
+  {
+    "index": 260,
+    "source": "反感的是李老师，同学都不喜欢他。",
+    "reference": "Mr. Li is disgusting, and students disliked him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The one who everyone dislikes is Teacher Li; none of the classmates like him."
+  },
+  {
+    "index": 261,
+    "source": "反感的是李老师，李老师十分讨厌这种行为。",
+    "reference": "Ms. Li was disgusted and he hates this kind of behavior.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It's Teacher Li who finds it repulsive; he really hates this kind of behavior."
+  },
+  {
+    "index": 262,
+    "source": "出兵的是伊拉克，美国出动了大量部队。",
+    "reference": "Troops were sent to Iraq, and the United States sent a large number of troops.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was Iraq that deployed troops, and the United States deployed a large number of forces."
+  },
+  {
+    "index": 263,
+    "source": "出兵的是伊拉克,伊拉克出动了一个师的兵力。",
+    "reference": "The troops were sent by Iraq, which dispatched a division of troops.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was Iraq that sent troops, deploying a division of soldiers."
+  },
+  {
+    "index": 264,
+    "source": "连他也担心,你确实想多了。",
+    "reference": "You even are worried about him, and you really think too much.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Even he is worried; you really are overthinking it."
+  },
+  {
+    "index": 265,
+    "source": "连他也担心,这件事确实很难。",
+    "reference": "Even he was worried about it, so it was really difficult.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Even he is worried; this matter is indeed very difficult."
+  },
+  {
+    "index": 266,
+    "source": "连我也不相信，这件事居然是真的。",
+    "reference": "Even I don't believe that this is actually true.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Even I couldn’t believe it, but it turns out this is actually true."
+  },
+  {
+    "index": 267,
+    "source": "连我也不相信，你还能相信谁？",
+    "reference": "If you even don't believe me, who else can you trust?",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "If even I don’t believe you, who else can you trust?"
+  },
+  {
+    "index": 268,
+    "source": "辱骂公司的员工，对他公司很不满。",
+    "reference": "Employees abusing the company express dissatisfaction towards his company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He insulted the company's employees and is very dissatisfied with his company."
+  },
+  {
+    "index": 269,
+    "source": "辱骂公司的员工，以及公司的领导。",
+    "reference": "Abuse the employees and leaders of the company.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Insulting the company’s employees and its leadership."
+  },
+  {
+    "index": 270,
+    "source": "喜欢北方的小伙儿，因为北方冬天有暖气才留在这里。",
+    "reference": "Young men who like the north stay here because the north has heating in winter.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I like guys from the north, because there’s heating in the north during winter, that’s why I stayed here."
+  },
+  {
+    "index": 271,
+    "source": "喜欢北方的小伙儿，因为他们十分大方。",
+    "reference": "I like the northern boys because they are very generous.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I like guys from the north because they are very generous."
+  },
+  {
+    "index": 272,
+    "source": "欺负小李的同学，就等于欺负小李。",
+    "reference": "Bullying Xiao Li's classmates equals bullying Xiao Li.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Bullying the classmate named Xiao Li is the same as bullying Xiao Li himself."
+  },
+  {
+    "index": 273,
+    "source": "欺负小李的同学，被老师狠狠批评了。",
+    "reference": "The classmate who bullied Xiao Li was severely criticized by the teacher.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The classmate who bullied Xiao Li was severely scolded by the teacher."
+  },
+  {
+    "index": 274,
+    "source": "战胜叛军的部队，需要出动十万的正规军。",
+    "reference": "To defeat the rebels, 100,000 regular troops are required.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To defeat the rebel forces, deploying one hundred thousand regular troops is required."
+  },
+  {
+    "index": 275,
+    "source": "战胜叛军的部队，已经聚集在了一起。",
+    "reference": "The forces that defeated the rebels had already gathered.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The troops that defeated the rebel forces have already gathered together."
+  },
+  {
+    "index": 276,
+    "source": "关爱员工的家人，是员工坚强的后盾。",
+    "reference": "Families caring for employees are the strong backing of employees.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Caring for employees’ families is a strong support for the employees."
+  },
+  {
+    "index": 277,
+    "source": "关爱员工的家人，是对员工最好的关怀。",
+    "reference": "Caring for employees' families is the best care for employees.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Caring for employees’ families is the best way to show care for the employees."
+  },
+  {
+    "index": 278,
+    "source": "热爱学校的学生，是每个校长都该做到的。",
+    "reference": "Loving students in the school is what every principal should do.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Having students who love their school is something every principal should strive for."
+  },
+  {
+    "index": 279,
+    "source": "热爱学校的学生，总是会为学校的声誉着想。",
+    "reference": "Students who love school always think about the reputation of the school.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Students who love their school always keep the school's reputation in mind."
+  },
+  {
+    "index": 280,
+    "source": "连累了小李的家人，让小李十分后悔。",
+    "reference": "Affecting his family made Xiao Li regretful.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It involved Xiao Li’s family, causing Xiao Li to feel deep regret."
+  },
+  {
+    "index": 281,
+    "source": "连累了小李的家人，对小李十分抱歉。",
+    "reference": "The family who affected Xiao Li felt very sorry for Xiao Li.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I’ve caused trouble for Xiao Li’s family and feel deeply sorry toward Xiao Li."
+  },
+  {
+    "index": 282,
+    "source": "牵连了领导的上级，让领导十分抱歉。",
+    "reference": "Involving the leader's superior made the leader very sorry.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It implicated the leader’s superior, making the leader feel very apologetic."
+  },
+  {
+    "index": 283,
+    "source": "牵连了领导的上级，让领导直接供出自己。",
+    "reference": "The leader's superiors who involved the leader allowed the leader to give himself directly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It implicated the leader’s superior, prompting the leader to directly confess."
+  },
+  {
+    "index": 284,
+    "source": "得罪了大众的明星，就不再是明星了。",
+    "reference": "The star who offended the public is no longer a star.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A celebrity who offends the public is no longer a celebrity."
+  },
+  {
+    "index": 285,
+    "source": "得罪了大众的明星，会被明星的粉丝攻讦。",
+    "reference": "Offending the popular star will be attacked by star fans.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Stars who offend the public will be attacked by their fans."
+  },
+  {
+    "index": 286,
+    "source": "围剿土匪的部队，随时都可以集结。",
+    "reference": "The forces to surround the bandits can be assembled at any time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The troops suppressing the bandits can assemble at any time."
+  },
+  {
+    "index": 287,
+    "source": "围剿土匪的部队，是件刻不容缓的事情。",
+    "reference": "Surrounding the bandits' forces is urgent.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Sending troops to wipe out the bandits is an urgent matter that allows no delay."
+  },
+  {
+    "index": 288,
+    "source": "思念家乡的人们，我无时无刻不想回去。",
+    "reference": "Miss the people in my hometown and I don't want to go back all the time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To those who long for their hometown, there’s never a moment I don’t want to go back."
+  },
+  {
+    "index": 289,
+    "source": "思念家乡的人们，会回到家乡过年。",
+    "reference": "People who miss their hometown will return to their hometown for Chinese New Year.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "People who miss their hometown will return there to celebrate the New Year."
+  },
+  {
+    "index": 290,
+    "source": "打倒反对派的人士，欢聚在一起庆祝。",
+    "reference": "People who brought down the opposition gathered together to celebrate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who overthrew the opposition gathered together to celebrate."
+  },
+  {
+    "index": 291,
+    "source": "打倒反对派的人士，以及他们的帮凶。",
+    "reference": "Defeat the opposition and their accomplices.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Overthrow the opposition figures and their accomplices."
+  },
+  {
+    "index": 292,
+    "source": "发现敌人的部队，我军立刻展开了攻击。",
+    "reference": "Upon discovering the enemy's troops, our army immediately launched an attack.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Upon discovering the enemy forces, our army immediately launched an attack."
+  },
+  {
+    "index": 293,
+    "source": "发现敌人的部队，是我们的先头部队。",
+    "reference": "The troop discovering the enemy is our vanguard.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was our vanguard that discovered the enemy troops."
+  },
+  {
+    "index": 294,
+    "source": "观察园林的行人，看上去都十分开心。",
+    "reference": "The pedestrians observing the garden looked very happy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Observing the people in the garden, they all appear very happy."
+  },
+  {
+    "index": 295,
+    "source": "观察园林的行人，行人的脚步都很匆忙。",
+    "reference": "Observing the pedestrians in the garden, we can see that the pedestrians are hurried.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Observing the people strolling in the garden, their footsteps all seem hurried."
+  },
+  {
+    "index": 296,
+    "source": "关心的是她母亲，她母亲亲自熬了粥来照顾她。",
+    "reference": "Her mother was concerned about her, and her mother boiled porridge to take care of her.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "It was her mother who was concerned about her; her mother personally made porridge to take care of her."
+  },
+  {
+    "index": 297,
+    "source": "关心的是她母亲，她母亲已经七十多了。",
+    "reference": "She was concerned about her mother, and her mother was already over seventy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "She’s concerned about her mother, who is already in her seventies."
+  },
+  {
+    "index": 298,
+    "source": "关心企业的员工，这样的员工值得表扬。",
+    "reference": "Employees who concerned about the conmpany were commendable.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Employees who care about the company deserve praise."
+  },
+  {
+    "index": 299,
+    "source": "关心企业的员工，要提升他们的生活住宿待遇。",
+    "reference": "Concerning about the employees of the company should improve their condition for living and accommodation.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "To care for the company’s employees, we must improve their living and accommodation conditions."
+  },
+  {
+    "index": 300,
+    "source": "他写了两个小时的发言稿，意味着他要发言两个小时。",
+    "reference": "He wrote a two-hour speech, which meant he would speak for two hours.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He spent two hours writing his speech, which implies he will speak for two hours."
+  },
+  {
+    "index": 301,
+    "source": "他写了两个小时的发言稿，还没有把发言稿写完。",
+    "reference": "He wrote speech for 2 hours and hasn't finished it yet.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He spent two hours writing the speech, but still hasn't finished it yet."
+  },
+  {
+    "index": 302,
+    "source": "这次书法比赛有两个协会的大师来当评委，他们各自为协会代言。",
+    "reference": "In this calligraphy competition, the masters of two associations came to be judges, and they each spoke for the association.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "For this calligraphy competition, two masters from different associations were invited to serve as judges, each representing their respective association."
+  },
+  {
+    "index": 303,
+    "source": "这次书法比赛有两个协会的大师来当评委，他们是书法协会的核心人物。",
+    "reference": "There are two masters of the association to be judges in this calligraphy competition. They are the core figures of the calligraphy association.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "This calligraphy competition invited two masters from the associations to serve as judges. They are key figures in the calligraphy association."
+  },
+  {
+    "index": 304,
+    "source": "对他的尊敬，我们都承受不起。",
+    "reference": "We can't afford his respect.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "None of us can bear that kind of respect for him."
+  },
+  {
+    "index": 305,
+    "source": "对他的尊敬，源于他的高尚品格。",
+    "reference": "The respect for him stems from his noble character.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The respect for him stems from his noble character."
+  },
+  {
+    "index": 306,
+    "source": "对于他的鼓励，我十分感谢。",
+    "reference": "I am very grateful for his encouragement.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I am very grateful for his encouragement."
+  },
+  {
+    "index": 307,
+    "source": "对于他的鼓励，深深地激励了他。",
+    "reference": "The encouragement for him deeply inspired him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "His encouragement deeply inspired him."
+  },
+  {
+    "index": 308,
+    "source": "关于他的疑惑，我直接解答了他。",
+    "reference": "Regarding his doubts, I answered him directly.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Regarding his doubts, I answered him directly."
+  },
+  {
+    "index": 309,
+    "source": "关于他的疑惑，在人们之间蔓延。",
+    "reference": "The concerns about him spread among people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The doubts about him are spreading among the people."
+  },
+  {
+    "index": 310,
+    "source": "对于他的恐惧，源于对他的不了解。",
+    "reference": "The fear towards him stems from the unfamiliarity with him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The fear of him stems from a lack of understanding of him."
+  },
+  {
+    "index": 311,
+    "source": "对于他的恐惧，老师耐心地抚慰了他。",
+    "reference": "For his fear, the teacher comforted him patiently.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The teacher patiently comforted him regarding his fear."
+  },
+  {
+    "index": 312,
+    "source": "两个城市的居民在讨论，哪个城市未来发展更好。",
+    "reference": "Residents of the two cities are discussing which city will develop better in the future.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Residents of the two cities are discussing which city will develop better in the future."
+  },
+  {
+    "index": 313,
+    "source": "两个城市的居民在讨论，刚刚上任的王市长。",
+    "reference": "Two residents of the city are discussing the newly appointed mayor of Wang.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The residents of the two cities are discussing the newly appointed Mayor Wang."
+  },
+  {
+    "index": 314,
+    "source": "三个国家的领导人在开会，讨论各国的能源政策。",
+    "reference": "Leaders from three countries are meeting to discuss their energy policies.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Leaders from three countries are meeting to discuss each country's energy policies."
+  },
+  {
+    "index": 315,
+    "source": "三个国家的领导人在开会，讨论本国今年军费支出。",
+    "reference": "Three leaders of the country are meeting to discuss military spending this year.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The leaders of three countries are holding a meeting to discuss their countries’ military expenditure for this year."
+  },
+  {
+    "index": 316,
+    "source": "参加比赛的是三个体校的学生，他们都想为各自的学校争光。",
+    "reference": "Participating in the competition are students from three sports schools, all of whom want to win for their respective schools.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The participants in the competition are students from three sports schools, and they all want to bring honor to their respective schools."
+  },
+  {
+    "index": 317,
+    "source": "参加比赛的是三个体校的学生，他们来自同一个班级。",
+    "reference": "Participating in the competition were three students from the sports school who came from the same class.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The participants in the competition are three students from a sports school, and they come from the same class."
+  },
+  {
+    "index": 318,
+    "source": "两个球队的队员在操场练球，为了今年球队的冠军。",
+    "reference": "Two players from the team practiced on the playground for this year's championship.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The players from the two teams are practicing on the field for this year's championship."
+  },
+  {
+    "index": 319,
+    "source": "两个球队的队员在操场练球，他们两个队经常一起对练。",
+    "reference": "The players of the two teams practice on the playground. The two teams often practice together.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The players from both teams are practicing on the field, and the two teams often have practice matches together."
+  },
+  {
+    "index": 320,
+    "source": "放弃美丽的女人，往往都在追求更为重要的精神世界。",
+    "reference": "Women who give up beauty often pursues a more important spiritual world.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Those who give up on beautiful women are often in pursuit of a more important spiritual world."
+  },
+  {
+    "index": 321,
+    "source": "放弃美丽的女人，这个男人选择了离开。",
+    "reference": "Giving up the beautiful woman, the man chose to leave.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Abandoning the beautiful woman, the man chose to leave."
+  },
+  {
+    "index": 322,
+    "source": "学校领导对他的批评，专门开了一个研讨会。",
+    "reference": "For the criticism from him, the school leaders held a special seminar.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The school leadership held a special seminar to discuss their criticisms of him."
+  },
+  {
+    "index": 323,
+    "source": "学校领导对他的批评，他早已预料到了。",
+    "reference": "For the criticism to him from the school leaders, he had already anticipated.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He had already anticipated the criticism from the school leaders."
+  },
+  {
+    "index": 324,
+    "source": "我们三个人一组，可以分为两组。",
+    "reference": "We can be divided into two three-member groups.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The three of us form one group, which can be divided into two groups."
+  },
+  {
+    "index": 325,
+    "source": "我们三个人一组，因为我们正好可以互补。",
+    "reference": "We three are in one group because we complement each other.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The three of us form a team because we can perfectly complement one another."
+  },
+  {
+    "index": 326,
+    "source": "楼下开了家青年理发店，专为青年理发。",
+    "reference": "There is  a new youth barber shop downstairs , which is specially for young people.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A new barbershop for young people has opened downstairs, specializing in haircuts for youth."
+  },
+  {
+    "index": 327,
+    "source": "楼下开了家青年理发店，发型师全都是青年。",
+    "reference": "There is  a new barber shop that young people opened downstairs , and all hairdressers are young.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "A youth hair salon opened downstairs, and all the stylists are young."
+  },
+  {
+    "index": 328,
+    "source": "县里通知15号前去报道，15号去就不行了。",
+    "reference": "The county authorities informed that one's arrival should be reported before the 15th, but the 15th would not be included.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The county notified that everyone must report before the 15th; going on the 15th won’t work."
+  },
+  {
+    "index": 329,
+    "source": "县里通知15号前去报道，只有15号那天才行。",
+    "reference": "The county authorities  informed  that.one's arrival should be reported on the 15th, and it would be only allowed  on the 15th.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The county notified us to go and report on the 15th, and it can only be done on that day."
+  },
+  {
+    "index": 330,
+    "source": "我看了十天的报纸，每天一份。",
+    "reference": "I read the newspaper for ten days, with one newspaper for each day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I read newspapers for ten days, one copy each day."
+  },
+  {
+    "index": 331,
+    "source": "我看了十天的报纸，一天全看完了。",
+    "reference": "I read ten days' newspaper and finished reading all of them in one day.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I had ten days’ worth of newspapers and finished reading them all in a single day."
+  },
+  {
+    "index": 332,
+    "source": "学校里来了三个医院的医生，分别是协和医院，市立医院和省属医院。",
+    "reference": "Doctors from three hospitals came to the school, namely Xiehe Hospital, Municipal Hospital and Provincial Hospital.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three doctors from hospitals came to the school, namely from Xiehe Hospital, the municipal hospital, and the provincial hospital."
+  },
+  {
+    "index": 333,
+    "source": "学校里来了三个医院的医生，都是协和医院的。",
+    "reference": "Three doctors from the hospital came to school, all of whom came from Xiehe Hospital.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Three doctors from a hospital came to the school, all from Xiehe Hospital."
+  },
+  {
+    "index": 334,
+    "source": "他刚来学校，谁都不认识，只和同桌比较熟。",
+    "reference": "He had just come to school, and he didn't know anyone but his deskmate.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He just arrived at the school and doesn't know anyone yet; he’s only somewhat familiar with his seatmate."
+  },
+  {
+    "index": 335,
+    "source": "他刚来学校，谁都不认识，大家都不和他说话。",
+    "reference": "He had just arrived at school, and no one knew him and spoke to him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He just arrived at the school, doesn’t know anyone, and no one talks to him."
+  },
+  {
+    "index": 336,
+    "source": "叫车快点，路上人不多，速度快点没事。",
+    "reference": "Ask the drivers to drive faster. As there are not many people on the road, faster speed is fine.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hurry up and call a car. There aren’t many people on the road, so there’s no problem going faster."
+  },
+  {
+    "index": 337,
+    "source": "叫车快点，这边车很多，很好叫。",
+    "reference": "Call the car quickly. There are a lot of cars here and you will find it easyto call one.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Hurry and call a car; there are plenty of cars here, so it’s easy to get one."
+  },
+  {
+    "index": 338,
+    "source": "三个工人的合理建议，是一条很好的建议。",
+    "reference": "The reasonable suggestion from the three workers is a good suggestion.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The three workers' reasonable suggestion is a very good suggestion."
+  },
+  {
+    "index": 339,
+    "source": "三个工人的合理建议，被工会一一讨论通过。",
+    "reference": "Three reasonable suggestions from the workers were discussed and approved by the union one by one.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "The union discussed and approved each of the three workers’ reasonable proposals one by one."
+  },
+  {
+    "index": 340,
+    "source": "经济损失加上诉讼费4000元，一共8000元。",
+    "reference": "Economic loss and litigation fees  with each being 4,000 yuan is altogether 8,000 yuan.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Economic losses plus a litigation fee of 4,000 yuan amount to a total of 8,000 yuan."
+  },
+  {
+    "index": 341,
+    "source": "经济损失加上诉讼费4000元，都由司机承担。",
+    "reference": "Economic loss and litigation fees of  4,000 yuan,  shall be borne by the driver.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "All the economic losses plus the 4,000-yuan litigation fee are borne by the driver."
+  },
+  {
+    "index": 342,
+    "source": "把水留给晚上来的人喝，后来的人都渴了。",
+    "reference": "Leave the water to those who arrive later  because those who come later are thirsty.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Leave the water for those who come in the evening to drink, and the people who arrived later were all thirsty."
+  },
+  {
+    "index": 343,
+    "source": "把水留给晚上来的人喝，到晚上就买不到水了。",
+    "reference": "Leave the water to those who arrive in the evening because there is no water to buy at night.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Save the water for the people who come at night to drink; by then, you won’t be able to buy any more water."
+  },
+  {
+    "index": 344,
+    "source": "我认识你那年才三十岁，我还是个孩子。",
+    "reference": "I knew you when you were thirty, and I was a child then.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "When I met you that year, I was only thirty years old. I was still a child."
+  },
+  {
+    "index": 345,
+    "source": "我认识你那年才三十岁，你还是个孩子。",
+    "reference": "I knew you when I was thirty, and you were a child then.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "I was only thirty years old the year I met you, and you were still a child."
+  },
+  {
+    "index": 346,
+    "source": "妈妈看到我很高兴，问我为何如此开心。",
+    "reference": "Mom saw that I was happy and asked why I was so happy.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "Mom was very happy to see me and asked why I was so pleased."
+  },
+  {
+    "index": 347,
+    "source": "妈妈看到我很高兴，因为她很久没见到我了。",
+    "reference": "Mom was happy to see me because she hadn't seen me for a long time.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "My mother was very happy to see me because she hadn't seen me for a long time."
+  },
+  {
+    "index": 348,
+    "source": "他批评你做的不对，你听他的便是。",
+    "reference": "He criticizes you for doing wrong, and you should just follow him.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He criticized you for doing it incorrectly, so just listen to him."
+  },
+  {
+    "index": 349,
+    "source": "他批评你做的不对，你又没做错什么。",
+    "reference": "It was wrong that he criticized you because you did nothing wrong.",
+    "src_lang": "Chinese",
+    "tgt_lang": "English",
+    "prediction": "He criticized you for doing something wrong, even though you actually didn’t do anything wrong."
+  }
+]

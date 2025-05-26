@@ -1,0 +1,4778 @@
+[
+  {
+    "index": 0,
+    "source": "My talk is \"Flapping Birds and Space Telescopes.\"",
+    "reference": "﻿我演讲的题目是《展翅的鸟儿与太空望远镜》。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我的演讲题目是“拍翅鸟和太空望远镜”。"
+  },
+  {
+    "index": 1,
+    "source": "And you would think that should have nothing to do with one another, but I hope by the end of these 18 minutes, you'll see a little bit of a relation.",
+    "reference": "你会觉得他们相互之间没有联系，但我希望在18分钟以后，你能看到一些关联。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你会认为这两者之间应该毫无关联，但我希望在这18分钟结束时，你会看到它们之间存在着一些联系。"
+  },
+  {
+    "index": 2,
+    "source": "It ties to origami.",
+    "reference": "这与折纸有关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它与折纸有关。"
+  },
+  {
+    "index": 3,
+    "source": "So let me start.",
+    "reference": "下面我就开始了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么，我开始了。"
+  },
+  {
+    "index": 4,
+    "source": "What is origami?",
+    "reference": "什么是折纸？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "什么是折纸？"
+  },
+  {
+    "index": 5,
+    "source": "Most people think they know what origami is.",
+    "reference": "很多人以为他们知道折纸是什么。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "大多数人认为他们知道什么是折纸。"
+  },
+  {
+    "index": 6,
+    "source": "It's this: flapping birds, toys, cootie catchers, that sort of thing.",
+    "reference": "它是这样的： 展翅的鸟儿、玩具、东西南北之类的东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "就是这些：拍翅膀的鸟、玩具、东南西北折纸游戏，诸如此类的东西。"
+  },
+  {
+    "index": 7,
+    "source": "And that is what origami used to be.",
+    "reference": "折纸术以前是这样的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而那正是折纸过去的样子。"
+  },
+  {
+    "index": 8,
+    "source": "But it's become something else.",
+    "reference": "但它已经改变了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但它已经变成了别的东西。"
+  },
+  {
+    "index": 9,
+    "source": "It's become an art form, a form of sculpture.",
+    "reference": "它已经成为了一种艺术形式，一种雕塑形式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它已经变成了一种艺术形式，一种雕塑形式。"
+  },
+  {
+    "index": 10,
+    "source": "The common theme -- what makes it origami -- is folding, is how we create the form.",
+    "reference": "共同的主题——折纸术的本质—— 是折叠，也是我们如何创造形态的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "共同的主题——使它成为折纸的要素——是折叠，是我们如何创造这种形式。"
+  },
+  {
+    "index": 11,
+    "source": "You know, it's very old.",
+    "reference": "你们知道，这非常古老。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你知道，它很旧了。"
+  },
+  {
+    "index": 12,
+    "source": "This is a plate from 1797.",
+    "reference": "这是1797年的一幅画。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个1797年的盘子。"
+  },
+  {
+    "index": 13,
+    "source": "It shows these women playing with these toys.",
+    "reference": "上面是这些妇女们玩纸玩具的场景。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它展示了这些女性玩这些玩具。"
+  },
+  {
+    "index": 14,
+    "source": "If you look close, it's this shape, called a crane.",
+    "reference": "如果你靠近点看，它是这种形状的，叫做鹤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你仔细看，它就是这个形状，叫做鹤。"
+  },
+  {
+    "index": 15,
+    "source": "Every Japanese kid learns how to fold that crane.",
+    "reference": "每个日本孩子都学折纸鹤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每个日本小孩都学过如何折那只纸鹤。"
+  },
+  {
+    "index": 16,
+    "source": "So this art has been around for hundreds of years, and you would think something that's been around that long -- so restrictive, folding only -- everything that could done has been done a long time ago.",
+    "reference": "所以这种艺术已经存在了数百年，你可能会想如果某种东西 已经存在了这么久——如此有限制性，只能折叠—— 那么所有能做出的东西应该在很久以前就做出来了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以这种艺术已经存在数百年了，你可能会认为一种存在这么长时间的东西——如此受限，只能折叠——所有能做的早就已经做完了。"
+  },
+  {
+    "index": 17,
+    "source": "And that might have been the case.",
+    "reference": "实际情况也许会是如此。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且那可能就是事实。"
+  },
+  {
+    "index": 18,
+    "source": "But in the 20th century, a Japanese folder named Yoshizawa came along, and he created tens of thousands of new designs.",
+    "reference": "但在20世纪， 一位名为吉泽的日本折纸艺术家出现了，他创造出了数万种全新的设计。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但在20世纪，一位名叫吉泽的日本折纸家出现了，他创造了数以万计的新设计。"
+  },
+  {
+    "index": 19,
+    "source": "But even more importantly, he created a language -- a way we could communicate, a code of dots, dashes and arrows.",
+    "reference": "更重要的是，他创造了一种语言——一种我们可以交流的方式，一种由点、破折号和箭头构成的代码。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但更重要的是，他创造了一种语言——一种我们可以沟通的方式，一种由点、划和箭头组成的密码。"
+  },
+  {
+    "index": 20,
+    "source": "Harkening back to Susan Blackmore's talk, we now have a means of transmitting information with heredity and selection, and we know where that leads.",
+    "reference": "联系到苏珊·布莱克摩尔的演讲， 我们现在有了一种通过传承与选择传递信息的方法，我们也知道它的走向。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "回想起苏珊·布莱克莫尔的演讲，我们现在有一种通过遗传和选择来传递信息的方式，而且我们知道这会带来什么结果。"
+  },
+  {
+    "index": 21,
+    "source": "And where it has led in origami is to things like this.",
+    "reference": "而它在折纸术中产生的是这样的东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而它在折纸领域所引导的方向，就类似这些东西。"
+  },
+  {
+    "index": 22,
+    "source": "This is an origami figure: one sheet, no cuts, folding only, hundreds of folds.",
+    "reference": "这是一个折纸作品： 一张纸，没有裁剪，只有折叠，数百次折叠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个折纸作品：一张纸，没有剪裁，只有折叠，数百次折叠。"
+  },
+  {
+    "index": 23,
+    "source": "This too is origami, and this shows where we've gone in the modern world.",
+    "reference": "而这也是折纸， 它显示出我们在现代世界中的已经走到哪了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这也是折纸，并且展示了我们在现代世界中所达到的成就。"
+  },
+  {
+    "index": 24,
+    "source": "You can get horns, antlers -- even if you look close, cloven hooves.",
+    "reference": "你可以做出犄角，鹿角—— 如果你靠近看，偶蹄。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你可以看到角、鹿角——即使你仔细看，还能看到裂蹄。"
+  },
+  {
+    "index": 25,
+    "source": "And it raises a question: what changed?",
+    "reference": "这就引出一个问题：什么发生了改变？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这引出了一个问题：发生了什么变化？"
+  },
+  {
+    "index": 26,
+    "source": "And what changed is something you might not have expected in an art, which is math.",
+    "reference": "发生变化的是一种你在艺术中可能不曾期待的东西，那就是数学。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而改变的东西，是你在艺术中可能没想到的东西，也就是数学。"
+  },
+  {
+    "index": 27,
+    "source": "That is, people applied mathematical principles to the art, to discover the underlying laws.",
+    "reference": "也就是说，人们将数学原理应用到艺术中，来发现潜在的规律。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "也就是说，人们将数学原理应用于艺术，以发现其内在规律。"
+  },
+  {
+    "index": 28,
+    "source": "And that leads to a very powerful tool.",
+    "reference": "这就形成了一种强大的工具。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这带来了一个非常强大的工具。"
+  },
+  {
+    "index": 29,
+    "source": "The secret to productivity in so many fields -- and in origami -- is letting dead people do your work for you.",
+    "reference": "在众多领域提高生产力的秘密——包括在折纸术中——是让死去的人为你工作。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "许多领域（包括折纸）提高效率的秘诀在于让逝者为你工作。"
+  },
+  {
+    "index": 30,
+    "source": "Because what you can do is take your problem and turn it into a problem that someone else has solved, and use their solutions.",
+    "reference": "因为你所能做的是将你的问题 转变成一个其他人已经解决的问题，并运用他们的解决方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为你能做的是把你自己的问题拿出来，把它变成一个别人已经解决的问题，然后利用他们的解决方案。"
+  },
+  {
+    "index": 31,
+    "source": "And I want to tell you how we did that in origami.",
+    "reference": "而我想要告诉你们，我们是如何在折纸术中做到这一点的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我想告诉你们我们是如何在折纸中做到这一点的。"
+  },
+  {
+    "index": 32,
+    "source": "Origami revolves around crease patterns.",
+    "reference": "折纸术是围绕折痕图进行的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "折纸的核心在于折痕图案。"
+  },
+  {
+    "index": 33,
+    "source": "The crease pattern shown here is the underlying blueprint for an origami figure.",
+    "reference": "这个折痕图就是一个折纸造型 的设计图",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这里展示的折痕图是某个折纸作品的底层蓝图。"
+  },
+  {
+    "index": 34,
+    "source": "And you can't just draw them arbitrarily.",
+    "reference": "设计图可不能随便画。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且你不能随意地画它们。"
+  },
+  {
+    "index": 35,
+    "source": "They have to obey four simple laws.",
+    "reference": "它们必须遵循4个简单的规则。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们必须遵守四条简单的法律。"
+  },
+  {
+    "index": 36,
+    "source": "And they're very simple, easy to understand.",
+    "reference": "它们非常简单，并且很好理解。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它们非常简单，容易理解。"
+  },
+  {
+    "index": 37,
+    "source": "The first law is two-colorability.",
+    "reference": "第一个规则是双可着色性。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一条定律是双色性。"
+  },
+  {
+    "index": 38,
+    "source": "You can color any crease pattern with just two colors without ever having the same color meeting.",
+    "reference": "你可以用两种颜色 填充你想画的的折痕图而 相同的颜色不会相邻。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你可以用两种颜色对任何折痕图案进行着色，而相邻的区域永远不会使用相同的颜色。"
+  },
+  {
+    "index": 39,
+    "source": "The directions of the folds at any vertex --the number of mountain folds, the number of valley folds --always differs by two.",
+    "reference": "在任何顶点的折叠方向--凸折法的数量，凹折法的数量--之间总是相差两下。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在任何顶点处的折叠方向——山折的数量和谷折的数量——总是相差二。"
+  },
+  {
+    "index": 40,
+    "source": "Two more or two less.",
+    "reference": "多折或少折两下。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "多两个或少两个。"
+  },
+  {
+    "index": 41,
+    "source": "Nothing else.",
+    "reference": "就这么简单。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "没有别的。"
+  },
+  {
+    "index": 42,
+    "source": "If you look at the angles around the fold, you find that if you number the angles in a circle, all the even-numbered angles add up to a straight line.",
+    "reference": "如果观察折痕周围的角，你会发现在数围成一圈的角时，所有列为偶数的角加起来是一条直线。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你观察折痕周围的角度，你会发现如果你在一个圆中给角度编号，所有偶数角度加起来等于一条直线。"
+  },
+  {
+    "index": 43,
+    "source": "All the odd-numbered angles add up to a straight line.",
+    "reference": "所有列为奇数的角加起来是一个直线。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所有奇数编号的角加起来是一条直线。"
+  },
+  {
+    "index": 44,
+    "source": "And if you look at how the layers stack, you'll find that no matter how you stack folds and sheets, a sheet can never penetrate a fold.",
+    "reference": "接下来，如果观察这些纸是怎么叠加起来的，你会发现不论怎样叠加褶层和纸片，纸片永远不能 穿透褶层。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你观察这些层是如何堆叠的，你会发现无论你如何堆叠褶皱和薄片，薄片永远无法穿透褶皱。"
+  },
+  {
+    "index": 45,
+    "source": "So that's four simple laws.",
+    "reference": "这就是四则简单的规则。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以这就是四个简单的定律。"
+  },
+  {
+    "index": 46,
+    "source": "That's all you need in origami.",
+    "reference": "在折纸艺术中这就是全部。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这就是折纸所需的一切。"
+  },
+  {
+    "index": 47,
+    "source": "All of origami comes from that.",
+    "reference": "所有的折纸都源于这些。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所有折纸的起源都来自那里。"
+  },
+  {
+    "index": 48,
+    "source": "And you'd think, \"Can four simple laws give rise to that kind of complexity?\"",
+    "reference": "现在你觉得：“那些复杂的工艺 能是从四则简单的规则中衍生出来的吗？”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你会想，“四个简单的定律能产生那种复杂的现象吗？”"
+  },
+  {
+    "index": 49,
+    "source": "But indeed, the laws of quantum mechanics can be written down on a napkin, and yet they govern all of chemistry, all of life, all of history.",
+    "reference": "但是，事实上，量子力学的法则可以在一张餐巾纸上写出来。 而它们可以支配所有的化学， 甚至生活和历史的全部。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但事实上，量子力学的定律可以写在餐巾纸上，然而它们支配着所有的化学、所有的生命和所有的历史。"
+  },
+  {
+    "index": 50,
+    "source": "If we obey these laws, we can do amazing things.",
+    "reference": "如果遵循这些规则，我们能做出令人吃惊的事。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我们遵守这些法律，我们就能创造奇迹。"
+  },
+  {
+    "index": 51,
+    "source": "So in origami, to obey these laws, we can take simple patterns -- like this repeating pattern of folds, called textures -- and by itself it's nothing.",
+    "reference": "所以折纸时，在遵循这些规则的情况下，我们可以做出简单的样式--比如这个重复的折叠样式，叫做纹理--虽然这样单独看起来很普通。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以在折纸中，为了遵守这些规则，我们可以采用简单的图案——比如这种重复的折叠图案，称为纹理——它本身什么都不是。"
+  },
+  {
+    "index": 52,
+    "source": "But if we follow the laws of origami, we can put these patterns into another fold that itself might be something very, very simple, but when we put it together, we get something a little different.",
+    "reference": "但如果我们遵守折纸的规则，我们能把这些样式加入另一种折法，这种折法本身非常非常的简单。但当我们把它加进来，会得到很不一样的东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是，如果我们遵循折纸的规律，我们可以将这些图案折叠成另一种形式，这种形式本身可能非常非常简单，但是当我们把它们组合在一起时，我们会得到一些稍微不同的东西。"
+  },
+  {
+    "index": 53,
+    "source": "This fish, 400 scales -- again, it is one uncut square, only folding.",
+    "reference": "这条鱼有400片鱼鳞，同样，它是一张没被剪过的正方形纸张。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这条鱼有400片鳞片——而且，它是一张未切割的正方形，只是折叠而成。"
+  },
+  {
+    "index": 54,
+    "source": "And if you don't want to fold 400 scales, you can back off and just do a few things, and add plates to the back of a turtle, or toes.",
+    "reference": "如果你不想折400片鱼鳞，你可以退而求其次，做些简单的折叠得到一只乌龟的背壳或脚趾。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且如果你不想叠四百片鳞片，你可以退一步，只做一些事情，然后在乌龟的背上加片甲，或者加些脚趾。"
+  },
+  {
+    "index": 55,
+    "source": "Or you can ramp up and go up to 50 stars on a flag, with 13 stripes.",
+    "reference": "或者可以提升成为一面拥有50颗星星和13条横条的旗子（美国国旗）。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "或者你可以加强设计，在旗帜上使用多达 50 颗星星和 13 条条纹。"
+  },
+  {
+    "index": 56,
+    "source": "And if you want to go really crazy, 1,000 scales on a rattlesnake.",
+    "reference": "如果你想做些疯狂的事情，这有一条有1000片鳞片的响尾蛇。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你想彻底疯狂一下，可以试试数响尾蛇身上的1000片鳞片。"
+  },
+  {
+    "index": 57,
+    "source": "And this guy's on display downstairs, so take a look if you get a chance.",
+    "reference": "这个作品展示在楼下，所以你们有机会可以看看。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且这人在楼下展示，如果你们有机会，可以去看看。"
+  },
+  {
+    "index": 58,
+    "source": "The most powerful tools in origami have related to how we get parts of creatures.",
+    "reference": "在折纸艺术中，最有用的方法和我们怎样构造生物的一部分有关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "折纸中最强大的工具与我们如何获得生物的各个部分有关。"
+  },
+  {
+    "index": 59,
+    "source": "And I can put it in this simple equation.",
+    "reference": "我可以用一个简单的等式来解释。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我可以把它放到这个简单的方程式里。"
+  },
+  {
+    "index": 60,
+    "source": "We take an idea, combine it with a square, and you get an origami figure.",
+    "reference": "我们产生了一个想法， 把它与张纸片结合，就能得到一个折纸作品。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们拿出一个想法，把它和一个正方形结合起来，你就能得到一个折纸作品。"
+  },
+  {
+    "index": 61,
+    "source": "What matters is what we mean by those symbols.",
+    "reference": "重要的是这些符号代表什么。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "重要的是我们所说的那些符号的含义。"
+  },
+  {
+    "index": 62,
+    "source": "And you might say, \"Can you really be that specific?",
+    "reference": "你们可能会问：“真的能做到那么具体吗？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你可能会说，“你能真的那么具体吗？”"
+  },
+  {
+    "index": 63,
+    "source": "I mean, a stag beetle -- it's got two points for jaws, it's got antennae. Can you be that specific in the detail?\"",
+    "reference": "我是说一只鹿角虫有两个点状的嘴，和触角。你真的能做到具体到细节吗？”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我的意思是，一只锹形虫——它有两只用来咀嚼的大颚，还有触角。你能把细节描述得这么具体吗？"
+  },
+  {
+    "index": 64,
+    "source": "And yeah, you really can.",
+    "reference": "是的，真的可以。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "是的，你真的可以。"
+  },
+  {
+    "index": 65,
+    "source": "So how do we do that?",
+    "reference": "那该怎么做呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么我们该怎么做呢？"
+  },
+  {
+    "index": 66,
+    "source": "Well, we break it down into a few smaller steps.",
+    "reference": "我们把它分成几个小步骤。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "好吧，我们把它分解成几个小步骤。"
+  },
+  {
+    "index": 67,
+    "source": "So let me stretch out that equation.",
+    "reference": "为此，让我来展开这个等式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么让我把那个方程展开一下。"
+  },
+  {
+    "index": 68,
+    "source": "I start with my idea. I abstract it.",
+    "reference": "我先从我的构思开始，使它抽象化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我从我的想法开始。我将其抽象化。"
+  },
+  {
+    "index": 69,
+    "source": "What's the most abstract form? It's a stick figure.",
+    "reference": "什么是最抽象的形式呢？线条画。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "什么是最抽象的形式？ 是火柴人。"
+  },
+  {
+    "index": 70,
+    "source": "And from that stick figure, I somehow have to get to a folded shape that has a part for every bit of the subject.",
+    "reference": "然后从这个线条画，我得用某种方式得到折叠的式样， 并且包括想要表现对象的所有部分。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且要从那个简笔画，不知怎么地变成一个折叠的形状，其中每个部分都对应于主体的每个细节。"
+  },
+  {
+    "index": 71,
+    "source": "A flap for every leg.",
+    "reference": "一片三角形折叠对应一条腿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "每条腿都配有一个襟翼。"
+  },
+  {
+    "index": 72,
+    "source": "And then once I have that folded shape that we call the base, you can make the legs narrower, you can bend them, you can turn it into the finished shape.",
+    "reference": "然后，我们称这个折叠的式样为基础。 你可以使它的腿变细，使其弯曲， 你可以把它做成成品。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后一旦我有了我们称之为底座的那个折叠形状，你就可以把腿做得更窄，你可以弯曲它们，你可以把它变成最终的形状。"
+  },
+  {
+    "index": 73,
+    "source": "Now the first step: pretty easy.",
+    "reference": "第一步：很简单。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在是第一步：非常简单。"
+  },
+  {
+    "index": 74,
+    "source": "Take an idea, draw a stick figure.",
+    "reference": "做出一个构思，画一幅线条图。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "拿出一个想法，画一个火柴人。"
+  },
+  {
+    "index": 75,
+    "source": "The last step is not so hard, but that middle step -- going from the abstract description to the folded shape -- that's hard.",
+    "reference": "最后一步也不是很难，但中间的一步--把抽象的描绘变为折叠的式样--这很难。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最后一步倒不难，但是中间那一步——从抽象的描述到折叠的形状——那才是难的。"
+  },
+  {
+    "index": 76,
+    "source": "But that's the place where the mathematical ideas can get us over the hump.",
+    "reference": "但就是在这，数学理论让我们 翻越难关。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但那正是数学思想可以帮助我们克服困难的地方。"
+  },
+  {
+    "index": 77,
+    "source": "And I'm going to show you all how to do that so you can go out of here and fold something.",
+    "reference": "我要向你们展示怎样做，这样离开这里后，你们可以叠出些东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我要向你们展示如何做到这一点，这样你们离开这里后就可以折叠一些东西了。"
+  },
+  {
+    "index": 78,
+    "source": "But we're going to start small.",
+    "reference": "但我们要先从小的开始。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是我们将从小处开始。"
+  },
+  {
+    "index": 79,
+    "source": "This base has a lot of flaps in it.",
+    "reference": "这个基础有很多片状物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这个底座里面有很多褶皱。"
+  },
+  {
+    "index": 80,
+    "source": "We're going to learn how to make one flap.",
+    "reference": "我们要学习怎样做一个片状物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们将学习如何制作一个襟翼。"
+  },
+  {
+    "index": 81,
+    "source": "How would you make a single flap?",
+    "reference": "你会怎样叠一个片状物呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你会如何制作一个单独的襟翼？"
+  },
+  {
+    "index": 82,
+    "source": "Take a square. Fold it in half, fold it in half, fold it again, until it gets long and narrow, and then we'll say at the end of that, that's a flap.",
+    "reference": "拿一张正方形的纸，把它对折再对折，直到它变得又长又细，然后这个的尾部就是一个片状物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "拿一个正方形。把它对折，再对折，再对折，直到它变得又长又窄，然后我们会在最后说，那是一个翻盖。"
+  },
+  {
+    "index": 83,
+    "source": "I could use that for a leg, an arm, anything like that.",
+    "reference": "我能用它做一条腿，一只手臂，和所有相似的东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我可以用那个来当腿，胳膊，或者类似的东西。"
+  },
+  {
+    "index": 84,
+    "source": "What paper went into that flap?",
+    "reference": "在片状物中是什么样的纸呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "什么文件被塞进那个口袋里了？"
+  },
+  {
+    "index": 85,
+    "source": "Well, if I unfold it and go back to the crease pattern, you can see that the upper left corner of that shape is the paper that went into the flap.",
+    "reference": "如果把它展开去看它的折痕图，你们可以看到在纸片的左上角的形状就是构成片状物的纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，如果我把它展开，回到折痕图案，你可以看到那个形状的左上角就是折进翻盖里的纸。"
+  },
+  {
+    "index": 86,
+    "source": "So that's the flap, and all the rest of the paper's left over.",
+    "reference": "所以那就是一个片状物，和所有剩下的纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以这就是翻盖，剩下的都是废纸了。"
+  },
+  {
+    "index": 87,
+    "source": "I can use it for something else.",
+    "reference": "我可以用剩下的部分做点别的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我可以把它用在别的地方。"
+  },
+  {
+    "index": 88,
+    "source": "Well, there's other ways of making a flap.",
+    "reference": "也有另外的做片状物的方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，還有其他方法可以引起轟動。"
+  },
+  {
+    "index": 89,
+    "source": "There's other dimensions for flaps.",
+    "reference": "也有不同形状的片状物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "襟翼还有其他维度。"
+  },
+  {
+    "index": 90,
+    "source": "If I make the flaps skinnier, I can use a bit less paper.",
+    "reference": "如果把片状物叠得更细一些，所用的纸会更少。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我把襟翼做得更窄，我就可以少用一点纸。"
+  },
+  {
+    "index": 91,
+    "source": "If I make the flap as skinny as possible, I get to the limit of the minimum amount of paper needed.",
+    "reference": "如果把片状物尽可能的叠细，就能只用片状物所需的最少的纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我把襟翼做得尽可能窄，我就达到了所需纸张最小量的极限。"
+  },
+  {
+    "index": 92,
+    "source": "And you can see there, it needs a quarter-circle of paper to make a flap.",
+    "reference": "就像你们所看到的，只需要纸上四分之一个圆就可以作出一个片状物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且你可以看到那里，需要四分之一圆的纸来做一个襟翼。"
+  },
+  {
+    "index": 93,
+    "source": "There's other ways of making flaps.",
+    "reference": "还有别的做片状物的方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "還有其他方法可以製作襟翼。"
+  },
+  {
+    "index": 94,
+    "source": "If I put the flap on the edge, it uses a half circle of paper.",
+    "reference": "如果把片状物放在纸片边上，就需要一个半圆的纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我把盖子放在边缘，它会用掉半个圆形的纸。"
+  },
+  {
+    "index": 95,
+    "source": "And if I make the flap from the middle, it uses a full circle.",
+    "reference": "如果把片状物放在纸片的中心，就需要一整圆。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且如果我从中间做瓣膜，它会用到一个完整的圆。"
+  },
+  {
+    "index": 96,
+    "source": "So no matter how I make a flap, it needs some part of a circular region of paper.",
+    "reference": "就是说不论怎样叠，片状物是由纸上圆形区域的一部分做成的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以无论我怎么折叠，都需要用到圆形纸片的一部分区域。"
+  },
+  {
+    "index": 97,
+    "source": "So now we're ready to scale up.",
+    "reference": "现在让我们来提升到新的水平。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以现在我们准备好扩大规模了。"
+  },
+  {
+    "index": 98,
+    "source": "What if I want to make something that has a lot of flaps?",
+    "reference": "如果要叠一个有很多片状物的东西该怎么办呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我想做一个有很多襟翼的东西，那该怎么办？"
+  },
+  {
+    "index": 99,
+    "source": "What do I need?",
+    "reference": "我需要什么？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我需要什么？"
+  },
+  {
+    "index": 100,
+    "source": "I need a lot of circles.",
+    "reference": "我需要很多的圆。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我需要很多圆形。"
+  },
+  {
+    "index": 101,
+    "source": "And in the 1990s, origami artists discovered these principles and realized we could make arbitrarily complicated figures just by packing circles.",
+    "reference": "在二十世纪九十年代，折纸艺术家发现了这些规则，并了解到我们可以通过组合圆形 来叠出任意复杂的形状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在20世纪90年代，折纸艺术家们发现了这些原理，并意识到我们可以仅通过堆叠圆圈来制作任意复杂的图形。"
+  },
+  {
+    "index": 102,
+    "source": "And here's where the dead people start to help us out.",
+    "reference": "这就是那些死去的人能帮到我们的地方。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这里就是死人开始帮助我们的地方。"
+  },
+  {
+    "index": 103,
+    "source": "Because lots of people have studied the problem of packing circles.",
+    "reference": "因为很多人都研究过组合圆形的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为很多人研究过圆形填充问题。"
+  },
+  {
+    "index": 104,
+    "source": "I can rely on that vast history of mathematicians and artists looking at disc packings and arrangements.",
+    "reference": "我可以依赖那些有关圆的组合和排列的大量的数学与艺术的历史。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我可以依靠那浩瀚的数学家和艺术家研究圆盘堆积和排列的历史。"
+  },
+  {
+    "index": 105,
+    "source": "And I can use those patterns now to create origami shapes.",
+    "reference": "然后我可以用这些式样来制造折纸的形状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在我可以用那些图案来创造折纸形状了。"
+  },
+  {
+    "index": 106,
+    "source": "So we figured out these rules whereby you pack circles, you decorate the patterns of circles with lines according to more rules.",
+    "reference": "我们可以依据这些规则来组合圆形，依据更多的规矩我们可以用线条来装饰圆。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以我们弄清楚了这些规则，通过这些规则你可以堆叠圆形，然后根据更多的规则用线条来装饰这些圆形的图案。"
+  },
+  {
+    "index": 107,
+    "source": "That gives you the folds.",
+    "reference": "这就有了折叠线。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那样就有了褶皱。"
+  },
+  {
+    "index": 108,
+    "source": "Those folds fold into a base.",
+    "reference": "沿这些线折叠就可以得到大体形状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那些褶皱折叠成一个底座。"
+  },
+  {
+    "index": 109,
+    "source": "You shape the base.",
+    "reference": "你们就做出了大体的形状。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你塑造基础。"
+  },
+  {
+    "index": 110,
+    "source": "You get a folded shape -- in this case, a cockroach.",
+    "reference": "你们得到一个折叠的形状，在这里，是一只蟑螂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你会得到一个折叠的形状——在这个例子中，是一只蟑螂。"
+  },
+  {
+    "index": 111,
+    "source": "And it's so simple.",
+    "reference": "而且它非常的简单。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且非常简单。"
+  },
+  {
+    "index": 112,
+    "source": "It's so simple that a computer could do it.",
+    "reference": "因为它很简单，电脑就可以把它做出来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这太简单了，连电脑都能做。"
+  },
+  {
+    "index": 113,
+    "source": "And you say, \"Well, you know, how simple is that?\"",
+    "reference": "你们可能问“那能有多简单呢？”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后你说，“好吧，你知道，那有多简单呢？”"
+  },
+  {
+    "index": 114,
+    "source": "But computers, you need to be able to describe things in very basic terms, and with this we could.",
+    "reference": "但是要用电脑，你们需要用最基本的方法来描述一件事物。而这里我们可以做到。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是对于计算机，你需要能够用非常基本的术语来描述事物，而有了这个，我们就能做到了。"
+  },
+  {
+    "index": 115,
+    "source": "So I wrote a computer program a bunch of years ago called TreeMaker, and you can download it from my website.",
+    "reference": "所以我在很多年前写了一个电脑程序， 叫做TreeMaker(造树者），你们可以在我的网页上下载它。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以我在很多年前写了一个叫做TreeMaker的电脑程序，你可以从我的网站上下载它。"
+  },
+  {
+    "index": 116,
+    "source": "It's free.",
+    "reference": "它是免费的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它是免费的。"
+  },
+  {
+    "index": 117,
+    "source": "It runs on all the major platforms -- even Windows.",
+    "reference": "它可以在大部分的操作系统里面运行，甚至在Windows里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它可以在所有主流平台上运行，甚至包括Windows。"
+  },
+  {
+    "index": 118,
+    "source": "And you just draw a stick figure, and it calculates the crease pattern.",
+    "reference": "然后你们就可以自己画一个线条图， 这个程序会根据线条图计算折痕。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后你只要画一个火柴人，它就会计算出折痕图案。"
+  },
+  {
+    "index": 119,
+    "source": "It does the circle packing, calculates the crease pattern, and if you use that stick figure that I just showed, which you can kind of tell -- it's a deer, it's got antlers -- you'll get this crease pattern.",
+    "reference": "这个程序可以排列圆形，计算折痕，还有如果你们用刚才我展示的线条图，你们可以看出它是一只有角的鹿，你们就可以得到这个折痕图。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它进行圆形填充，计算折痕图案，如果你使用我刚才展示的那个火柴人，你大概能看出来——它是一只鹿，有鹿角——你就能得到这个折痕图案。"
+  },
+  {
+    "index": 120,
+    "source": "And if you take this crease pattern, you fold on the dotted lines, you'll get a base that you can then shape into a deer, with exactly the crease pattern that you wanted.",
+    "reference": "用这个折痕图，折叠有虚线的地方，你们就能得到一个基础，然后再用你们想用的方法 叠出一只鹿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且如果你拿到这个折痕图案，沿着虚线折叠，你就会得到一个底座，然后你可以把它塑造成一只鹿，而且正好是你想要的折痕图案。"
+  },
+  {
+    "index": 121,
+    "source": "And if you want a different deer, not a white-tailed deer, you change the packing, and you can do an elk.",
+    "reference": "如果你们想要一只不同种的鹿，而不是白尾鹿，你们可以改变圆形的排列，然后得到一只麋鹿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你想要不同的鹿，不是白尾鹿，你就更换包装，就可以做成麋鹿。"
+  },
+  {
+    "index": 122,
+    "source": "Or you could do a moose.",
+    "reference": "或是一只驼鹿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "或者你可以模仿一下驼鹿的叫声。"
+  },
+  {
+    "index": 123,
+    "source": "Or really, any other kind of deer.",
+    "reference": "或是其它任何一种鹿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "或者实际上，任何其他种类的鹿都可以。"
+  },
+  {
+    "index": 124,
+    "source": "These techniques revolutionized this art.",
+    "reference": "这些技术改革了这门艺术。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些技术彻底改变了这门艺术。"
+  },
+  {
+    "index": 125,
+    "source": "We found we could do insects, spiders, which are close -- things with legs, things with legs and wings, things with legs and antennae.",
+    "reference": "我们发现我们可以叠出昆虫，或是相近的蜘蛛，有脚的东西，有脚和翅膀的东西，和有脚和触角的东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们发现我们可以做昆虫、蜘蛛（它们很接近）——也就是有腿的生物，有腿和翅膀的生物，还有有腿和触角的生物。"
+  },
+  {
+    "index": 126,
+    "source": "And if folding a single praying mantis from a single uncut square wasn't interesting enough, then you could do two praying mantises from a single uncut square.",
+    "reference": "如果用一张没剪过的正方形纸叠一只螳螂还不够有趣的话，你们可以用一张没剪过的正方形纸叠两只螳螂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果用一张未剪裁的正方形纸折叠出一只螳螂还不够有趣，那么你可以用一张未剪裁的正方形纸折叠出两只螳螂。"
+  },
+  {
+    "index": 127,
+    "source": "She's eating him.",
+    "reference": "她在吃他。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她在吃他。"
+  },
+  {
+    "index": 128,
+    "source": "I call it \"Snack Time.\"",
+    "reference": "我称之为“点心时间”。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我把它叫做“点心时间”。"
+  },
+  {
+    "index": 129,
+    "source": "And you can do more than just insects.",
+    "reference": "你们能做的不只是昆虫。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且你可以做的不仅仅是昆虫。"
+  },
+  {
+    "index": 130,
+    "source": "This -- you can put details: toes and claws.",
+    "reference": "你们可以把它做到有细节， 像指头和爪子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这个——你可以添加细节：脚趾和爪子。"
+  },
+  {
+    "index": 131,
+    "source": "A grizzly bear has claws.",
+    "reference": "一只有爪子的北美洲灰熊。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "灰熊有爪子。"
+  },
+  {
+    "index": 132,
+    "source": "This tree frog has toes.",
+    "reference": "和这只有脚趾的树蛙。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这只树蛙有脚趾。"
+  },
+  {
+    "index": 133,
+    "source": "Actually, lots of people in origami now put toes into their models.",
+    "reference": "实际上，在折纸艺术中有很多人把指头加入到他们的模型中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "事实上，现在许多折纸爱好者会在他们的作品中加入脚趾。"
+  },
+  {
+    "index": 134,
+    "source": "Toes have become an origami meme.",
+    "reference": "指头变成了折纸艺术的文化基因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "脚趾头已经变成了一种折纸表情包。"
+  },
+  {
+    "index": 135,
+    "source": "Because everyone's doing it.",
+    "reference": "因为每个人都在做。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为每个人都在这样做。"
+  },
+  {
+    "index": 136,
+    "source": "You can make multiple subjects.",
+    "reference": "你可以做出多种的物体。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你可以制作多个主体。"
+  },
+  {
+    "index": 137,
+    "source": "So these are a couple of instrumentalists.",
+    "reference": "像这里有一些音乐家。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，这两位是器乐演奏家。"
+  },
+  {
+    "index": 138,
+    "source": "The guitar player from a single square, the bass player from a single square.",
+    "reference": "一个正方形做出的吉他手。 一个正方形做出的贝斯手。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "吉他手独自一人在一个角落，贝斯手也独自一人在一个角落。"
+  },
+  {
+    "index": 139,
+    "source": "And if you say, \"Well, but the guitar, bass -- that's not so hot.",
+    "reference": "如果你说，“好吧，但吉他和贝斯不够帅。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你说，“好吧，但是吉他，贝斯——那些不太行。”"
+  },
+  {
+    "index": 140,
+    "source": "Do a little more complicated instrument.\"",
+    "reference": "做些更复杂的乐器吧。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "做一个稍微更复杂的仪器。"
+  },
+  {
+    "index": 141,
+    "source": "Well, then you could do an organ.",
+    "reference": "那你可以做一架风琴。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "好吧，那你就能做一个管风琴。"
+  },
+  {
+    "index": 142,
+    "source": "And what this has allowed is the creation of origami-on-demand.",
+    "reference": "所以在这个世界里我们能做出所需要的创造。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这使得按需折纸的创造成为可能。"
+  },
+  {
+    "index": 143,
+    "source": "So now people can say, I want exactly this and this and this, and you can go out and fold it.",
+    "reference": "如果现在有人说，我想要这个这个还有这个。你就可以精确的把它们叠出来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以现在人们可以说，我想要这个、这个和这个，然后你就可以出去折叠它。"
+  },
+  {
+    "index": 144,
+    "source": "And sometimes you create high art, and sometimes you pay the bills by doing some commercial work.",
+    "reference": "有时可以做纯艺术。有时可以做些商品卖钱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有时候你会创作出伟大的艺术品，而有时候你为了支付账单会做一些商业工作。"
+  },
+  {
+    "index": 145,
+    "source": "But I want to show you some examples.",
+    "reference": "但是我想给你们看一些例子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是我想给你看一些例子。"
+  },
+  {
+    "index": 146,
+    "source": "Everything you'll see here, except the car, is origami.",
+    "reference": "除了车子， 你们将看到的所有东西都是折纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "除了那辆车，你在这里看到的一切都是折纸。"
+  },
+  {
+    "index": 147,
+    "source": "Just to show you, this really was folded paper.",
+    "reference": "就是想展示给你们这些真实的折纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "只是想让您看看，这确实是折叠的纸。"
+  },
+  {
+    "index": 148,
+    "source": "Computers made things move, but these were all real folded objects that we made.",
+    "reference": "电脑使所有的东西动起来。 但是这些折纸全都是货真价实的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "计算机让事物动了起来，但这些都是我们制造的真实折叠物体。"
+  },
+  {
+    "index": 149,
+    "source": "And we can use this not just for visuals, but it turns out to be useful even in the real world.",
+    "reference": "我们不只可以在视觉上运用到折纸艺术，它实际上在现实世界中也很有用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我们不仅可以将它用于视觉效果，而且事实证明它在现实世界中也很有用。"
+  },
+  {
+    "index": 150,
+    "source": "Surprisingly, origami, and the structures that we've developed in origami, turn out to have applications in medicine, in science, in space, in the body, consumer electronics and more.",
+    "reference": "令人惊奇的，折纸 和从折纸中发展出来的结构可以在医药学，科学，太空，身体和电子产品等等上得到应用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "令人惊讶的是，折纸，以及我们在折纸中开发的结构，竟然在医学、科学、太空、人体、消费电子产品等领域都有应用。"
+  },
+  {
+    "index": 151,
+    "source": "And I want to show you some of these examples.",
+    "reference": "我想展示一些例子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我想给你们展示一些这样的例子。"
+  },
+  {
+    "index": 152,
+    "source": "One of the earliest was this pattern: this folded pattern, studied by Koryo Miura, a Japanese engineer.",
+    "reference": "在最早的应用中有这样一个样式，折纸样式，由日本的工程师Koryo Miura发明的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最早的例子之一是这种模式：这种折叠模式，由日本工程师三浦公亮研究。"
+  },
+  {
+    "index": 153,
+    "source": "He studied a folding pattern, and realized this could fold down into an extremely compact package that had a very simple opening and closing structure.",
+    "reference": "他研究这个折纸样式，然后发现可以折出很紧凑的包装，有很简单的开口和闭合结构。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他研究了一个折叠图案，并且意识到这可以折叠成一个极其紧凑的包裹，这个包裹的开合结构非常简单。"
+  },
+  {
+    "index": 154,
+    "source": "And he used it to design this solar array.",
+    "reference": "他应用这个技术设计了这个太阳能电池板。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他用它来设计了这个太阳能电池阵列。"
+  },
+  {
+    "index": 155,
+    "source": "It's an artist's rendition, but it flew in a Japanese telescope in 1995.",
+    "reference": "这是一个艺术家的表演，但它在1995应用到了一架日本望远镜。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一位艺术家的演绎，但它于1995年在日本的望远镜中飞行过。"
+  },
+  {
+    "index": 156,
+    "source": "Now, there is actually a little origami in the James Webb space telescope, but it's very simple.",
+    "reference": "现在在詹姆斯韦伯太空望远镜中只有一点点的折纸艺术，但它十分之简单。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，詹姆斯·韦伯太空望远镜里实际上有一些小的折纸结构，但它非常简单。"
+  },
+  {
+    "index": 157,
+    "source": "The telescope -- going up in space, it unfolds in two places.",
+    "reference": "这架进入太空的望远镜在两处展开。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这架望远镜——在太空中升起后，它会在两个地方展开。"
+  },
+  {
+    "index": 158,
+    "source": "It folds in thirds.",
+    "reference": "它在第三个处折叠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它被折叠成三等份。"
+  },
+  {
+    "index": 159,
+    "source": "It's a very simple pattern -- you wouldn't even call that origami.",
+    "reference": "它是一个很简单的式样，你都不会把它称作折纸。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个非常简单的图案——你甚至不能称之为折纸。"
+  },
+  {
+    "index": 160,
+    "source": "They certainly didn't need to talk to origami artists.",
+    "reference": "这些科学家的确不用跟折纸艺术家讨论。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们当然不需要和折纸艺术家交谈。"
+  },
+  {
+    "index": 161,
+    "source": "But if you want to go higher and go larger than this, then you might need some origami.",
+    "reference": "但当你要更深入的研究时，折纸术是必需的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是如果你想做得更高更大，那么你可能需要一些折纸技巧。"
+  },
+  {
+    "index": 162,
+    "source": "Engineers at Lawrence Livermore National Lab had an idea for a telescope much larger.",
+    "reference": "劳伦斯利物穆尔国家实验室的工程师们有一个关于一个更大的望远镜的构想。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "劳伦斯利弗莫尔国家实验室的工程师们有了一个关于建造更大望远镜的想法。"
+  },
+  {
+    "index": 163,
+    "source": "They called it \"The Eyeglass.\"",
+    "reference": "他们称之为“镜片”。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们把它叫做“眼镜”"
+  },
+  {
+    "index": 164,
+    "source": "The design called for geosynchronous orbit, 26,000 miles up, 100-meter diameter lens.",
+    "reference": "这个设计需要同步轨道，高于地面26000英里，和直径100米的镜片。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "设计要求是地球同步轨道，高度26000英里，100米直径的透镜。"
+  },
+  {
+    "index": 165,
+    "source": "So, imagine a lens the size of a football field.",
+    "reference": "所以镜片有一个橄榄球场那么大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，想象一下一个足球场大小的透镜。"
+  },
+  {
+    "index": 166,
+    "source": "There were two groups of people who were interested in this: planetary scientists who want to look up, and then other people who wanted to look down.",
+    "reference": "有两类人对这个望远镜有兴趣：想要观察太空的行星学家，和其他想要观察地球的人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对此感兴趣的人群分为两类：一类是想向上看的行星科学家，另一类是想向下看的人。"
+  },
+  {
+    "index": 167,
+    "source": "Whether you look up or look down, how do you get it up in space?",
+    "reference": "不论你想观察什么， 该怎么上太空呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "无论你向上看还是向下看，你如何把它送入太空？"
+  },
+  {
+    "index": 168,
+    "source": "You've got to get it up there in a rocket.",
+    "reference": "你需要一个火箭。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你得把它用火箭发射到那里去。"
+  },
+  {
+    "index": 169,
+    "source": "And rockets are small.",
+    "reference": "而且火箭一般都很小。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且火箭很小。"
+  },
+  {
+    "index": 170,
+    "source": "So you have to make it smaller.",
+    "reference": "所以你需要把望远镜做的小一些。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以你得把它弄小一点。"
+  },
+  {
+    "index": 171,
+    "source": "How do you make a large sheet of glass smaller?",
+    "reference": "怎么把一大片玻璃变小呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你如何将一大块玻璃变小？"
+  },
+  {
+    "index": 172,
+    "source": "Well, about the only way is to fold it up somehow.",
+    "reference": "唯一的办法就是折叠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "好吧，唯一的方法大概就是想办法把它叠起来了。"
+  },
+  {
+    "index": 173,
+    "source": "So you have to do something like this -- this was a small model.",
+    "reference": "所以你要做这样的事，这一个小型的模型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以你必须做类似这样的事情 -- 这是一个小模型。"
+  },
+  {
+    "index": 174,
+    "source": "For the lens, you divide up the panels, you add flexures.",
+    "reference": "对于镜片，你把板面分区然后加上弯曲。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对于镜头，你需要分割面板，并添加柔性铰链。"
+  },
+  {
+    "index": 175,
+    "source": "But this pattern's not going to work to get something 100 meters down to a few meters.",
+    "reference": "但是这个样式不能把100米的东西变成几米。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但这种模式无法将100米的东西精确到几米。"
+  },
+  {
+    "index": 176,
+    "source": "So the Livermore engineers, wanting to make use of the work of dead people, or perhaps live origamists, said, \"Let's see if someone else is doing this sort of thing.\"",
+    "reference": "所以利物穆尔的工程师们，想要利用那些死去的人的成果，或是活着的折纸艺术家的成果。工程师们说“看看有没有别人在做这类事。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，利弗莫尔的工程师们，为了利用逝者的工作成果，或者也许是现存的折纸艺术家们的工作成果，说：“让我们看看是否有人在做类似的事情。”"
+  },
+  {
+    "index": 177,
+    "source": "So they looked into the origami community, we got in touch with them, and I started working with them.",
+    "reference": "所以他们研究折纸圈。 我们和折纸艺术家取得联系，而我开始和他们一起工作。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以他们调查了折纸社群，我们和他们取得了联系，然后我开始和他们一起工作。"
+  },
+  {
+    "index": 178,
+    "source": "And we developed a pattern together that scales to arbitrarily large size, but that allows any flat ring or disc to fold down into a very neat, compact cylinder.",
+    "reference": "我们一起开发了一个 可以应用到任意大小， 但可以允许所有的平面环或圆盘 折成一个整洁紧凑的圆柱体的样式。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们共同开发了一种模式，它可以扩展到任意大的尺寸，并且允许任何扁平的环或盘折叠成一个非常整洁、紧凑的圆柱体。"
+  },
+  {
+    "index": 179,
+    "source": "And they adopted that for their first generation, which was not 100 meters -- it was a five-meter.",
+    "reference": "他们在第一代的望远镜中采用了这个样式。而第一代并不是100米而是5米。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们第一代产品就采用了那个，但不是100米，而是5米。"
+  },
+  {
+    "index": 180,
+    "source": "But this is a five-meter telescope -- has about a quarter-mile focal length.",
+    "reference": "但是这个5米的望远镜有0.25英里的焦距。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但这是一个五米望远镜——焦距大约四分之一英里。"
+  },
+  {
+    "index": 181,
+    "source": "And it works perfectly on its test range, and it indeed folds up into a neat little bundle.",
+    "reference": "而且在它的测试范围内效果很好。它也的确被叠成了一小捆。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它在测试范围内运行完美，并且确实可以折叠成一个整洁的小包。"
+  },
+  {
+    "index": 182,
+    "source": "Now, there is other origami in space.",
+    "reference": "现在，还有别的折纸术应用到太空中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，太空中还有其他的折纸作品。"
+  },
+  {
+    "index": 183,
+    "source": "The problem that's being solved here is something that needs to be big and sheet-like at its destination, but needs to be small for the journey.",
+    "reference": "在这里所被解决的问题是做出了一个在旅途中很小 但在目的地很大的薄片状的物体。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这里正在解决的问题是，某样东西在目的地需要又大又薄，但在运输过程中需要体积小巧。"
+  },
+  {
+    "index": 184,
+    "source": "And that works whether you're going into space, or whether you're just going into a body.",
+    "reference": "这个可以作用于当你想进入太空，或是想进入人的身体时。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且无论你是要进入太空，还是仅仅进入一个身体，这都适用。"
+  },
+  {
+    "index": 185,
+    "source": "And this example is the latter.",
+    "reference": "这个例子就是进入人身体的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这个例子是后者。"
+  },
+  {
+    "index": 186,
+    "source": "This is a heart stent developed by Zhong You at Oxford University.",
+    "reference": "这是由牛津大学的钟游发明的心脏手术支架。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是由牛津大学的钟友开发的心脏支架。"
+  },
+  {
+    "index": 187,
+    "source": "It holds open a blocked artery when it gets to its destination, but it needs to be much smaller for the trip there, through your blood vessels.",
+    "reference": "它在到达目的地时会打开被堵塞的动脉血管。但在旅途中它需要变得很小才能通过你的血管。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它到达目的地后会撑开阻塞的动脉，但为了在你的血管中穿行，它需要在旅途中小得多。"
+  },
+  {
+    "index": 188,
+    "source": "And this stent folds down using an origami pattern, based on a model called the water-bomb base.",
+    "reference": "这个支架运用一种折纸术被叠小。我们称这个模型为水弹模型。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且这种支架使用一种基于名为水弹底座模型的折纸图案折叠起来。"
+  },
+  {
+    "index": 189,
+    "source": "Airbag designers also have the problem of getting flat sheets into a small space.",
+    "reference": "安全气囊的设计师也遇到了同样的把大薄片塞进小空间里的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "安全气囊设计师也面临着将扁平的材料折叠成小空间的问题。"
+  },
+  {
+    "index": 190,
+    "source": "And they want to do their design by simulation.",
+    "reference": "而且他们都是通过仿真技术来做设计。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且他们想通过模拟来进行设计。"
+  },
+  {
+    "index": 191,
+    "source": "So they need to figure out how, in a computer, to flatten an airbag.",
+    "reference": "所以他们需要在电脑里研究出怎样使安全气囊变平。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以他们需要弄清楚如何在电脑里将安全气囊展平。"
+  },
+  {
+    "index": 192,
+    "source": "And the algorithms that we developed to do insects turned out to be the solution for airbags to do their simulation.",
+    "reference": "我们所开发出的叠昆虫的算法在这里变成了在仿真技术中解决安全气囊问题的方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而我们为了研究昆虫而开发的算法，最终却成为了安全气囊进行模拟的解决方案。"
+  },
+  {
+    "index": 193,
+    "source": "And so they can do a simulation like this.",
+    "reference": "所以设计师可以做一个这个的模仿。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此他们可以进行像这样的模拟。"
+  },
+  {
+    "index": 194,
+    "source": "Those are the origami creases forming, and now you can see the airbag inflate and find out: does it work?",
+    "reference": "那些就是折纸的折痕，现在你们所看到的就是正在放气的安全气囊并且大家可以知道这方法管不管用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那些是正在形成的折纸折痕，现在你可以看到安全气囊充气并了解：它起作用吗？"
+  },
+  {
+    "index": 195,
+    "source": "And that leads to a really interesting idea.",
+    "reference": "这个例子实际上可以推导出一个十分有趣的构想。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这引出了一个非常有趣的想法。"
+  },
+  {
+    "index": 196,
+    "source": "You know, where did these things come from?",
+    "reference": "你们知道，这些发明设计都是从哪来么？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你知道吗，这些东西是从哪里来的？"
+  },
+  {
+    "index": 197,
+    "source": "Well, the heart stent came from that little blow-up box that you might have learned in elementary school.",
+    "reference": "这个心脏手术支架是从大家小学就学到的纸气球中衍生来的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，心脏支架的原理和你在小学学过的那个小小的充气盒子的原理差不多。"
+  },
+  {
+    "index": 198,
+    "source": "It's the same pattern, called \"the water-bomb base.\"",
+    "reference": "它们有着相同的构造，称之为“水弹模型”。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是同样的图案，叫做“水弹底座”。"
+  },
+  {
+    "index": 199,
+    "source": "The airbag-flattening algorithm came from all the developments of circle packing and the mathematical theory that was really developed just to create insects -- things with legs.",
+    "reference": "那个使安全气囊变平的算法是从那些实际上只是发明出来用来叠昆虫，也就是有腿的东西，的数学理论。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这种安全气囊压平算法源于圆形填充的所有发展成果，以及真正是为了创造昆虫——也就是有腿的生物——而开发的数学理论。"
+  },
+  {
+    "index": 200,
+    "source": "The thing is, that this often happens in math and science.",
+    "reference": "其实呢，这样的事经常发生在数学和科学里面。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "问题在于，这种情况在数学和科学领域经常发生。"
+  },
+  {
+    "index": 201,
+    "source": "When you get math involved, problems that you solve for aesthetic value only, or to create something beautiful, turn around and turn out to have an application in the real world.",
+    "reference": "当你运用数学，解决你纯粹为了美学价值或是创造美而想解决的问题时，实际上结果反过来在现实世界中也可以应用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当你把数学融入其中，那些你纯粹为了审美价值或创造美的事物而解决的问题，反过来却发现它们在现实世界中有应用。"
+  },
+  {
+    "index": 202,
+    "source": "And as weird and surprising as it may sound, origami may someday even save a life.",
+    "reference": "而且即使听上去很奇怪，折纸术有一天可能会救人一命。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "虽然这听起来可能很奇怪和令人惊讶，但折纸术有朝一日甚至可能拯救生命。"
+  },
+  {
+    "index": 203,
+    "source": "Let's start with day and night.",
+    "reference": "让我们从日夜开始。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "让我们从白天和黑夜开始。"
+  },
+  {
+    "index": 204,
+    "source": "Life evolved under conditions of light and darkness, light and then darkness.",
+    "reference": "生命的进化在光明与黑暗中进行，光明，然后是黑暗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "生命在光明与黑暗、光明之后又是黑暗的条件下进化而来。"
+  },
+  {
+    "index": 205,
+    "source": "And so plants and animals developed their own internal clocks so that they would be ready for these changes in light.",
+    "reference": "因此植物和动物都进化出自己的内部时钟，这使得他们能适应光线的改变。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，植物和动物发展出它们自己的内在时钟，以便它们能够为这些光照变化做好准备。"
+  },
+  {
+    "index": 206,
+    "source": "These are chemical clocks, and they're found in every known being that has two or more cells and in some that only have one cell.",
+    "reference": "这是化学时钟，每个已知的多细胞生物体内都有这种时钟，部分单细胞生物也有这种时钟。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些是化学时钟，它们存在于每一个已知的拥有两个或更多细胞的生物中，以及一些只有一个细胞的生物中。"
+  },
+  {
+    "index": 207,
+    "source": "I'll give you an example.",
+    "reference": "举个例子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我会给你举个例子。"
+  },
+  {
+    "index": 208,
+    "source": "If you take a horseshoe crab off the beach, and you fly it all the way across the continent, and you drop it into a sloped cage, it will scramble up the floor of the cage as the tide is rising on its home shores, and it'll skitter down again right as the water is receding thousands of miles away.",
+    "reference": "如果你从海滩上抓一只鲎，把它空运到大陆的另一端，接着把它放入一个倾斜的笼子里，在它数千里外家乡的海岸涨潮的时候，它会爬到笼子的高处。而退潮时它又会退回笼子底部。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你把一只鲎从海滩上带走，把它飞过整个大陆，然后把它放进一个倾斜的笼子里，当它家乡海岸的潮水上涨时，它会爬上笼子的地板，当数千英里之外的水退去时，它又会迅速地爬下来。"
+  },
+  {
+    "index": 209,
+    "source": "It'll do this for weeks, until it kind of gradually loses the plot.",
+    "reference": "这种行为它会重复数个星期， 直到它渐渐失去这种判断能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这种情况会持续好几周，直到它逐渐变得语无伦次。"
+  },
+  {
+    "index": 210,
+    "source": "And it's incredible to watch, but there's nothing psychic or paranormal going on; it's simply that these crabs have internal cycles that correspond, usually, with what's going on around it.",
+    "reference": "这非常不可思议， 但这不是什么灵异或是超自然现象； 原因很简单，这些鲎拥有 能与周围环境相协调的内部周期。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "观看这一幕令人难以置信，但并没有什么通灵或超自然现象；仅仅是因为这些螃蟹有内在的周期，而这些周期通常与周围发生的事情相对应。"
+  },
+  {
+    "index": 211,
+    "source": "So, we have this ability as well.",
+    "reference": "我们也有这种能力。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，我们也有这种能力。"
+  },
+  {
+    "index": 212,
+    "source": "And in humans, we call it the body clock.",
+    "reference": "就人类而言，我们称之为生物钟。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而在人类中，我们称它为生物钟。"
+  },
+  {
+    "index": 213,
+    "source": "You can see this most clearly when you take away someone's watch and you shut them into a bunker, deep underground, for a couple of months.",
+    "reference": "当你拿走某个人的手表，把他关进一个深入地下的地下堡垒关上几个月，你就能更清楚地观察到生物钟的作用。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当你拿走某人的手表，并将他们关入地下深处的地堡几个月时，你就能最清楚地看到这一点。"
+  },
+  {
+    "index": 214,
+    "source": "People actually volunteer for this, and they usually come out kind of raving about their productive time in the hole.",
+    "reference": "实际上有志愿者做过这个实验， 他们从洞里出来时 对他们在洞里的时间有点混乱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "竟然真的有人自愿参与这个，而且他们通常会出来滔滔不绝地谈论自己在洞里度过的有成效的时间。"
+  },
+  {
+    "index": 215,
+    "source": "So, no matter how atypical these subjects would have to be, they all show the same thing.",
+    "reference": "不管这些志愿者显得多不合逻辑，有一件事可以确认。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，无论这些受试者多么非典型，他们都展示了同样的事情。"
+  },
+  {
+    "index": 216,
+    "source": "They get up just a little bit later every day -- say 15 minutes or so -- and they kind of drift all the way around the clock like this over the course of the weeks.",
+    "reference": "他们每天都比之前晚起一点--大约15分钟左右--在这几星期内他们的生物钟就像这样不断向后推延。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们每天起床都稍微晚一点——比如说15分钟左右——而且他们就像这样，在几周的时间里，逐渐地绕着时钟转了一圈。"
+  },
+  {
+    "index": 217,
+    "source": "And so, in this way, we know that they are working on their own internal clocks, rather than somehow sensing the day outside.",
+    "reference": "而且，就这样，我们知道他们是用自己的生物钟做到这点的， 而不是用某种方式感知外面的日光。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，透過這種方式，我們知道他們是在依照自己的內部時鐘運作，而不是以某種方式感知外面的世界。"
+  },
+  {
+    "index": 218,
+    "source": "So fine, we have a body clock, and it turns out that it's incredibly important in our lives.",
+    "reference": "那么好的，我们有生物钟，并且它对我们的生活极其重要。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "很好，我们有一个生物钟，而且事实证明它在我们生活中极其重要。"
+  },
+  {
+    "index": 219,
+    "source": "It's a huge driver for culture, and I think that it's the most underrated force on our behavior.",
+    "reference": "它也是文化的巨大推动力，我认为这是在我们的行为中最被低估的一种力量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它是文化的一个巨大驱动力，而且我认为它是对我们行为影响最大的、但又最被低估的力量。"
+  },
+  {
+    "index": 220,
+    "source": "We evolved as a species near the equator, and so we're very well-equipped to deal with 12 hours of daylight and 12 hours of darkness.",
+    "reference": "我们人类是从赤道附近进化而来的一个物种，因此我们能非常好的适应12小时的白昼和12小时的黑夜。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们这个物种是在赤道附近进化而来的，因此我们能够很好地适应12小时的白天和12小时的黑夜。"
+  },
+  {
+    "index": 221,
+    "source": "But of course, we've spread to every corner of the globe, and in Arctic Canada, where I live, we have perpetual daylight in summer and 24 hours of darkness in winter.",
+    "reference": "不过当然，我们现在已经遍布全球的每个角落，在我居住的加拿大北极地区，夏天是极昼， 而冬天则是极夜。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是，当然，我们已经遍布全球的每个角落，而在我居住的加拿大北极地区，夏季是永昼，冬季则是24小时的黑暗。"
+  },
+  {
+    "index": 222,
+    "source": "So the culture, the northern aboriginal culture, traditionally has been highly seasonal.",
+    "reference": "因此传统上北部原住民文化是高度季节性的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，这种文化，北方原住民的文化，传统上具有高度的季节性。"
+  },
+  {
+    "index": 223,
+    "source": "In winter, there's a lot of sleeping going on.",
+    "reference": "在冬天，睡眠时间很长。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "冬天，很多人都在睡觉。"
+  },
+  {
+    "index": 224,
+    "source": "You enjoy your family life inside.",
+    "reference": "人们在室内享受家庭生活。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你在家裡享受你的家庭生活。"
+  },
+  {
+    "index": 225,
+    "source": "And in summer, it's almost manic hunting and working activity very long hours, very active.",
+    "reference": "而在夏天则是疯狂的狩猎及很长时间的劳作， 非常活跃。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而在夏天，几乎是一种狂热的狩猎和工作状态，工作时间很长，非常活跃。"
+  },
+  {
+    "index": 226,
+    "source": "So, what would our natural rhythm look like?",
+    "reference": "那么，我们的自然节奏应该是什么样的呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么，我们的自然节奏会是什么样的呢？"
+  },
+  {
+    "index": 227,
+    "source": "What would our sleeping patterns be in the sort of ideal sense?",
+    "reference": "我们的理想中的睡眠模式应是什么样的呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "理想状态下，我们的睡眠模式会是怎样的？"
+  },
+  {
+    "index": 228,
+    "source": "Well, it turns out that, when people are living without any sort of artificial light at all, they sleep twice every night.",
+    "reference": "嗯，事实表明，当生活在完全没有 任何人工光源的环境中时，人们会每晚睡两次。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，结果表明，当人们完全生活在没有任何人工照明的环境中时，他们每晚会睡两次。"
+  },
+  {
+    "index": 229,
+    "source": "They go to bed around 8:00 pm.",
+    "reference": "人们在晚上8点左右睡觉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们晚上八点左右睡觉。"
+  },
+  {
+    "index": 230,
+    "source": "until midnight and then again, they sleep from about 2:00 am until sunrise.",
+    "reference": "直到午夜，接着再次入睡，大约从凌晨2点直到日出。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "直到午夜，然后再次入睡，他们大约从凌晨两点睡到日出。"
+  },
+  {
+    "index": 231,
+    "source": "And in-between, they have a couple of hours of sort of meditative quiet in bed.",
+    "reference": "在这两次睡眠之间，有几个小时在床上安静的沉思。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且在这期间，他们会有几个小时在床上冥想般地安静。"
+  },
+  {
+    "index": 232,
+    "source": "And during this time, there's a surge of prolactin, the likes of which a modern day never sees.",
+    "reference": "在这段时间内， 催乳素产生 这样的情况在现代社会不会出现。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且在这段时间里，催乳素会激增，这是现代社会从未见过的。"
+  },
+  {
+    "index": 233,
+    "source": "The people in these studies report feeling so awake during the daytime, that they realize they're experiencing true wakefulness for the first time in their lives.",
+    "reference": "这些研究中的人们 在白天觉得很清醒， 他们意识到正在经历生命中的 第一次真正的失眠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些研究中的人们报告说，他们在白天感到非常清醒，以至于他们意识到这是他们一生中第一次体验到真正的清醒。"
+  },
+  {
+    "index": 234,
+    "source": "So, cut to the modern day.",
+    "reference": "那么，转到现代社会。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，让我们把镜头切到现代。"
+  },
+  {
+    "index": 235,
+    "source": "We're living in a culture of jet lag, global travel, 24-hour business, shift work.",
+    "reference": "我们的文化中充满时差，全球旅行，24小时营业，倒班工作。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们生活在一个充满时差、全球旅行、24小时营业和轮班工作的文化中。"
+  },
+  {
+    "index": 236,
+    "source": "And, you know, our modern ways of doing things have their advantages, but I believe we should understand the costs.",
+    "reference": "你知道，我们现代人的这种生活方式有它的优点，但我想我们应该明白所付出的代价。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，你知道，我们现代的做事方式有它们的优点，但我认为我们应该了解其代价。"
+  },
+  {
+    "index": 237,
+    "source": "It can be a very complicated thing, the ocean.",
+    "reference": "海洋是一个非常复杂的事物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "海洋可能是一件非常复杂的事情。"
+  },
+  {
+    "index": 238,
+    "source": "And it can be a very complicated thing, what human health is.",
+    "reference": "人类的健康也是一件非常复杂的事情。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，人的健康到底是什么，可能是一件非常复杂的事情。"
+  },
+  {
+    "index": 239,
+    "source": "And bringing those two together might seem a very daunting task.",
+    "reference": "将两者统一起来看起来是一件艰巨的任务。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将这两者结合起来可能看起来是一项非常艰巨的任务。"
+  },
+  {
+    "index": 240,
+    "source": "But what I'm going to try to say is that even in that complexity, there's some simple themes that I think, if we understand, we can really move forward.",
+    "reference": "但我想要试图去说明的是即使是如此复杂的情况，也存在一些我认为简单的话题，一些如果我们能理解，就很容易向前发展的话题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但我想尝试表达的是，即使在那样的复杂性中，也存在一些简单的原则，我认为如果我们理解了它们，我们就能真正地向前迈进。"
+  },
+  {
+    "index": 241,
+    "source": "And those simple themes aren't really themes about the complex science of what's going on, but things that we all pretty well know.",
+    "reference": "这些简单的话题确实不是有关那复杂的科学有了怎样的发展，而是一些我们都恰好知道的事情。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而那些简单的主题实际上并不是关于正在发生的复杂科学的主题，而是我们都非常了解的事情。"
+  },
+  {
+    "index": 242,
+    "source": "And I'm going to start with this one.",
+    "reference": "接下来我就来说一个。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我打算从这个开始。"
+  },
+  {
+    "index": 243,
+    "source": "If momma ain't happy, ain't nobody happy.",
+    "reference": "如果老妈不高兴了，大家都别想开心。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果妈妈不高兴，谁也高兴不起来。"
+  },
+  {
+    "index": 244,
+    "source": "We know that, right? We've experienced that.",
+    "reference": "我们都知道，不是吗？我们都经历过。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们知道，对吧？我们都经历过。"
+  },
+  {
+    "index": 245,
+    "source": "And if we just take that and we build from there, then we can go to the next step, which is that if the ocean ain't happy, ain't nobody happy.",
+    "reference": "接下来如果我们能理解这一点 从这里出发， 可以得出下一步的， 那就是如果海洋不高兴了 大家也都别想开心。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且如果我们只是以此为基础，并从那里开始构建，那么我们就可以进入下一步，那就是如果海洋不快乐，谁也不会快乐。"
+  },
+  {
+    "index": 246,
+    "source": "That's the theme of my Talk.",
+    "reference": "这就是我演讲的主题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那是我演讲的主题。"
+  },
+  {
+    "index": 247,
+    "source": "And we're making the ocean pretty unhappy in a lot of different ways.",
+    "reference": "我们正在通过许多不同的方法惹怒海洋。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我们正在以许多不同的方式让海洋变得相当不快乐。"
+  },
+  {
+    "index": 248,
+    "source": "This is a shot of Cannery Row in 1932.",
+    "reference": "这是1932年在坎纳里鲁夫拍的一副照片",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一张1932年的罐头厂街的照片。"
+  },
+  {
+    "index": 249,
+    "source": "Cannery Row, at the time, had the biggest industrial canning operation on the west coast.",
+    "reference": "那时的坎纳里鲁夫，有着西海岸最大的工业化罐头工厂。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当时的罐头厂街拥有西海岸最大的工业罐头加工业务。"
+  },
+  {
+    "index": 250,
+    "source": "We piled enormous amounts of pollution into the air and into the water.",
+    "reference": "我们堆积了大量的污染物在空气中和水中",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们向空气和水中倾倒了大量的污染物。"
+  },
+  {
+    "index": 251,
+    "source": "Rolf Bolin, who was a professor at the Hopkin's Marine Station where I work, wrote in the 1940s that, \"The fumes from the scum floating on the inlets of the bay were so bad they turned lead-based paints black.\"",
+    "reference": "我所工作的霍普金的海洋研究站的 罗尔夫·博林教授， 在二十世纪40年代指出，“海湾入口里浮沫所散发的臭气 特别难闻 那里有含铅的黑涂料。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "罗尔夫·博林，他是我工作的霍普金斯海洋站的一位教授，在20世纪40年代写道：“海湾入口处漂浮的浮渣散发出的气味非常难闻，以至于把含铅涂料都熏黑了。”"
+  },
+  {
+    "index": 252,
+    "source": "People working in these canneries could barely stay there all day because of the smell.",
+    "reference": "工作在罐头厂的人们 每天都只能待在这样的气味之中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这些罐头厂工作的人们几乎无法整天待在那里，因为气味太难闻了。"
+  },
+  {
+    "index": 253,
+    "source": "But you know what they came out saying?",
+    "reference": "然而你知道他们说什么吗？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是你知道他们最后说了什么吗？"
+  },
+  {
+    "index": 254,
+    "source": "They say, \"You know what you smell?",
+    "reference": "他们说：“你知道你闻到的是什么吗？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们说：“你知道你闻到什么了吗？”"
+  },
+  {
+    "index": 255,
+    "source": "You smell money.\"",
+    "reference": "你闻到的是钱的气味。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你闻到了钱的味道。"
+  },
+  {
+    "index": 256,
+    "source": "That pollution was money to that community.",
+    "reference": "污染来自于社区的金钱利益。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那项污染对于那个社区来说就是钱。"
+  },
+  {
+    "index": 257,
+    "source": "And those people dealt with the pollution and absorbed it into their skin and into their bodies because they needed the money.",
+    "reference": "那些人们和污染生活在一起 并把污染吸入了它们的皮肤和身体 因为他们需要钱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而那些人为了赚钱，不得不处理污染，并将污染物吸收进皮肤和身体里。"
+  },
+  {
+    "index": 258,
+    "source": "We made the ocean unhappy; we made people very unhappy, and we made them unhealthy.",
+    "reference": "让海洋不高兴，人们也特别不高兴， 并且人类还不再健康。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们让海洋变得不快乐，我们让人们非常不快乐，而且我们让他们不健康。"
+  },
+  {
+    "index": 259,
+    "source": "The connection between ocean health and human health is actually based upon another couple simple adages.",
+    "reference": "海洋的健康和人类健康之间的联系 确实就像另一组谚语说的那样。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "海洋健康和人类健康之间的联系实际上是基于另外几个简单的格言。"
+  },
+  {
+    "index": 260,
+    "source": "And I want to call that \"pinch a minnow, hurt a whale.\"",
+    "reference": "我觉得这么说： “抓了小鱼，害死鲸鱼”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我想把那称作“掐小鱼，伤鲸鱼”。"
+  },
+  {
+    "index": 261,
+    "source": "The pyramid of ocean life ...",
+    "reference": "海洋生物的食物链……",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "海洋生物金字塔……"
+  },
+  {
+    "index": 262,
+    "source": "Now ... when an ecologist looks at the ocean -- I have to tell you -- we look at the ocean in a very different way, and we see different things than when a regular person looks at the ocean.",
+    "reference": "现在……当一位生态学者看待海洋的时候——我承认—— 我们用一种十分不同的方式来看待海洋， 比起普通人，我们看待海洋时发现的不同之处更多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在……当一个生态学家观察海洋的时候——我不得不告诉你——我们观察海洋的方式非常不同，而且我们看到的东西也和普通人观察海洋时所看到的有所不同。"
+  },
+  {
+    "index": 263,
+    "source": "Because when an ecologist looks at the ocean, we see all those interconnections.",
+    "reference": "因为当生态学家看待海洋的时候，会看到其中的相互联系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为当生态学家观察海洋时，我们看到的是所有那些相互联系。"
+  },
+  {
+    "index": 264,
+    "source": "We see the base of the food chain, the plankton the small things, and we see how those animals are food to animals in the middle of the pyramid, and on so up this diagram.",
+    "reference": "我们看食物链的下层，浮游生物这种小东西，还会看这些小动物们是如何成为位于金字塔中部动物们的食物的，然后就这样一直向上走到这幅图的顶部。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们看到了食物链的底层，浮游生物这些小东西，并且我们看到这些动物如何成为金字塔中间层动物的食物，就这样一路向上延伸到这个图表之上。"
+  },
+  {
+    "index": 265,
+    "source": "And that flow, that flow of life, from the very base up to the very top, is the flow that ecologists see.",
+    "reference": "这种生命的流动 从最底部流向最顶部， 是生态学家们关注的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而那种流动，那种生命的流动，从最底层一直到最顶层，正是生态学家所看到的流动。"
+  },
+  {
+    "index": 266,
+    "source": "And that's what we're trying to preserve when we say, \"Save the ocean. Heal the ocean.\"",
+    "reference": "并且这就是我们努力去保护的 当我们说：“救救海洋，给海洋治治病吧。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这正是我们所努力保护的，当我们说“拯救海洋，治愈海洋”的时候。"
+  },
+  {
+    "index": 267,
+    "source": "It's that pyramid.",
+    "reference": "说的就是这金字塔。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那是那个金字塔。"
+  },
+  {
+    "index": 268,
+    "source": "Now why does that matter for human health?",
+    "reference": "那么为什么这与人类的健康有关系呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么，这为什么对人类健康很重要呢？"
+  },
+  {
+    "index": 269,
+    "source": "Because when we jam things in the bottom of that pyramid that shouldn't be there, some very frightening things happen.",
+    "reference": "因为，当我们把一些本不该在食物链底部存在 的东西塞进了金字塔食物链之后， 就出现了很可怕的事情。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为当我们把不应该放在金字塔底部的东西塞进去时，会发生一些非常可怕的事情。"
+  },
+  {
+    "index": 270,
+    "source": "Pollutants, some pollutants have been created by us, molecules like PCBs that can't be broken down by our bodies.",
+    "reference": "一些由我们制造的污染物，像是PCB分子（多氯联苯，一种致癌物质）是不能被我们的身体吸收的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "污染物，一些污染物是我们制造的，比如多氯联苯这类无法被我们身体分解的分子。"
+  },
+  {
+    "index": 271,
+    "source": "And they go in the base of that pyramid, and they drift up, they're passed up that way, on to predators and on to the top predators.",
+    "reference": "它们进入到食物链金字塔的底部，并不断向上，经过食物链，到达肉食动物和顶端肉食动物这里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后它们进入那个金字塔的底部，然后向上漂移，它们以那种方式被传递上去，传给捕食者，一直传到顶级捕食者。"
+  },
+  {
+    "index": 272,
+    "source": "And in so doing, they accumulate.",
+    "reference": "这样的话，就堆积起来了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且在这样做的过程中，它们会积累起来。"
+  },
+  {
+    "index": 273,
+    "source": "Now, to bring that home, I thought I'd invent a little game.",
+    "reference": "然后，为了能彻底了解这个问题，我想邀请大家做个小游戏",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，为了让大家更清楚地理解，我想我不如发明一个小游戏。"
+  },
+  {
+    "index": 274,
+    "source": "We don't really have to play it. We can just think about it here.",
+    "reference": "我们并不是真的要玩，只是在这里想一下就好。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们其实不必真的玩它。我们可以就在这里想想它。"
+  },
+  {
+    "index": 275,
+    "source": "It's the Styrofoam and chocolate game.",
+    "reference": "这是个保丽龙发泡胶和巧克力的游戏。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是泡沫塑料和巧克力的游戏。"
+  },
+  {
+    "index": 276,
+    "source": "Imagine that when we got on this boat, we were all given two Styrofoam peanuts.",
+    "reference": "想象一下当我们登上这艘船， 我们都得到了 两个保丽龙的花生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "想象一下，当我们登上这艘船时，我们每个人都得到了两个泡沫塑料花生。"
+  },
+  {
+    "index": 277,
+    "source": "Can't do much with them but put them in your pocket.",
+    "reference": "除了把它们放在兜里，你也做不了什么其他的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "除了把它们放进口袋里，也做不了什么别的了。"
+  },
+  {
+    "index": 278,
+    "source": "Because the rules are: every time you offer somebody a drink, you give them the drink, and you give them your Styrofoam peanuts too.",
+    "reference": "因为规则是：每一次你请别人喝一杯的时候， 除了要给别人酒之外， 也要把你的保丽龙花生给别人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为规则是：每次你给别人提供饮料时，你都要把饮料给他们，还要把你的泡沫塑料花生也给他们。"
+  },
+  {
+    "index": 279,
+    "source": "What'll happen is that the Styrofoam peanuts will start moving through our society here.",
+    "reference": "接下来发生的事情就是保丽龙花生 会开始在我们的团体里流通。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "到时就会变成这样：那些泡沫塑料颗粒会开始在我们社会中流动。"
+  },
+  {
+    "index": 280,
+    "source": "And they will accumulate in the drunkest stingiest people.",
+    "reference": "并且它们会集中在 最吝啬的醉鬼身上",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们会在最醉醺醺、最吝啬的人身上积累。"
+  },
+  {
+    "index": 281,
+    "source": "There's no mechanism in this game for them to go anywhere but into a bigger and bigger pile of indigestible Styrofoam peanuts.",
+    "reference": "这个游戏里面的机制 让人们什么也做不了 除了得到越来越大的一堆 无法消化的保丽龙花生。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这个游戏里没有任何机制能让他们去其他地方，只能变成越积越多，难以消化的泡沫塑料花生。"
+  },
+  {
+    "index": 282,
+    "source": "And that's exactly what happens with PDBs in this food pyramid.",
+    "reference": "这就是和PDB分子（对二氯苯，化学合成药剂，致癌） 在食物链中的堆积一样。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这正是食物金字塔中的PDB所发生的情况。"
+  },
+  {
+    "index": 283,
+    "source": "They accumulate into the top of it.",
+    "reference": "它们富集在食物链的顶部。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们积聚在它的顶部。"
+  },
+  {
+    "index": 284,
+    "source": "Now suppose instead of Styrofoam peanuts, we take these lovely little chocolates that we get and we had those instead.",
+    "reference": "然后假设不用保丽龙花生， 我们用这些可爱的巧克力 来替代它们。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在假设我们不用泡沫花生，而是用这些我们得到的可爱的小巧克力，用它们代替。"
+  },
+  {
+    "index": 285,
+    "source": "Well, some of us would be eating those chocolates instead of passing them around.",
+    "reference": "嗯，我们之中的一些人会把巧克力吃了 而不给别人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "好吧，我们有些人会自己吃掉那些巧克力，而不是传给别人。"
+  },
+  {
+    "index": 286,
+    "source": "And instead of accumulating, they will just pass into our group here and not accumulate in any one group.",
+    "reference": "这样就不会产生堆积， 它们只会在人群中流通 但不会堆积在人群里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且他们不会累积，而是直接进入我们的小组，不会在任何一个小组里累积。"
+  },
+  {
+    "index": 287,
+    "source": "Because they're absorbed by us.",
+    "reference": "因为巧克力可以被我们吸收。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为它们被我们吸收了。"
+  },
+  {
+    "index": 288,
+    "source": "And that's the difference between a PCB and, say, something natural like an omega-3, something we want out of the marine food chain.",
+    "reference": "这与PCB分子是不同的，可以说，就像ω-3脂肪酸一样天然，我们希望海洋食物链里有这些东西。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这就是印刷电路板 (PCB) 和，比如说，类似 Omega-3 这种我们希望从海洋食物链中获取的天然物质之间的区别。"
+  },
+  {
+    "index": 289,
+    "source": "PCBs accumulate.",
+    "reference": "PCB的富集。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "多氯联苯会累积。"
+  },
+  {
+    "index": 290,
+    "source": "We have great examples of that, unfortunately.",
+    "reference": "很不幸，有许多这种例子",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "很遗憾，我们有很多那方面的例子。"
+  },
+  {
+    "index": 291,
+    "source": "PCBs accumulate in dolphins in Sarasota Bay, in Texas, in North Carolina.",
+    "reference": "PCB堆积在海豚体内 就发生在萨拉索塔湾，得克萨斯州，北卡罗来纳州。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "多氯联苯会在萨拉索塔湾、德克萨斯州和北卡罗来纳州的海豚体内积累。"
+  },
+  {
+    "index": 292,
+    "source": "They get into the food chain.",
+    "reference": "PCB分子进入了食物链。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们进入食物链。"
+  },
+  {
+    "index": 293,
+    "source": "The dolphins eat the fish that have PCBs from the plankton, and those PCBs, being fat-soluble, accumulate in these dolphins.",
+    "reference": "海豚吃了小鱼 小鱼从浮游生物那里得到了PCB分子， 这些脂溶性的PCB分子 就富集在了海豚体内。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "海豚以浮游生物体内含有多氯联苯的鱼为食，而这些多氯联苯是脂溶性的，会在海豚体内积累。"
+  },
+  {
+    "index": 294,
+    "source": "Now, a dolphin, mother dolphin, any dolphin -- there's only one way that a PCB can get out of a dolphin.",
+    "reference": "现在，一只海豚， 海豚母亲，或者是任何的海豚 只有一种方法 排出PCB分子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，一条海豚，海豚妈妈，任何海豚——多氯联苯从海豚体内排出的方式只有一种。"
+  },
+  {
+    "index": 295,
+    "source": "And what's that?",
+    "reference": "是什么呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那是什么？"
+  },
+  {
+    "index": 296,
+    "source": "In mother's milk.",
+    "reference": "通过母乳。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在母乳中。"
+  },
+  {
+    "index": 297,
+    "source": "Here's a diagram of the PCB load of dolphins in Sarasota bay.",
+    "reference": "这是一张萨拉索塔湾海豚 体内PCB含量的图表。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是萨拉索塔湾海豚PCB负荷的图表。"
+  },
+  {
+    "index": 298,
+    "source": "Adult males, a huge load.",
+    "reference": "成年雄性体内的含量巨大。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "成年男性，巨大的负担。"
+  },
+  {
+    "index": 299,
+    "source": "Juveniles, a huge load.",
+    "reference": "幼年海豚体内也有很大含量。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "青少年，一个巨大的负担。"
+  },
+  {
+    "index": 300,
+    "source": "Females after their first calf is already weaned, a lower load.",
+    "reference": "雌性在第一次哺乳期之后 含量稍低。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "母牛在第一头小牛断奶后，负担会减轻。"
+  },
+  {
+    "index": 301,
+    "source": "Those females, they're not trying to.",
+    "reference": "雌性海豚并不想这样。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那些女性，她们不想那样做。"
+  },
+  {
+    "index": 302,
+    "source": "Those females are passing the PCBs in the fat of their own mother's milk into their offspring.",
+    "reference": "它们将PCB分子 通过乳汁里面的脂肪 传递给了它们的后代。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那些雌性动物正在通过自己母亲乳汁中的脂肪将多氯联苯传递给它们的后代。"
+  },
+  {
+    "index": 303,
+    "source": "And their offspring don't survive.",
+    "reference": "而后代没有活下来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它们的后代无法存活。"
+  },
+  {
+    "index": 304,
+    "source": "The death rate in these in these dolphins, for the first calf born of every female dolphin, is 60 to 80 percent.",
+    "reference": "这些海豚的死亡率， 每只雌性海豚的第一胎， 大约在60%到80％。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在这些海豚中，对于每只雌性海豚所生的第一只小海豚来说，死亡率是60%到80%。"
+  },
+  {
+    "index": 305,
+    "source": "These mothers pump their first offspring full of this pollutant.",
+    "reference": "母亲们把污染物 都输送给了第一胎后代。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些母亲们把她们的第一个后代喂满了这种污染物。"
+  },
+  {
+    "index": 306,
+    "source": "And most of them die.",
+    "reference": "其中大部分都会死去。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且他们大多数都死了。"
+  },
+  {
+    "index": 307,
+    "source": "Now, the mother then can go and reproduce, but what a terrible price to pay for the accumulation of this pollutant in these animals -- the death of the first born calf.",
+    "reference": "现在，雌性海豚可以继续繁殖了， 但这代价太大了 污染物富集在 这些动物体内 ——这要由第一胎后代的死来买单。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，母鲸随后可以去繁殖，但为了这些动物体内积累的这种污染物，付出的代价是多么可怕——头生小鲸的死亡。"
+  },
+  {
+    "index": 308,
+    "source": "There's another top predator in the ocean, it turns out.",
+    "reference": "原来，在海洋食物链里还有另外一个顶端捕食者",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "原来海洋里还有另一种顶级掠食者。"
+  },
+  {
+    "index": 309,
+    "source": "That top predator, of course, is us.",
+    "reference": "显然，这个顶端捕食者就是我们。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当然，那个顶级的掠食者就是我们。"
+  },
+  {
+    "index": 310,
+    "source": "And we also are eating meat that comes from some of these same places.",
+    "reference": "我们也吃肉 来自于同样一些地方的肉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我们也在吃着一些来自相同地方的肉。"
+  },
+  {
+    "index": 311,
+    "source": "This is whale meat that I photographed in a grocery store in Tokyo -- or is it?",
+    "reference": "这是鲸鱼肉 我在东京一家食品店拍到的 或者不是？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是我在东京一家杂货店里拍摄的鲸鱼肉——或者说，是吗？"
+  },
+  {
+    "index": 312,
+    "source": "In fact, what we did a few years ago was learn how to smuggle a molecular biology lab into Tokyo and use it to genetically test the DNA out of whale meat samples and identify what they really were.",
+    "reference": "实际上，我们做了几年的研究 研究如何偷运 一所分子生物实验室进东京 用于遗传学的检验 检验鲸鱼肉中去出的DNA样本 并鉴定它们到底是什么。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "事实上，几年前我们所做的是学习如何将一个分子生物学实验室偷运到东京，并用它对鲸鱼肉样本中的DNA进行基因测试，从而确定它们的真实种类。"
+  },
+  {
+    "index": 313,
+    "source": "And some of those whale meat samples were whale meat.",
+    "reference": "一部分鲸鱼肉样本确实是鲸鱼肉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，其中一些鲸肉样本确实是鲸肉。"
+  },
+  {
+    "index": 314,
+    "source": "Some of them were illegal whale meat, by the way.",
+    "reference": "顺带一说，另一部分检验出不合规格。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "顺便说一句，其中一些是非法鲸鱼肉。"
+  },
+  {
+    "index": 315,
+    "source": "That's another story.",
+    "reference": "这是另一个话题了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那是另外一回事。"
+  },
+  {
+    "index": 316,
+    "source": "But some of them were not whale meat at all.",
+    "reference": "但是有一些就根本不是鲸鱼肉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但他们中的一些根本不是鲸鱼肉。"
+  },
+  {
+    "index": 317,
+    "source": "Even though they were labeled whale meat, they were dolphin meat.",
+    "reference": "即使有着鲸鱼肉的幌子，实际上这些是海豚肉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "虽然他们被标记为鲸鱼肉，但实际上是海豚肉。"
+  },
+  {
+    "index": 318,
+    "source": "Some of them were dolphin liver. Some of them were dolphin blubber.",
+    "reference": "有一些是海豚肝脏。有一些是海豚的鳍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们中的一些是海豚肝脏。他们中的一些是海豚脂肪。"
+  },
+  {
+    "index": 319,
+    "source": "And those dolphin parts had a huge load of PCBs, dioxins and heavy metals.",
+    "reference": "那些海豚肉 都含巨量的PCB分子， 二恶英（剧毒）和重金属。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且那些海豚的身体部位含有大量的多氯联苯、二恶英和重金属。"
+  },
+  {
+    "index": 320,
+    "source": "And that huge load was passing into the people that ate this meat.",
+    "reference": "这些有害物质都流入到 食用这些肉的人身体内。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而那巨大的负担正在传递给吃这种肉的人们。"
+  },
+  {
+    "index": 321,
+    "source": "It turns out that a lot of dolphins are being sold as meat in the whale meat market around the world.",
+    "reference": "这证明许多海豚 在世界上的鲸肉市场里 都被当作肉食出售。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "原来世界上很多海豚被当作肉在鲸鱼肉市场出售。"
+  },
+  {
+    "index": 322,
+    "source": "That's a tragedy for those populations.",
+    "reference": "对海豚来说这是一场悲剧。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这对那些人群来说是个悲剧。"
+  },
+  {
+    "index": 323,
+    "source": "But it's also a tragedy for the people eating them because they don't know that that's toxic meat.",
+    "reference": "但对食用它们的人类来说 同样是一场悲剧 因为他们并不知道这是有毒的肉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但对吃这些肉的人来说也是一场悲剧，因为他们不知道那是含有毒素的肉。"
+  },
+  {
+    "index": 324,
+    "source": "We had these data a few years ago.",
+    "reference": "几年前的一天我们得出的这些数据。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "几年前我们有这些数据。"
+  },
+  {
+    "index": 325,
+    "source": "I remember sitting at my desk being about the only person in the world who knew that whale meat being sold in these markets was really dolphin meat, and it was toxic.",
+    "reference": "我记得我坐在办公桌旁 作为世界上唯一的人 唯一知道在鲸鱼肉市场上卖的那些鲸鱼肉 实际上是海豚肉,并且含毒的人。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我记得当时坐在我的桌子旁，感觉自己好像是世界上唯一知道这些市场上出售的鲸鱼肉其实是海豚肉，而且有毒的人。"
+  },
+  {
+    "index": 326,
+    "source": "It had two-to-three-to-400 times the toxic loads ever allowed by the EPA.",
+    "reference": "含有的毒素是有史以来环保局允许的 2-3倍到400倍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它的毒性负荷是美国环保署允许量的两到三到四百倍。"
+  },
+  {
+    "index": 327,
+    "source": "And I remember there sitting at my desk thinking, \"Well, I know this. This is a great scientific discovery.\"",
+    "reference": "并且我记得我坐在办公桌之前想： “嗯，我发现了这个，这是个伟大的科学发现。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我记得当时坐在我的桌子旁，心想：“嗯，我知道这个。这是一个伟大的科学发现。”"
+  },
+  {
+    "index": 328,
+    "source": "But it was so awful.",
+    "reference": "但它如此可怕。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是它太糟糕了。"
+  },
+  {
+    "index": 329,
+    "source": "And for the very first time in my scientific career I broke scientific protocol, which is that you take the data and publish them in scientific journals, and then begin to talk about them.",
+    "reference": "在我科学生涯中，我第一次 打破了科学的协议， 就是做出数据并发布在科学杂志上， 然后再谈论它们。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且在我科学研究生涯中，这是第一次我打破了科学规范，这个规范就是你收集数据，然后在科学期刊上发表，之后才开始讨论它们。"
+  },
+  {
+    "index": 330,
+    "source": "We sent a very polite letter to the minister of health in Japan and simply pointed out that this is an intolerable situation, not for us, but for the people of Japan.",
+    "reference": "我们写了一封很客气的信 给日本卫生部长 并简单的指出 并非对于我们是一个不可忍受的情况， 而是对于日本人民。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们给日本卫生大臣寄了一封非常礼貌的信，只是指出这是一种令人无法容忍的状况，不是对我们而言，而是对日本人民而言。"
+  },
+  {
+    "index": 331,
+    "source": "Because mothers who may be breastfeeding, who may have young children, would be buying something that they thought was healthy, but it was really toxic.",
+    "reference": "因为需要哺乳的母亲们， 有小孩的母亲们， 应该买她们认为健康的东西， 但这些东西实际上有毒。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为有些母亲可能正在哺乳，可能还有年幼的孩子，她们会购买一些她们认为健康的东西，但实际上那是有毒的。"
+  },
+  {
+    "index": 332,
+    "source": "That led to a whole series of other campaigns in Japan.",
+    "reference": "这导致了日本一系列的其他运动。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那导致了在日本发起了一系列的其它活动。"
+  },
+  {
+    "index": 333,
+    "source": "And I'm really proud to say that at this point, it's very difficult to buy anything in Japan that's labeled incorrectly, even though they're still selling whale meat, which I believe they shouldn't.",
+    "reference": "在这一点上，我真的非常骄傲的说， 在日本买任何东西都很难 这是标签贴错了， 即使他们仍然在出售鲸肉， 而我认为他们不该这么做。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我非常自豪地说，到目前为止，在日本很难买到任何标签错误的东西，尽管他们仍在出售鲸鱼肉，我认为他们不应该这样做。"
+  },
+  {
+    "index": 334,
+    "source": "But at least it's labeled correctly, and you're no longer going to be buying toxic dolphin meat instead.",
+    "reference": "但是至少标签帖对了 你就不回再去买 有毒的海豚肉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但至少它被正确地贴上了标签，而且你不再会买到有毒的海豚肉了。"
+  },
+  {
+    "index": 335,
+    "source": "It isn't just there that this happens, but in a natural diet of some communities in the Canadian arctic and in the United States and in the European arctic, a natural diet of seals and whales leads to an accumulation of PCBs that have gathered up from all parts of the world and ended up in these women.",
+    "reference": "并不是只有日本才这样， 而是在一些国家的自然食物链都这样 在加拿大北部，在美国 还有欧洲北部， 海豹和鲸鱼的自然食物链 导致了PCB分子的富集 从世界上的各个地方 聚集到妇女的身上。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这不仅仅是在那里发生，在加拿大北极地区、美国和欧洲北极地区的一些社区的天然饮食中，以海豹和鲸鱼为天然饮食也会导致多氯联苯的积累，这些多氯联苯是从世界各地聚集起来并最终进入这些女性体内。"
+  },
+  {
+    "index": 336,
+    "source": "These women have toxic breast milk.",
+    "reference": "这些妇女的乳汁含毒。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些女性的母乳有毒。"
+  },
+  {
+    "index": 337,
+    "source": "They cannot feed their offspring, their children, their breast milk because of the accumulation of these toxins in their food chain, in their part of the world's ocean pyramid.",
+    "reference": "她们不能用她们的乳汁 来喂养她们的孩子们 因为富集的毒素 在她们的食物链之中， 在她们世界中的一部分 在海洋金字塔食物链里。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "由于这些毒素在其食物链中，在世界海洋金字塔的这一部分积累，他们无法用母乳喂养他们的后代、他们的孩子。"
+  },
+  {
+    "index": 338,
+    "source": "That means their immune systems are compromised.",
+    "reference": "这说明她们的免疫系统已经受到危害。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这意味着他们的免疫系统受到了损害。"
+  },
+  {
+    "index": 339,
+    "source": "It means that their children's development can be compromised.",
+    "reference": "这说明她们后代的生长发育 也会受到危害。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这意味着他们孩子的成长可能会受到影响。"
+  },
+  {
+    "index": 340,
+    "source": "And the world's attention on this over the last decade has reduced the problem for these women, not by changing the pyramid, but by changing what they particularly eat out of it.",
+    "reference": "近十年世界上对这一问题的关注 已经帮助这些妇女 解决了这个问题， 不是通过改变食物链结构， 而是改变她们特有的饮食。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在过去十年里，世界对这个问题的关注减少了这些女性的问题，不是通过改变金字塔结构，而是通过改变她们特别从金字塔中摄取的食物。"
+  },
+  {
+    "index": 341,
+    "source": "We've taken them out of their natural pyramid in order to solve this problem.",
+    "reference": "我们已经让这些妇女脱离自然的食物链 目的就是解决这个问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了解决这个问题，我们已经把他们从他们天然的金字塔结构中移出来了。"
+  },
+  {
+    "index": 342,
+    "source": "That's a good thing for this particular acute problem, but it does nothing to solve the pyramid problem.",
+    "reference": "对于这个特别尖锐的问题，这是个好办法， 但它对解决金字塔食物链问题没什么帮助。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这对解决这个特定的急性问题来说是件好事，但它对解决金字塔问题毫无帮助。"
+  },
+  {
+    "index": 343,
+    "source": "There's other ways of breaking the pyramid.",
+    "reference": "还有另一种方法打破金字塔食物链。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "还有其他打破金字塔结构的方法。"
+  },
+  {
+    "index": 344,
+    "source": "The pyramid, if we jam things in the bottom, can get backed up like a sewer line that's clogged.",
+    "reference": "如果我们在金字塔食物链底部塞入一些东西， 食物链可以像下水道那样回堵上来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我们在金字塔底部塞满了东西，它就会像堵塞的下水道一样被堵住。"
+  },
+  {
+    "index": 345,
+    "source": "And if we jam nutrients, sewage, fertilizer in the base of that pyramid, it can back up all through it.",
+    "reference": "如果我们在食物链底部加入 营养物质、污水和化肥， 那将影响整个食物链。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我们在那个金字塔的底部堆积营养物质、污水、肥料，那么它会倒灌到整个金字塔。"
+  },
+  {
+    "index": 346,
+    "source": "And we end up with things we've heard about before: red tides for example, which are blooms of toxic algae floating through the oceans causing neurological damage.",
+    "reference": "下面用我们之前听过的例子结束这件事： 赤潮， 赤潮里有大量有毒藻类， 漂浮在海洋之上的赤潮 能造成精神受损。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最终我们遇到之前听说过的事情：例如赤潮，赤潮是有毒藻类大量繁殖漂浮在海洋中，造成神经损伤。"
+  },
+  {
+    "index": 347,
+    "source": "We can also get blooms of bacteria, blooms of viruses in the ocean.",
+    "reference": "我们也可能会让海洋里的细菌， 和病毒大量繁殖。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们也能在海洋中看到细菌爆发和病毒爆发。"
+  },
+  {
+    "index": 348,
+    "source": "These are two shots of a red tide coming on shore here and a bacteria in the genus vibrio, which includes the genus that has cholera in it.",
+    "reference": "这里的两张照片都是红潮的 这里面有 一种弧菌， 带有霍乱细菌。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是两张赤潮正在这里登陆的照片，以及弧菌属中的一种细菌的照片，弧菌属包括了含有霍乱的属。"
+  },
+  {
+    "index": 349,
+    "source": "How many people have seen a \"beach closed\" sign?",
+    "reference": "有多少人见过“海岸禁入”的标志呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有多少人见过“海滩关闭”的标志？"
+  },
+  {
+    "index": 350,
+    "source": "Why does that happen?",
+    "reference": "为什么会这样呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为什么会发生那种事？"
+  },
+  {
+    "index": 351,
+    "source": "It happens because we have jammed so much into the base of the natural ocean pyramid that these bacteria clog it up and overfill onto our beaches.",
+    "reference": "因为我们把太多垃圾 扔到了海洋食物链的底部 这些细菌大量繁殖， 并回溢到我们的海滩上。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "之所以会发生这种情况，是因为我们已经在天然海洋金字塔的底部塞入了太多的东西，导致这些细菌堵塞了底部，并溢出到我们的海滩上。"
+  },
+  {
+    "index": 352,
+    "source": "Often what jams us up is sewage.",
+    "reference": "一般困扰我们的都是污水。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "通常让我们陷入困境的是污水。"
+  },
+  {
+    "index": 353,
+    "source": "Now how many of you have ever gone to a state park or a national park where you had a big sign at the front saying, \"Closed because human sewage is so far over this park that you can't use it\"?",
+    "reference": "那么有多少人曾经去过州立公园或是国家公园呢？ 在那的门口曾经看到一块大标志上这样写着吗？ “因垃圾太多 充斥公园 而关闭”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在你们当中有多少人曾经去过州立公园或国家公园，然后在公园入口处看到一个巨大的牌子，上面写着：“关闭，因为人类污水已经严重污染了公园，导致无法使用”？"
+  },
+  {
+    "index": 354,
+    "source": "Not very often. We wouldn't tolerate that.",
+    "reference": "不常见吧？我们不能容忍这种事情。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不常有。我们不会容忍那种事。"
+  },
+  {
+    "index": 355,
+    "source": "We wouldn't tolerate our parks being swamped by human sewage.",
+    "reference": "我们不能容忍公园 被垃圾堆满。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们绝不容忍我们的公园被人类污水淹没。"
+  },
+  {
+    "index": 356,
+    "source": "But beaches are closed a lot in our country.",
+    "reference": "但是在我们国家海岸却关闭了很多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是在我们国家，海滩经常关闭。"
+  },
+  {
+    "index": 357,
+    "source": "They're closed more and more and more all around the world for the same reason.",
+    "reference": "世界各地越来越多，越来越多的海岸关闭都是因为同样的原因。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因为同样的原因，世界各地越来越多的商店都关门了。"
+  },
+  {
+    "index": 358,
+    "source": "And I believe we shouldn't tolerate that either.",
+    "reference": "我相信这些我们也不应该容忍。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我认为我们也不应该容忍那样的事情。"
+  },
+  {
+    "index": 359,
+    "source": "It's not just a question of cleanliness.",
+    "reference": "这不只是清洁的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这不仅仅是清洁的问题。"
+  },
+  {
+    "index": 360,
+    "source": "It's also a question of how those organisms then turn into human disease.",
+    "reference": "同时也是 海洋有机物如何 进入到人类疾病中的问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这也关系到这些生物是如何转化为人类疾病的问题。"
+  },
+  {
+    "index": 361,
+    "source": "These vibrios, these bacteria, can actually infect people.",
+    "reference": "那些弧菌和细菌确实可以感染人类。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些弧菌，这些细菌，实际上会感染人。"
+  },
+  {
+    "index": 362,
+    "source": "They can go into your skin and create skin infections.",
+    "reference": "它们可以进入皮肤并造成皮肤感染。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们可以进入你的皮肤并造成皮肤感染。"
+  },
+  {
+    "index": 363,
+    "source": "This is a graph from NOAA's ocean and human health initiative, showing the rise of the infections by vibrio in people over the last few years.",
+    "reference": "这张图是来自美国国家气象局提议的海与人类健康法案， 说明过去几年中， 越来越多的人 受到弧菌感染。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一张来自美国国家海洋和大气管理局（NOAA）的海洋与人类健康倡议的图表，显示了过去几年人类感染弧菌的病例增加情况。"
+  },
+  {
+    "index": 364,
+    "source": "Surfers, for example, know this incredibly.",
+    "reference": "举例来说，冲浪的人十分了解这一情况。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，冲浪者对此了如指掌。"
+  },
+  {
+    "index": 365,
+    "source": "And if you can see on some surfing sites, in fact, not only do you see what the waves are like or what the weather's like, but on some surf rider sites, you see a little flashing poo alert.",
+    "reference": "如果你登录一些冲浪网站， 实际上不光能看到 海浪和天气如何， 有一些冲浪者网站， 还会有一些闪烁的警示。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且如果你能在一些冲浪网站上看到，事实上，你不仅能看到浪的情况或天气情况，而且在一些冲浪者网站上，你还会看到一个闪烁的粪便警报。"
+  },
+  {
+    "index": 366,
+    "source": "That means that the beach might have great waves, but it's a dangerous place for surfers to be because they can carry with them, even after a great day of surfing, this legacy of an infection that might take a very long time to solve.",
+    "reference": "这表示海边可能有大浪， 但这对冲浪者来说是危险的 因为他们会一直携带海洋中的细菌， 即使是在冲浪之后的很多天， 这些遗留物造成的感染也许要花很长时间去治疗。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这意味着海滩可能有很好的浪，但对冲浪者来说却是一个危险的地方，因为即使在冲浪的完美一天之后，他们也可能带着感染的遗留问题，而这个问题可能需要很长时间才能解决。"
+  },
+  {
+    "index": 367,
+    "source": "Some of these infections are actually carrying antibiotic resistance genes now.",
+    "reference": "现在其中的一些细菌确实携带了 抗生素抗体遗传因子。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，这些感染中的一些实际上正在携带抗生素耐药基因。"
+  },
+  {
+    "index": 368,
+    "source": "And that makes them even more difficult.",
+    "reference": "这就使得治疗更加困难。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且这使得他们更加困难。"
+  },
+  {
+    "index": 369,
+    "source": "These same infections create harmful algal blooms.",
+    "reference": "这些传染源 使得有害藻类大量繁殖。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些相同的感染会产生有害的藻华。"
+  },
+  {
+    "index": 370,
+    "source": "Those blooms are generating other kinds of chemicals.",
+    "reference": "繁殖会产生其他的化学物质。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那些花朵正在产生其他种类的化学物质。"
+  },
+  {
+    "index": 371,
+    "source": "This is just a simple list of some of the types of poisons that come out of these harmful algal blooms: shellfish poisoning,fish ciguatera, diarrhetic shellfish poisoning -- you don't want to know about that -- neurotoxic shellfish poisoning, paralytic shellfish poisoning.",
+    "reference": "这是几种有毒物质的清单 说明了这些有毒海藻的危害： 贝毒、甲藻鱼毒、 痢疾性贝毒——你不会想了解这种毒的—— 神经性贝毒、麻痹性贝毒。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这只是一些由有害藻华产生的毒素的简单列表：贝类中毒、鱼类雪卡毒素中毒、腹泻性贝类中毒——你不会想知道的——神经毒性贝类中毒、麻痹性贝类中毒。"
+  },
+  {
+    "index": 372,
+    "source": "These are things that are getting into our food chain because of these blooms.",
+    "reference": "这些有害物质因为海藻大量繁殖 而进入到我们的食物链中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些是由于这些水华而进入我们食物链的东西。"
+  },
+  {
+    "index": 373,
+    "source": "Rita Calwell very famously traced a very interesting story of cholera into human communities, brought there, not by a normal human vector, but by a marine vector, this copepod.",
+    "reference": "丽塔·卡威尔成功的 追寻到一个有趣的故事 是关于人类感染霍乱的， 他们不是被 正常人传染 而是被海上的一种桡足动物传染的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "瑞塔·科尔韦尔非常著名地追溯了一个关于霍乱进入人类社区的非常有趣的故事，霍乱进入社区，并非由常见的人类传播媒介，而是由一种海洋传播媒介——桡足类动物带入的。"
+  },
+  {
+    "index": 374,
+    "source": "Copepods are small crustaceans.",
+    "reference": "桡足动物是小甲壳动物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "桡足类是小型甲壳动物。"
+  },
+  {
+    "index": 375,
+    "source": "They're a tiny fraction of an inch long.",
+    "reference": "只有几分之一英寸长。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它们只有几分之一英寸长。"
+  },
+  {
+    "index": 376,
+    "source": "And they can carry on their little legs some of the cholera bacteria that then leads to human disease.",
+    "reference": "弧菌会依附在 它们细小的腿上 然后使人类得病。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它们可以用它们的小腿携带一些霍乱细菌，这些细菌会导致人类疾病。"
+  },
+  {
+    "index": 377,
+    "source": "That has sparked cholera epidemics in ports along the world and has led to increased concentration on trying to make sure shipping doesn't move these vectors of cholera around the world.",
+    "reference": "这引发了霍乱病 沿着港口传向整个世界 并迫使人们注意到 要努力不让船只 成为向世界传播 霍乱病的传染源。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那已经在世界各地的港口引发了霍乱疫情，并导致人们更加关注如何确保航运不会将这些霍乱传播媒介运送到世界各地。"
+  },
+  {
+    "index": 378,
+    "source": "So what do you do?",
+    "reference": "我们该做点什么呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么你是做什么的？"
+  },
+  {
+    "index": 379,
+    "source": "We have major problems in disrupted ecosystem flow that the pyramid may not be working so well, that the flow from the base up into it is being blocked and clogged.",
+    "reference": "我们主要的问题是生态系统运转遭到破坏 金字塔食物链也运转不畅， 食物链从底部开始 就处于阻塞状态。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们在受干扰的生态系统流动方面存在重大问题，金字塔可能运作不佳，从底部向上流动的过程正在被阻断和阻塞。"
+  },
+  {
+    "index": 380,
+    "source": "What do you do when you have this sort of disrupted flow?",
+    "reference": "该怎么处理这种流通不畅的问题呢？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当你遇到这种被打断的流程时，你会怎么做？"
+  },
+  {
+    "index": 381,
+    "source": "Well, there's a bunch of things you could do.",
+    "reference": "其实有很多能做的事。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，你可以做的事情有很多。"
+  },
+  {
+    "index": 382,
+    "source": "You could call Joe the Plumber, for example.",
+    "reference": "例如，可以叫水管工来修理。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，你可以打电话给水管工乔。"
+  },
+  {
+    "index": 383,
+    "source": "And he could come in and fix the flow.",
+    "reference": "他就会进来 并疏通管道。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且他可以进来解决流量问题。"
+  },
+  {
+    "index": 384,
+    "source": "But in fact, if you look around the world, not only are there hope spots for where we may be able to fix problems, there have been places where problems have been fixed, where people have come to grips with these issues and begun to turn them around.",
+    "reference": "但实际上，如果放眼世界 就不光是希望解决 我们能解决的问题， 有些地方的问题已经解决了， 有些地方的人们已经了解了这些问题 并开始寻求解决办法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但事实上，如果你放眼全球，不仅存在我们可能能够解决问题的希望之地，而且已经有一些地方问题得到了解决，人们已经开始正视这些问题并开始扭转局面。"
+  },
+  {
+    "index": 385,
+    "source": "Monterey is one of those.",
+    "reference": "蒙特雷就是其中之一。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "蒙特雷是其中之一。"
+  },
+  {
+    "index": 386,
+    "source": "I started out showing how much we had distressed the Monterey Bay ecosystem with pollution and the canning industry and all of the attendant problems.",
+    "reference": "在开始的时候我展示了 蒙特雷海岸生态系统已经被破坏的程度 这是因为污染和罐头工厂 还有随之而来的各种问题。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我一开始展示了我们通过污染、罐头工业以及所有相关问题给蒙特雷湾生态系统造成了多大的破坏。"
+  },
+  {
+    "index": 387,
+    "source": "In 1932 that's the picture.",
+    "reference": "这是1932年的照片。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "照片拍摄于1932年。"
+  },
+  {
+    "index": 388,
+    "source": "In 2009 the picture is dramatically different.",
+    "reference": "2009年的照片中已经有明显不同。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在2009年，情况已截然不同。"
+  },
+  {
+    "index": 389,
+    "source": "The canneries are gone. The pollution has abated.",
+    "reference": "罐头工厂迁走了，污染也减轻了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "罐头厂已经消失了，污染也减轻了。"
+  },
+  {
+    "index": 390,
+    "source": "But there's a greater sense here that what the individual communities need is working ecosystems.",
+    "reference": "但更有意义的是 社区居民所需的 是一个健全的生态系统。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但这里有一种更强烈的共识，那就是各个社区真正需要的是运作良好的生态系统。"
+  },
+  {
+    "index": 391,
+    "source": "They need a functioning pyramid from the base all the way to the top.",
+    "reference": "他们需要从下到上功能良好的金字塔食物链。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他们需要一个从底部到顶部都能正常运作的金字塔。"
+  },
+  {
+    "index": 392,
+    "source": "And that pyramid in Monterey, right now, because of the efforts of a lot of different people, is functioning better than it's ever functioned for the last 150 years.",
+    "reference": "目前在蒙特雷 这条食物链， 在各方人士的努力之下， 功能前所未有的健全 150年来从未如此。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且蒙特雷的那个金字塔，现在，由于许多不同的人的努力，比过去150年来任何时候都运作得更好。"
+  },
+  {
+    "index": 393,
+    "source": "It didn't happen accidentally.",
+    "reference": "这不是突然发生的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这不是偶然发生的。"
+  },
+  {
+    "index": 394,
+    "source": "It happened because many people put their time and effort and their pioneering spirit into this.",
+    "reference": "这是因为许多人付出了时间和精力 并投入了先驱者的精神。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这件事发生是因为很多人投入了时间和精力，并且将其开拓精神倾注于此。"
+  },
+  {
+    "index": 395,
+    "source": "On the left there, Julia Platt, the mayor of my little home town in Pacific Grove.",
+    "reference": "左边这位，朱丽娅·普拉特 是我家乡小镇葛洛芙洋的镇长",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在那边左边的是朱莉娅·普拉特，她是太平洋格罗夫，我那小家乡的市长。"
+  },
+  {
+    "index": 396,
+    "source": "At 74 years old, became mayor because something had to be done to protect the ocean.",
+    "reference": "她在74岁的时候当选镇长 因为她做了一些 保护海洋的事情。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "以74岁高龄当选市长，因为必须采取行动保护海洋。"
+  },
+  {
+    "index": 397,
+    "source": "In 1931, she produced California's first community-based marine protected area, right next to the the biggest polluting cannery because Julia knew that when the canneries eventually were gone, the ocean needed a place to grow from, that the ocean needed a place to spark a seed.",
+    "reference": "1931年，她设计了加州第一个 基于社区的海洋保护区， 紧挨着污染最重的罐头厂 因为朱丽娅知道 当罐头厂最终迁走之后， 海洋需要一块地方来复原， 换句话说海洋需要一块地方抛砖引玉。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "1931年，她建立了加州第一个社区主导的海洋保护区，紧邻着污染最严重的罐头厂，因为茱莉亚知道当罐头厂最终消失时，海洋需要一个恢复生机的地方，海洋需要一个萌发种子的场所。"
+  },
+  {
+    "index": 398,
+    "source": "And she wanted to provide that seed.",
+    "reference": "她想要成为这先驱者。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且她想提供那颗种子。"
+  },
+  {
+    "index": 399,
+    "source": "Other people David Packard and Julie Packard, who were instrumental in producing the Monterey Bay aquarium to lock into people's notion that the ocean and the health of the ocean ecosystem were just as important to the economy of this area as eating the ecosystem would be.",
+    "reference": "其他人像大卫·帕卡德和朱莉·帕卡德， 他们帮助筹建了蒙特雷湾水族馆 以此让人们了解 这片海洋 和海洋生态系统的健康 和当地的经济发展一样重要 但经济发展却侵害了海洋生态。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "大卫·帕卡德和朱莉·帕卡德等人为蒙特雷湾水族馆的建立做出了巨大贡献，他们的目的是让人们意识到海洋及海洋生态系统的健康与该地区的经济同样重要，而不仅仅是将生态系统作为食物来源。"
+  },
+  {
+    "index": 400,
+    "source": "That change in thinking has led to a dramatic shift, not only in the fortunes of Monterey Bay, but other places around the world.",
+    "reference": "这种思想上的转变已经导致了巨大的变化， 不仅改变了蒙特雷湾的命运 还影响了世界上的其他地方。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这种思维方式的转变不仅极大地改变了蒙特雷湾的命运，也改变了世界各地其他地方的命运。"
+  },
+  {
+    "index": 401,
+    "source": "Well, I want to leave you with the thought that, what we're really trying to do here is protect this ocean pyramid.",
+    "reference": "接下来，我希望让你们知道， 我们正在尝试去做的事情 是保护海洋金字塔食物链。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，我想留给你们一个想法，那就是，我们在这里真正努力要做的是保护这个海洋金字塔。"
+  },
+  {
+    "index": 402,
+    "source": "And that ocean pyramid connects to our own pyramid of life.",
+    "reference": "而海洋食物链 和我们的食物链紧密相连。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且那个海洋金字塔连接着我们自己的生命金字塔。"
+  },
+  {
+    "index": 403,
+    "source": "It's an ocean planet, and we think of ourselves terrestrial species.",
+    "reference": "这是个海洋星球， 虽然我们认为自己是陆地生物。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个海洋星球，而我们却认为自己是陆地物种。"
+  },
+  {
+    "index": 404,
+    "source": "But the pyramid of life in the ocean and our own lives on land are intricately connected.",
+    "reference": "但是海洋生物的食物链 和我们陆地生物 有着紧密的联系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是，海洋中的生命金字塔和我们在陆地上的生活是错综复杂地联系在一起的。"
+  },
+  {
+    "index": 405,
+    "source": "And it's only through having the ocean being healthy that we can remain healthy ourselves.",
+    "reference": "只有让海洋健康 我们才能确保自身的健康。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "只有保持海洋健康，我们自身才能保持健康。"
+  },
+  {
+    "index": 406,
+    "source": "Thank you very much.",
+    "reference": "十分感谢。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "非常感谢。"
+  },
+  {
+    "index": 407,
+    "source": "The beginning of any collaboration starts with a conversation.",
+    "reference": "Forrest North:任何合作的开始 都起源于一段交谈",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "任何合作的开始都始于一场对话。"
+  },
+  {
+    "index": 408,
+    "source": "And I would like to share with you some of the bits of the conversation that we started with.",
+    "reference": "而我非常愿意和你们一同分享 我们刚开始时的一些谈话",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我想和你们分享一下我们开始对话的一些片段。"
+  },
+  {
+    "index": 409,
+    "source": "I grew up in a log cabin in Washington state with too much time on my hands.",
+    "reference": "我是在华盛顿州的一个小木屋里长大的 拥有相当多的空闲时间",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我在华盛顿州的一个木屋里长大，有太多空闲时间。"
+  },
+  {
+    "index": 410,
+    "source": "And in scenic Switzerland for me.",
+    "reference": "Yves Behar:而我则是在风景秀丽的瑞士",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对我来说，风景如画的瑞士也不错。"
+  },
+  {
+    "index": 411,
+    "source": "I always had a passion for alternative vehicles.",
+    "reference": "Forrest North:一直以来我对清洁能源交通工具都充满了热情",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我一直对另类交通工具充满热情。"
+  },
+  {
+    "index": 412,
+    "source": "This is a land yacht racing across the desert in Nevada.",
+    "reference": "曾经有一次我驾驶陆地风帆穿越了内华达州的一个沙漠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一辆在内华达州沙漠中飞驰的陆地帆船。"
+  },
+  {
+    "index": 413,
+    "source": "Combination of windsurfing and skiing into this invention there.",
+    "reference": "YB：那结合了风帆和滑雪的技术",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将帆板运动和滑雪结合在一起的发明就在这里。"
+  },
+  {
+    "index": 414,
+    "source": "And I also had an interest in dangerous inventions.",
+    "reference": "FN：另外我还有一项非常危险的发明",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且我对危险的发明也很有兴趣。"
+  },
+  {
+    "index": 415,
+    "source": "This is a 100,000-volt Tesla coil that I built in my bedroom, much to the dismay of my mother.",
+    "reference": "这是一个十万伏特的泰斯拉变压器 是我在自己的卧室里搞出来的 对此，我老妈非常恼火",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个十万伏特的特斯拉线圈，是我在卧室里建造的，这让我母亲非常沮丧。"
+  },
+  {
+    "index": 416,
+    "source": "To the dismay of my mother, this is dangerous teenage fashion right there.",
+    "reference": "YB：要是我妈也会恼火 这确实是一个非常危险的年轻人的时尚",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "让我妈妈沮丧的是，那可是危险的青少年时尚。"
+  },
+  {
+    "index": 417,
+    "source": "And I brought this all together, this passion with alternative energy. And raced a solar car across Australia.",
+    "reference": "FN：我对清洁能源的热情终于落到了现实 我曾经开着一辆太阳能车横穿了澳大利亚",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我将所有这些，这种对替代能源的热情，结合在了一起，并且驾驶太阳能车横穿了澳大利亚。"
+  },
+  {
+    "index": 418,
+    "source": "Also the U.S. and Japan.",
+    "reference": "还有美国和日本",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "还有美国和日本。"
+  },
+  {
+    "index": 419,
+    "source": "So, wind power, solar power, we had a lot to talk about.",
+    "reference": "YB：风能，太阳能，我们谈论了很多话题",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，风力发电、太阳能发电，我们有很多要谈的。"
+  },
+  {
+    "index": 420,
+    "source": "We had a lot that got us excited.",
+    "reference": "太多让我们兴奋不已的话题",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有很多事情让我们感到兴奋。"
+  },
+  {
+    "index": 421,
+    "source": "So we decided to do a special project together.",
+    "reference": "于是，我们决定一起做一个独具一格的项目",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以我们决定一起做一个特别的项目。"
+  },
+  {
+    "index": 422,
+    "source": "To combine engineering and design and ...",
+    "reference": "把工程学、设计学等都结合起来",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "将工程和设计相结合，并..."
+  },
+  {
+    "index": 423,
+    "source": "Really make a fully integrated product, something beautiful.",
+    "reference": "真的做一个全智能的产品出来，一个牛X的东西",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "真正做出一个完全整合的产品，一件美丽的东西。"
+  },
+  {
+    "index": 424,
+    "source": "And we made a baby.",
+    "reference": "然后就有了这个宝贝",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们有了一个孩子。"
+  },
+  {
+    "index": 425,
+    "source": "Can you bring out our baby?",
+    "reference": "现在能请出我们的宝贝吗？",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你可以把我们的宝宝抱出来吗？"
+  },
+  {
+    "index": 426,
+    "source": "This baby is fully electric.",
+    "reference": "这位美女是全自动的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这款婴儿车是纯电动的。"
+  },
+  {
+    "index": 427,
+    "source": "It goes 150 miles an hour.",
+    "reference": "每小时能达到150英里的速度",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它每小时行驶150英里。"
+  },
+  {
+    "index": 428,
+    "source": "It's twice the range of any electric motorcycle.",
+    "reference": "是其他普通电动摩托车速度的两倍",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它是任何电动摩托车续航里程的两倍。"
+  },
+  {
+    "index": 429,
+    "source": "Really the exciting thing about a motorcycle is just the beautiful integration of engineering and design.",
+    "reference": "对于电动摩托车来说这确实是一个令人振奋的事情 正是工业设计的完美结合",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "摩托车真正令人兴奋之处，在于工程与设计的完美结合。"
+  },
+  {
+    "index": 430,
+    "source": "It's got an amazing user experience.",
+    "reference": "它有令人惊奇的用户体验",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它有令人惊叹的用户体验。"
+  },
+  {
+    "index": 431,
+    "source": "It was wonderful working with Yves Behar.",
+    "reference": "跟Yves Behar合作真是太棒了",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "和伊夫·贝阿尔合作非常愉快。"
+  },
+  {
+    "index": 432,
+    "source": "He came up with our name and logo. We're Mission Motors.",
+    "reference": "他想出来了我们的名字和logo，我们是Mission Motors(该品牌名）",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他想出了我们的名字和标志。我们是Mission Motors。"
+  },
+  {
+    "index": 433,
+    "source": "And we've only got three minutes.",
+    "reference": "尽管我们只有3分钟的时间",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们只有三分钟了。"
+  },
+  {
+    "index": 434,
+    "source": "But we could talk about it for hours.",
+    "reference": "但是我们能够谈论它好几个小时",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是我们可以为此聊上几个小时。"
+  },
+  {
+    "index": 435,
+    "source": "Thank you TED. And thank you Chris, for having us.",
+    "reference": "FN：谢谢TED，谢谢克里斯，邀请我们来到这里",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "谢谢TED。也谢谢克里斯，邀请我们来。"
+  },
+  {
+    "index": 436,
+    "source": "I grew up in Europe, and World War II caught me when I was between seven and 10 years old.",
+    "reference": "我在欧洲长大 那时正好是二战时期 我是7岁到10岁的光景",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我在欧洲长大，第二次世界大战爆发时，我大概七到十岁之间。"
+  },
+  {
+    "index": 437,
+    "source": "And I realized how few of the grown-ups that I knew were able to withstand the tragedies that the war visited on them -- how few of them could even resemble a normal, contented, satisfied, happy life once their job, their home, their security was destroyed by the war.",
+    "reference": "我体会到 身边的大人 没有几个能够经受得起战争带给他们的创伤 很少可以重建起一种正常的、舒心的 满意的、快乐的生活 因为他们的工作、家庭以及 安全都因为战争而失去",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我这才意识到，我认识的成年人中，能够承受战争带来的悲剧的人是多么的少——他们之中，一旦工作、家庭和安全被战争摧毁，能够拥有正常、满足、快乐的生活的人是多么的少。"
+  },
+  {
+    "index": 438,
+    "source": "So I became interested in understanding what contributed to a life that was worth living.",
+    "reference": "于是我开始对 什么元素的注入可以丰富人们的生活这一话题发生兴趣",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以我开始对理解什么能造就一个值得活的人生感兴趣。"
+  },
+  {
+    "index": 439,
+    "source": "And I tried, as a child, as a teenager, to read philosophy and to get involved in art and religion and many other ways that I could see as a possible answer to that question.",
+    "reference": "那是我还是孩子 不过也开始读哲学的书 并且尝试过艺术、宗教等各种我认为 可以为我解开谜团的途径",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，我还试过，小时候，十几岁的时候，去读哲学，去参与艺术、宗教以及其他许多我能想到的、可能解答那个问题的方式。"
+  },
+  {
+    "index": 440,
+    "source": "And finally I ended up encountering psychology by chance.",
+    "reference": "最终则是意外的与心理学结了缘",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "最终，我偶然地接触了心理学。"
+  },
+  {
+    "index": 441,
+    "source": "Actually I was at a ski resort in Switzerland without any money to actually enjoy myself, because the snow had melted and there was -- I didn't have money to go to a movie, but I found that on the -- I read in the newspapers that there was to be a presentation by someone in a place that I'd seen in the center of Zurich, and it was about flying saucers he was going to talk.",
+    "reference": "那次我去到了瑞士的一个滑雪胜地 身上分文都没有 我是去那玩的 那时雪已消融 我没钱去看电影 但是我从报纸上看到说 将会有一场演讲 地点是苏黎世市中心一个我去过的地方 他要讲的是飞碟",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "实际上，我当时在瑞士的一个滑雪胜地，但身无分文，无法真正享受，因为雪融化了。而且我没钱去看电影，但我发现——我在报纸上看到，在苏黎世市中心我见过的一个地方，有人要做一个演讲，是关于飞碟的，他要讲飞碟的事。"
+  },
+  {
+    "index": 442,
+    "source": "And I thought, well, since I can't go to the movies, at least I will go for free to listen to flying saucers.",
+    "reference": "我就想 既然不能去看电影 但至少可以去听一下这个讲飞碟的演讲吧",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后我想，好吧，既然我不能去看电影，至少我可以免费去听听飞碟的声音。"
+  },
+  {
+    "index": 443,
+    "source": "And the man who talked at that evening lecture was very interesting.",
+    "reference": "那晚上的演讲非常有趣",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，在那天晚上讲座上讲话的那个人非常有趣。"
+  },
+  {
+    "index": 444,
+    "source": "And it -- actually, instead of talking about little green men, he talked about how the psyche of the Europeans had been traumatized by the war and now they're projecting flying saucers into the sky, kind of as a -- he talked about how the mandalas of ancient Hindu religion were kind of projected into the sky as an attempt to regain some sense of order after the chaos of war.",
+    "reference": "他没有讲绿色皮肤的外星人 他讲到欧洲人的心灵如何因为 二战而受到了创伤 因而就以放飞碟来自娱 他还讲到古代印度的曼荼罗 也是在战后 被人扔到天空 以此来重新建立一种秩序",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且——实际上，他没有谈论小绿人，而是谈论了战争如何使欧洲人的精神遭受创伤，现在他们将飞碟投射到天空中，就像一种——他谈论了古印度教的曼陀罗是如何被投射到天空中，试图在战争的混乱之后重新获得某种秩序感。"
+  },
+  {
+    "index": 445,
+    "source": "And this seemed very interesting to me.",
+    "reference": "我对此很感兴趣",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且这对我来说似乎很有趣。"
+  },
+  {
+    "index": 446,
+    "source": "And I started reading his books after that lecture.",
+    "reference": "于是就开始读相关的书",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在那次讲座之后，我开始读他的书。"
+  },
+  {
+    "index": 447,
+    "source": "And that was Carl Jung, whose name or work I had no idea about.",
+    "reference": "那人的名字是荣格 而那时我还不知道这个名字",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那就是卡尔·荣格，对于他的名字或作品，我当时一无所知。"
+  },
+  {
+    "index": 448,
+    "source": "Then I came to this country to study psychology and I started trying to understand these roots of happiness.",
+    "reference": "后来就到了美国学习心理学 我开始探寻幸福之本源",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后我来到这个国家学习心理学，并且开始尝试理解这些幸福的根源。"
+  },
+  {
+    "index": 449,
+    "source": "This is a typical result that many people have presented, and there are many variations on it.",
+    "reference": "这是很多人都展示过的一个结果 有很多个版本",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个很多人都提出过的典型结果，并且有很多变体。"
+  },
+  {
+    "index": 450,
+    "source": "But this, for instance, shows that about 30 percent of the people surveyed in the United States since 1956 say that their life is very happy.",
+    "reference": "而这一个则显示 自1956年有调查记录以来 有30%的美国受访公民 说他们的生活非常快乐",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是，例如，这个数据表明自1956年以来，在美国接受调查的人中大约有30%的人表示他们的生活非常幸福。"
+  },
+  {
+    "index": 451,
+    "source": "And that hasn't changed at all.",
+    "reference": "这一点几乎没有变",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且这一点根本没有改变。"
+  },
+  {
+    "index": 452,
+    "source": "Whereas the personal income, on a scale that has been held constant to accommodate for inflation, has more than doubled, almost tripled, in that period.",
+    "reference": "但是同一时期的人均收入则增加了 两倍以上 接近三倍 这一统计已经是把通货膨胀算进去了",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "鉴于个人收入（以考虑到通货膨胀而保持不变的规模衡量）在那段时期内增加了一倍多，几乎达到了三倍。"
+  },
+  {
+    "index": 453,
+    "source": "But you find essentially the same results, namely, that after a certain basic point which corresponds more or less to just a few 1,000 dollars above the minimum poverty level, increases in material well-being don't seem to affect how happy people are.",
+    "reference": "可是 结果基本是一致的 就是说 到了温饱线之上1000美元之后的某个点 收入的增加不会影响人们的幸福值",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是你会发现基本相同的结果，也就是说，在超过某个基本点（这个基本点大致相当于略高于最低贫困线几千美元）之后，物质财富的增加似乎并不会影响人们的幸福感。"
+  },
+  {
+    "index": 454,
+    "source": "And, in fact, you can find that the lack of basic resources, material resources, contributes to unhappiness, but the increase in material resources do not increase happiness.",
+    "reference": "而基本生活物资之匮乏 则会导致不幸福 但持续的物质财富之增长并不会带来更大的幸福",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，事实上，你会发现基本资源和物质资源的匮乏会导致不快乐，但物质资源的增加并不会增加幸福感。"
+  },
+  {
+    "index": 455,
+    "source": "So my research has been focused more on -- after finding out these things that actually corresponded to my own experience, I tried to understand now, where in everyday life, in our normal experience, do we feel really happy.",
+    "reference": "所以 当我发现这些东西与我自身的经历相吻合时 我在后来的研究里 就开始询问 在正常的日常生活中 我们怎么才会感到幸福",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以我的研究更多地集中在——在发现这些与我自身经历相符的事情之后，我试图理解现在，在日常生活中，在我们的日常体验中，我们在哪里能感受到真正的快乐。"
+  },
+  {
+    "index": 456,
+    "source": "And to start that -- those studies about 40 years ago, I began to look at creative people -- first artists and scientists and so forth -- trying to understand what made them feel that it was worth essentially spending their life doing things for which many of them didn't expect either fame or fortune, but which made their life meaningful and worth doing.",
+    "reference": "研究刚开始的时候 我寻找那些有创意的人士 首先是艺术家、科学家 我尝试找到 是什么让他们感觉自己的一生是值得的 他们做的很多事情都不能带来荣誉和财富 但那样的事情使得他们的人生充满意义",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了开始那件事——那些大约40年前的研究，我开始关注有创造力的人——首先是艺术家和科学家等等——试图理解是什么让他们觉得，本质上花费一生去做一些事情是值得的，虽然他们中的许多人并不期望因此获得名声或财富，但这些事情让他们的生活变得有意义且值得去做。"
+  },
+  {
+    "index": 457,
+    "source": "This was one of the leading composers of American music back in the '70s.",
+    "reference": "这是1970年代美国最出色的一位作曲家",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是70年代美国音乐界的一位领先作曲家。"
+  },
+  {
+    "index": 458,
+    "source": "And the interview was 40 pages long.",
+    "reference": "我跟他的对话记录长达40页",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且那次面试有40页长。"
+  },
+  {
+    "index": 459,
+    "source": "But this little excerpt is a very good summary of what he was saying during the interview.",
+    "reference": "而这一段则是一个很好的总结 是对他的发言的总结",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是这段小节选很好地概括了他在采访中所说的内容。"
+  },
+  {
+    "index": 460,
+    "source": "And it describes how he feels when composing is going well.",
+    "reference": "它描绘出作曲家在写曲子时的感受",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "并且它描述了他在作曲顺利时的感受。"
+  },
+  {
+    "index": 461,
+    "source": "And he says by describing it as an ecstatic state.",
+    "reference": "他讲的时候也是一种狂喜的状态",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且他说，是通过把它描述为一种狂喜的状态来解释的。"
+  },
+  {
+    "index": 462,
+    "source": "Now ecstasy in Greek meant simply to stand to the side of something.",
+    "reference": "而狂喜一词在希腊语里的意思是 站在某个东西的边上",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，希腊语中的“ecstasy”仅仅意味着站在某物的旁边。"
+  },
+  {
+    "index": 463,
+    "source": "And then it became essentially an analogy for a mental state where you feel that you are not doing your ordinary everyday routines.",
+    "reference": "后来就成为一种心智状态的代名词 用来形容非正常的行为",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后它基本上变成了一种比喻，用来形容一种精神状态，在这种状态下你感觉自己没有在做日常的惯常的事情。"
+  },
+  {
+    "index": 464,
+    "source": "So ecstasy is essentially a stepping into an alternative reality.",
+    "reference": "换言之 狂喜就是一种超越寻常的感觉",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，摇头丸本质上是踏入一个另类现实。"
+  },
+  {
+    "index": 465,
+    "source": "And it's interesting, if you think about it, how, when we think about the civilizations that we look up to as having been pinnacles of human achievement -- whether it's China, Greece, Hindu civilization, or the Mayas, or Egyptians -- what we know about them is really about their ecstasies, not about their everyday life.",
+    "reference": "有趣的是 当我们想起 那些被公认为人类文明之巅峰的文明时 不管是在中国、希腊或者是印度 或玛雅、或埃及 我们所听说的 都是关于他们的狂喜的故事 而不是他们日常生活的琐事",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且很有意思，如果你仔细想想，当我们想到那些我们仰视的、代表人类成就巅峰的文明时——无论是中国、希腊、印度文明，还是玛雅文明、埃及文明——我们对它们的了解实际上是关于它们的辉煌时期，而不是关于它们的日常生活。"
+  },
+  {
+    "index": 466,
+    "source": "We know the temples they built so -- where people could come to experience a different reality.",
+    "reference": "我们知道他们建了大型的殿堂 人们可以去到那样的地方去感受不一样的现实",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们知道他们建造的那些庙宇，人们可以来到那里体验不同的现实。"
+  },
+  {
+    "index": 467,
+    "source": "We know about the circuses, the arenas, the theaters -- these are the remains of civilizations and they are the places that people went to experience life in a more concentrated, more ordered form.",
+    "reference": "还有马戏团的故事 斗兽场 戏院 这些都是文明之遗迹 也是当时的人们经常光顾的地方 他们去到那里去体验一种更加紧凑 更具节奏的生活",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们了解马戏团、竞技场、剧院——这些都是文明的遗迹，人们去这些地方是为了以更集中、更有序的形式体验生活。"
+  },
+  {
+    "index": 468,
+    "source": "Now, this man doesn't need to go to a place like this, which is also -- this place, this arena, which is built like a Greek amphitheatre, is a place for ecstasy also.",
+    "reference": "这个人不需要去到这样的地方 这里 这块地方 就像一个古希腊的斗兽场 也是一个狂欢之地",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，这个人不需要去像这样的地方，而且——这个地方，这个竞技场，它建得像一个希腊圆形剧场，也是一个令人狂喜的地方。"
+  },
+  {
+    "index": 469,
+    "source": "We are participating in a reality which is different from that of everyday life that we're used to.",
+    "reference": "我们参与进去 所体验到的 与日常生活完全不一样",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们正在参与一种与我们习惯的日常生活不同的现实。"
+  },
+  {
+    "index": 470,
+    "source": "But this man doesn't need to go to there.",
+    "reference": "但这并不意味着我们必须去到那样的地方",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是这个人不需要去那里。"
+  },
+  {
+    "index": 471,
+    "source": "He needs just a piece of paper where he can put down little marks, and as he does that, he can imagine sounds that had not existed before in that particular combination.",
+    "reference": "这位作曲家只需一张纸 就能够把整个乐曲写下来 与此同时 他在脑海里想象 一种从未有过的特殊的声音的组合",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他只需要一张纸，在上面做些小小的记号，然后当他这样做的时候，他就能想象出以前从未以那种特定组合存在过的声音。"
+  },
+  {
+    "index": 472,
+    "source": "So once he gets to that point of beginning to create -- like Jennifer did in her improvisation -- a new reality, that is a moment of ecstasy.",
+    "reference": "只要他开始真正要创作 就像刚才珍妮弗的即兴演奏 他就进入了一种新的现实 进入狂喜",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以一旦他达到开始创造的那个点——就像詹妮弗在她的即兴表演中做的那样——创造一个新的现实，那就是一个狂喜的时刻。"
+  },
+  {
+    "index": 473,
+    "source": "He enters that different reality.",
+    "reference": "那是不一样的现实",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他进入了那个不同的现实。"
+  },
+  {
+    "index": 474,
+    "source": "Now he says also that this is so intense an experience that it feels almost as if he didn't exist.",
+    "reference": "他说 那是一种非常紧凑的体验 他似乎也感觉不到自己的存在",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在他说，这种体验如此强烈，以至于他感觉自己好像不存在一样。"
+  },
+  {
+    "index": 475,
+    "source": "And that sounds like a kind of a romantic exaggeration.",
+    "reference": "这也许有点夸张",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "听起来像是一种浪漫的夸张。"
+  },
+  {
+    "index": 476,
+    "source": "But actually, our nervous system is incapable of processing more than about 110 bits of information per second.",
+    "reference": "但事实上我们的神经系统是无法 在一秒的时间里同时处理超过110比特的信息",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但事实上，我们的神经系统每秒钟只能处理大约110比特的信息。"
+  },
+  {
+    "index": 477,
+    "source": "And in order to hear me and understand what I'm saying, you need to process about 60 bits per second.",
+    "reference": "你在听我说话 并且尝试去理解其中的意思 这就相当于处理60比特的信息",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了能听清楚我并且理解我说的话，你需要处理大约每秒60比特的信息。"
+  },
+  {
+    "index": 478,
+    "source": "That's why you can't hear more than two people.",
+    "reference": "所以说 同时听到两个以上的人的会话是不可能的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这就是为什么你听不到超过两个人的声音。"
+  },
+  {
+    "index": 479,
+    "source": "You can't understand more than two people talking to you.",
+    "reference": "你不可能同时做到这一点",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你无法理解超过两个人同时对你说话。"
+  },
+  {
+    "index": 480,
+    "source": "Well, when you are really involved in this completely engaging process of creating something new, as this man does, he doesn't have enough attention left over to monitor how his body feels, or his problems at home.",
+    "reference": "假如你真的是全身心的投入此间 像这位作曲家那样去创造一种新的东西 就不可能再有精力 去感知他的身体在那一刻发生的变化",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "嗯，当一个人真正投入到这种完全投入的创造新事物的过程中时，就像这个人一样，他就没有足够的注意力来关注自己身体的感受，或者他家里的问题了。"
+  },
+  {
+    "index": 481,
+    "source": "He can't feel even that he's hungry or tired.",
+    "reference": "不知饥饿与劳累",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他甚至感觉不到饿或累。"
+  },
+  {
+    "index": 482,
+    "source": "His body disappears, his identity disappears from his consciousness, because he doesn't have enough attention, like none of us do, to really do well something that requires a lot of concentration and at the same time to feel that he exists.",
+    "reference": "似乎整个躯体都消失了 在他的意识里不再有自己的存在 他没有那么多精力 事实上我们某个人都不可能做得到 因为做那样的事情确实需要全副身心的投入 他就不可能感知自己的存在了",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他的身体消失，他的身份从他的意识中消失，因为他没有足够的注意力，就像我们所有人一样，无法真正做好需要高度集中，同时又能感觉到自己存在的事情。"
+  },
+  {
+    "index": 483,
+    "source": "So existence is temporarily suspended.",
+    "reference": "他的存在被暂时遗忘了",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以存在暂时中止了。"
+  },
+  {
+    "index": 484,
+    "source": "And he says that his hand seems to be moving by itself.",
+    "reference": "他自己也说 他的手似乎能够不由自主的活动",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且他说他的手好像自己在动。"
+  },
+  {
+    "index": 485,
+    "source": "Now, I could look at my hand for two weeks, and I wouldn't feel any awe or wonder, because I can't compose.",
+    "reference": "我也许对着自己的手看两个星期 也不能看出有什么不一样的地方 因为我不是作曲家",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，我可以盯着我的手看两个星期，但我不会感到任何敬畏或惊奇，因为我不会作曲。"
+  },
+  {
+    "index": 486,
+    "source": "So what is that telling you here, but in other parts of the interview is that obviously this automatic, spontaneous process that he's describing can only happen to someone who is very well-trained and who has developed technique.",
+    "reference": "这说明了什么？ 访谈当中还提到 这样一个自动的、自发的过程只有可能 发生在一个受过严格训练以及培养了良好的钢琴技艺的人身上",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那么，在这里，那告诉你的是什么呢？而在访谈的其他部分，显然，他所描述的这种自动的、自发的流程，只能发生在那些训练有素、并且已经掌握了技巧的人身上。"
+  },
+  {
+    "index": 487,
+    "source": "And it has become a kind of a truism in the study of creativity that you can't be creating anything with less than 10 years of technical knowledge immersion in a particular field.",
+    "reference": "在创造力研究这一领域 有一个接近真理的说法是 没有10年时间的积累 是不可能产生出这类的奇迹的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且在创造力研究领域，这已经成为一种老生常谈的说法：如果你没有在特定领域投入至少10年的技术知识积累，你就无法创造出任何东西。"
+  },
+  {
+    "index": 488,
+    "source": "Whether it's mathematics or music -- it takes that long to be able to begin to change something in a way that it's better than what was there before.",
+    "reference": "不管是数学、音乐 都需要这样漫长的时间 来达到这个境界 达到一种全新的升华",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "无论是数学还是音乐，都需要那么长的时间才能开始以一种比以前更好的方式去改变某些东西。"
+  },
+  {
+    "index": 489,
+    "source": "Now, when that happens, he says the music just flows out.",
+    "reference": "而这样的事情一旦发生 他就说 音乐仿佛是流出来了。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，当那种情况发生时，他说音乐就像流水一样涌出来。"
+  },
+  {
+    "index": 490,
+    "source": "And because all of these people I started interviewing -- this was an interview which is over 30 years old -- so many of the people described this as a spontaneous flow that I called this type of experience the \"flow experience.\"",
+    "reference": "而我所采访的这些人 这是一个30年前的会议记录 很多人将此称为“即兴的流动” 这是我给过程起的名字是",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且因为所有我开始采访的这些人——这是一次超过30年前的采访——这么多人将其描述为一种自发的流动，所以我将这种体验称为“心流体验”。"
+  },
+  {
+    "index": 491,
+    "source": "And it happens in different realms.",
+    "reference": "它正在不同的领域内发生",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它发生在不同的领域。"
+  },
+  {
+    "index": 492,
+    "source": "For instance, a poet describes it in this form.",
+    "reference": "比如 有位诗人如此写到",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，一位诗人以这种形式描述了它。"
+  },
+  {
+    "index": 493,
+    "source": "This is by a student of mine who interviewed some of the leading writers and poets in the United States.",
+    "reference": "这是我的一位学生 他采访了美国最杰出的作家、诗人",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是我的一位学生写的，他采访了美国一些顶尖的作家和诗人。"
+  },
+  {
+    "index": 494,
+    "source": "And it describes the same effortless, spontaneous feeling that you get when you enter into this ecstatic state.",
+    "reference": "同样也是一种狂喜的状态 在那种状态下 诗人们可以非常轻松的写出诗来",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它描述了当你进入这种狂喜状态时所获得的那种毫不费力、自然而然的感觉。"
+  },
+  {
+    "index": 495,
+    "source": "This poet describes it as opening a door that floats up in the sky -- very similar description to what Albert Einstein gave as to how he imagined the forces of relativity when he was struggling with trying to understand how it worked.",
+    "reference": "这位诗人则说 那就有如打开了通往天际之窗 这个跟爱因斯坦所说的 关于相对论的设想非常相像 那时的爱因斯坦也是在苦苦的思考为何那样的事情会发生",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这位诗人将其描述为打开一扇漂浮在天空中的门——这与阿尔伯特·爱因斯坦在努力理解相对论时，想象引力和相关力的方式非常相似。"
+  },
+  {
+    "index": 496,
+    "source": "But it happens in other activities.",
+    "reference": "在其他的领域也会发生这样的事情",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但这种情况也发生在其他活动中。"
+  },
+  {
+    "index": 497,
+    "source": "For instance, this is another student of mine, Susan Jackson from Australia, who did work with some of the leading athletes in the world.",
+    "reference": "这是我的另一位学生 她叫苏珊·杰克逊，来自澳洲 她采访了世界上顶尖的运动健将",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "例如，这是我的另一位学生，来自澳大利亚的苏珊·杰克逊，她曾与世界上一些顶尖运动员合作过。"
+  },
+  {
+    "index": 498,
+    "source": "And you see here in this description of an Olympic skater, the same essential description of the phenomenology of the inner state of the person.",
+    "reference": "这是关于一位奥林匹克滑冰运动员的的介绍 也是同样的一段现象学的描述 描绘的是一个人的内心活动",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且你在这里，在这段对一位奥运滑冰运动员的描述中，看到了对这个人内在状态的现象学的相同本质描述。"
+  },
+  {
+    "index": 499,
+    "source": "You don't think it goes automatically if you merge yourself with the music, and so forth.",
+    "reference": "你也许会认为那样的事情要自然的发生是不可能的 但只要当你将自己与音乐融为一体之时 就发现那是可能的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你并不认为如果你把自己融入音乐等等，事情就会自动发生。"
+  },
+  {
+    "index": 500,
+    "source": "It happens also, actually, in the most recent book I wrote, called \"Good Business,\" where I interviewed some of the CEOs who had been nominated by their peers as being both very successful and very ethical, very socially responsible.",
+    "reference": "我最近写了一本书，里面也提到这样的例子 书名是《优良商业》 我采访了一些公司的总裁 同行们都认为那些人是非常成功的 并且他们做企业非常讲道德、有社会责任",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "实际上，这件事也发生在我最近写的一本书里，书名叫《好生意》。在那本书里，我采访了一些被同行提名为非常成功、非常道德、非常有社会责任感的CEO。"
+  },
+  {
+    "index": 501,
+    "source": "You see that these people define success as something that helps others and at the same time makes you feel happy as you are working at it.",
+    "reference": "他们关于成功的定义是这样的 既帮助他人的同时 使自己乐在其中",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你看，这些人将成功定义为既能帮助他人，又能让你在工作时感到快乐的事情。"
+  },
+  {
+    "index": 502,
+    "source": "And like all of these successful and responsible CEOs say, you can't have just one of these things to be successful.",
+    "reference": "这些成功并且富有社会责任的总裁也说到 单单有其中一样是不足以令你成功的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "就像所有这些成功的、负责任的首席执行官所说的那样，你不能只拥有这些特质中的一种就能成功。"
+  },
+  {
+    "index": 503,
+    "source": "If you want a meaningful job and successful job -- Anita Roddick is another one of these CEOs we interviewed.",
+    "reference": "假如你要的是有意义的工作、成功的工作 安妮塔·罗迪克是其中一位受访的总裁",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你想要一份有意义且成功的工作——安妮塔·罗迪克是我们采访过的另一位CEO。"
+  },
+  {
+    "index": 504,
+    "source": "She is the founder of Body Shop, the cosmetic, kind of natural cosmetic king.",
+    "reference": "她创建了Body Shop，那是一个化妆品企业 她自己则成为了天然化妆品之母",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "她是美体小铺的创始人，美体小铺是一家化妆品公司，某种程度上也可以说是天然化妆品界的翘楚。"
+  },
+  {
+    "index": 505,
+    "source": "It's kind of a passion that comes from doing the best and having flow while you're working.",
+    "reference": "这正是一种热情 它源自一个人对最高价值的追求 并且在工作中体会到一种“流动”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一种源于追求卓越和工作时心流体验的热情。"
+  },
+  {
+    "index": 506,
+    "source": "This is an interesting little quote from Masaru Ibuka, who was, at that time, starting out Sony without any money, without a product -- they didn't have a product, they didn't have anything, but they had an idea.",
+    "reference": "这是井深大说过的一句话 他那时手无分文，却创建了索尼 他们那时甚至连产品也拿不出来 可谓一无所有 但是他们有一个理念",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一句有趣的小引言，出自井深大，当时他正在一无所有、没有产品的情况下创立索尼——他们没有产品，什么都没有，但他们有一个想法。"
+  },
+  {
+    "index": 507,
+    "source": "And the idea he had was to establish a place of work where engineers can feel the joy of technological innovation, be aware of their mission to society and work to their heart's content.",
+    "reference": "即他要创建一个工作环境 使得工程师可以体验到技术创新带来的快乐 同时也意识到自身对于社会的使命 以最大的热情工作 直到自己内心满意为止",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而他的想法是建立一个工作场所，让工程师们能够感受到技术创新的喜悦，意识到他们对社会的使命，并能尽情地工作。"
+  },
+  {
+    "index": 508,
+    "source": "I couldn't improve on this as a good example of how flow enters the workplace.",
+    "reference": "再也没有比这个更好的例子了 “流动”就是这样走进公司的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我找不到比这更好的例子来展示心流如何进入工作场所了。"
+  },
+  {
+    "index": 509,
+    "source": "Now, when we do studies, we have, with other colleagues around the world, done over 8,000 interviews of people -- from Dominican monks, to blind nuns, to Himalayan climbers, to Navajo shepherds -- who enjoy their work.",
+    "reference": "而我们在做研究的时候 我们与世界其他地区的研究员一起 访问了8000人，他们有的是多米尼加的和尚 失明的尼姑、喜马拉雅山攀登者、納瓦霍牧羊人 他们都喜欢自己的工作",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，当我们进行研究时，我们和世界各地的其他同事一起，已经对超过8000人进行了访谈，这些人包括多米尼加修道士、盲人修女、喜马拉雅登山者和纳瓦霍牧羊人，他们都热爱自己的工作。"
+  },
+  {
+    "index": 510,
+    "source": "And regardless of the culture, regardless of education or whatever, there are these seven conditions that seem to be there when a person is in flow.",
+    "reference": "不管他们身处什么地方 不管他们的教育背景如何 只要存在以下的七个条件 我们就能感受到“流动”的存在",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且无论文化背景如何，无论教育程度如何，或者无论其他什么情况，当一个人处于心流状态时，似乎都存在这七种条件。"
+  },
+  {
+    "index": 511,
+    "source": "There's this focus that once it becomes intense, leads to a sense of ecstasy, a sense of clarity, you know exactly what you want to do from one moment to the other, you get immediate feedback.",
+    "reference": "首先是精神的集中 集中到一定程度 就会走向狂喜 清醒 可以很清楚的知道自己下一刻该做什么 因为你能够得到即时的反馈",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "有一种专注，一旦变得强烈，就会带来一种狂喜感，一种清晰感，你会清楚地知道自己下一刻要做什么，并且能立即获得反馈。"
+  },
+  {
+    "index": 512,
+    "source": "You know that what you need to do is possible to do, even though difficult, and sense of time disappears, you forget yourself, you feel part of something larger.",
+    "reference": "你知道自己将要做的 是可以做的 尽管会遇到不少困难 时间感也消失了 你甚至忘却了自我 似乎能感到自己属于某个更大的整体",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你知道你需要做的事情是可能做到的，即使它很困难，时间感也会消失，你会忘记自己，感觉自己是更大事物的一部分。"
+  },
+  {
+    "index": 513,
+    "source": "And once those conditions are present, what you are doing becomes worth doing for its own sake.",
+    "reference": "而一旦有了那样的征兆 你做的事情本身也会变得有意义",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "一旦这些条件具备，你所做的事情本身就变得值得做了。"
+  },
+  {
+    "index": 514,
+    "source": "In our studies, we represent the everyday life of people in this simple scheme.",
+    "reference": "我们的研究得出的结果是 人们的日常行为可以分为以下几大类",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "在我们的研究中，我们用这个简单的方案来呈现人们的日常生活。"
+  },
+  {
+    "index": 515,
+    "source": "And we can measure this very precisely, actually, because we give people electronic pagers that go off 10 times a day, and whenever they go off you say what you're doing, how you feel, where you are, what you're thinking about.",
+    "reference": "我们可以非常准确的去测量 我们会给参与测试的人发电子纸 那样的纸每天会发出十次叫声 它一叫 你就马上说自己正在干什么 你在哪里 你正在想的是什么",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且实际上我们可以非常精确地测量这一点，因为我们给人们电子寻呼机，寻呼机每天会响10次，每次响的时候你都要说你在做什么，你的感觉如何，你在哪里，你在想什么。"
+  },
+  {
+    "index": 516,
+    "source": "And two things that we measure is the amount of challenge people experience at that moment and the amount of skills that they feel they have at that moment.",
+    "reference": "我们测量的，一是人们在某一刻所面临的挑战的难度 另一个是那一刻人们的技能熟练程度 靠的是参与者自己说明",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们衡量的两件事是人们在那一刻感受到的挑战程度和他们在那一刻觉得自己拥有的技能水平。"
+  },
+  {
+    "index": 517,
+    "source": "So for each person we can establish an average, which is the center of the diagram.",
+    "reference": "对于每一位参与者 我们都能找到一个中间线 即图表中的中线",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "因此，对于每个人，我们可以建立一个平均值，这个平均值是图表的中心。"
+  },
+  {
+    "index": 518,
+    "source": "That would be your mean level of challenge and skill, which will be different from that of anybody else.",
+    "reference": "那是平均挑战难度以及技能熟练程度 这个会与其他人的不一样",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "那将会是你平均水平的挑战和技能，这会与任何其他人不同。"
+  },
+  {
+    "index": 519,
+    "source": "But you have a kind of a set point there which would be in the middle.",
+    "reference": "同样 在中间的地方会有一个固定的点",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但是你在那里有一个类似设定点的东西，它应该在中间。"
+  },
+  {
+    "index": 520,
+    "source": "If we know what that set point is, we can predict fairly accurately when you will be in flow, and it will be when your challenges are higher than average and skills are higher than average.",
+    "reference": "假如我们能够知道这个固定的点在哪里 我们就能大致预测出你何时会走进“流动”的状态 那就是挑战大于平均值 技能熟练程度也大于平均值的时候",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果我们知道那个设定点是什么，我们就可以相当准确地预测你何时会进入心流状态，那会是在你的挑战高于平均水平且技能也高于平均水平的时候。"
+  },
+  {
+    "index": 521,
+    "source": "And you may be doing things very differently from other people, but for everyone that flow channel, that area there, will be when you are doing what you really like to do -- play the piano, probably, be with your best friend, perhaps work, if work is what provides flow for you.",
+    "reference": "你做的事情也许和其他人做的很不一样 但是，对于每一个人，流动的出现 通常都是在你做自己真正热爱的事情的时候才出现 比如弹钢琴、跟好友在一起、甚或是工作 假如你可以在工作中感受到“流动”的话",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且你做事情的方式可能和其他人非常不同，但对于每个人来说，那个心流的通道，那个区域，都将是你做真正喜欢做的事情的时候——可能是弹钢琴，和最好的朋友在一起，或者甚至是工作，如果工作能为你提供心流的话。"
+  },
+  {
+    "index": 522,
+    "source": "And then the other areas become less and less positive.",
+    "reference": "而其他的区域则变得相对更加消极",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后其他领域变得越来越不积极。"
+  },
+  {
+    "index": 523,
+    "source": "Arousal is still good because you are over-challenged there.",
+    "reference": "觉醒还是好的，因为你在那一点上还是有较大的挑战",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "尽管你在那里面临过度挑战，但保持兴奋仍然是好的。"
+  },
+  {
+    "index": 524,
+    "source": "Your skills are not quite as high as they should be, but you can move into flow fairly easily by just developing a little more skill.",
+    "reference": "尽管你的技能熟悉程度不是很高 但是可以很容易的进入“流动” 只要增强一下技能就行了",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你的技能水平还没有达到应有的程度，但只要稍微提高一点技能，你就能很容易地进入心流状态。"
+  },
+  {
+    "index": 525,
+    "source": "So, arousal is the area where most people learn from, because that's where they're pushed beyond their comfort zone and that to enter -- going back to flow -- then they develop higher skills.",
+    "reference": "觉醒是大多数人学习的地方 他们在那样的区域就被迫走出舒适圈 而后走进流动 学会更高级的技能",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以，唤醒（或兴奋）是大多数人从中学习的领域，因为在那里他们会被推离舒适区，而且为了进入——回到心流状态——他们会发展出更高的技能。"
+  },
+  {
+    "index": 526,
+    "source": "Control is also a good place to be, because there you feel comfortable, but not very excited.",
+    "reference": "“控制”也是一个不错的地方 因为你能感到舒服 虽然不是很激动",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "掌控局面也是个不错的状态，因为在那儿你会感到舒适，但不会太兴奋。"
+  },
+  {
+    "index": 527,
+    "source": "It's not very challenging any more.",
+    "reference": "挑战也不是很强烈",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在已经没什么挑战性了。"
+  },
+  {
+    "index": 528,
+    "source": "And if you want to enter flow from control, you have to increase the challenges.",
+    "reference": "假如要从那里走进“流动” 就要增强挑战的程度",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且如果你想从控制状态进入心流状态，你必须提高挑战难度。"
+  },
+  {
+    "index": 529,
+    "source": "So those two are ideal and complementary areas from which flow is easy to go into.",
+    "reference": "这两者是理想化的、相互补充的区域 从这些地方可以很容易的进入“流动”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以这两个是理想且互补的领域，很容易从中进入流动状态。"
+  },
+  {
+    "index": 530,
+    "source": "The other combinations of challenge and skill become progressively less optimal.",
+    "reference": "而挑战与技能的其他搭配，则会显得越来越消极。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "挑战和技能的其他组合逐渐变得不太理想。"
+  },
+  {
+    "index": 531,
+    "source": "Relaxation is fine -- you still feel OK.",
+    "reference": "休息是好的，因为你还能感到舒适。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "放松一下挺好 -- 你仍然感觉不错。"
+  },
+  {
+    "index": 532,
+    "source": "Boredom begins to be very aversive and apathy becomes very negative -- you don't feel that you're doing anything, you don't use your skills, there's no challenge.",
+    "reference": "但厌倦就会产生反作用了 而冷漠则会带来非常消极的后果 因为你觉得自己根本就没有干出什么实际的事情 你没有在使用好你的技能 也没有什么挑战",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "无聊开始变得非常令人厌恶，而冷漠变得非常消极——你感觉自己什么也没做，没有运用你的技能，也没有任何挑战。"
+  },
+  {
+    "index": 533,
+    "source": "Unfortunately, a lot of people's experience is in apathy.",
+    "reference": "遗憾的是，很多人所经历的，大多是冷漠。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不幸的是，很多人的经历都是在冷漠之中。"
+  },
+  {
+    "index": 534,
+    "source": "The largest single contributor to that experience is watching television, the next one is being in the bathroom, sitting.",
+    "reference": "而导致这种情绪的元凶，就是看电视，其次则是蹲茅厕。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "对那种体验贡献最大的单一因素是看电视，其次是待在浴室里坐着。"
+  },
+  {
+    "index": 535,
+    "source": "And then, even though sometimes watching television about seven to eight percent of the time is in flow, but that's when you choose a program you really want to watch and you get feedback from it.",
+    "reference": "虽然有时候看电视，也有7%-8%的时间是处于“流动”，但那是在你挑选了一个你真正喜欢的频道的时候，你能够得到即时的反馈。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "然后，即使有时候看电视大约有百分之七到八的时间是心流状态，但那是当你选择了一个你真正想看的节目，并且能从中获得反馈的时候。"
+  },
+  {
+    "index": 536,
+    "source": "So the question we are trying to address -- and I'm way over time -- is how to put more and more of everyday life in that flow channel.",
+    "reference": "因此，我们要问的问题是，如何使得我们的生活更多的处于“流动”的状态。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "所以我们试图解决的问题——而且我已经严重超时了——是如何将越来越多的日常生活融入到这个流动渠道中。"
+  },
+  {
+    "index": 537,
+    "source": "And that is the kind of challenge that we're trying to understand.",
+    "reference": "我们正在慢慢的解开其中的秘密。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这正是我们试图理解的那种挑战。"
+  },
+  {
+    "index": 538,
+    "source": "And some of you obviously know how to do that spontaneously without any advice, but unfortunately a lot of people don't.",
+    "reference": "你们当中有人懂得如何去做，哪怕我不给你任何提示，可惜大多数人都不会。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你们有些人显然知道如何在没有任何建议的情况下自发地做到这一点，但不幸的是，很多人并不知道。"
+  },
+  {
+    "index": 539,
+    "source": "And that's what our mandate is in a way to do. OK.",
+    "reference": "而我们的任务之一，就是帮助那些人寻找到做事情的方法。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这实际上就是我们任务的某种体现。好。"
+  },
+  {
+    "index": 540,
+    "source": "I want to help you re-perceive what philanthropy is, what it could be, and what your relationship to it is.",
+    "reference": "我希望可以帮助大家重新理解什么是慈善，以及慈善可以怎么做，还有是你们可以跟 慈善发生什么关系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我想帮助你重新认识慈善是什么，它可以是什么，以及你与慈善的关系是什么。"
+  },
+  {
+    "index": 541,
+    "source": "And in doing that, I want to offer you a vision, an imagined future, if you will, of how, as the poet Seamus Heaney has put it, \"Once in a lifetime the longed-for tidal wave of justice can rise up, and hope and history rhyme.\"",
+    "reference": "为了达到那样的目的，我希望可以给大家带来一个视界，一个想象中的未来，就如诗人Seamus Heaney所说的 “人生中总会有那么一次 人们期待已久的正义的浪潮会卷起， 希望与历史也与之呼应。”",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而在这样做的时候，我想向你们提供一种愿景，一个想象中的未来，如果你愿意这么称呼它的话，正如诗人谢默斯·希尼所说的那样，“一生中只有一次，渴望已久的公正浪潮可以涌起，希望和历史押韵。”"
+  },
+  {
+    "index": 542,
+    "source": "I want to start with these word pairs here.",
+    "reference": "我想先是由这些词语的配对开始",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我想从这里的这些词对开始。"
+  },
+  {
+    "index": 543,
+    "source": "We all know which side of these we'd like to be on.",
+    "reference": "我希望大家可以知道我们到底是站在那一边",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我们都知道我们想站在哪一边。"
+  },
+  {
+    "index": 544,
+    "source": "When philanthropy was reinvented a century ago, when the foundation form was actually invented, they didn't think of themsevles on the wrong side of these either.",
+    "reference": "一百年前，当人们重新发明慈善的时候 基金会的形式被发明出来了 那时候的人们也不会想到他们是站在了错误的一边。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "当一个世纪前慈善事业被重新定义，当基金会的形式被真正创造出来的时候，他们并没有认为自己站在这些事情的错误一边。"
+  },
+  {
+    "index": 545,
+    "source": "In fact they would never have thought of themselves as closed and set in their ways, as slow to respond to new challenges, as small and risk-averse.",
+    "reference": "事实上，他们根本也不会想到 那时候的慈善做法是非常封闭、保守 反应迟钝 规模小、并且常常规避风险的",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "事实上，他们从来不会认为自己是封闭守旧、墨守成规、对新挑战反应迟缓、以及小格局和厌恶风险的。"
+  },
+  {
+    "index": 546,
+    "source": "And in fact they weren't. They were reinventing charity in those times.",
+    "reference": "但事实上那不是。在那个时代，我们的前辈事实上是在重新发明慈善。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "事实上，他们并没有（那样做）。那时，他们正在重新塑造慈善事业。"
+  },
+  {
+    "index": 547,
+    "source": "What Rockefeller called \"The business of benevolence.\"",
+    "reference": "洛克菲勒称之为“仁慈的事业”。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "洛克菲勒称之为“慈善事业”。"
+  },
+  {
+    "index": 548,
+    "source": "But by the end of the twentieth century, a new generation of critics and reformers had come to see philanthropy just this way.",
+    "reference": "到了20世纪的末期，新一代的批评家以及改革家，就是以这样的方式来看待慈善的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但到了二十世纪末，新一代的评论家和改革者开始以这种方式看待慈善事业。"
+  },
+  {
+    "index": 549,
+    "source": "The thing to watch for as a global philanthropy industry comes about, and that's exactly what is happening, is how the aspiration is to flip these old assumptions.",
+    "reference": "而当一个全球性的慈善事业，发展起来之后，——这恰恰是正在发生的事情，——我们需要的是重新评估老的法则，甚至是颠覆以往对慈善的假定。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "随着全球慈善行业的兴起，而这正是正在发生的事情，需要关注的是，其愿望是如何颠覆这些旧的假设的。"
+  },
+  {
+    "index": 550,
+    "source": "For philanthropy to become open and big and fast and connected, in service of the long term.",
+    "reference": "要使得慈善成为一个可以长期延续的、开放的 迅速发展、相互关联的体系。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "为了慈善事业变得开放、规模宏大、快速且互联互通，并服务于长期目标。"
+  },
+  {
+    "index": 551,
+    "source": "This entrepreneurial energy is emerging from many quarters.",
+    "reference": "这样一种创业的精神，现在正是从各个方面展现出来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这种创业活力正在从多个方面涌现出来。"
+  },
+  {
+    "index": 552,
+    "source": "And it's driven and propelled forward by new leaders, like many of the people here, by new tools, like the ones we've seen here, by new pressures.",
+    "reference": "很多新的领袖，像这里的很多人正在推进促使它的发展 新的工具，比如我们在这里所看到的这些 新的压力也同样起着推进作用",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它是由新的领导者推动和前进的，就像这里的许多人一样，由新的工具推动，就像我们在这里看到的一样，由新的压力推动。"
+  },
+  {
+    "index": 553,
+    "source": "I've been following this change for quite a while now, and participating in it.",
+    "reference": "我很久以前就在跟踪这一动态，并且参与其中。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我关注这个变化已经有一段时间了，并且参与其中。"
+  },
+  {
+    "index": 554,
+    "source": "This report is our main public report.",
+    "reference": "这是我们制作的最主要的公开报告",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这份报告是我们的主要公共报告。"
+  },
+  {
+    "index": 555,
+    "source": "What it tells is the story of how today actually could be as historic as 100 years ago.",
+    "reference": "它所讲述的就是 为何今天会成为跟100年前同样有历史意义 的故事。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它讲述的是今天实际上如何能像100年前一样具有历史意义的故事。"
+  },
+  {
+    "index": 556,
+    "source": "What I want to do is share some of the coolest things that are going on with you.",
+    "reference": "我希望可以与大家分享一些最有趣的故事 这些故事也许就发生在你们的身上",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我想做的是和你们分享一些正在发生的、最酷的事情。"
+  },
+  {
+    "index": 557,
+    "source": "And as I do that, I'm not going to dwell much on the very large philanthropy that everybody already knows about, the Gates and the Soros and the Google.",
+    "reference": "需要指出的是，我不打算谈大的慈善 这里很多人都已经讲过了 那也是盖茨、索罗斯和Google在做的事情",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且，当我这样做的时候，我不会过多地谈论大家都已经知道的那些非常庞大的慈善机构，比如盖茨基金会、索罗斯基金会和谷歌。"
+  },
+  {
+    "index": 558,
+    "source": "Instead, what I want to do is talk about the philanthropy of all of us.",
+    "reference": "我今天想说的，是我们所有人的 慈善",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "相反，我真正想做的是谈谈我们所有人的慈善事业。"
+  },
+  {
+    "index": 559,
+    "source": "The democratization of philanthropy.",
+    "reference": "或曰慈善的民主化。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "慈善事业的民主化"
+  },
+  {
+    "index": 560,
+    "source": "This is a moment in history when the average person has more power than at any time.",
+    "reference": "这也是普通人 也能比历史上的人拥有更多力量的时代",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这是一个历史上普通人拥有比以往任何时候都更大权力的时刻。"
+  },
+  {
+    "index": 561,
+    "source": "What I'm going to do is look at five categories of experiments, each of which challenges an old assumption of philanthropy.",
+    "reference": "我想给大家看看五个方面的实验 他们每一个都挑战着我们对于慈善的传统看法",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "我接下来要做的是审视五类实验，每一类都挑战了慈善事业的一个旧有假设。"
+  },
+  {
+    "index": 562,
+    "source": "The first is mass collaboration, represented here by Wikipedia.",
+    "reference": "首先是大规模协作，其代表就是维基百科",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第一个是大众协作，在这里以维基百科为例。"
+  },
+  {
+    "index": 563,
+    "source": "Now, this may surprise you.",
+    "reference": "这也许真的会让你感到吃惊",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，这可能会让你感到惊讶。"
+  },
+  {
+    "index": 564,
+    "source": "But remember, philanthropy is about giving of time and talent, not just money.",
+    "reference": "但你必须记住，慈善本来就是一种付出时间与精力的行为，而不是金钱",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但请记住，慈善不仅仅是捐钱，而是付出时间和才能。"
+  },
+  {
+    "index": 565,
+    "source": "Clay Shirky, that great chronicler of everything networked, has captured the assumption that this challenges in such a beautiful way.",
+    "reference": "Clay Shirky这位著名的网络记录者， 就非常漂亮的记录了时代变化所带来的新契机 写得非常好",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "克莱·舍基，这位对所有网络事物进行伟大编年的作家，以一种非常美妙的方式捕捉到了这种假设所带来的挑战。"
+  },
+  {
+    "index": 566,
+    "source": "He said, \"We have lived in this world where little things are done for love and big things for money.",
+    "reference": "他说，我们生活的这个世界 人们为了爱去做小事 为赚钱去做大事",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "他说：“我们生活在这个世界上，小事靠爱，大事靠钱。”"
+  },
+  {
+    "index": 567,
+    "source": "Now we have Wikipedia.",
+    "reference": "而现在，我们有维基百科",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在我们有了维基百科。"
+  },
+  {
+    "index": 568,
+    "source": "Suddenly big things can be done for love.\"",
+    "reference": "突然，我们也可以因为喜爱而成就大事",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "突然之间，为了爱可以成就大事。"
+  },
+  {
+    "index": 569,
+    "source": "Watch, this spring, for Paul Hawken's new book.",
+    "reference": "今年春天，保罗·霍肯出了一本新书",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "今年春天留意保罗·霍肯的新书。"
+  },
+  {
+    "index": 570,
+    "source": "Author and entrepreneur many of you may know about.",
+    "reference": "——相信你们很多人都认识这位作家和企业家",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "你们中的很多人可能认识这位作家和企业家。"
+  },
+  {
+    "index": 571,
+    "source": "The book is called \"Blessed Unrest.\"",
+    "reference": "那本书的书名是《看不见的力量》",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这本书的名字叫做《受祝福的不安》。"
+  },
+  {
+    "index": 572,
+    "source": "And when it comes out, a series of wiki sites under the label WISER, are going to launch at the same time.",
+    "reference": "书推出的时候，也推出了系列的基于维基的网站 并且都带有WISER这个标志",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且当它发布的时候，一系列以WISER为标签的维基网站将会同时上线。"
+  },
+  {
+    "index": 573,
+    "source": "WISER stands for World Index for Social and Environmental Responsibility.",
+    "reference": "WISER的意思是 全球社会与环境责任索引",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "WISER代表世界社会与环境责任指数。"
+  },
+  {
+    "index": 574,
+    "source": "WISER sets out to document, link and empower what Paul calls the largest movement and fastest growing movement in human history.",
+    "reference": "它的使命是记录这一保罗所称的人类历史上最规模大 发展最为迅速的运动 连结他们，为他们带来更大的力量",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "WISER旨在记录、连接和赋能保罗所称的人类历史上最大规模和增长最快的运动。"
+  },
+  {
+    "index": 575,
+    "source": "Humanity's collective immune response to today's threats.",
+    "reference": "整个人类作为一个有机体 在协力迎对今天的挑战",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "人类面对当今威胁的集体免疫反应"
+  },
+  {
+    "index": 576,
+    "source": "Now, all of these big things for love experiments aren't going to take off.",
+    "reference": "当然，并非上述所讲的这些大的追求 都会轻易成功。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，所有这些关于爱情实验的大项目都不会成功。"
+  },
+  {
+    "index": 577,
+    "source": "But the ones that do are going to be the biggest, the most open, the fastest, the most connected form of philanthropy in human history.",
+    "reference": "但是，那些最终走向成功的项目 必将成为人类历史上规模最大、最为开放 发展最为迅速以及联系最为广泛 的慈善行动",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但那些这样做的将会是人类历史上规模最大、最开放、最迅速、联系最紧密的慈善形式。"
+  },
+  {
+    "index": 578,
+    "source": "Second category is online philanthropy marketplaces.",
+    "reference": "第二类是在线的慈善行动",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第二类是线上慈善市场。"
+  },
+  {
+    "index": 579,
+    "source": "This is, of course, to philanthropy what eBay and Amazon are to commerce.",
+    "reference": "这就如慈善领域的 eBay以及Amazon",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这当然就像 eBay 和亚马逊之于商业，对于慈善事业也是如此。"
+  },
+  {
+    "index": 580,
+    "source": "Think of it as peer-to-peer philanthropy.",
+    "reference": "或者你可以将其看作是点对点的慈善",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "把它想象成点对点的慈善行为。"
+  },
+  {
+    "index": 581,
+    "source": "And this challenges yet another assumption, which is that organized philanthropy is only for the very wealthy.",
+    "reference": "这又挑战了我们 的另外一个设想 即慈善仅仅是富人才干得起的事情",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而这又挑战了另一个假设，即有组织的慈善活动只属于非常富有的人。"
+  },
+  {
+    "index": 582,
+    "source": "Take a look, if you haven't, at DonorsChoose.",
+    "reference": "假如你还不知道，请看看 DonorsChoose 这个网站吧",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "如果你还没看过，不妨看看DonorsChoose网站。"
+  },
+  {
+    "index": 583,
+    "source": "Omidyar Network has made a big investment in DonorsChoose.",
+    "reference": "Omidyar Network为这个慈善网站投入了大量的钱。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "奥米迪亚网络公司对DonorsChoose进行了大笔投资。"
+  },
+  {
+    "index": 584,
+    "source": "It's one of the best known of these new marketplaces where a donor can go straight into a classroom and connect with what a teacher says they need.",
+    "reference": "它是最为知名的一个慈善网站之一，你可以直接通过网站与某个学校的老师取得联系 然后帮助那位老师解决他的所需",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "它是这些新兴市场中最知名的市场之一，捐助者可以直接进入教室，并了解老师们提出的需求。"
+  },
+  {
+    "index": 585,
+    "source": "Take a look at Changing the Present, started by a TEDster, next time you need a wedding present or a holiday present.",
+    "reference": "下一次你需要婚礼礼品或节日礼品的时候，不妨去看看Changing the Present这个网站吧。它是由一位TED参加者发起的。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "下次你需要婚礼礼物或节日礼物时，不妨看看由一位TED演讲者发起的“改变现状”项目。"
+  },
+  {
+    "index": 586,
+    "source": "And it goes on and on.",
+    "reference": "以及其他很多很多。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "而且它一直持续下去。"
+  },
+  {
+    "index": 587,
+    "source": "The third category is represented by Warren Buffet, which I call aggregated giving.",
+    "reference": "第三类是由巴菲特所代表的汇集性捐助。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "第三类以沃伦·巴菲特为代表，我称之为聚合捐赠。"
+  },
+  {
+    "index": 588,
+    "source": "It's not just that Warren Buffet was so amazingly generous in that historic act last summer.",
+    "reference": "这里要看到的是，不仅仅巴菲特非常慷慨，特别是当你看到他把大部分财产捐给盖茨基金会的时候",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "不仅仅是沃伦·巴菲特去年夏天在那次历史性事件中表现得如此慷慨。"
+  },
+  {
+    "index": 589,
+    "source": "It's that he challenged another assumption, that every giver should have his or her own fund or foundation.",
+    "reference": "而且他的行为也挑战了另外一个传统观念，即每一位捐助者都应当设立一个基金或基金会。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "问题在于他挑战了另一个假设，即每个捐赠者都应该有自己的基金或基金会。"
+  },
+  {
+    "index": 590,
+    "source": "There are now, today, so many new funds that are aggregating giving and investing, bringing together people around a common goal, to think bigger.",
+    "reference": "这个社会涌现出了大量新的基金，它们正慢慢的汇集起来，被用来投资，让关心同样问题的人得以走到一块，去想象一个更宽广的未来。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，今天，有如此多的新基金正在汇集捐赠和投资，将人们聚集在一起，围绕一个共同的目标，以进行更宏大的思考。"
+  },
+  {
+    "index": 591,
+    "source": "One of the best known is Acumen Fund, led by Jacqueline Novogratz, a TEDster who got a big boost here at TED.",
+    "reference": "其中一个很好的例子就是 Acumen Fund，它是由 Jacqueline Novogratz 主管的 她也多次在TED的舞台上谈及这样的经历",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "其中最广为人知的一个是Acumen Fund，由杰奎琳·诺沃格拉茨领导，她是一位TED演讲者，在TED大会上获得了很大的推动。"
+  },
+  {
+    "index": 592,
+    "source": "But there are many others. New Profit in Cambridge, New School's Venture Fund in Silicon Valley, Venture Philanthropy Partners in Washington, Global Fund for Women in San Francisco.",
+    "reference": "这样的例子还有很多。比如 New Profit，它是位于剑桥的 位于硅谷的 New School's Venture Fund 位于华盛顿的 Venture Philanthropy Partners 位于旧金山的 Global Fund for Women",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但还有很多其他的例子。例如，剑桥的新利润基金、硅谷新学院的风险基金、华盛顿的风险慈善合作伙伴，以及旧金山的全球妇女基金会。"
+  },
+  {
+    "index": 593,
+    "source": "Take a look at these.",
+    "reference": "看看这些例子吧。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "看看这些。"
+  },
+  {
+    "index": 594,
+    "source": "These funds are to philanthropy what venture capital, private equity, and eventually mutual funds are to investing.",
+    "reference": "这些基金对于慈善行业的意义，就有如投资基金、私人投资以及共同资金，对投资行业的意义。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "这些资金之于慈善事业，正如风险投资、私募股权以及最终的共同基金之于投资一样。"
+  },
+  {
+    "index": 595,
+    "source": "But with a twist, because often a community forms around these funds, as it has at Acumen and other places.",
+    "reference": "但这里有一个非常巧妙的地方，因为很多时候社区就是围绕着这些基金形成的，这样的事情已经在 Acumen以及其他地方发生了",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "但情况略有不同，因为通常围绕这些基金会形成一个社群，就像在Acumen和其他地方一样。"
+  },
+  {
+    "index": 596,
+    "source": "Now, imagine for a second these first three types of experiments, mass collaboration, online marketplaces, aggregated giving.",
+    "reference": "好吧，现在大家设想一下 这三样的实验 大规模协作、在线慈善以及汇聚性的捐助。",
+    "src_lang": "English",
+    "tgt_lang": "Chinese",
+    "prediction": "现在，请想象一下这前三种实验，大规模协作、在线市场、集中捐赠，只需片刻。"
+  }
+]
